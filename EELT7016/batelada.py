@@ -84,8 +84,10 @@ def gerar_yest_1(na, nb, u, y, theta, delay=0):
     return yest_1
 
 
-def gerar_dados(na, nb, u, y, delay=1):
-    theta = gerar_coeficientes(na, nb, u, y, delay)
+def gerar_dados(na, nb, u, y, delay=1, train=0.7):
+    u_train = u[: round(0.7 * len(u))]
+    y_train = y[: round(0.7 * len(u))]
+    theta = gerar_coeficientes(na, nb, u_train, y_train, delay)
     yest_n = gerar_yest_n(na, nb, u, y, theta, delay)
     yest_1 = gerar_yest_1(na, nb, u, y, theta, delay)
     return yest_1, yest_n, theta
