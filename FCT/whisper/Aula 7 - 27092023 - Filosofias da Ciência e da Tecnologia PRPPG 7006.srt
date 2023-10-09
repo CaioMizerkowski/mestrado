@@ -1,0 +1,5956 @@
+1
+00:00:00,000 --> 00:00:28,000
+e você
+
+2
+00:01:00,000 --> 00:01:14,600
+olá bom dia sejam todos e todas muito bem-vindos muito bem-vindas estamos iniciando aqui mais uma
+
+3
+00:01:14,600 --> 00:01:25,240
+aula dessa disciplina transversal chamada filosofias da ciência e da tecnologia um programa que tem
+
+4
+00:01:25,240 --> 00:01:33,880
+na universidade federal do Paraná é chamado disciplinas transversais e conta com a participação
+
+5
+00:01:33,880 --> 00:01:40,600
+de diversas outras universidades aqui no estado do Paraná e eu estou falando com vocês de Curitiba
+
+6
+00:01:40,600 --> 00:01:47,240
+e vocês veem que nesse momento chove torrencialmente aqui na região metropolitana de Curitiba
+
+7
+00:01:47,240 --> 00:01:56,240
+e eu temos hoje a honra de receber aqui um grande parceiro dessa iniciativa o professor
+
+8
+00:01:56,240 --> 00:02:03,600
+Paulo Piroselli da nova geração de biológicos da ciência brasileiros e eu vou apresentar para
+
+9
+00:02:03,600 --> 00:02:11,360
+vocês o professor Paulo e depois passar a palavra para ele é ele o professor Paulo ele fez a sua
+
+10
+00:02:11,360 --> 00:02:20,600
+organização de doutorado mestrado e bacharelado em filosofia sempre na universidade de São Paulo
+
+11
+00:02:20,600 --> 00:02:33,360
+e ele foi de colômbia e no instituto for quantitativo social science da universidade de Harvard ele
+
+12
+00:02:33,360 --> 00:02:40,680
+realizou o estágio de pós-doutorado em filosofia pela universidade federal de santa catarina e atualmente
+
+13
+00:02:40,680 --> 00:02:50,080
+realizador do center for artificial a inteligência mantido por uma parceria com o IBM a FAPESP e a
+
+14
+00:02:50,080 --> 00:02:58,000
+universidade de São Paulo e pós-doutorando também pelo instituto de estudos avançados da mesma
+
+15
+00:02:58,000 --> 00:03:05,640
+universidade universidade de São Paulo Paulo então quero mais uma vez te agradecer por atender o
+
+16
+00:03:05,640 --> 00:03:12,680
+convite a proporcionar os nossos alunos uma leitura da filosofia de tomas com como
+
+17
+00:03:12,680 --> 00:03:20,960
+poucas que nós poderíamos ter do brasil né uma vez que você tem a sua formação toda sobre a obra
+
+18
+00:03:20,960 --> 00:03:28,440
+de tomas com uma obra que despertou recentemente maior interesse porque foi publicado recentemente um
+
+19
+00:03:28,560 --> 00:03:36,520
+médico dele né que ele testou e na acabado então Paulo é muito obrigado pela sua participação
+
+20
+00:03:36,520 --> 00:03:42,760
+mais uma vez aqui conosco e fica contigo agora a palavra até as dez e meia né quando a gente
+
+21
+00:03:42,760 --> 00:03:48,120
+então faz aquela parada para fazer para ouvir os alunos para que eles participem aqui já fica
+
+22
+00:03:48,120 --> 00:03:55,200
+então uma uma pelo né para que eles mandem as suas questões aí ao longo das suas aulas é assim como
+
+23
+00:03:55,200 --> 00:04:00,000
+antes e depois que começar a discussão aqui muito obrigado Paulo a palavra tá contigo
+
+24
+00:04:00,000 --> 00:04:07,600
+ótimo muito obrigado pelo sr. Eduardo pela apresentação aí e agradecer novamente o convite para
+
+25
+00:04:07,600 --> 00:04:12,480
+participar já tô ficando experiente já tô esperando todo ano chegar uma e-mail aqui para
+
+26
+00:04:12,480 --> 00:04:17,600
+participar da disciplina final já tá fazendo parte do meu calendário é sempre uma experiência
+
+27
+00:04:17,600 --> 00:04:23,760
+muito muito legal e muito rica eu acho que como você falou na toda minha formação sobre tomas
+
+28
+00:04:23,760 --> 00:04:29,520
+sempre uma oportunidade falar de um tema que me interessa muito mas é também muito interessante
+
+29
+00:04:29,520 --> 00:04:34,000
+pelo pela disciplina que vocês constroem né e pela participação dos alunos em sempre tem
+
+30
+00:04:34,000 --> 00:04:40,160
+bastante pergunta no final são muito interessantes então tô animado para mais uma aula então
+
+31
+00:04:40,160 --> 00:04:52,720
+então deixa só ver aqui o slide tá aparecendo então tá bom então tá a minha a minha aula de
+
+32
+00:04:52,720 --> 00:04:58,800
+hoje vai ser sobre tomas com né que é um talvez um dos mais importantes filósofos da ciência do
+
+33
+00:04:58,800 --> 00:05:06,880
+século 20 e como foi dito né é um tema que eu pesquisei durante toda a minha formação né então
+
+34
+00:05:07,280 --> 00:05:13,040
+só para contextualizar um pouco né no mestrado eu fui trabalhar um pouco com a obra do cun olhando
+
+35
+00:05:13,040 --> 00:05:19,280
+mais os livros os textos que ele escreve depois da estrutura né e essa virada que ele faz em
+
+36
+00:05:19,280 --> 00:05:24,480
+direção a filosofia da linguagem né e depois continuei eu achava que tinha muita coisa a ser
+
+37
+00:05:24,480 --> 00:05:30,000
+explorada continuei trabalhando com a obra dele mas já olhando a partir de um aspecto sociológico
+
+38
+00:05:30,640 --> 00:05:37,600
+eu queria entender então como alguém que teve tanta influência na filosofia da ciência
+
+39
+00:05:37,600 --> 00:05:42,640
+apesar de falar pouco sobre o tema o que ele tinha a dizer e como as ideias dele tinha o impacto
+
+40
+00:05:42,640 --> 00:05:50,080
+sobre uma de uma leitura e uma abordagem sociológica da questão científico e eu acho que isso se
+
+41
+00:05:50,080 --> 00:05:57,120
+encaixa bem com um dos eixos né aqui propósitos para a disciplina de fato eu acho que a obra de cun tem
+
+42
+00:05:57,120 --> 00:06:02,880
+vários pontos de contato que está sendo proposto aqui com outros filósofos que você já viram ou
+
+43
+00:06:02,880 --> 00:06:09,920
+ainda vão ver na ciência da tecnologia tá então a minha ideia aqui é fazer uma introdução
+
+44
+00:06:09,920 --> 00:06:17,040
+bastante geral a obra do cun é muito grande ele vai discutir muitos temas então a ideia é
+
+45
+00:06:17,040 --> 00:06:23,040
+pensar e ressaltar alguns temas que me parecem interessantes e relevantes da obra dele seja
+
+46
+00:06:23,040 --> 00:06:28,320
+na finalidade seja pela impacto que tiver na filosofia da ciência seja porque continuam
+
+47
+00:06:28,320 --> 00:06:33,680
+ainda bastante atuais então eu quero que vocês vejam isso com uma certa dose de
+
+48
+00:06:35,520 --> 00:06:41,520
+desconfiança no sentido de não pretendo aqui fazer uma apresentação completa de
+
+49
+00:06:41,520 --> 00:06:46,400
+todos os aspectos da obra do cun mas ressaltar alguns aspectos interessantes do que ele vê dizer
+
+50
+00:06:46,960 --> 00:06:55,920
+e então para situar um pouco como quero organizar essa apresentação né eu dividi em quatro pontos
+
+51
+00:06:55,920 --> 00:07:01,840
+né em primeiro lugar eu quero falar um pouco sobre a formação do cun né sobre a trajetória e sobre
+
+52
+00:07:01,840 --> 00:07:07,440
+a vida dele né eu acho que é sempre é sempre interessante né acho que sempre importante
+
+53
+00:07:07,440 --> 00:07:12,560
+entender quem foi a pessoa né o filósofo desenvolveu aquelas ideias onde ele nasceu onde ele estudou
+
+54
+00:07:13,360 --> 00:07:20,960
+né em que ambiente intelectual ele se encontrava né mas eu acho que isso é especialmente importante
+
+55
+00:07:20,960 --> 00:07:27,120
+no caso do cun né ele é um filósofo que se vocês lerem os trabalhos dele né vocês vão perceber
+
+56
+00:07:27,120 --> 00:07:33,440
+que com frequência ele vai explicar as suas ideias e o desenvolvimento dos conceitos que ele propõe
+
+57
+00:07:33,440 --> 00:07:38,480
+a partir da sua própria experiência pessoal né então essa trajetória intelectual de alguém
+
+58
+00:07:38,480 --> 00:07:43,520
+que passou como físico foi para a história da ciência e terminou fazendo filosofia né
+
+59
+00:07:43,520 --> 00:07:50,240
+tendo passado por esses diversos campos encontrado determinados problemas aí né na tentativa
+
+60
+00:07:50,240 --> 00:07:55,680
+de compreendência mudou muito do pensamento do cun né e ele sempre enfatiza isso ele dá
+
+61
+00:07:55,680 --> 00:08:01,680
+várias inscrições autobiográficas de como ele chegou aqueles temas e conceitos então acho que
+
+62
+00:08:01,680 --> 00:08:06,800
+ainda é escapável falar especialmente no caso dele né sobre um pouco sobre a vida trajetória
+
+63
+00:08:06,800 --> 00:08:15,040
+que ele teve tá em seguida né na segunda parte da aula que eu acho que vai ser talvez a a maior
+
+64
+00:08:15,040 --> 00:08:20,000
+em extensão eu vou falar sobre o livro que é o livro mais importante do cun sem dúvida alguma
+
+65
+00:08:20,000 --> 00:08:25,680
+que é a estrutura das evoluções científicas então esse é o livro pelo qual o cun ficou conhecido
+
+66
+00:08:25,680 --> 00:08:30,800
+na filosofia da ciência que teve o maior impacto né não só na filosofia mas em vários campos né
+
+67
+00:08:30,800 --> 00:08:36,480
+na história na sociologia na psicologia nas próprias ciências naturais estonão clássico digamos
+
+68
+00:08:36,480 --> 00:08:44,000
+assim né então eu vou querer apontar alguns aspectos desse livro que se sobrepõem bastante
+
+69
+00:08:44,000 --> 00:08:48,800
+a que vocês leram no texto que eu passei né de leitura suplementar que é a função do dogma
+
+70
+00:08:48,800 --> 00:08:54,000
+na investigação científica eu vou falar um pouco sobre a relação dos dois também mas aqui eu vou
+
+71
+00:08:54,000 --> 00:08:58,720
+falar menos sobre a função do dogma e mais sobre a estrutura de evolução científicas usando a
+
+72
+00:08:58,720 --> 00:09:07,440
+forma que vocês leram como uma forma de complementar esse livro tá a terceira parte da aula então
+
+73
+00:09:07,440 --> 00:09:11,440
+falei um pouco sobre a vida do cun depois eu falei um pouco sobre a estrutura de evolução científicas
+
+74
+00:09:11,440 --> 00:09:17,200
+e aí eu vou falar um pouco sobre os artigos que o cun escreve depois da estrutura né então ele
+
+75
+00:09:17,200 --> 00:09:22,800
+publica a estrutura em 62 eu vou falar um pouco sobre datas e livros para vocês entenderem melhor
+
+76
+00:09:23,440 --> 00:09:29,440
+mas ele passa os 30 anos seguintes escrevendo sobre filosofia de fato né antes ele praticamente
+
+77
+00:09:29,440 --> 00:09:35,040
+não teve nenhum nenhum texto de filosofia teve alguns poucos artigos né até a estrutura e depois
+
+78
+00:09:35,040 --> 00:09:43,040
+ele passa três décadas escrevendo sobre filosofia então esses textos são menos conhecidos hoje em
+
+79
+00:09:43,040 --> 00:09:48,880
+dia já são mais estudados né mas em comparação com a estrutura são bem menos trabalhados então a
+
+80
+00:09:48,880 --> 00:09:54,880
+estrutura vai saltar um pouco algumas ideias desses textos e por último eu vou apontar alguns aspectos
+
+81
+00:09:54,880 --> 00:10:00,160
+do que me parece bastante sociológico na obra do cun né que é um tema que é o tema que eu estou
+
+82
+00:10:00,160 --> 00:10:05,280
+um pouco indouturado não vou fazer falar aqui da minha tese mas eu acho que é um tema bastante
+
+83
+00:10:05,280 --> 00:10:11,200
+interessante bastante atual que se encaixa com o que vocês estão vendo né apesar do cun não ser
+
+84
+00:10:11,200 --> 00:10:15,600
+o sociólogo não proporna em uma sociologia de ciência eu acho que ele tem algumas ideias que
+
+85
+00:10:16,240 --> 00:10:23,680
+mostram porque ele considera que pensar a ciência de um viés comunitário é importante tá então
+
+86
+00:10:23,680 --> 00:10:30,720
+essa é um pouco a organização da aula só para vocês sentarem um pouco mais entender como eu
+
+87
+00:10:30,720 --> 00:10:38,560
+tinha pensado de organizar essa minha fala então começando por essa pequena biografia do tomas
+
+88
+00:10:38,560 --> 00:10:47,200
+aqui temos uma foto dele aí tá nos livros então como eu coloquei de título né era da física e
+
+89
+00:10:47,200 --> 00:10:54,480
+e não foi eu que me entendi esse título né ele tem uma das entrevistas tá no no livro chamam
+
+90
+00:10:54,480 --> 00:11:02,320
+de gestrutura tem como tomas cun da filosofia a história da história a física né ele teve
+
+91
+00:11:02,320 --> 00:11:09,680
+uma linguagem de várias disciplinas então o cun nasceu em 22 nos estados unidos né ele vai
+
+92
+00:11:09,680 --> 00:11:16,480
+na graduação estudar física né então ele vai para a universidade Harvard fazendo curso de física
+
+93
+00:11:16,480 --> 00:11:27,440
+terminando no final da graduação ele mesmo admite teve um curso bastante sujêneres porque isso ele
+
+94
+00:11:27,440 --> 00:11:33,360
+estava em 1943 se eu não me engano posso errar algumas datas aqui mas isso era no meio no auge da
+
+95
+00:11:33,360 --> 00:11:40,640
+segunda guerra mundial pelo menos a partir da da perspectiva americana né e ele vai sendo
+
+96
+00:11:40,640 --> 00:11:47,040
+preparado já junto com outros estudantes de universidade para atuar em pesquisas e desenvolvimentos
+
+97
+00:11:47,040 --> 00:11:54,520
+de armas da defesa dos estados unidos então ele termina a graduação e já vai passar um ano lá na
+
+98
+00:11:54,520 --> 00:12:01,080
+universidade onde ele vai trabalhar com a detecção de radares e depois ele volta para fazer um
+
+99
+00:12:01,080 --> 00:12:06,040
+doutorado depois que ele volta né ele decide continuar fazendo doutorado em física também
+
+100
+00:12:06,040 --> 00:12:11,640
+a universidade Harvard onde ele vai ajudar com o ban flag vai depois ganhar um prêmio Nobel um
+
+101
+00:12:11,640 --> 00:12:18,920
+cientista bastante famoso mas já no curso já no doutorado ele fala que tinha notado que ele não
+
+102
+00:12:19,560 --> 00:12:26,840
+tinha um interesse que o interesse dele no fundo não era continuar sem um físico mas que ele tinha
+
+103
+00:12:26,840 --> 00:12:31,640
+interesse em trabalhar com questões de filosofia e durante doutorado ele já começa a cursar algumas
+
+104
+00:12:31,640 --> 00:12:39,960
+disciplinas de filosofia e mais importante acontece uma experiência né ele é convidado para
+
+105
+00:12:39,960 --> 00:12:45,560
+participar de um curso pelo então reitor da universidade Harvard que chamava o James Byron Conan
+
+106
+00:12:45,560 --> 00:12:51,720
+que é um inimico muito famoso que ele havia conhecido que participava de várias participava de
+
+107
+00:12:51,720 --> 00:13:00,320
+várias atividades acadêmicas lá e esse professor o convida para atuar como um que tinha assista não
+
+108
+00:13:00,320 --> 00:13:07,840
+uma espécie de professor assistente monitor numa disciplina que ele ministrava que chamava curso
+
+109
+00:13:07,840 --> 00:13:14,680
+geral de ciência para não cientistas né o que seria esse curso né então o a gente tá falando
+
+110
+00:13:14,680 --> 00:13:26,560
+do auge daquele talvez complexo militar acadêmico né então talvez o auge dos investimentos em
+
+111
+00:13:26,560 --> 00:13:32,840
+ciência tecnologias especialmente para fins militares então o Conan considerava que é importante
+
+112
+00:13:32,840 --> 00:13:42,680
+que os cidadãos de uma democracia tivessem aptos a julgar né o que a ciência produz e quais
+
+113
+00:13:42,680 --> 00:13:49,960
+coincidências cidades desde aspectos econômicos até aspectos éticos então ele propõe montar um
+
+114
+00:13:49,960 --> 00:13:58,880
+curso para pessoas que não fazem graduações em disciplinas de ciências naturais exatas para que
+
+115
+00:13:58,880 --> 00:14:03,840
+elas tivessem algum conhecimento da ciência para que como cidadãos informados pudessem atuar
+
+116
+00:14:03,840 --> 00:14:11,600
+totalmente né e ajudar a formar opinião só que muito rapidamente ele percebe que não seria
+
+117
+00:14:11,600 --> 00:14:18,880
+possível oferecer uma formação condensada de toda ciência para um curso que às vezes durar um
+
+118
+00:14:18,880 --> 00:14:24,920
+semestre para alguém que nem era de uma área de ciência então o curso surgeniza a partir de
+
+119
+00:14:24,920 --> 00:14:30,120
+estudos de caso ele considera que o melhor maneira de ensinar alguém sobre o que a ciência é apresentar
+
+120
+00:14:30,120 --> 00:14:34,760
+é de tudo de caso da história da ciência especialmente porque são casos mais simples em
+
+121
+00:14:34,760 --> 00:14:40,560
+relação à ciência contemporânea né e ele convido o cúm para participar desse curso essa
+
+122
+00:14:40,560 --> 00:14:45,760
+de novo eu falei muito que o aspecto biográfico entra bastante na obra do cúm ele sempre menciona
+
+123
+00:14:45,760 --> 00:14:52,880
+e especialmente esse curso é grande virada que vai fazer o cúm desistir dessa tipo perseguir essa
+
+124
+00:14:52,880 --> 00:14:58,640
+formação como físico ele é convidado para participar e para ministrar uma disciplina sobre
+
+125
+00:14:58,640 --> 00:15:05,560
+o cúm e quando ele vai ler os textos sobre qual ele gostaria de falar ele é falar de Aristóteles
+
+126
+00:15:05,560 --> 00:15:12,160
+até Newton ele começa a ler a obra Aristotélica e segundo ele mesmo descreve ele tem um grande
+
+127
+00:15:12,160 --> 00:15:16,960
+choque né porque ele já conhecia alguma coisa do Aristóteles seja nos cursos de filosofia seja
+
+128
+00:15:16,960 --> 00:15:24,800
+pelo nome Aristóteles um dos grandes pensadores da história da humanidade né então ele ele
+
+129
+00:15:24,800 --> 00:15:30,280
+já sabe algumas vezes né ele diz eu sabia que o Aristóteles era um grande lógico né que
+
+130
+00:15:30,280 --> 00:15:37,280
+construiu a lógica né pelo menos as bases depois a biologia tem trabalhos importantes em
+
+131
+00:15:37,280 --> 00:15:47,360
+filosofia política sobre estética sobre né metafísica e ao mesmo tempo quando ele ia ler
+
+132
+00:15:47,360 --> 00:15:53,880
+né quando com foi ler a obra de Aristóteles sobre física ele ficou chocado porque aparentemente
+
+133
+00:15:53,880 --> 00:15:58,840
+o Aristóteles não sabia nada sobre física e eles estão se perguntou como era possível que
+
+134
+00:15:58,840 --> 00:16:06,240
+alguém fosse tão inteligente uma mente tão aguçada para vários desses campos né não era só um
+
+135
+00:16:06,240 --> 00:16:11,360
+especialista em alguma coisa né alguém produziu e trouxe conhecimento para várias áreas tivesse
+
+136
+00:16:11,360 --> 00:16:18,920
+dificuldade quando ele estava trabalhando com física né e porque porque o cúm estava olhando
+
+137
+00:16:19,040 --> 00:16:25,160
+do seu olhar como um físico né e a pergunta que ele estava tentando responder o que o Aristóteles
+
+138
+00:16:25,160 --> 00:16:32,840
+sabia de física ou seja daquilo que a gente entende que é correto né ele tem esse perigo de
+
+139
+00:16:32,840 --> 00:16:40,200
+estranhamento e conta que em um momento e ele é conta de uma maneira quase ficcional né lembra um
+
+140
+00:16:40,200 --> 00:16:47,600
+pouco é o de Carlos falando né do quando ele sonha lá no caso então ele vai falar que um dia de verão
+
+141
+00:16:47,720 --> 00:16:56,480
+muito quente ele subtenciamente todas aquelas peças que ele havia lido sobre Aristóteles fizeram
+
+142
+00:16:56,480 --> 00:17:01,360
+sentido se encaixaram né então a princípio que pareciam várias tésias estapafúrdias em algum
+
+143
+00:17:01,360 --> 00:17:07,120
+momento se mostrou um sistema que tinha uma coerência ele não era a física atual ele não
+
+144
+00:17:07,120 --> 00:17:14,800
+estava dizendo que era igual ou superior a alguns aspectos mas que era um um esquema conceitual uma
+
+145
+00:17:14,800 --> 00:17:21,480
+experiência de ideias que se encaixavam e faziam sentido dentro daquele contexto e a partir daí o
+
+146
+00:17:21,480 --> 00:17:29,080
+cúm entende que para você compreender cientistas do passado é preciso procurar dar um olhar que
+
+147
+00:17:29,080 --> 00:17:34,400
+escape desse nosso olhar presentista né procurando dar coerência para aquelas obras para que eles
+
+148
+00:17:34,400 --> 00:17:40,000
+trabalhos né e compreender no contexto intelectual que eles se encerrem tá então depois dessa
+
+149
+00:17:40,000 --> 00:17:46,320
+experiência né que foi uma grande virada na trajetória dele o cúm decide que ele quer trabalhar
+
+150
+00:17:46,320 --> 00:17:52,120
+com filosofia em parte também porque quando ele lhe trabalha de filosofia ele achava que se parecia
+
+151
+00:17:52,120 --> 00:17:57,680
+muito com essa visão de senso comum que ele tinha quando foi lidar com Aristóteles e que ele percebeu
+
+152
+00:17:57,680 --> 00:18:03,320
+que não funcionava então ele achava que os trabalhos em filosofia até aquele momento né então a
+
+153
+00:18:03,320 --> 00:18:09,280
+gente tá falando aqui década de 40 50 eles se produziam essa imagem de senso comum da ciência
+
+154
+00:18:09,280 --> 00:18:17,400
+de ganhar com o lativa né um progresso continuam e aí ele decide que produzir filosofia mas ele
+
+155
+00:18:17,400 --> 00:18:21,320
+percebe que precisa antes se familiarizar com a história da ciência porque na história da
+
+156
+00:18:21,320 --> 00:18:27,440
+ciência que ele vai descobrir de fato como a ciência praticada e como ela funciona então ele
+
+157
+00:18:27,440 --> 00:18:32,160
+vai trabalhar durante 15 anos como historiador né publicando trabalhos de história da ciência
+
+158
+00:18:32,160 --> 00:18:38,600
+sendo como professor de história da ciência e aí em 62 ele publica esse que é o livro mais
+
+159
+00:18:38,600 --> 00:18:43,840
+importante que ele tem que é a estrutura de sevoluções científicas né que vai ser um primeiro
+
+160
+00:18:45,840 --> 00:18:50,880
+o primeiro trabalho de fôlego dele sobre o que ele considera ciência e como ele considera
+
+161
+00:18:50,880 --> 00:18:56,600
+que a ciência se desenvolve ao longo do tempo tá esse livro vai ter um impacto muito grande não só
+
+162
+00:18:56,600 --> 00:19:03,160
+na filosofia mas em várias áreas né a história da ciência a sociologia da ciência na psicologia
+
+163
+00:19:03,160 --> 00:19:07,280
+e outros campos da ciência sociais e mesmo da ciência naturais ele vai ser muito lido
+
+164
+00:19:08,520 --> 00:19:16,720
+né e depois se a gente quiser dividir um pouco a trajetória dele talvez seja uma leitura um
+
+165
+00:19:16,720 --> 00:19:22,440
+pouco pessoal mas me parece que nos próximos 10 anos seguindo essa publicação da estrutura
+
+166
+00:19:22,440 --> 00:19:28,600
+no nosso modo o cumbar tentar responder uma série de críticas que são feitas a ele especialmente
+
+167
+00:19:28,600 --> 00:19:35,280
+o nosso da ciência e discordavam dos métodos dele de usar a história da ciência de ele não ter
+
+168
+00:19:35,280 --> 00:19:41,000
+incorporado os distinções que eram considerados distinções básicas da filosofia da ciência como
+
+169
+00:19:41,000 --> 00:19:46,800
+contexto de descoberto e contexto de edificação né de algumas consequências que pareciam surgida
+
+170
+00:19:46,800 --> 00:19:52,800
+ao gradele como relativismo e racionalismo então o cumbar dedicar grande parte dos artigos que ele
+
+171
+00:19:52,800 --> 00:20:01,360
+tem seguida nos dez anos seguintes a responder essas objeções que foram levantadas e a partir
+
+172
+00:20:01,360 --> 00:20:07,240
+e finalmente tem um período que seria a década de 80 e 90 em que o cumbar desenvolver algumas das
+
+173
+00:20:07,240 --> 00:20:12,320
+ideias especialmente sobre a noção de como a sua habilidade é uma noção importante vou falar
+
+174
+00:20:12,320 --> 00:20:18,360
+sobre ela também mais pra frente mas ele vai desenvolver noção de como a sua habilidade mas
+
+175
+00:20:18,360 --> 00:20:23,080
+ele vai partir de um viés mais conectado a filosofia da linguagem né em uma filosofia
+
+176
+00:20:23,080 --> 00:20:26,880
+analítica né que a filosofia de inglês é mais mainstream ele vai inserir em mais um debate
+
+177
+00:20:26,880 --> 00:20:33,000
+contemporâneo que havia tentando por um lado responder as objeções que já foram levantadas
+
+178
+00:20:33,000 --> 00:20:37,680
+contra ele desde a estrutura por outro lado desenvolver algumas das ideias e propor soluções
+
+179
+00:20:37,680 --> 00:20:48,560
+que eram problemas em discussão naquele momento então eu vou aqui acho que foi uma biografia
+
+180
+00:20:48,560 --> 00:20:57,520
+uma história meio misturante e biografia e biografia intelectual mas só pra dar mais alguns detalhes né
+
+181
+00:20:57,520 --> 00:21:01,760
+pra vocês eu falo bastante dos textos dele dos livros pra você entender um pouco melhor então
+
+182
+00:21:02,040 --> 00:21:06,960
+como eu disse o cumbar publicar em 62 a estrutura de revolução científica é o primeiro
+
+183
+00:21:06,960 --> 00:21:16,000
+trabalho de filosofia dele né ele tem alguns artigos mas nos anos anteriores assim a estrutura
+
+184
+00:21:16,000 --> 00:21:22,960
+de 6061 e geralmente com material que depois assim incorporado ao seu próprio livro né antes
+
+185
+00:21:22,960 --> 00:21:27,880
+disso ele tem só um único livro de história da ciência que é a revolução pernicana mas que
+
+186
+00:21:27,920 --> 00:21:33,760
+faz como historiador material de aula de curso que ele dava né tem mais alguns artigos da ciência
+
+187
+00:21:33,760 --> 00:21:41,520
+depois tem um outro livro que chama a crítico crescimento bom eu vou mostrar aqui então a
+
+188
+00:21:41,520 --> 00:21:47,480
+revolução pernicana não tenho né a estrutura de revoluções científicas é esse livro aqui né
+
+189
+00:21:47,480 --> 00:21:55,360
+que tem pela uma versão português pela perspectiva e uma versão mais recente inglês aqui do original
+
+190
+00:21:55,480 --> 00:22:02,400
+né structure scientific revolutions com uma introdução do Ian Hacking que eu entendo que
+
+191
+00:22:02,400 --> 00:22:09,520
+vai ser o professor da próxima ou tema da próxima aula né então só uma curiosidade depois em 65 vai
+
+192
+00:22:09,520 --> 00:22:16,080
+ter um grande coloquio em torno da obra dele que chama que cujos artigos foram reunidos no livro
+
+193
+00:22:16,080 --> 00:22:20,920
+chama crítico conhecimento crescimento conhecimento e também existe em português ou tem um só
+
+194
+00:22:20,920 --> 00:22:25,960
+que não existe em português e que vai reunir não só com mas todos os grandes filósofos da ciência
+
+195
+00:22:25,960 --> 00:22:32,080
+daquele momento talvez do século 20 na questão farábe de láquatos o polver talme né e alguns
+
+196
+00:22:32,080 --> 00:22:38,920
+outros então o contém um artigo que abre depois uma série de artigos alguns que foram enviados
+
+197
+00:22:38,920 --> 00:22:44,800
+depois né nem chegaram a ser apresentados e um artigo de réplica do com inclusive outra curiosidade
+
+198
+00:22:44,800 --> 00:22:49,920
+tem um dos artigos mais amostos do láquatos né que é a falsa caçã mitodologia dos problemas
+
+199
+00:22:49,920 --> 00:22:58,720
+científica foi para nesse livro né então foi para essa conferência depois o cú não publica
+
+200
+00:22:58,720 --> 00:23:04,720
+mais nenhum livro de filosofia em vida né todo o outro todo o resto dessa produção filosófica
+
+201
+00:23:04,720 --> 00:23:12,640
+consistir de artigos geralmente feitos para ocasiões específicas conferências debates né então o
+
+202
+00:23:12,640 --> 00:23:18,120
+que ele vai ter são coletâneas de artigos a primeira que é organizada por ele chama Atenção
+
+203
+00:23:18,880 --> 00:23:29,640
+temos aqui uma versão da eduço ele desculpa da editor da UNESP é muito boa então esse livro de
+
+204
+00:23:29,640 --> 00:23:35,800
+77 com vai reunir os artigos que ele publicou um pouco antes da estrutura ou nos anos seguintes
+
+205
+00:23:35,800 --> 00:23:41,280
+até 77 então ele vai coligir esses artigos se juntar aos ativos mais importantes que circulavam
+
+206
+00:23:41,680 --> 00:23:49,320
+no livro e depois logo após a morte dele eles fazem uma segunda coletânea de artigos do com que chama
+
+207
+00:23:49,320 --> 00:23:55,520
+o caminho desde a estrutura que vai reunir especialmente os artigos da década de 80 90 que tem
+
+208
+00:23:55,520 --> 00:24:05,240
+essa preocupação mais forte com a filosofia da linguagem como eu mencionei e aí ano passado teve
+
+209
+00:24:05,240 --> 00:24:13,880
+uma grande novidade sim no campo dos todos de tomas com que foi a publicação de um livro
+
+210
+00:24:13,880 --> 00:24:21,560
+né de um manuscrito né uma edição do livro que o com não havia terminado que saiu como
+
+211
+00:24:21,560 --> 00:24:29,880
+the last writings of tomas com né o com nas últimas pelo menos nos anos 90 já nos anos 80 já
+
+212
+00:24:29,880 --> 00:24:36,160
+já que ele ia publicar um livro que ele estava trabalhando mas infelizmente ele não teve tempo
+
+213
+00:24:36,160 --> 00:24:42,400
+de terminar e como ele mesmo falava várias vezes ele sempre adiando então ele sempre colocava mais
+
+214
+00:24:42,400 --> 00:24:49,320
+alguma coisa esse livro ficou muito tempo parado então já na estrutura dos anos 2000 já tava
+
+215
+00:24:49,320 --> 00:24:57,240
+anunciado que um publicar o livro que não havia sido terminado mas ele saiu só em 2023 então aqui eu
+
+216
+00:24:57,240 --> 00:25:03,000
+acho que talvez mude bastante nosso conhecimento sobre como os próximos anos a partir da publicação
+
+217
+00:25:03,000 --> 00:25:13,920
+desse material então essa era uma uma inscrição meio biográfica a trajetória intelectual
+
+218
+00:25:13,920 --> 00:25:19,120
+situando por cobra do com eu queria mostrar pra vocês pra fazer sentido como começar a falar
+
+219
+00:25:19,120 --> 00:25:25,600
+sobre o texto e por que que ele tá lidando com aqueles temas bom e agora vamos passar mais sobre
+
+220
+00:25:25,600 --> 00:25:32,520
+a obra do com ensino o conteúdo da obra em especial estudos e evolução científica mas antes eu
+
+221
+00:25:32,520 --> 00:25:37,760
+queria fazer só um comentário sobre o texto que enviei pra vocês lerem né que é a função do
+
+222
+00:25:37,760 --> 00:25:45,560
+dogma da investigação científica aqui mas essa versão da UFPR bom esse é um artigo escrito em
+
+223
+00:25:45,560 --> 00:25:53,320
+2001 então um ano antes da publicação da estrutura né o então é um texto que o cunscreve
+
+224
+00:25:53,320 --> 00:25:59,400
+no mesmo momento que ele escrevia o livro e cujo tema coincide bastante né se sobrepõe até mesmo
+
+225
+00:25:59,400 --> 00:26:08,560
+nos exemplos que o cun fornece nas frases né você percebe que o cun quase que pinçou esse texto
+
+226
+00:26:08,560 --> 00:26:16,480
+do livro de um universo maior não então esse artigo oferece uma síntese dos capítulos
+
+227
+00:26:16,480 --> 00:26:21,400
+iniciais da estrutura é falar a estrutura aqui como estúdia de estabeleção científica para
+
+228
+00:26:21,400 --> 00:26:29,240
+um pouco mais curto então ele oferece uma síntese dos capítulos iniciais né especialmente os
+
+229
+00:26:29,240 --> 00:26:39,120
+outros que vão falar sobre o que é ciência normal né que são os capítulos 2 né 1 a 7 né
+
+230
+00:26:39,120 --> 00:26:45,360
+ele fala que é o que ele fala principalmente que caracteriza ciência normal né e a função do
+
+231
+00:26:45,360 --> 00:26:51,840
+dogma então ele é uma é bastante interessante né eu acho que ele substitui muito a estrutura nesse
+
+232
+00:26:51,840 --> 00:26:56,440
+aspecto né porque vocês a estrutura é um livro né apesar de não ser um livro muito grande né
+
+233
+00:26:56,560 --> 00:27:02,360
+seria demais aí pedir para vocês lerem em alguns dias né o livro do cun né então acho que a
+
+234
+00:27:02,360 --> 00:27:07,960
+função do dogma na vindicação científica substitui bastante do conteúdo da estrutura e aponta
+
+235
+00:27:07,960 --> 00:27:11,720
+para algumas coisas que vão continuar o livro que ele menciona pouco como crise e revolução né
+
+236
+00:27:11,720 --> 00:27:17,760
+o texto também apresenta conceitos muito importantes né dentro desse acabou o conceitual
+
+237
+00:27:17,760 --> 00:27:23,400
+que o cun vai montar tem uma noção de sensão normal por exemplo noção de paradigma o cun apresenta
+
+238
+00:27:23,400 --> 00:27:29,400
+é talvez aquela noção ficou mais conhecida em dobra dele né até hoje a gente veio falando de
+
+239
+00:27:29,400 --> 00:27:37,840
+mudança paradigmática é a quebra de paradigma das expressões que há de entrar entrar em uma
+
+240
+00:27:37,840 --> 00:27:45,840
+linguagem comum mas apenas uma curiosidade né esse é um dos poucos artigos ou talvez o único
+
+241
+00:27:45,840 --> 00:27:51,800
+artigo de filosofia do cun que não aparece em uma das outras coletâneas então quando cun foi
+
+242
+00:27:51,800 --> 00:27:59,600
+organizar foi organizar então de novo a atenção essencial que é uma coletena de artigo 77 ele não
+
+243
+00:27:59,600 --> 00:28:08,320
+incluiu a função do dogma né então ele por algum motivo não quis achou que não era necessário
+
+244
+00:28:08,320 --> 00:28:13,320
+ou não gostaria de colocar esse como um dos artigos que ele queria que ficasse conhecido na
+
+245
+00:28:13,320 --> 00:28:20,760
+própria obra né então talvez seja alguma coisa importante tem vista né não é muito claro as
+
+246
+00:28:20,760 --> 00:28:25,480
+expressões que ele teve pra não incluir dentro do seu livro né então aqui eu levanto algumas
+
+247
+00:28:25,480 --> 00:28:30,320
+hipóteses né então talvez uso setas expressões como dogma científico né eu acho que uma
+
+248
+00:28:30,320 --> 00:28:38,080
+expressão um pouco forte que não usa na estrutura né ele tá buscando ressaltar o aspecto dogmático
+
+249
+00:28:38,080 --> 00:28:45,000
+da ciência mas essa essa prática que é voltada pra explorar o paradigma e não pra questionar o
+
+250
+00:28:45,000 --> 00:28:49,480
+paradigma né então acho que talvez ele tenha sentido que era uma expressão que funcionava
+
+251
+00:28:49,480 --> 00:28:56,600
+um texto pra aquela audiência mas talvez esse capácio da da intenção e de uma análise mais
+
+252
+00:28:56,600 --> 00:29:03,640
+digamos mais fria que ele estava propondo talvez pelo fato de que esse texto apresenta uma
+
+253
+00:29:03,640 --> 00:29:11,080
+decisão um pouco mais em chuta né e esquemática e também incompleta da estrutura né então
+
+254
+00:29:11,080 --> 00:29:15,680
+talvez ele possa ter pensado que bom talvez a pessoa devaleia a estrutura porque lá o material
+
+255
+00:29:15,680 --> 00:29:21,840
+é completo pela própria noção do termo paradigma né que ele usa de várias maneiras
+
+256
+00:29:21,840 --> 00:29:28,360
+então não é claro mas o fato é que ele não incorporou esse texto dentro da obra mas eu acho
+
+257
+00:29:28,360 --> 00:29:33,760
+que ainda assim é um texto que vale muito a pena e que oferece uma boa introdução a parte do
+
+258
+00:29:33,760 --> 00:29:39,760
+material que a gente encontra na estrutura tá então passando agora de fato pro livro do cuno
+
+259
+00:29:40,160 --> 00:29:49,760
+que é o que eu gostaria de comentar assim como a minha aula como todo é uma
+
+260
+00:29:49,760 --> 00:29:58,320
+pintura uma apresentação pessoal da obra do cuno né a gente quando tem um filósofo tão tão
+
+261
+00:29:58,320 --> 00:30:04,240
+complexo como esse né a gente sempre tem que fazer escolhas e recortes né e eu separei alguns pontos
+
+262
+00:30:04,320 --> 00:30:08,880
+parece mais interessante dentro da estrutura eu acho que também é um texto que a gente precisa
+
+263
+00:30:08,880 --> 00:30:17,440
+fazer algumas alguns recortes e pensar algumas coisas né então eu escolhi três pontos que são
+
+264
+00:30:17,440 --> 00:30:24,880
+três aspectos em que a obra do cuno parece muito inovadora muito diferente daquilo que era feito
+
+265
+00:30:24,880 --> 00:30:31,520
+naquele momento né e que tiver um impacto grande na filosofia da ciência partir então tá então
+
+266
+00:30:31,520 --> 00:30:39,920
+eu vou apresentar a estrutura a partir dessas três chaves pra vocês tá então o primeiro desses
+
+267
+00:30:39,920 --> 00:30:46,680
+pontos é o uso da história como fonte de evidências né o cuno deixa bem claro né que ele
+
+268
+00:30:46,680 --> 00:30:52,240
+considera que a filosofia da ciência depende muito de um conhecimento detalhado da história da
+
+269
+00:30:52,240 --> 00:30:57,640
+ciência né eu não consigo fazer ciência filosofia da ciência em abstrato digamos assim
+
+270
+00:30:57,640 --> 00:31:03,760
+eu preciso ter uma familiaridade com a história da ciência pra poder produzir filosofia eu falar
+
+271
+00:31:03,760 --> 00:31:09,800
+então sobre esses três para a frente mas só né mencionando o segundo ponto é talvez aquele
+
+272
+00:31:09,800 --> 00:31:14,360
+pelo qual a estrutura ficou mais conhecida né que é esse modelo de desenvolvimento científico
+
+273
+00:31:14,360 --> 00:31:20,200
+que o propõe então essa que a gente vê bastante no texto que vocês viram que a função do dogma
+
+274
+00:31:20,200 --> 00:31:27,480
+né a exição de um paradigma que estabelece um período de ciência normal né esse ciência normal
+
+275
+00:31:27,480 --> 00:31:31,800
+pode encontrar problemas muitos quais não ser resolvidos mas vão surgir algumas anomalias
+
+276
+00:31:31,800 --> 00:31:36,200
+que são problemas que eles chamam de recalce trânsito difícil solução que isso pode gerar uma
+
+277
+00:31:36,200 --> 00:31:43,560
+crise você tem aí experimentações com os paradigmas que são extraordinária e depois surgem
+
+278
+00:31:43,560 --> 00:31:47,920
+outros paradigmas até que tem uma revolução científica e se estabelece novo período de ciência
+
+279
+00:31:47,920 --> 00:31:53,480
+normal então essa ideia de como a ciência evolui né como ela camime ao longo do tempo eu acho que
+
+280
+00:31:53,480 --> 00:32:01,000
+é uma das grandes contribuições da estrutura né e por último um conceito que é muito importante
+
+281
+00:32:01,000 --> 00:32:06,680
+na obra do cun e é talvez o que foi mais discutido na obra dele que é a noção de
+
+282
+00:32:06,680 --> 00:32:11,280
+incomensurabilidade das teorias científicas duas teorias científicas não podem ser comparadas
+
+283
+00:32:11,280 --> 00:32:17,560
+ponto a ponto tá são três pontos que eu gostaria de ressaltar na obra do cun que eu acho que
+
+284
+00:32:17,840 --> 00:32:26,720
+ele ainda diretamente dão uma visão panorâmica sobre a obra dele né então o primeiro desses
+
+285
+00:32:26,720 --> 00:32:33,800
+aspectos é o uso da história como uma fonte de evidências filosóficas então o cun vai dizer
+
+286
+00:32:33,800 --> 00:32:39,680
+que a história tem um papel fundamental para a produção né para que a gente possa elaborar
+
+287
+00:32:39,680 --> 00:32:46,960
+as teorias filosóficas e aí né o livro dele é sobre a revolução científica começa o primeiro
+
+288
+00:32:46,960 --> 00:32:53,520
+capítulo né com essa fase que é a fase mais famosa e mais citada da obra dele que é se a história
+
+289
+00:32:53,520 --> 00:32:59,360
+fosse vista como um repositório para algo mais do canedotas ucrandologias poderia produzir uma
+
+290
+00:32:59,360 --> 00:33:08,040
+transformação decisiva na imagem de ciência que atualmente nos domina tá então o primeiro capítulo
+
+291
+00:33:08,040 --> 00:33:14,400
+é de fato uma espécie de manifesto metodológico em que o cun vai defender a importância da história
+
+292
+00:33:14,400 --> 00:33:20,080
+para a filosofia da ciência e se ele gasta o primeiro capítulo do livro dizendo que a história
+
+293
+00:33:20,080 --> 00:33:25,920
+importante da filosofia da ciência é porque até aquele momento ou pelo menos na filosofia da
+
+294
+00:33:25,920 --> 00:33:33,240
+ciência como entendia a história era vista como se não irrelevante como secundária para o trabalho
+
+295
+00:33:33,240 --> 00:33:45,200
+de filosóficos né então o cun vai fazer é publicar a estrutura né e esse livro tem uma
+
+296
+00:33:45,200 --> 00:33:51,240
+grande mudança provoca uma grande mudança em relação àquilo que se entendia com o fazer
+
+297
+00:33:51,240 --> 00:33:58,680
+filosófico que seria uma filosofia da ciência legítima né de fato quando você olha os os
+
+298
+00:33:58,800 --> 00:34:03,320
+que se seguem né estrutura inclusive daquele coloque que eu mencionei com vários filósofos
+
+299
+00:34:03,320 --> 00:34:10,360
+importantes uma das maneiras como se são as pessoas se referem ao cun o farábio de Lakatos é como
+
+300
+00:34:10,360 --> 00:34:15,800
+um historiador da ciência né não é um filósofo um historiador ele tá fazendo a história da ciência
+
+301
+00:34:15,800 --> 00:34:21,200
+uma história reflexiva mas né o filósofo não faz história né então ele tá usando a história
+
+302
+00:34:21,200 --> 00:34:29,120
+né parte do que faz a filosofia então tem algo que é também pejorativo né não dá pra não é
+
+303
+00:34:29,120 --> 00:34:34,320
+simplesmente uma descrição em parcial mas dizendo a isso que ele faz não é propriamente
+
+304
+00:34:34,320 --> 00:34:39,080
+filosofia da ciência e o fato de que hoje em dia o cun é visto como um nome clássico dentro da
+
+305
+00:34:39,080 --> 00:34:44,040
+filosofia da ciência mostra que a própria concepção do que seria a filosofia da ciência em relação
+
+306
+00:34:44,040 --> 00:34:52,680
+a ser contra as cipinas mudou em grande parte pelo trabalho do cun né então bom então cun acha que
+
+307
+00:34:52,680 --> 00:34:59,200
+não é possível fazer uma filosofia da história que não seja embrenhada e não seja enriquecida
+
+308
+00:34:59,200 --> 00:35:06,000
+por um conhecimento e um estudo da história da ciência entender como a ciência evoluiu ao longo
+
+309
+00:35:06,000 --> 00:35:12,360
+do tempo se desenvolveu né devolução no sentido linear né teleológico né mas como ela se desenvolveu
+
+310
+00:35:12,360 --> 00:35:18,720
+ao longo do tempo e como os cientistas praticavam a ciência como eles escolhiam teorias como eles
+
+311
+00:35:18,720 --> 00:35:26,280
+faziam suas pesquisas né e o artigo da função dogma mostra bastante isso né ele vai descrevendo
+
+312
+00:35:26,280 --> 00:35:32,600
+como o trabalho do cientista no dia a dia né é muito diferente daquela imagem que a gente tem
+
+313
+00:35:32,600 --> 00:35:36,720
+esses comuns de alguém que tá questionando a verdade ele tá sempre tentando explorar o paradigma
+
+314
+00:35:36,720 --> 00:35:43,960
+de tornar ele mais adequado né os seus as previsões empíricas a teoria aumentar a amplitude das
+
+315
+00:35:43,960 --> 00:35:50,280
+explicações tornar mais consistente quanto teorias e pra ir vai então ele várias as conclusões
+
+316
+00:35:50,280 --> 00:35:56,680
+pro cun são resultado do seu da sua familiaridade com a história da ciência né ele vai dizer que
+
+317
+00:35:56,680 --> 00:36:04,240
+é porque ele estudou né bastante sobre a história da ciência né em especial estudos de caso né
+
+318
+00:36:05,000 --> 00:36:11,080
+não só um conhecimento geral de tédes científicos mas tudo de caso né como os cientistas
+
+319
+00:36:11,080 --> 00:36:16,280
+trabalharam em situações específicas ajudou a moldar essa história essa filosofia da ciência
+
+320
+00:36:16,280 --> 00:36:24,480
+que ele expõe na estrutura né ele fala em vários momentos ele tem frases bastante fortes do tipo a
+
+321
+00:36:24,480 --> 00:36:31,360
+filosofia da ciência que ele tá expondo é uma consequência da história da ciência né da imagem
+
+322
+00:36:31,480 --> 00:36:38,040
+né como ele fala né da uma certa a imagem filosófica está propondo é uma consequência
+
+323
+00:36:38,040 --> 00:36:43,760
+da história da ciência e ele acha que a história da ciência não é simplesmente qualquer história
+
+324
+00:36:43,760 --> 00:36:49,600
+né até porque pela própria experiência que eu falei da estóteles você pode olhar a história
+
+325
+00:36:49,600 --> 00:36:55,360
+da ciência você pode ler trabalhos de cientistas morreram olhando simplesmente do nosso ponto de
+
+326
+00:36:55,360 --> 00:37:02,960
+vista né uma leitura presentista como se falava na história e né e o que ele propõe é na verdade
+
+327
+00:37:02,960 --> 00:37:10,760
+o que se entendia como nove estrografia da ciência né que era um conjunto era uma set escola de
+
+328
+00:37:10,760 --> 00:37:15,400
+historiadores em especial um historiador o mais importante de todos que é chamado de Alexandre
+
+329
+00:37:15,400 --> 00:37:20,800
+Corre que buscava compreender os cientistas né e as teorias científicas dentro do seu contexto
+
+330
+00:37:21,040 --> 00:37:27,040
+e especialmente o seu contexto intelectual né quais eram os debates que estavam naquele momento
+
+331
+00:37:27,040 --> 00:37:33,280
+contra quem quais eram os problemas que as teorias visavam a responder né quais eram as evidências
+
+332
+00:37:33,280 --> 00:37:37,640
+que foram apresentadas não a partir do que a pessoa sabia que a pessoa sabia ou não do nosso ponto de
+
+333
+00:37:37,640 --> 00:37:44,520
+vista né mas como aquelas teorias procuravam responder problemas né quais eram as dificuldades
+
+334
+00:37:45,520 --> 00:37:54,480
+então o que o cumpropõe é também uma grande mudança no estatuto da história para a filosofia
+
+335
+00:37:54,480 --> 00:38:00,640
+né e aqui essa frase que eu coloquei aqui que a primeira frase do livro mais citada é bastante
+
+336
+00:38:00,640 --> 00:38:07,120
+emblemática né ele disse assim né se a história fosse vista como repositorio para algo mais do
+
+337
+00:38:07,120 --> 00:38:13,120
+canedotas ou cronologias poderia produzir uma transformação decisiva na imagem de ciência
+
+338
+00:38:13,120 --> 00:38:20,520
+que a gente nos domina né então aqui o cumpro está apontando que a história era usada em alguma
+
+339
+00:38:20,520 --> 00:38:27,120
+medida pelos filósofos né mas ela usada em situações muito específicas e muito limitadas
+
+340
+00:38:27,120 --> 00:38:34,040
+então ela usada por exemplo como um repositorio para anedotas né então eu falo de teorias
+
+341
+00:38:34,040 --> 00:38:39,320
+científicas ou como as cientistas quarenteorias ilustro com o caso da história da ciência eu
+
+342
+00:38:39,320 --> 00:38:43,800
+vou fazer a metodologia de como são teorias e dar um exemplo da história da ciência né
+
+343
+00:38:43,800 --> 00:38:50,240
+ou cronologias né eu estou só reportando quem descobriu que em que momento né mas não tem um papel
+
+344
+00:38:50,240 --> 00:38:58,000
+constitutivo da filosofia né é uma curiosidade uma ilustração serve para uma pedagogia mas ela
+
+345
+00:38:58,000 --> 00:39:02,880
+não ajuda a moldar a filosofia da ciência né e o quão acredita que uma história que tem um papel
+
+346
+00:39:02,880 --> 00:39:10,360
+constitutivo né ela poderia produzir uma transformação né decisiva na imagem de ciência que
+
+347
+00:39:10,360 --> 00:39:14,960
+atualmente nos domina isso é falando naquele momento né então qual imagem de ciência que
+
+348
+00:39:14,960 --> 00:39:21,600
+dominava a filosofia da ciência naquele momento era essa imagem de ciência que era uma extrapolação
+
+349
+00:39:21,600 --> 00:39:29,920
+e uma e um desenvolvimento né daquela imagem de ciência comum da ciência como empreendimento
+
+350
+00:39:29,920 --> 00:39:36,240
+relativo que você simplesmente vai nos conhecimentos abandonando que é falso incorporando
+
+351
+00:39:36,240 --> 00:39:41,840
+que é verdadeiro né que não tem mudanças que os cientistas não deixam de lado de uma coisa que
+
+352
+00:39:41,840 --> 00:39:47,760
+eles achavam que sabiam né então quando você vai usar a história para entender como são as
+
+353
+00:39:47,760 --> 00:39:52,800
+dinâmicas reais da ciência isso vai gerar uma outra visão e uma outra imagem sobre a história da
+
+354
+00:39:53,760 --> 00:40:04,000
+bom uma das consequências disso né além de gerar uma outra margem de filosofia e né da obra
+
+355
+00:40:04,000 --> 00:40:08,720
+do cú é que o texto do cú foi muito criticado como eu falei ele é constantemente chamado
+
+356
+00:40:08,720 --> 00:40:15,920
+historiador né e parte dessa consequência e parte disso é porque até aquele momento havia uma
+
+357
+00:40:15,920 --> 00:40:23,760
+questão muito aceita entre contexto descoberta e contexto de justificação tá então essa era
+
+358
+00:40:23,760 --> 00:40:30,640
+uma distinção amplamente aceita na filosofia até aquele momento né que em linhas muito gerais a
+
+359
+00:40:30,640 --> 00:40:35,840
+gente poderia dizer que era o seguinte não é o contexto descoberta seria uma explicação sobre
+
+360
+00:40:35,840 --> 00:40:43,520
+os elementos reais factuais que levar na criação aceitação de matéria científica então porque
+
+361
+00:40:43,520 --> 00:40:49,920
+o cientista pensou em tal teoria porque aquele grupo aceitou uma teoria vou falar os elementos
+
+362
+00:40:49,920 --> 00:40:56,560
+sociais econômicos culturais que levaram aquilo que de fato acontecesse na história então uma
+
+363
+00:40:56,560 --> 00:41:03,440
+descrição da história e o contexto de justificação seria uma explicação racional dos elementos que
+
+364
+00:41:03,440 --> 00:41:11,120
+justifica uma teoria então aí eu tô pensando não porque a pessoal pessoal b ou grupo b aceitou
+
+365
+00:41:11,120 --> 00:41:16,480
+uma teoria mas o que faz uma teoria ser melhor que a outra né o que faz que uma teoria seja
+
+366
+00:41:16,480 --> 00:41:21,520
+superior a outra né o fato de que ela tá mais adequado de acordo com o método que ela explica
+
+367
+00:41:21,520 --> 00:41:27,840
+mais por dentro e aqui a gente tem uma avaliação normativa então essa distinção entre descoberta
+
+368
+00:41:27,840 --> 00:41:32,960
+e justificação pensando mais no campo da ciência uma distinção mais geralmente descrição e
+
+369
+00:41:32,960 --> 00:41:38,720
+normatividade era uma distinção amplamente aceita naquele momento né e essa distinção
+
+370
+00:41:39,200 --> 00:41:47,040
+ela estabelecia também as fronteiras entre o que era o ofício do filósofo e ofício de outros
+
+371
+00:41:47,040 --> 00:41:53,040
+pesquisadores interessados na ciência né então essa fronteira entre essa distinção de contratos
+
+372
+00:41:53,040 --> 00:41:58,640
+descoberta com dedicação vai moldar a fronteira entre a filosofia da ciência as outras disciplinas né
+
+373
+00:41:59,120 --> 00:42:09,840
+então o estudo dos elementos reais factuais que vão levar os cientistas a escolher uma teoria ou
+
+374
+00:42:09,840 --> 00:42:17,280
+desenvolver uma teoria né isso vai ficar cargo de cientistas empíricos né cientistas sociais
+
+375
+00:42:17,280 --> 00:42:24,240
+naturais que vão descrever esses elementos né então os sociólogos que vão falar sobre as
+
+376
+00:42:24,240 --> 00:42:29,440
+científicas as pressões externas a ciência naquele momento então os psicólogos vão falar da
+
+377
+00:42:29,440 --> 00:42:35,680
+mentalidade do pensamento do cientista que levou a aceitar uma teria ou outra né os economistas
+
+378
+00:42:35,680 --> 00:42:43,920
+falar das pressões econômicas por aí vai enquanto pro filósofo da ciência cabe a tarefa de explicar
+
+379
+00:42:43,920 --> 00:42:52,880
+eh retrospectivamente né exclusivamente o aspecto normativo né dá uma explicação racional e
+
+380
+00:42:52,880 --> 00:42:58,320
+como se falava uma reconstrução racional da ciência né então ignorar esses elementos
+
+381
+00:42:58,320 --> 00:43:04,880
+sociais econômicos e se atentar unicamente a ciência como um conjunto de proposições e
+
+382
+00:43:04,880 --> 00:43:09,760
+fazer uma comparação entre as teorias e pensar racionalmente qual a teoria deveria ser aceita ou
+
+383
+00:43:10,560 --> 00:43:20,160
+né então quando você entende esse contexto né essa falar pra outra palavra né quando você
+
+384
+00:43:20,160 --> 00:43:28,160
+percebe essa distinção né que era uma distinção que perpassava a grande parte dos trabalhos né
+
+385
+00:43:28,160 --> 00:43:34,800
+fica claro qual foi a radicalidade da proposta do cuno né então se a gente dar um exemplo não
+
+386
+00:43:34,880 --> 00:43:40,000
+eu tenho tanto conhecimento assim né mas o pôper é alguém que se encaixa um pouco né essa
+
+387
+00:43:40,000 --> 00:43:45,280
+essa chave né ele vai falar então bastante que a preocupação dele é com a lógica da
+
+388
+00:43:45,280 --> 00:43:50,560
+pesquisa científica né então ele tem uma metodologia que vai ser pra criticar e vai fazer
+
+389
+00:43:50,560 --> 00:43:57,600
+toda a crítica a a indução né e falar do falsacionismo com metodologia pra avaliação
+
+390
+00:43:57,600 --> 00:44:04,000
+de teorias científicas né isso vai determinar a racionalidade ou não de uma teoria qual teoria
+
+391
+00:44:04,240 --> 00:44:12,480
+ou não e vai deixar de lado esses outros aspectos né empíricos psicológicos né que ele vai dizer
+
+392
+00:44:12,480 --> 00:44:18,880
+que não é um trabalho do filósofo o trabalho do filósofo é relacionado à justificação e
+
+393
+00:44:18,880 --> 00:44:26,880
+a racionalidade das teorias tá uma explicação clássica também que era muito usado é muito usado
+
+394
+00:44:26,880 --> 00:44:35,760
+um exemplo nessa extinção é de um químico chamado Kulkanen que vai propor o anel a estrutura
+
+395
+00:44:35,760 --> 00:44:43,440
+do anel de benzeno né então esse cientista ele diz que tá um dia dormi sentado lá e dorme e sonha
+
+396
+00:44:43,440 --> 00:44:49,360
+com uma cobra mordendo o próprio rabo né e daí ele corda e tem a ideia do anel de benzeno ele
+
+397
+00:44:49,360 --> 00:44:55,920
+tem a ideia do anel de benzeno depois é ser estrutura né como bastante usado né então
+
+398
+00:44:55,920 --> 00:45:01,360
+é aqui a gente tem uma distinção clássica né entre as duas coisas né bom que ele sonhou
+
+399
+00:45:01,360 --> 00:45:06,800
+aquilo que ele tivesse visto num livro não faz muita diferença né pra validade ou não daquela
+
+400
+00:45:06,800 --> 00:45:11,680
+daquela teoria né o que importa são os argumentos a racionalidade daquilo como se
+
+401
+00:45:11,680 --> 00:45:17,040
+der com a experiência então exemplos como esse serviam de base pra essa distinção né que moldava
+
+402
+00:45:17,040 --> 00:45:24,400
+bastante o campo da filosofia da ciência né então quando o cumprão põe essa esse uso da
+
+403
+00:45:24,400 --> 00:45:31,120
+história ele tá em certa medida alterando a própria concepção daquele momento que era o
+
+404
+00:45:31,120 --> 00:45:35,760
+trabalho do filósofo da ciência e como a filosofia se relacionava ou não se relacionava com outras
+
+405
+00:45:35,760 --> 00:45:42,080
+disciplinas né não é só fornecer exemplos né ilustrações ou contar a história de quem
+
+406
+00:45:42,080 --> 00:45:47,920
+criou pra falar de metodologia mas de fato é produzir uma imagem de ciência né que deriva
+
+407
+00:45:47,920 --> 00:45:54,640
+da dos estudos históricos então o cumprão tá uma explicação sobre o que ele pensa desse
+
+408
+00:45:54,640 --> 00:45:59,360
+contexto da descoberta o contexto de edificação ele praticamente ignora isso daí
+
+409
+00:46:00,240 --> 00:46:07,520
+mas as evoluções científicas ele curiosamente depois ele vai contar ele era muito amigo ele
+
+410
+00:46:07,520 --> 00:46:12,160
+que não é a primeira versão do livro ele passa para diversos colegas vários filósofos como o
+
+411
+00:46:12,160 --> 00:46:19,840
+farába de um retorno da universidade convidou ele cara Conan valer também né ele passa a primeira
+
+412
+00:46:19,840 --> 00:46:25,360
+versão da estrutura e um filósofo que era muito amigo dele que chamava Estana Cabel que é um
+
+413
+00:46:25,360 --> 00:46:32,640
+filósofo da linguagem bastante famoso trabalhava com o cinema escreve pra ele e diz que ele deveria
+
+414
+00:46:32,640 --> 00:46:37,040
+ter uma coisa sobre contexto coberto contexto de edificação porque ele seria cobrado em relação
+
+415
+00:46:37,040 --> 00:46:45,280
+a isso e aí o que o cumprão faz na estrutura das evoluções científicas é dizer alguma coisa
+
+416
+00:46:45,280 --> 00:46:50,080
+que fica um pouco obscura mas talvez olhando a partir do que a gente falou faça mais sentido né
+
+417
+00:46:50,080 --> 00:46:57,600
+ele vai dizer assim agora vou ler alguns trechos né mas eu acho que é importante né ele tá
+
+418
+00:46:57,600 --> 00:47:01,600
+comentando assim no final da introdução que ele falou sobre os da história sem dúvida alguns
+
+419
+00:47:01,600 --> 00:47:06,720
+que já se terão perguntado se um estudo histórico poderá produzir o tipo de transformação
+
+420
+00:47:06,720 --> 00:47:12,880
+conceitual que avisado aqui um arsenal inteiro de cotomias está disponível sugerindo que isso
+
+421
+00:47:12,880 --> 00:47:19,200
+não pode ser adequadamente realizado dessa maneira e aí ele vai expor então não funcionaria esse uso
+
+422
+00:47:19,200 --> 00:47:25,680
+da história né parece que ele tá ignorando essa distinção né ele vai falar assim ó reproduzindo
+
+423
+00:47:25,680 --> 00:47:30,480
+essa distinção de contexto coberto de edificação dizemos muito frequentemente que a história
+
+424
+00:47:30,480 --> 00:47:36,960
+é puramente descritiva contudo as testes sugeridas acima são frequentemente interpretativas e
+
+425
+00:47:36,960 --> 00:47:43,440
+algumas normativas as testes que ele tá expondo além disso muitas de minhas generalizações
+
+426
+00:47:43,440 --> 00:47:49,680
+dizem respeito a sociologia ou a psicologia social dos cientistas ainda assim pelo menos algumas
+
+427
+00:47:49,680 --> 00:47:55,840
+as minhas conclusões pertencem tradicionalmente a lógica ou a epistemologia pode até mesmo parecer
+
+428
+00:47:55,840 --> 00:48:00,800
+que no parágrafo anterior eu tenho a violada muito influente distinção contemporânea entre o
+
+429
+00:48:00,800 --> 00:48:06,960
+contexto da descoberto contexto da justificação e aí se pergunta pode algo mais do que profunda
+
+430
+00:48:06,960 --> 00:48:12,800
+confusão estar indicado nessa mescla de diversas áreas interesses então ele mesmo tá levantando
+
+431
+00:48:12,800 --> 00:48:17,680
+essa questão será que ele realmente nos um compreente filosofia da ciência não sabe que
+
+432
+00:48:17,680 --> 00:48:23,360
+essas extinções são distinções basilares e aqui o cúmulo não explica muito o que ele pensa
+
+433
+00:48:23,920 --> 00:48:32,480
+sugerem uma né o que ele pensa nessa distinção né tendo me formado intelectualmente a partir dessas
+
+434
+00:48:32,480 --> 00:48:37,360
+e de outras distinções semelhantes dificilmente poderia estar mais consciente disso importância e
+
+435
+00:48:37,360 --> 00:48:41,920
+força é que tem uma certa da ironia né que ele tá falando a importância e força da distinção
+
+436
+00:48:43,200 --> 00:48:49,840
+por muitos anos tomei as como sendo a própria natureza do conhecimento ainda suponho que adequadamente
+
+437
+00:48:49,840 --> 00:48:55,520
+as situações realizadas tenham algo importante a nos dizer todavia muitas das minhas tentativas
+
+438
+00:48:55,520 --> 00:49:00,960
+de aplicá-la a grosso modo as situações reais na quais o conhecimento obtido aceito assimilado
+
+439
+00:49:00,960 --> 00:49:07,600
+pelas parecer hábito parecer extraordinariamente problemáticas então quando ele tentou aplicar
+
+440
+00:49:07,600 --> 00:49:13,360
+de fato a distinção as situações reais a história da ciência ele percebe que é difícil
+
+441
+00:49:13,360 --> 00:49:22,240
+dar esse contexto com o texto que a aplicação dessa distinção é falha e aí ele diz assim que
+
+442
+00:49:22,240 --> 00:49:28,000
+acho que é mais importante né que é o seguinte em vez de serem distinções lógicas ou metodológicas
+
+443
+00:49:28,000 --> 00:49:34,080
+elementares que seriam anteriores análise do conhecimento científico elas parecem agora ser
+
+444
+00:49:34,080 --> 00:49:39,920
+parte de um conjunto tradicional de respostas substantivas as próprias questões a partir
+
+445
+00:49:39,920 --> 00:49:45,840
+das vezes elas foram elaboradas então o com não fala sobre o contexto de educação descoberta
+
+446
+00:49:45,840 --> 00:49:51,920
+no seu texto né ele reconhece rapidamente fala eu vou ser criticado em relação a isso porque eu
+
+447
+00:49:51,920 --> 00:49:56,560
+tô falando de história para tirar conclusão antilógica e epistemologia falando sobre o que é a ciência
+
+448
+00:49:56,560 --> 00:50:05,440
+mas isso é porque ele vai dizer essa extinção na verdade não é uma extinção universal
+
+449
+00:50:05,440 --> 00:50:12,720
+de caba básica né mas é na verdade parte de uma certa tradição de filosofia da ciência né
+
+450
+00:50:12,720 --> 00:50:19,280
+não é que eu parto dessa extinção para elaborar uma filosofia da ciência mas essa extinção faz
+
+451
+00:50:19,280 --> 00:50:24,400
+parte de uma certa concepção do que é o trabalho do filósofo e ele vai dizer que quando ele vai
+
+452
+00:50:24,400 --> 00:50:28,960
+aplicar e trabalhar com história da ciência essa extinção não faz sentido e ele preferiu não adotá-la
+
+453
+00:50:29,680 --> 00:50:35,760
+né e aqui eu trago um texto um outro trecho que ele menciona brevemente essa distinção
+
+454
+00:50:36,960 --> 00:50:45,280
+né que é um texto da cada dia agora não lembro bem de 69 ou 70 que ele vai responder a várias
+
+455
+00:50:45,280 --> 00:50:50,560
+críticas que foram levantadas inclusive novamente de que ele não compreendeu essa distinção entre
+
+456
+00:50:50,560 --> 00:50:56,960
+normativa e descritivo né descobertificação e ele vai responder assim é algum falando sobre
+
+457
+00:50:57,600 --> 00:51:04,240
+a terceira pessoa né sobre as críticas que foram feitas é ele devem as observações de CUM a respeito
+
+458
+00:51:04,240 --> 00:51:10,160
+do desenvolvimento científico pergunta ele ser lidos como descrições ou prescrições né afinal
+
+459
+00:51:10,160 --> 00:51:16,480
+ele tá fazendo história ou filosofia né e aí a resposta é claro é que devem ser lidas de ambas
+
+460
+00:51:16,480 --> 00:51:22,000
+as maneiras ao mesmo tempo né se tem uma teoria de como e porque a ciência funciona ela tem
+
+461
+00:51:22,000 --> 00:51:26,960
+que realmente ter implicações para o modo como cientistas devem comportar-se para que seu
+
+462
+00:51:26,960 --> 00:51:33,040
+empreendimento floresce né ele tá dizendo olha são as duas coisas não dá para separar com o
+
+463
+00:51:33,040 --> 00:51:37,920
+texto descoberto de justificação né se eu digo como assim se funciona isso tem que ter implicação
+
+464
+00:51:37,920 --> 00:51:44,080
+sobre o que eu estou descrevendo e aí ele dá uma uma forma talvez mais justificada né a estrutura de
+
+465
+00:51:44,080 --> 00:51:49,440
+um argumento é simples e penso e reprensiva cientistas comportam os digitais ou quais maneiras
+
+466
+00:51:49,440 --> 00:51:56,320
+e desse modo de comportamento tem aqui entre a teoria tais funções essenciais na usência de um
+
+467
+00:51:56,320 --> 00:52:02,560
+alternativo que serve a funções similares os cientistas devem comportar-se essencialmente como
+
+468
+00:52:02,560 --> 00:52:08,240
+se comportam quando sua preocupação é aprimorar conhecimento científico então o que ele tá dizendo
+
+469
+00:52:08,240 --> 00:52:15,440
+é essa distinção ele não tá fazendo nem só com o texto descoberta nem só com a digitificação
+
+470
+00:52:15,440 --> 00:52:22,960
+mas as duas coisas assim entrelaçam né quando eu digo como as coisas ocorrem eu tô a partir
+
+471
+00:52:22,960 --> 00:52:27,920
+daí elaborando uma teoria sobre o que a ciência que os cientistas fazem né a partir da descrição
+
+472
+00:52:27,920 --> 00:52:34,080
+a descrição me leva a uma teoria né da descrição eu sou levado normativo mas normativo também é
+
+473
+00:52:34,080 --> 00:52:42,680
+digamos assim vai ter implicações para minha própria descrição que podem sugerir reformar
+
+474
+00:52:42,680 --> 00:52:50,360
+a teoria né de como a ciência se desenvolve né ou como pode envolver também a própria reconstrução
+
+475
+00:52:50,360 --> 00:52:55,160
+histórica talvez eu de fato tenha escrito mal porque eu senti que não costumo hoje assim ser uma
+
+476
+00:52:55,160 --> 00:53:00,280
+teoria o então que eu conto a proposta é uma relação entre história e filosofia se parece
+
+477
+00:53:00,280 --> 00:53:07,200
+muito com uma relação entre teoria e evidência né eu parto um pouco das evidências para pensar
+
+478
+00:53:07,200 --> 00:53:14,920
+a teoria essa teoria vai me ajudar a explicar outras evidências aquelas evidências e o que
+
+479
+00:53:14,920 --> 00:53:19,880
+pode me levar se tiver um desacordo tanto a dizer ó então tem um problema com o experimento
+
+480
+00:53:19,880 --> 00:53:24,560
+talvez esses dados não sejam mais adequados porque a metodoria tá pra vir outra coisa ele tem muito
+
+481
+00:53:24,560 --> 00:53:30,440
+confiança dela quando se esse desacordo for consistente e for sistemático né e você tiver
+
+482
+00:53:30,440 --> 00:53:36,880
+razões que mostram que as evidências são de fato devem ser explicadas a uma reformação da
+
+483
+00:53:36,880 --> 00:53:41,320
+teoria né então que ele tá falando com o texto descoberto com o texto de ficação é uma
+
+484
+00:53:41,320 --> 00:53:46,240
+distinção muito esquemática que faz parte de uma tradição filosófica e o que ele tá propondo
+
+485
+00:53:46,240 --> 00:53:50,920
+é uma relação entre filosofia e história que se parece mais com uma relação entre teoria
+
+486
+00:53:50,920 --> 00:53:57,120
+científica e evidência né e por isso ele acha que a história é tão importante e de fato é uma
+
+487
+00:53:57,120 --> 00:54:02,440
+das grandes contribuições do cumpro filosofia da ciência né é que a história tenha se tornado
+
+488
+00:54:02,440 --> 00:54:06,440
+essencial por o fazer do filósofo né
+
+489
+00:54:09,640 --> 00:54:19,720
+então só um comentário né aí uma caso que aconteceu comigo eu mencionei né que quando
+
+490
+00:54:19,720 --> 00:54:24,440
+cumprublica isso né ele recebe uma série de críticas pelo uso da história e de que ele não
+
+491
+00:54:24,440 --> 00:54:31,440
+tinha entendido essas extinções básicas né e de fato é que ele seria simplesmente um historiador
+
+492
+00:54:31,440 --> 00:54:35,600
+mas isso é falado como uma às vezes como a incompreensão do que ele tá fazendo
+
+493
+00:54:35,600 --> 00:54:42,120
+como um sentido depreciativo né como faz filosofia né o que ele tá falando é fazendo uma
+
+494
+00:54:42,120 --> 00:54:47,320
+descrição da história pelo menos tudo de caso e tentando elaborar a partir daí mas na filosofia
+
+495
+00:54:47,320 --> 00:54:54,320
+né e essa ideia de como não é o filósofo vai retornar várias vezes na carreira dele né essa
+
+496
+00:54:54,320 --> 00:54:59,200
+essa acusação né de que ele realmente não entende muito filosofia né isso vai aparecer em
+
+497
+00:54:59,200 --> 00:55:04,800
+alguns momentos né de que ele não sabe usar muito bem os conceitos né ele vai ter sempre que
+
+498
+00:55:04,800 --> 00:55:09,720
+responder a isso e talvez explique um pouco as mudanças que levaram ele a trabalhar com uma
+
+499
+00:55:09,720 --> 00:55:16,800
+filosofia mais mainstream depois né a situação mais pessoal das mudanças da carreira dele e no meu
+
+500
+00:55:16,800 --> 00:55:22,440
+caso né eu queria só mencionar que outro dia eu acho que isso é uma coisa outro dia eu mandei um
+
+501
+00:55:22,440 --> 00:55:29,680
+vídeo né sobre um tema de explicação entre a científica e recebeu os dois pareceres da revista
+
+502
+00:55:29,680 --> 00:55:35,960
+e o que os dois pareceristas falaram né um ponto que é como um entre os dois era de que eu poderia
+
+503
+00:55:35,960 --> 00:55:41,760
+usar ilustrar aquilo com caso de história da ciência poder fazer um estudo de caso a partir
+
+504
+00:55:41,760 --> 00:55:48,120
+da minha teoria né e aí fiquei pensando como isso como a filosofia da ciência mudou bastante né
+
+505
+00:55:48,240 --> 00:55:54,320
+a partir de então né algo que pareceria erético né se você pensasse nesse contexto com né
+
+506
+00:55:54,320 --> 00:55:59,600
+pra que usar a história da ciência né como assim ilustrar e comprovar sua teoria com o
+
+507
+00:55:59,600 --> 00:56:05,320
+estudo da ciência se tornou algo quase que é de senso comum ainda filosofia né que faz que o que
+
+508
+00:56:05,320 --> 00:56:08,200
+você está falando sobre a ciência tem que mostrar e ilustrar com casos históricos tem
+
+509
+00:56:08,200 --> 00:56:14,120
+mostro né demonstrar que aquilo funciona quando aplicada aplicado ao estudo da história da ciência
+
+510
+00:56:15,120 --> 00:56:21,080
+então esse era o primeiro ponto que eu queria falar sobre a obra do caso de revolução científica
+
+511
+00:56:21,080 --> 00:56:26,600
+que era o papel da história que eu acho que é fundamental para compreender aquilo que tem de
+
+512
+00:56:26,600 --> 00:56:33,720
+radical e como ele teve um grande impacto dentro da história da ciência o segundo talvez seja a
+
+513
+00:56:33,720 --> 00:56:43,280
+parte mais substantiva né em relação ao modelo desenvolvimento com propõe né então uma das
+
+514
+00:56:43,280 --> 00:56:48,520
+vezes são mais marcantes da estrutura né que talvez tenha tido uma influência e não está no
+
+515
+00:56:48,520 --> 00:56:55,920
+campo da filosofia mas uma influência geral é a ideia de que a ciência segue um determinado
+
+516
+00:56:55,920 --> 00:57:04,720
+padrão ela tem uma estrutura no comportamento que se repete ao longo do tempo né isso a gente
+
+517
+00:57:04,720 --> 00:57:10,880
+vê que de alguma maneira a obra do cumpro trapaçou não só o campo da filosofia mas o campo das outras
+
+518
+00:57:11,840 --> 00:57:18,080
+e algumas ideias foram incorporadas dentro do ciência comum né então a gente as pessoas falando
+
+519
+00:57:18,080 --> 00:57:25,920
+muito sobre quebra de paradigma um novo paradigma né dentro de determinado campo né uma forma de
+
+520
+00:57:25,920 --> 00:57:35,040
+sustentar e valorizar aquilo que você está propondo a gente vê de revoluções né essa ideia de uma
+
+521
+00:57:35,040 --> 00:57:43,120
+mudança de uma grande quebra então eu acho que isso é derivado em grande parte dessa imagem que o
+
+522
+00:57:43,120 --> 00:57:49,120
+cumpro transmite sobre o que a ciência e como ela se desenvolve ao longo do tempo tá então aqui eu
+
+523
+00:57:49,120 --> 00:57:55,520
+queria fazer uma apresentação bastante esquemática do que seria esse modelo que o cumpro elabora eu
+
+524
+00:57:55,520 --> 00:58:00,960
+acho que o artigo que vocês leram apresenta bastante bem um pedaço desse esquema né que a
+
+525
+00:58:00,960 --> 00:58:08,880
+ciência comum do paradigma como ele se diferencia né ou a ciência normal de outros da ciência
+
+526
+00:58:08,880 --> 00:58:18,240
+paradigmático né e o que é essa atividade baseada no paradigma então o cumpro vai dizer que quando
+
+527
+00:58:18,240 --> 00:58:25,760
+você olha a história de uma disciplina científica você vai perceber que existem dois grandes
+
+528
+00:58:25,840 --> 00:58:30,320
+né um que ele vai chamar de ciência matura e outro que ele vai chamar de ciência madura
+
+529
+00:58:30,320 --> 00:58:36,400
+ou paradigmática pós-paradigmática né então primeiro seria antes paradigma segundo depois
+
+530
+00:58:36,400 --> 00:58:43,280
+paradigma né mas antes de introduzir o termo paradigma né o que você percebe é que no determinado
+
+531
+00:58:43,280 --> 00:58:50,320
+é o início dessa disciplina o que você tem são vários grupos que pesquisam a grosso modo
+
+532
+00:58:50,320 --> 00:58:57,760
+de fenômeno então pessoas que estão estudando o movimento estudando a astronomia estudando
+
+533
+00:58:57,760 --> 00:59:06,400
+eletricidade esse é o tema que ele fala bastante aqui no exemplo que talvez ele mais mencione mais
+
+534
+00:59:06,400 --> 00:59:13,520
+de escuta que né que a eletricidade então você tem vários grupos que estão pesquisando um conjunto
+
+535
+00:59:13,520 --> 00:59:19,920
+de fenômenos que se assemeira mas que é bastante fragmentado esse grupo né eu diferenço a
+
+536
+00:59:19,920 --> 00:59:24,640
+comunidade né se é que você pode falar uma comunidade né porque não tem tanta homogeneidade
+
+537
+00:59:24,640 --> 00:59:28,880
+unidade né então você tem esses grupos de pesquisadores cada um trabalhando a partir do
+
+538
+00:59:28,880 --> 00:59:37,040
+seu ponto de vista a partir de uma teoria né e que como essa comunidade é muito fragmentada né a
+
+539
+00:59:37,040 --> 00:59:45,280
+maior parte do esforço desses cientistas se refere é voltado ou para fundamentar o seu ponto de vista
+
+540
+00:59:45,280 --> 00:59:51,120
+que é aquele ponto de vista melhor ou para resultar o ponto de vista adversário né então os debates
+
+541
+00:59:51,120 --> 01:00:00,080
+são debates vou muitos debates de princípios metafísicos metodológicos né que vão colocar
+
+542
+01:00:00,080 --> 01:00:07,520
+alguns um grupo contra o outro né em algum momento né o que vai dizer embora isso não seja uma
+
+543
+01:00:07,520 --> 01:00:14,320
+necessidade lógica né mas em algum momento você percebe nas principais áreas da ciência que surge
+
+544
+01:00:14,320 --> 01:00:21,520
+uma proposta uma certa abordagem que é vista por aqueles diversos grupos como superior a todos
+
+545
+01:00:21,520 --> 01:00:28,000
+os demais né seja porque resolvem muitos problemas que são comuns a todas as abordagens seja porque
+
+546
+01:00:28,000 --> 01:00:36,160
+é uma abordagem mais simples porque é a mais ampla porque resolve algum problema conspirado central
+
+547
+01:00:36,160 --> 01:00:45,840
+mas essa nova abordagem é vista como superior as demais e com isso os cientistas passam a adotar
+
+548
+01:00:45,840 --> 01:00:55,120
+a mesma teoria ou mesmo paradigma tá o que seria então o termo que o com o uso né para explicar
+
+549
+01:00:55,120 --> 01:01:01,760
+essa espécie de acordo né que é um acordo taxa não é acordo explícito né eles não tem um conjunto
+
+550
+01:01:01,760 --> 01:01:08,160
+de soluções que todas pessoas concordam né mas é um acordo prático né sobre isso o com o termo
+
+551
+01:01:08,160 --> 01:01:16,240
+paradigma né esse é um termo que vai ter várias vários usos dentro da obra do com né e esse é
+
+552
+01:01:16,240 --> 01:01:23,600
+também uma série de críticas de massologia afinal que é um paradigma né nessa nessa conferência de
+
+553
+01:01:23,600 --> 01:01:30,000
+65 né que vão várias várias pensadores os filósofos tem uma filósofo que chama Margaret
+
+554
+01:01:30,000 --> 01:01:37,760
+que vai fazer uma apresentação um artigo não é famoso em que ela vai apontar 21 sentidos
+
+555
+01:01:37,760 --> 01:01:43,200
+do termo paradigma no livro então ela vai pegar o livro do com né numerar cada vez que ele fala
+
+556
+01:01:43,200 --> 01:01:50,080
+paradigma e dá uma definição para esse termo ela vai ver que ela consegue lutar em 21 sentidos do
+
+557
+01:01:50,080 --> 01:01:58,160
+termo né então de fato usa o termo paradigma em vários sentidos mas existe um termo um sentido
+
+558
+01:01:58,160 --> 01:02:05,440
+fundamental que depois vai falar que a ideia de uma realização concreta ou a solução concreta de
+
+559
+01:02:05,440 --> 01:02:12,240
+um problema que serve de modelo para a solução de novos problemas então o paradigma é simplesmente
+
+560
+01:02:12,240 --> 01:02:20,800
+a resolução de um problema então a forma de resolver um problema que é vista como uma solução
+
+561
+01:02:21,760 --> 01:02:34,240
+a modelar uma solução é que a repitiva paradigmática uma solução tão boa que vai ser usada como um
+
+562
+01:02:34,240 --> 01:02:40,960
+modelo de como resolver novos problemas né então esse paradigma ele vai incluir a solução não é
+
+563
+01:02:40,960 --> 01:02:48,480
+só uma uma função matemática uma generalização simbólica mas vai envolver também o aparato
+
+564
+01:02:48,480 --> 01:02:57,200
+climático a prato instrumental né uma certa metafísica ontologia subjacente falando que você
+
+565
+01:02:57,200 --> 01:03:03,760
+tem que olhar no mundo né que os cientistas vão usar para resolver novos problemas né então como
+
+566
+01:03:03,760 --> 01:03:09,600
+funcionaria essa ciência paradigmática né como chama de ciência normal ciência baseada no paradigma
+
+567
+01:03:10,000 --> 01:03:15,440
+né o cientista vai ter essa resolução de problema esse paradigma que vai dizer
+
+568
+01:03:17,200 --> 01:03:24,640
+intuitiva implicitamente né o que é um problema né que pode ser resolvido ele vai olhar pro mundo
+
+569
+01:03:24,640 --> 01:03:31,280
+e falar olha esse problema que eu tô vendo essa situação se parece com o problema que eu já vi
+
+570
+01:03:31,280 --> 01:03:37,360
+anteriormente né e assim como esse problema parece com o problema anterior eu vou buscar
+
+571
+01:03:37,360 --> 01:03:44,400
+esse problema como eu solucionei aquela solução anterior né então que o paradigma fornece em
+
+572
+01:03:44,400 --> 01:03:52,400
+certo sentido uma analogia né uma é uma fonte analogias né então ele vai me permitir olhar
+
+573
+01:03:52,400 --> 01:04:01,360
+pro mundo e natural e encontrar situações que eu consigo pensar como problemas científicos que
+
+574
+01:04:01,360 --> 01:04:09,120
+são resolvidos com os instrumentos que eu já tenho tá e com isso a gente vai ter uma dinâmica
+
+575
+01:04:09,120 --> 01:04:14,160
+na ciência que é muito diferente da dinâmica que a gente tinha antes da ciência normal né
+
+576
+01:04:14,160 --> 01:04:19,200
+antes da aquisição do paradigma que antes como eu disse né a gente tinha várias escolas que estão
+
+577
+01:04:19,200 --> 01:04:24,960
+lá de gladiando buscando mostrar que o ponto de vista delas é bem fundamentado e o ponto de vista
+
+578
+01:04:24,960 --> 01:04:30,240
+das outras escolas não é bem fundamentada e agora a gente tem o consenso né os cientistas
+
+579
+01:04:30,480 --> 01:04:36,240
+consenso sentido fraco né implícito né sobre o que é uma boa solução de problemas os cientistas
+
+580
+01:04:36,240 --> 01:04:44,320
+então concordam sobre esse paradigma e a partir daí né esse paradigma oferece instrumentos pra
+
+581
+01:04:44,320 --> 01:04:48,880
+resolver novos problemas né então olhar para uma estação e ver que ela é uma estação que pode
+
+582
+01:04:48,880 --> 01:04:54,560
+ser modelada como um problema anterior que essa sua solução pode ser modulabilada então como
+
+583
+01:04:54,560 --> 01:04:59,280
+uma solução anterior e aí o trabalho dos cientistas vai ser de explorar esse paradigma
+
+584
+01:05:00,240 --> 01:05:06,800
+né eles vão partir de um grande acordo que existe né que eles vão precisar ficar reformulando
+
+585
+01:05:06,800 --> 01:05:12,480
+tudo justificando a partir dos princípios né mas existe uma grande região que aquilo já existe um
+
+586
+01:05:12,480 --> 01:05:19,040
+consenso e eles vão desenvolver o paradigma a partir daí né então a ideia é explorar ou como
+
+587
+01:05:19,040 --> 01:05:24,000
+isso significa articular o paradigma né o que significa articular o paradigma significa por
+
+588
+01:05:24,000 --> 01:05:32,480
+exemplo o meu modelo fala sobre determinadas forças constantes né então o trabalho dos cientistas
+
+589
+01:05:32,480 --> 01:05:38,320
+vai ter vai ser descobrir essas constantes né o que significa desenvolver a teoria significa
+
+590
+01:05:38,320 --> 01:05:43,200
+desenvolver teorias auxiliares para medir essas constantes essas forças significa desenvolver
+
+591
+01:05:43,200 --> 01:05:49,920
+diferentes para isso para isolar variáveis que possam estar dando e por aí vai né o trabalho
+
+592
+01:05:49,920 --> 01:05:55,920
+do cientista vai ser aplicar o paradigma outros casos o paradigma resolve certos problemas né
+
+593
+01:05:55,920 --> 01:06:01,600
+então eu vou querer usar para resolver outros problemas né aí a gente pode pensar um pouco do
+
+594
+01:06:01,600 --> 01:06:07,360
+que a gente vê na escola né quando a gente fala bastante dos livros textos né a gente vai numa
+
+595
+01:06:07,360 --> 01:06:14,160
+área de mecânica lá neutoniana o professor vai explicar como funciona o movimento de uma
+
+596
+01:06:14,160 --> 01:06:18,880
+pessoa empurrando uma caixa mas como eu aplico isso para alguém empurrando uma caixa em um plano
+
+597
+01:06:18,880 --> 01:06:22,640
+inclinado né depois como eu passo isso para um pêndulo que é um objeto que parece que não tem nenhuma
+
+598
+01:06:22,640 --> 01:06:30,000
+relação não é você consegue modelar ainda como a física neutoniana então expandir o uso do paradigma
+
+599
+01:06:30,960 --> 01:06:37,920
+e aí outros usos como tornar consistente com outras teorias e por aí vai né bom então o trabalho
+
+600
+01:06:37,920 --> 01:06:42,320
+dos cientistas na maior parte do tempo é desenvolver esse paradigma né aumentar sua
+
+601
+01:06:42,320 --> 01:06:48,720
+aplicação aumentar sua precisão seu campo de de uso sua consistência né desenvolver
+
+602
+01:06:48,720 --> 01:06:54,080
+instrumentos que permitam fazer medições a partir das predições do paradigma e por aí vai né
+
+603
+01:06:54,320 --> 01:07:00,560
+e esse período é um período que se se encaixa com a nossa visão cumulativista da ciência né de
+
+604
+01:07:00,560 --> 01:07:07,760
+que novos novos conhecimentos estão sendo produzidos né acontece que em determinados momentos os
+
+605
+01:07:07,760 --> 01:07:11,760
+cientistas vão encontrar problemas que parecem ser difíceis ser resolvidos com o paradigma
+
+606
+01:07:11,760 --> 01:07:18,080
+o paradigma sempre se depara com problemas que ele não resolve né aí pela própria definição de
+
+607
+01:07:18,080 --> 01:07:21,680
+ciência né se todos problemas tivessem resolvidos não haveria pesquisa científica né então ele
+
+608
+01:07:21,680 --> 01:07:27,040
+vai se deparando com problemas novos que ele não tem uma resposta de antemão né mas com o
+
+609
+01:07:27,040 --> 01:07:31,600
+exposto dos cientistas né se a gente ver bastante no artigo da função do dogma os cientistas conseguem
+
+610
+01:07:31,600 --> 01:07:37,600
+resolver esses problemas né na maioria dos casos mas às vezes esses problemas se mostram resistentes
+
+611
+01:07:37,600 --> 01:07:44,080
+a uma solução e quando essa solução esse problema é um problema importante um problema que
+
+612
+01:07:44,080 --> 01:07:52,000
+se centrar na teoria um problema que resiste a tentativas consistentes reiteradas de solução
+
+613
+01:07:52,000 --> 01:07:59,160
+ele ganha um certo releve ele passa a ser um problema que começa a entrar no imaginário dos
+
+614
+01:07:59,160 --> 01:08:07,440
+cientistas né que se torna um problema fundamental do campo e aí o que você vai ter é a instalação
+
+615
+01:08:07,440 --> 01:08:13,200
+de certa crise na comunidade isso é uma das coisas que o como fala bem no final nesse texto de
+
+616
+01:08:13,200 --> 01:08:18,960
+maneira resumida né que é que os cientistas começam então a perder a fé no paradigma
+
+617
+01:08:18,960 --> 01:08:24,960
+durante a ciência normal os cientistas adotam o paradigma e o objetivo e o trabalho deles é
+
+618
+01:08:24,960 --> 01:08:31,200
+simplesmente desenvolver explorar esse paradigma eles não estão rejei eles não abandonam esse
+
+619
+01:08:31,200 --> 01:08:37,840
+paradigma quando eles encontram qualquer dificuldade porque exatamente a dinâmica da ciência esse
+
+620
+01:08:37,840 --> 01:08:45,360
+progresso deriva da articulação do paradigma para esses problemas parecem difíceis né você fala
+
+621
+01:08:45,360 --> 01:08:50,880
+não sei como resolver isso e ter todo um trabalho em ter que ter uma ingeniosidade para conseguir
+
+622
+01:08:50,880 --> 01:08:57,760
+solucionar esse problema mas quando esse problema se mostra muito resistente né os cientistas podem
+
+623
+01:08:57,760 --> 01:09:08,160
+começar a questionar o próprio paradigma e aí o que você vai ter é que cientistas vão começar a
+
+624
+01:09:08,160 --> 01:09:17,720
+propor os usos do paradigma que são usos mais frouxos digamos assim usos mais menos ortodoxos do
+
+625
+01:09:17,720 --> 01:09:24,040
+paradigma né ortodoxos do paradigma né até o ponto em que talvez os cientistas de fato proponham
+
+626
+01:09:24,120 --> 01:09:29,680
+novas soluções né então que é o período de senso extraordinário aqui né o paradigma que se usado
+
+627
+01:09:29,680 --> 01:09:34,480
+de uma maneira cada vez mais obscura né vai começar a perder sua identidade até o momento que você
+
+628
+01:09:34,480 --> 01:09:40,000
+pode propor um outro paradigma né e aí você vai ter um período que se parece com aquele período
+
+629
+01:09:40,000 --> 01:09:46,520
+que você tem as diferentes escolas com a diferença que esse é um um período segundo com né mais
+
+630
+01:09:46,520 --> 01:09:51,960
+rápido né de discussão do paradigma porque os cientistas já entenderam a importância da ciência
+
+631
+01:09:51,960 --> 01:09:58,800
+normal né não querem se manter nessa nesse período em certo né e aí você pode ter então uma
+
+632
+01:09:58,800 --> 01:10:04,200
+revolução científica em que o novo paradigma vai substituir esse paradigma anterior e assim
+
+633
+01:10:04,200 --> 01:10:12,280
+dá início a uma nova tradição de ciência normal que é uma tradução tradiz você tem
+
+634
+01:10:12,280 --> 01:10:16,840
+um modelo pazicíclico né então você tem um período pré-paradigmático caso algum campo venha
+
+635
+01:10:16,840 --> 01:10:23,160
+a uma paradigma você vai ter esse período que se repete de uma ciência normal a instalação de
+
+636
+01:10:23,160 --> 01:10:29,080
+crie anomalia as crises proliferação de paradigmas e novos paradigmas que geram novas ciências normais
+
+637
+01:10:30,920 --> 01:10:36,600
+tá então dificilmente a ciência vai sair dessa lógica do paradigma depois que ela encontrou um
+
+638
+01:10:36,600 --> 01:10:43,040
+paradigma porque o paradigma é um instrumento muito forte de produção de conhecimento né ele nos dá
+
+639
+01:10:43,040 --> 01:10:47,160
+uns problemas muito bons para produzir novos conhecimentos porque ele nos diz que é um problema
+
+640
+01:10:47,160 --> 01:10:55,160
+legítimo nos oferece pistas de como resolver esse problema né oferece um campo comum de ideias
+
+641
+01:10:55,160 --> 01:11:05,000
+de interlocução né então é uma ferramenta que cientistas dificilmente abandonam né então
+
+642
+01:11:05,000 --> 01:11:12,320
+fazendo uma ligação né com esse sd dogma né de novo tem em consideração que dogma talvez de
+
+643
+01:11:12,320 --> 01:11:17,440
+dar ruim para falar disso né porque não é uma coisa que você aceita por fé mas simplesmente é
+
+644
+01:11:17,440 --> 01:11:25,880
+uma forma de fazer ciência que é muito efetiva né que é a ciência baseada em paradigma mas quando
+
+645
+01:11:25,880 --> 01:11:31,960
+você pensa na imagem que a gente tem de cientista né então talvez o cientista poperiano que aquele
+
+646
+01:11:31,960 --> 01:11:37,880
+que está pronto a rejeitar uma teoria se ela for contra dita pela experiência o cientista que o
+
+647
+01:11:37,880 --> 01:11:44,720
+deve é um cientista que ele entre digamos assim entre a experiência a teoria ele abandona a
+
+648
+01:11:44,720 --> 01:11:51,800
+experiência ou vai insistir na teoria para que ela de fato se adequem aos fatos né e ele vai dizer
+
+649
+01:11:51,800 --> 01:11:56,720
+então que esse dogma essa pré-condição que é o parade essa aceitação prévia é uma pré-condição
+
+650
+01:11:56,720 --> 01:12:02,080
+para que a ciência se desenvolva como ela se desenvolve né então algumas coisas que ele fala
+
+651
+01:12:02,080 --> 01:12:09,880
+aqui no texto né que essa adesão a uma prática né um paradigma ela é muito útil porque ela
+
+652
+01:12:09,880 --> 01:12:15,880
+define problemas legítimos ela define o que são soluções aceitáveis né ela oferece instrumentos
+
+653
+01:12:15,880 --> 01:12:22,800
+para a gente encontrar essa solução e muito importante também que ele destaca ela prepara
+
+654
+01:12:22,800 --> 01:12:27,880
+o cientista para identificar a anomalias né descrepanças entre a teoria e as predições né
+
+655
+01:12:28,800 --> 01:12:34,040
+é só porque o cientista alguém extremamente preparado para trabalhar com o paradigma e
+
+656
+01:12:34,040 --> 01:12:41,960
+fazer o paradigma funcionar que ele fica particularmente ele tem expectativas muito
+
+657
+01:12:41,960 --> 01:12:47,800
+precisas do que ele espera que seja produzido e seja encontrado nas experiências que ele faz nas
+
+658
+01:12:47,800 --> 01:12:53,520
+observações né quando eu tenho que eu penso por exemplo no período da escola que você tem
+
+659
+01:12:53,520 --> 01:13:00,040
+as soluções se eu não desenvolvo né e eu fico nesse campo de falar de princípios metodologias
+
+660
+01:13:00,040 --> 01:13:06,200
+tentando fundamentar a teoria e contra e reflutar a teoria adversária e não desenvolva os meandros
+
+661
+01:13:06,200 --> 01:13:11,520
+essa pesquisa que ele fala esotérica né os detalhes da minha teoria eu não sei muito o que esperar
+
+662
+01:13:11,520 --> 01:13:17,520
+eu não sei o que é uma concordância aceitável e o que é uma discordância que não é aceitável
+
+663
+01:13:17,520 --> 01:13:24,400
+como com a experiência né como o paradigma define exatamente o que esperado a solução qual
+
+664
+01:13:24,400 --> 01:13:29,080
+o grau de aceitação qual é a descrepança que eu devo esperar a dados outros problemas que eu já
+
+665
+01:13:29,080 --> 01:13:36,240
+resolvi eu tenho um instrumento muito forte para ressaltar o que é um problema grave da minha
+
+666
+01:13:36,240 --> 01:13:42,400
+teoria então como as expectativas são muito bem definidas dentro do paradigma né as falhas
+
+667
+01:13:42,400 --> 01:13:49,720
+do paradigma também são ressaltadas de maneira muito forte então esse outro aspecto que torna
+
+668
+01:13:49,720 --> 01:13:55,680
+o paradigma tão efetivo não só para a ciência normal nessa produção de conhecimento mas para
+
+669
+01:13:55,680 --> 01:14:00,760
+a própria substituição da ciência normal né então ele fala dessa atenção né alguma coisa que é
+
+670
+01:14:00,760 --> 01:14:08,240
+muito dogmático uma uma adesão muito forte o paradigma de maneira quase que contraditória é o
+
+671
+01:14:08,240 --> 01:14:14,840
+primeiro é a substituição do paradigma né porque esse a ferrar-se tão tão inscrito ao paradigma vai
+
+672
+01:14:14,840 --> 01:14:22,600
+de expor expectativas sobre o que eu devo esperar as experiências das observações que é o que
+
+673
+01:14:22,600 --> 01:14:29,880
+vai gerar desconfiança do paradigma e o terceiro aspecto que eu gostaria de mencionar da estrutura
+
+674
+01:14:29,880 --> 01:14:35,560
+de evolução científica eu vou correr um pouco mais aí acho que para dar tempo de falar nos no
+
+675
+01:14:35,560 --> 01:14:43,480
+final da aula é a noção de incomensurabilidade então o cúm vai cunhar um termo a história
+
+676
+01:14:43,480 --> 01:14:47,680
+de evolução científica bom ele não inventou o termo de comensurabilidade mas ele vai aplicar
+
+677
+01:14:47,680 --> 01:14:54,920
+esse termo ao campo da filosofia e da ciência né então a ideia de comensurabilidade é que não
+
+678
+01:14:54,920 --> 01:15:01,760
+existe uma forma de uma medida comum uma minissuração comum entre duas coisas né então um termo usado
+
+679
+01:15:01,760 --> 01:15:07,680
+de um mate outros campos e ele acha que isso se aplica também dentro da ciência né quando a gente
+
+680
+01:15:07,680 --> 01:15:15,320
+vai pensar nesses períodos de ciência ordinária quando você tem várias vários paradigmas competindo
+
+681
+01:15:15,320 --> 01:15:22,120
+dentro do mesmo campo né ele considera que essa paradigma são incomensuráveis o cúm não é o
+
+682
+01:15:22,120 --> 01:15:29,240
+primeiro ao usar esse termo dentro da filosofia da ciência né bom existem alguns precursores não
+
+683
+01:15:29,240 --> 01:15:39,040
+existe o cúm leuas precursores né mas né um outro autore importante que vai usar o Fire Abend
+
+684
+01:15:39,040 --> 01:15:44,480
+que no mesmo ano vai publicar um artigo que ele usa esse termo em comensurabilidade os dois
+
+685
+01:15:44,480 --> 01:15:49,720
+foram colegas em Burk, os dois conheciam os dois conversavam inclusive o cúm enviou a primeira
+
+686
+01:15:49,720 --> 01:15:55,320
+primeiro manuscrito da estrutura para o Fire Abend então os dois falam que também não sabem muito
+
+687
+01:15:55,320 --> 01:16:02,920
+de quem teve ideia original se foram feitas de madeira independente mas fica assim essa observação
+
+688
+01:16:02,920 --> 01:16:10,440
+os usos não são exatamente iguais o cúm fala em dar usos mais amplos o Fire Abend fala de uma
+
+689
+01:16:10,440 --> 01:16:14,600
+comensurabilidade que seria que falhete assim com uma insturabilidade linguística que é um dos
+
+690
+01:16:14,600 --> 01:16:20,600
+tipos de comensurabilidade que o cúm destaca tá mas o fato é que é um conceito importante na obra
+
+691
+01:16:20,600 --> 01:16:25,880
+é um conceito que ele vai trabalhar muito depois né ele chega a dizer em alguns momentos que ele
+
+692
+01:16:25,880 --> 01:16:33,960
+passou os 30 anos seguintes da da carreira dele tentando precisar essa noção de comensurabilidade
+
+693
+01:16:33,960 --> 01:16:43,520
+trabalhando sobrem com a comensurabilidade né então mas então afinal o que significa
+
+694
+01:16:43,520 --> 01:16:51,120
+comensurabilidade bom a noção de comensurabilidade é usada para caracterizar a situação de
+
+695
+01:16:51,120 --> 01:16:58,560
+teorias científicas ou melhor o paradigma da como ele fala nesse momento né de que paradigmas
+
+696
+01:16:58,560 --> 01:17:01,520
+científicas não paradigmas científicos não são comparáveis ponto a ponto
+
+697
+01:17:05,200 --> 01:17:11,880
+então paradigmas científicos são comensuráveis porque não existe uma medida comum que me
+
+698
+01:17:11,880 --> 01:17:17,320
+dá pra fazer uma comparação entre os dois e o que o cúm tá entendendo um pouco como comparação
+
+699
+01:17:17,320 --> 01:17:26,440
+né ele tá questionando a ideia de que existiria um único método como uma única forma um único
+
+700
+01:17:26,440 --> 01:17:32,920
+algoritmo de se avaliar teorias científicas tais que numa revolução no período central
+
+701
+01:17:32,920 --> 01:17:38,040
+de Nara quando eu tenho vários paradigmas eu pudesse colocar um paradigma do outro e fazer uma
+
+702
+01:17:38,040 --> 01:17:44,440
+forma né do tipo olha esse paradigma resolve tanto problemas paradigma resolve tanto problemas
+
+703
+01:17:44,440 --> 01:17:50,080
+poderia usar os procedimentos nesses problemas tem cada um desses tem essa relevância essa
+
+704
+01:17:50,080 --> 01:17:59,480
+importância e paradigma tem tal adequação com a experiência tem a probabilidade tal ou seja como
+
+705
+01:17:59,480 --> 01:18:07,040
+for né um método de avaliação que fosse universal que permitisse de fato comparar né essas teorias
+
+706
+01:18:07,040 --> 01:18:16,320
+então o que ele tá negando é que eu possa de fato encontrar uma metodologia um algoritmo que
+
+707
+01:18:16,320 --> 01:18:23,400
+permita avaliar com e dizer qual teoria superior a qual né então só pra dar alguns exemplos
+
+708
+01:18:23,400 --> 01:18:29,000
+talvez um pouco esquemáticos não sei se os autores concordariam mas pensando por exemplo o que que
+
+709
+01:18:29,000 --> 01:18:34,000
+ele tá rejeitando né a gente poderia pensar no pôr pôr não tá falando muito de comparação de
+
+710
+01:18:34,000 --> 01:18:38,760
+contato né mas a gente poderia fazer uma extensão lá pensando talvez tivesse várias teorias e uma
+
+711
+01:18:38,760 --> 01:18:42,720
+teoria mais refutável que a outra uma teoria refutável é outra não né então teria um critério
+
+712
+01:18:42,720 --> 01:18:48,160
+para escolher qual teoria uma teoria mais refutável ou uma abordagem probabilística né dizendo uma
+
+713
+01:18:48,160 --> 01:18:53,280
+teoria mais provável que a outra dada as evidências que encontrei né e aí eu teria uma situação em
+
+714
+01:18:53,280 --> 01:19:00,360
+que um dos grupos em algum momento não está justificado em escolher aquela teoria e o outro
+
+715
+01:19:00,360 --> 01:19:06,360
+que a outra dada aquela situação justificado racionalmente de escolher aquela teoria o que o
+
+716
+01:19:06,360 --> 01:19:11,240
+cúm tá dizendo é então que não existe uma solução e que aquela discussão não é uma discussão
+
+717
+01:19:11,240 --> 01:19:16,400
+que possa ser resolvido daquela maneira e é na verdade uma questão de argumentação e
+
+718
+01:19:16,400 --> 01:19:24,240
+convencimento eu vou falar um pouco mais pra frente sobre isso tá mas na estrutura o cúm não dá
+
+719
+01:19:24,240 --> 01:19:30,200
+exatamente uma definição geral de encomensurabilidade mas aponta formas de encomensurabilidade né
+
+720
+01:19:30,200 --> 01:19:35,040
+então uma primeira forma seria metodológica né então é como encomensurabilidade metodológica
+
+721
+01:19:35,040 --> 01:19:40,600
+seria que as ciências os paradigmas têm métodos e critérios de avaliação diferente
+
+722
+01:19:42,600 --> 01:19:47,560
+então um paradigma vai dizer que por exemplo eu tenho que dar uma explicação em termos de
+
+723
+01:19:47,560 --> 01:19:50,840
+corpúsculos né a gente vê o outro vai dizer que eu tenho que dar a explicação em termos de
+
+724
+01:19:50,840 --> 01:19:57,240
+força né então é difícil comparar né os dois paradigmas porque eles partem de princípios
+
+725
+01:19:57,240 --> 01:20:02,880
+sobre o que é uma explicação correta sobre o que é uma metodologia que deve ser empregada sobre
+
+726
+01:20:02,880 --> 01:20:07,680
+quais são os instrumentos que devem ser utilizados para medir sobre quais valores devem estar numa
+
+727
+01:20:07,680 --> 01:20:14,800
+avaliação de teorias né ao um paradigma prefere favorecer explicações gerais né então
+
+728
+01:20:14,800 --> 01:20:21,080
+que o paradigma seja amplo outro paradigma favorece explicações sejam precisas né ainda que
+
+729
+01:20:21,080 --> 01:20:28,120
+tem entre um campo reduzido de fenômenos um segundo tipo de encomensurabilidade é
+
+730
+01:20:28,120 --> 01:20:33,680
+encomensurabilidade linguística então os paradigmas teriam usariam linguagem diferentes
+
+731
+01:20:33,680 --> 01:20:41,080
+dificultaria também essa comparação a própria maneira de você descrever os fenômenos e aí
+
+732
+01:20:41,080 --> 01:20:46,080
+os conceitos que essas teorias utilizam são conceitos diferentes então exemplo ele dá é o
+
+733
+01:20:46,080 --> 01:20:54,240
+conceito de elemento na teoria do lavozé na teoria anterior ou o conceito de energia para
+
+734
+01:20:54,240 --> 01:20:58,440
+Newton para Einstein né são conceitos diferentes embora tenham certas superposições e possam
+
+735
+01:20:58,440 --> 01:21:04,320
+ser aplicados em certos fenômenos de maneira igual são conceitos que tem relações semânticas
+
+736
+01:21:04,320 --> 01:21:10,520
+diferentes com outros termos dessa rede né conceitual e isso também impede uma comparação
+
+737
+01:21:10,520 --> 01:21:20,400
+da ponta a ponta e o cú faz também uma analogia de uma analogia não sei um outro sentido de
+
+738
+01:21:20,400 --> 01:21:25,400
+como extravabilidade como extravabilidade visões de um que ele fala assim os proponentes dos
+
+739
+01:21:25,400 --> 01:21:33,440
+paradigmas competidores para praticam seus ofícios em mundos diferentes né então cientista
+
+740
+01:21:33,440 --> 01:21:39,640
+aristotélico e o cientista neotoniano eles olham pro mundo e eles vêem coisas diferentes né então
+
+741
+01:21:39,640 --> 01:21:45,800
+o cientista neotoniano olha para um corpo de movimento e vê uma ação sem nenhuma força
+
+742
+01:21:45,800 --> 01:21:51,520
+e o aristotélico olha para um corpo de movimento e vê um corpo que está recebendo uma força
+
+743
+01:21:51,520 --> 01:22:00,480
+todo instante né então eles olham para os fenômenos né pra as evidências para os experimentos e
+
+744
+01:22:00,480 --> 01:22:06,120
+conceitualiza aquilo de maneira diferente quase como se não existisse esse objeto perceptual
+
+745
+01:22:06,600 --> 01:22:11,400
+né aqui é difícil saber se conta fazer uma analogia se de fato ele está propondo uma
+
+746
+01:22:11,400 --> 01:22:16,320
+tese mais radical né mas acho que é um sentido de comercialidade importante que tem na estrutura
+
+747
+01:22:17,680 --> 01:22:24,360
+tá então a comercialidade é um dos temas fundamentais da estrutura que vai gerar mais
+
+748
+01:22:24,360 --> 01:22:31,680
+críticas né em especial porque ela parece gerar consequências muito perigosas né então bom
+
+749
+01:22:31,800 --> 01:22:38,880
+não é possível comparar as teorias ponto a ponto então aparentemente cientistas estão
+
+750
+01:22:38,880 --> 01:22:44,480
+escolhendo essas teorias por razões subjetivas né questões de gosto questões de poder questões
+
+751
+01:22:44,480 --> 01:22:51,720
+culturais históricas sociais não pelas virtudes epistêmicas da teoria né se elas explicam
+
+752
+01:22:51,720 --> 01:22:57,520
+mais se elas resolvem mais problema se elas são mais precisas etc né então como vai receber
+
+753
+01:22:57,520 --> 01:23:04,040
+as críticas de que eles seriam relativista né todas as teorias sanguais não existir uma
+
+754
+01:23:04,040 --> 01:23:08,640
+teoria melhor que a outra e irracionalista né que seria um caso extremo né então de que não
+
+755
+01:23:08,640 --> 01:23:14,640
+faz sentido nenhum a razão não desempenha nenhum papel na escura de teorias é uma questão de
+
+756
+01:23:14,640 --> 01:23:23,120
+gosto pessoal de preferências idiosincráticas né e de que a ciência é um campo de irracionalidade
+
+757
+01:23:24,120 --> 01:23:31,640
+então essas são as aparentes consequências que o pun não vai aceitar então eu vou agora
+
+758
+01:23:31,640 --> 01:23:39,280
+rapidamente comentar um segundo que seria a terceira parte da aula né que seriam os artigos após
+
+759
+01:23:39,280 --> 01:23:45,680
+as suas evoluções científicas e são esses ativos principalmente encontrados nesse livro aqui que
+
+760
+01:23:45,800 --> 01:23:54,440
+é a estrutura e são os ativos que ele vão se ele vai desenvolver a partir daqui a 70 80 né e
+
+761
+01:23:54,440 --> 01:24:03,200
+e né tão de novo falando a estrutura recebeu uma série de críticas na filosofia e aqui eu
+
+762
+01:24:03,200 --> 01:24:08,640
+mencione algumas né falei de algumas delas né mas talvez organizando melhor alguns eixos de
+
+763
+01:24:08,640 --> 01:24:14,640
+soluções que foram feitas né então uma delas é é o seguinte né se duas teorias são
+
+764
+01:24:14,640 --> 01:24:20,400
+incomençuráveis então como a gente não pode nem dizer que elas tratam do mesmo assunto né se
+
+765
+01:24:20,400 --> 01:24:27,480
+elas usam métodos diferentes esquemas explicativos distintos valores linguagens e visões de
+
+766
+01:24:27,480 --> 01:24:32,400
+mundos diferentes né como eu posso dizer que são duas teorias competindo ou duas teorias de
+
+767
+01:24:32,400 --> 01:24:39,000
+política né duas teorias sobre eletricidade né elas parecem objetos tão incompatíveis né
+
+768
+01:24:39,000 --> 01:24:47,120
+que elas são é difícil até entender em que maneira elas se sobrepõem elas estão sentindo
+
+769
+01:24:47,120 --> 01:24:53,800
+poderiam estar discutindo sobre aquilo né uma segunda objeção é de que a noção de
+
+770
+01:24:53,800 --> 01:25:00,880
+incomençurabilidade parece ser refutada pela própria experiência do cumb como filósofo historiador né
+
+771
+01:25:00,880 --> 01:25:05,760
+o conflado da incomençurabilidade de três científicas mas o que ele faz no livro dele é
+
+772
+01:25:05,760 --> 01:25:13,880
+descrever a teoria científicas do passado incomençuráveis com o nosso paradigma atual né então
+
+773
+01:25:13,880 --> 01:25:19,960
+como é possível se essas teorias científicas são incomençuráveis como é possível que eu
+
+774
+01:25:19,960 --> 01:25:28,200
+descreva essas teorias na linguagem atual então parece ser um problema com uma questão de auto
+
+775
+01:25:28,200 --> 01:25:34,720
+acessão do né do trabalho do cumb e por último essa questão que eu falei mais do racional da
+
+776
+01:25:34,720 --> 01:25:39,080
+racionalidade relativismo que se duas teorias ser incomençuráveis então escolher entre elas
+
+777
+01:25:39,080 --> 01:25:45,360
+parecer arbitragem a sessão como isso não posso comparar então parece ser uma questão de gosto
+
+778
+01:25:45,360 --> 01:25:54,280
+escolher uma teoria ou outra tá e aí o cumb vai passar grande parte dos anos depois da estrutura
+
+779
+01:25:54,280 --> 01:25:59,560
+que está envolvendo essa noção de incomençurabilidade ele fala que é o grande tema de pesquisa dele
+
+780
+01:25:59,560 --> 01:26:07,480
+dentro da filosofia tá isso coincide talvez seja explicado por isso talvez tenha ver com aquela
+
+781
+01:26:07,480 --> 01:26:13,360
+tentativa de ser mais bem aceito no campo da filosofia como falei a ser criticado por esse uso
+
+782
+01:26:13,360 --> 01:26:18,440
+da história né então talvez tenha uma questão de afirmação do cumb ele vai trabalhar com a
+
+783
+01:26:18,440 --> 01:26:23,360
+filosofia assim da linguagem né então ele vai deixar de falar sobre história da ciência ele vai
+
+784
+01:26:23,360 --> 01:26:29,320
+deixar de falar muito sobre estudos de caso e vai se concentrar especialmente em questões
+
+785
+01:26:29,320 --> 01:26:36,680
+ligadas à filosofia da linguagem então que é significado o que que é referência o que é
+
+786
+01:26:36,680 --> 01:26:41,800
+uma dança significado que é permanência de não como se garante a permanência significado numa
+
+787
+01:26:41,800 --> 01:26:48,360
+dança de termos e falar sobre conceitos e debates que eram muito recentes naquele momento então
+
+788
+01:26:48,360 --> 01:26:55,080
+é um conceitual de tradução o quarnie lidava de teoria causal da referência do clipe que
+
+789
+01:26:55,080 --> 01:27:03,000
+eu lhe do puder então ele vai ser ele vai se inserir nos debates contemporâneos né da cada
+
+790
+01:27:03,000 --> 01:27:10,040
+de 80 90 né usando esses temas pra que formular as noções que ele tinha proposto interiormente
+
+791
+01:27:10,040 --> 01:27:14,880
+e também como uma forma de mostrar que as ideias que ele te desenvolvei do faziam sentido dentro da
+
+792
+01:27:14,880 --> 01:27:22,120
+construção então o que ele vai fazer é reformular a noção de incominstrabilidade a
+
+793
+01:27:22,120 --> 01:27:29,400
+partir de três aspectos né principais em primeiro lugar o com vai reduzir ou pelo menos se circunscreveu
+
+794
+01:27:29,400 --> 01:27:34,720
+os aspectos essenciais da incominstrabilidade como um fenômeno linguístico então se vocês
+
+795
+01:27:34,720 --> 01:27:41,040
+né como eu mostrei aqui ele falava de várias formas de incominstrabilidade e a partir da cada
+
+796
+01:27:41,040 --> 01:27:48,560
+vez que o com vai restringir a incominstrabilidade a diferenças de linguagem então né a incominstrabilidade
+
+797
+01:27:48,560 --> 01:27:54,880
+é um fenômeno linguístico mais que um fenômeno metodológico instrumental de valores né ele não
+
+798
+01:27:54,880 --> 01:28:00,320
+explica a relação entre esse tipo de incominstrabilidade com os demais mas ele sugere que em alguns
+
+799
+01:28:00,320 --> 01:28:05,840
+poucos momentos quer ser o tipo mais fundamental de incominstrabilidade é também aquele que tem
+
+800
+01:28:05,840 --> 01:28:10,400
+as consequências mais relevantes para a gente falar de temas clássicos da filosofia da ciência
+
+801
+01:28:10,400 --> 01:28:15,360
+da realidade a avaliação de teorias então a primeira coisa é como a extrabilidade passa-se
+
+802
+01:28:15,360 --> 01:28:20,800
+agora como extrabilidade linguística diferenças nas linguagens das teorias outros paradigmas
+
+803
+01:28:20,800 --> 01:28:27,360
+segundo lugar ele vai dizer que a incominstrabilidade é local então não é toda a linguagem das
+
+804
+01:28:27,360 --> 01:28:33,880
+teorias que diferem mas existem pontos bolsões de desacordo então a gente pode dizer que existe uma
+
+805
+01:28:33,880 --> 01:28:39,920
+superposição muito grande entre para as linguagens usadas por paradigma diferentes mas
+
+806
+01:28:39,920 --> 01:28:46,080
+em determinados locais essas linguagens vão fazer prescrições e fazer descrições diferentes
+
+807
+01:28:46,080 --> 01:28:53,320
+então essa como extrabilidade ela está restrita alguns pontos e por último ele vai dizer que
+
+808
+01:28:53,320 --> 01:29:01,520
+essa incominstrabilidade deriva da dos termos empregados pelas teorias né e aí vai criar uma
+
+809
+01:29:01,520 --> 01:29:06,560
+teoria taxonômica ele vai dizer que os conceitos científicos se organizam como uma taxonomia
+
+810
+01:29:06,560 --> 01:29:14,640
+biológica então lembro reino né a gente tem os rendos espécies de hêneros né então é uma
+
+811
+01:29:14,640 --> 01:29:21,040
+estrutura hierárquica né que você teria os conceitos científicos né então tem conceito de
+
+812
+01:29:21,040 --> 01:29:28,880
+corpo celestial dentro de corpo celestial celeste vai ter planeta dentro de planeta você vai ter
+
+813
+01:29:28,880 --> 01:29:35,880
+terra, Marte etc então os conceitos científicos se organizariam nessa forma de taxonomia e o que
+
+814
+01:29:35,880 --> 01:29:45,520
+seria uma em diferentes paradigmas seria diferentes taxonomias restrita a aspectos específicos né
+
+815
+01:29:45,520 --> 01:29:53,240
+a um bolsões assim dentro dessa essa linguagem mas haveria uma diferença entre essas taxonomias
+
+816
+01:29:54,440 --> 01:30:02,960
+tá então só pra voltar e aí acho que eu vou encerrar já então como ele responde em parte
+
+817
+01:30:02,960 --> 01:30:07,240
+de críticas são levantadas né então a primeira crítica a gente pode ver que se duas
+
+818
+01:30:07,240 --> 01:30:13,400
+teorias são incominstrabas né então é possível dizer que tratam do mesmo assunto né então bom
+
+819
+01:30:13,400 --> 01:30:19,320
+aqui essa noção de local né taxonomia né não é que os cientistas não tem nada em comum eles
+
+820
+01:30:19,320 --> 01:30:26,600
+têm muito em comum né o desacordo entre eles essa parte da incominstrabilidade se refere a
+
+821
+01:30:26,880 --> 01:30:33,120
+alguns específicos né quando você tem esses paradigmas e mesmo aí há certos problemas
+
+822
+01:30:33,120 --> 01:30:38,240
+certas inscrições né então não é que os cientistas não sabem mais nada o que tá acontecendo
+
+823
+01:30:38,240 --> 01:30:44,760
+então quando teve a teoria do lavoisier e em comparação com a teoria do flor disto não é que
+
+824
+01:30:44,760 --> 01:30:52,320
+eles não tinham nenhum acordo e pontos em comum né as divergências se davam em determinados pontos
+
+825
+01:30:52,440 --> 01:31:00,960
+locais aí como é possível é que não sei como é possível que a gente entenda uma teoria mais
+
+826
+01:31:00,960 --> 01:31:04,840
+antiga se elas são incominstrabas não deveria ser uma teoria que a gente não sabe o que tá
+
+827
+01:31:04,840 --> 01:31:12,520
+acontecendo é uma linguagem completamente diferente e aí o com vai usar uma extinção né que ele
+
+828
+01:31:12,520 --> 01:31:18,160
+vai criar a partir de uma discussão com quarni que é entre tradução e interpretação né então
+
+829
+01:31:18,160 --> 01:31:23,160
+é de fato traduzir é pegar algo que foi falado numa linguagem traduzir para sua linguagem
+
+830
+01:31:23,160 --> 01:31:30,640
+interpretação é um termo que ele chama para aprender uma nova língua né então de fato uma
+
+831
+01:31:30,640 --> 01:31:37,600
+teoria muito antiga uma teoria que já foi abandonada ela é incominstrabil com a teoria atual mas não
+
+832
+01:31:37,600 --> 01:31:43,320
+significa que eu não posso aprender essa teoria né e o que eu tô fazendo quando ele tá explicando
+
+833
+01:31:43,320 --> 01:31:48,960
+os estúdios de caso toda ciência é mostrar e ensinar como esses conceitos eram usados pelos
+
+834
+01:31:48,960 --> 01:31:54,320
+falantes daquelas comunidades científicas ele tá ensinando o sentido daqueles conceitos né
+
+835
+01:31:54,320 --> 01:32:01,520
+então o que a comercialidade impede é a tradução de algumas coisas né eu não consigo traduzir aquele
+
+836
+01:32:01,520 --> 01:32:08,840
+conceito na noção de planeta na teoria cupernicana pra noção de planeta que englobava só pra noção
+
+837
+01:32:08,840 --> 01:32:15,800
+de planeta na nossa plomática pra noção de planeta na teoria cupernicana em que até o planeta
+
+838
+01:32:15,800 --> 01:32:23,120
+mas só uma estrela então eu não consigo fazer tradução perfeita porque os conceitos tem taxonomias
+
+839
+01:32:23,120 --> 01:32:29,360
+diferentes tá mas eu consigo fazer alguma tradução e consigo aprender se necessário o outro essa
+
+840
+01:32:29,360 --> 01:32:34,960
+outra linguagem e com isso a gente entende a resposta que o cumbum vai dar um pouco pra terceira
+
+841
+01:32:34,960 --> 01:32:41,320
+transversão que é feita né se duas teorias são como ensuráveis como é possível que os cientistas
+
+842
+01:32:41,320 --> 01:32:49,760
+escolham racionalmente uma teoria né bom o cumbum entende né que a noção de comercialidade tá um
+
+843
+01:32:49,760 --> 01:32:54,920
+pouco aí de que não é possível fazer uma escolha algoritmica né colocar as teorias ou as
+
+844
+01:32:54,920 --> 01:33:00,520
+paradigmas lá do lado e fazer uma conta aplicar uma certa um certo método e estabelecer que uma
+
+845
+01:33:00,520 --> 01:33:07,920
+é o sinal que a outra mas é possível comparar em certa medida essas teorias e oferecer argumentos a
+
+846
+01:33:07,920 --> 01:33:13,160
+favor de uma teoria ou outra né primeiro porque essa tradução essa divergência local então existe um
+
+847
+01:33:13,160 --> 01:33:20,080
+grande acordo entre as teorias né eles vão partilhar os conceitos pra descrever várias situações eu
+
+848
+01:33:20,080 --> 01:33:24,360
+consigo aprender essa outra teoria não outro paradigma os cientistas de um paradigma pode
+
+849
+01:33:24,360 --> 01:33:30,840
+fazer outro paradigma entender o que seria praticar esse paradigma ele pode fazer tentativas ainda
+
+850
+01:33:30,840 --> 01:33:38,360
+que imperfeitas de tradução para tentar compreender o que seria nas suas dentro do paradigma que o
+
+851
+01:33:38,360 --> 01:33:42,720
+outro paradigma tá propondo ainda que essa tradução sempre tenha perdas e essa é uma das
+
+852
+01:33:42,720 --> 01:33:49,520
+implicações da noção de comercialidade né e com tudo isso ele pode sempre oferecer argumentos né
+
+853
+01:33:49,520 --> 01:33:57,800
+que favoreçam a sua teoria em relação a outras então que me parece muito é que o cúm tá propondo
+
+854
+01:33:57,800 --> 01:34:06,800
+tá encarando entendendo a disputa entre teorias científicas como uma uma questão de debate argumentação
+
+855
+01:34:06,800 --> 01:34:12,720
+muito mais próxima que a gente tem no campo da nossa vida talvez no campo político do que esse
+
+856
+01:34:12,720 --> 01:34:21,240
+problema de uma avaliação objetiva em parcial e universal de teorias científicas que vai ter
+
+857
+01:34:21,240 --> 01:34:28,840
+uma resposta sim ou não né quando a gente tá né da política o nosso dia a dia a gente tem uma
+
+858
+01:34:28,840 --> 01:34:34,680
+divergência com alguém nos acorda né o que a gente faz né geralmente a gente entende que não existe
+
+859
+01:34:34,680 --> 01:34:40,720
+uma solução única não vamos colocar aqui num programa de computador ou tipo uma terceira pessoa
+
+860
+01:34:40,720 --> 01:34:46,160
+e ela vai dizer qualquer solução correta e perfeita né porque a gente entende que existe divergências
+
+861
+01:34:46,160 --> 01:34:50,960
+profundas sobre valores sobre preferência sobre as informações que a gente tem e que pode haver
+
+862
+01:34:50,960 --> 01:34:55,960
+uma discordância né aqui o time foi melhor o time foi pior que a gente deve fazer na cidade ou não
+
+863
+01:34:55,960 --> 01:35:02,800
+então é natural né que haja uma divergência uma discordância mas isso não impede que a gente oferece
+
+864
+01:35:02,800 --> 01:35:08,360
+argumentos de porque a gente acha que a situação a melhor que a situação b né porque eu prefiro
+
+865
+01:35:08,360 --> 01:35:14,720
+uma explicação do que a sua né então o que a gente tem é assim um caso de desacordo em que a gente
+
+866
+01:35:14,720 --> 01:35:20,040
+oferece argumentos buscando convencer as outras pessoas né ainda que a gente admita que não existe
+
+867
+01:35:20,040 --> 01:35:27,160
+uma solução única né neutra que a gente coloca na nossa linguagem que teria uma resposta objetiva
+
+868
+01:35:27,160 --> 01:35:32,000
+a partir daí é uma questão de convencimento que não é simplesmente um apelo emocional né mas é
+
+869
+01:35:32,000 --> 01:35:37,840
+oferecer argumentos que fazem sentido para o meu interlocutor né que possa mostrar que aquilo que o
+
+870
+01:35:37,840 --> 01:35:43,000
+que a gente tem a oferecer exaltam problemas que para eles são considerados relevantes né
+
+871
+01:35:43,000 --> 01:35:49,000
+aquilo sei lá o que é um método que a gente meu paradigma propõe faz sentido ele é bem
+
+872
+01:35:49,000 --> 01:35:55,760
+fundamentado por aí vai então acho que uma das grandes incompreensões da noção de paradigma
+
+873
+01:35:55,760 --> 01:36:03,880
+tá ligado com essa é a compreensão diferente do que é um debate científico né que não é uma
+
+874
+01:36:03,880 --> 01:36:10,400
+solução de uma solução única mais uma puta é um campo retórico e de argumentação que eu tô
+
+875
+01:36:10,400 --> 01:36:16,520
+buscando convencer outras pessoas ainda que há de uma divergência profunda não possa ser resolvido
+
+876
+01:36:16,520 --> 01:36:23,920
+por um único método então eu esse era o segundo momento que eu queria falar da obra do cuno né
+
+877
+01:36:23,920 --> 01:36:29,200
+eu falei um pouco da biografia dele depois falei desse tudo das evolução científicas que eu acho que
+
+878
+01:36:29,200 --> 01:36:35,720
+é o principal livro é sem dúvida o principal livro dele né pelo qual ficou mais conhecido e como
+
+879
+01:36:35,720 --> 01:36:41,920
+vocês podem ver parte do que ele fez muito que ele fez depois foi aprofundar e reformular 10 test
+
+880
+01:36:41,920 --> 01:36:47,000
+conceitos que ele desenvolveu então né e mas quis mostrar um pouquinho também do que com fala
+
+881
+01:36:47,000 --> 01:36:53,600
+depois que são textos e trabalhos menos conhecidos mas que eu acho que são muito interessantes né
+
+882
+01:36:53,600 --> 01:36:59,280
+e especialmente essa questão que ele vai falar sobre debates escoridâncias escolha de teorias né
+
+883
+01:36:59,280 --> 01:37:08,440
+que eu acho que é um tema que me interessa bastante bom eu acho que é isso eu acho que já deu tempo
+
+884
+01:37:08,440 --> 01:37:13,160
+aí eu até pensei a falar um pouco mais sobre a solução de mas eu acho que aí a gente passa muito
+
+885
+01:37:13,160 --> 01:37:17,320
+do tempo então fica por uma próxima eu talvez eu posso trazer depois na parte das perguntas
+
+886
+01:37:18,040 --> 01:37:37,800
+perfeito então fizemos 15 minutinhos de intervalo pode ser professores retornamos então as 10.55
+
+887
+01:37:37,800 --> 01:37:44,120
+perfeito então daquê até daqui 15 minutinhos
+
+888
+01:55:07,800 --> 01:55:12,800
+e aí
+
+889
+01:55:15,480 --> 01:55:24,480
+e olá estamos de volta então para a segunda parte da nossa aula de hoje com o sobre o tema a
+
+890
+01:55:24,480 --> 01:55:31,040
+filosofia da ciência de tomas com sobre a responsabilidade aqui do nosso convidado o
+
+891
+01:55:31,040 --> 01:55:40,200
+primeiro Paulo pirosebi que nos já nos proporcionou uma primeira abordagem sobre a filosofia
+
+892
+01:55:40,200 --> 01:55:49,280
+da ciência tomas com que com certeza né foi muito proveitosa para todos nós né pelas perguntas que
+
+893
+01:55:49,280 --> 01:55:57,360
+se viram aqui isso tá muito evidenciado então eu vou começar Paulo pela por uma aqui fazendo
+
+894
+01:55:57,360 --> 01:56:06,600
+a questão primeiro que que formulou uma questão na verdade a primeira que foi a Josiane e e ela
+
+895
+01:56:06,600 --> 01:56:13,040
+pergunta o seguinte que tá aí também agora na nossa tela todo pesquisador faz um recorte da
+
+896
+01:56:13,040 --> 01:56:19,560
+história para sua análise como o autor trabalha com isso sem manipular a história a seu favor
+
+897
+01:56:19,560 --> 01:56:31,080
+e tá fechado seu microfone paul pernão e eu acho essa pergunta muito boa obrigado para você
+
+898
+01:56:31,080 --> 01:56:39,920
+é muito interessante é um tema interessante pesquisa sobre com na verdade eu estava tentando até
+
+899
+01:56:39,920 --> 01:56:45,920
+fazer um artigo sobre uma coisa parecida que a relação entre história e filosofia da ciência
+
+900
+01:56:45,920 --> 01:56:53,320
+e o com ele por um lado ele é um dos pessoas que é um filósofo que talvez tenha sido um dos
+
+901
+01:56:53,320 --> 01:56:59,640
+primeiros vou dizer o primeiro assim mas um dos primeiros dentro desse grupo dessa chamada virada
+
+902
+01:56:59,640 --> 01:57:06,840
+historicista na filosofia da ciência né a pregar a importância de de usar a história para
+
+903
+01:57:06,840 --> 01:57:11,400
+extrair consequências filosóficas e pensar de como a ciência funciona de maneira geral
+
+904
+01:57:12,160 --> 01:57:18,760
+então ele alguém que fala muito sobre como a história é importante para a filosofia né em
+
+905
+01:57:18,760 --> 01:57:24,240
+certo sentido como a filosofia também conhecimento filosofia pode ajudar depois a entender melhor a
+
+906
+01:57:24,240 --> 01:57:29,440
+história já que você é um pouco aquele círculo virtuoso que eu falei na você olha para a história
+
+907
+01:57:29,440 --> 01:57:35,240
+elabora uma teoria partir daí né sobre como funciona ciência isso vai te ajudar a reavaliar o
+
+908
+01:57:35,240 --> 01:57:39,080
+material histórico né que às vezes que assim sujeita a interpretação
+
+909
+01:57:39,080 --> 01:57:48,640
+mas o conceito também alertou um pouco pros perigos de você impor uma filosofia uma certa
+
+910
+01:57:48,640 --> 01:57:56,000
+leitura histórica histórica sobre o material historiográfico então ele sempre teve muito
+
+911
+01:57:56,000 --> 01:58:03,320
+cuidado de que você não tivesse uma ideia sobre como a ciência funciona e aí fossem na história
+
+912
+01:58:03,320 --> 01:58:08,040
+que você precisa procurar esses desenvolvimentos para ver que eles comprova aquela sua teoria né
+
+913
+01:58:08,040 --> 01:58:14,560
+e isso era particularmente comum naquele momento porque como eu disse o livro do cúm tem um impacto
+
+914
+01:58:14,560 --> 01:58:20,600
+muito grande não só na filosofia mas em vários outros campos né e especialmente essa ideia de
+
+915
+01:58:20,600 --> 01:58:27,320
+paradigma né de que parecia que era o elemento que trazia que caracterizava a cientificidade né então
+
+916
+01:58:27,320 --> 01:58:32,760
+existem muitos trabalhos nas diferenciências de pessoas tentando mostrar por exemplo a emergência
+
+917
+01:58:32,760 --> 01:58:38,400
+de paradigma eu falava que surgiu um paradigma na psicologia que esse é o primeiro paradigma da
+
+918
+01:58:38,400 --> 01:58:47,080
+economia muitas vezes com o intuito de defender né e de dar um outro suporte pro pra sua teoria
+
+919
+01:58:47,080 --> 01:58:50,960
+né além das afirmações dela mas que tivesse um suporte histórico olha que a gente tá entrando
+
+920
+01:58:50,960 --> 01:58:58,760
+o período da ciência com essa minha teoria e isso era também tinha um conteúdo uma certo
+
+921
+01:58:58,760 --> 01:59:03,960
+e esse né também de propaganda de favorecer a própria teoria mas tinha também uma aplicação
+
+922
+01:59:03,960 --> 01:59:09,880
+ingênua né dessas concepções filosóficas do sentido óleo como falou então que a ciência
+
+923
+01:59:09,880 --> 01:59:15,400
+ela funciona com a aquisição de um paradigma depois tem ciência normal né tem uma crise aí
+
+924
+01:59:15,400 --> 01:59:21,040
+sujeito paradigma tem uma revolução tem outra ciência normal e por aí vai e existe sempre o
+
+925
+01:59:21,040 --> 01:59:26,760
+perigo de você tentar então impor isso né no material histórico tanto então tá eu vou olhar
+
+926
+01:59:26,760 --> 01:59:32,760
+o caso na história da biologia e vou encontrar o paradigma e vou tentar descobrir a crise e vou
+
+927
+01:59:32,760 --> 01:59:38,560
+tentar ver o debate e ver quando surge o próximo né então com alertava sempre sobre esses riscos
+
+928
+01:59:38,560 --> 01:59:45,280
+né que isso não seria seria feito e se fizesse isso você teria por um lado uma história
+
+929
+01:59:45,280 --> 01:59:50,000
+mal feita uma história que na verdade é uma história distorcida pelas suas preconceições
+
+930
+01:59:50,000 --> 01:59:53,880
+filosóficas e uma filosofia que não teria nada ganhar com história porque essa história também
+
+931
+01:59:53,880 --> 01:59:59,640
+é um retrato real do que a ciência né então ele propõe como uma das soluções
+
+932
+01:59:59,640 --> 02:00:07,640
+que esses dois campos história e filosofia fossem mantidos com uma certa distância ele achava
+
+933
+02:00:07,640 --> 02:00:12,080
+que era muito importante conversa em diálogo mas na mesma tempo achava que esses dois campos
+
+934
+02:00:12,080 --> 02:00:16,440
+não deveriam ser o mesmo campo não deveria fazer uma filosofia histórica uma história
+
+935
+02:00:16,440 --> 02:00:21,800
+filosófica da ciência deveria ter filósofos que faziam filosofia da ciência olhando para a
+
+936
+02:00:21,800 --> 02:00:27,320
+história e historiadores que faziam história da ciência ainda que refletindo sobre o seu
+
+937
+02:00:27,320 --> 02:00:34,120
+próprio ofício e olhando né o que os fósso da ciência faziam também então uma das soluções
+
+938
+02:00:34,120 --> 02:00:42,160
+que ele pregava né que ele economizava para evitar que a história fosse ficar sem refém
+
+939
+02:00:42,160 --> 02:00:46,840
+da filosofia né desses modelos de como se desenvolve a ciência era que o historiador não
+
+940
+02:00:46,840 --> 02:00:52,200
+tinha muita atenção na filosofia ele deveria fazer a história seguindo as metodologias
+
+941
+02:00:52,200 --> 02:00:58,360
+desenvolver os prehistoriadores né cuidado com as fontes buscar as fontes originais
+
+942
+02:00:58,360 --> 02:01:03,720
+avaliação da história só um historiador mas as metodologias que os próprios historiadores
+
+943
+02:01:03,720 --> 02:01:10,280
+desenvolvem sem e não tem uma preocupação de comprovar uma teoria filosófica né ele achava
+
+944
+02:01:10,280 --> 02:01:14,640
+que história devia ser feito por historiador filosofia pelo filósofo que depois eles poderiam
+
+945
+02:01:14,640 --> 02:01:19,240
+encontrar mas quando cada um fosse fazer seu trabalho deveria fazer de maneira independente
+
+946
+02:01:19,240 --> 02:01:26,080
+mas acho que é um risco sempre né de qualquer trabalho de história bom acho que se pessoas
+
+947
+02:01:26,080 --> 02:01:31,240
+trabalham com uma história tem poderiam falar melhor sobre isso né de você ter uma certa
+
+948
+02:01:31,240 --> 02:01:37,280
+concepção prévia sobre o que você deve encontrar quais padrões destacar né então quais elementos
+
+949
+02:01:37,280 --> 02:01:42,200
+são relevantes para descrever um set fenômeno né então tomar cuidado para você não sufocar de
+
+950
+02:01:42,200 --> 02:01:50,040
+mais o episódio que você está tentando descrever né aí eu acho que só para a nossa
+
+951
+02:01:50,040 --> 02:01:52,640
+pra terminar acho que é por isso que eu falei que é um tema de coisa que se me interessa
+
+952
+02:01:52,640 --> 02:01:57,480
+a minha ideia então é tentar entender um pouco também se a história foi feito com o historiador
+
+953
+02:01:57,480 --> 02:02:02,440
+e o filosofia pelo filósofo né em que medida eles estão dialogando né com a importância do
+
+954
+02:02:02,440 --> 02:02:06,960
+diálogo então esse é um tema que me interessa bastante né como você também não apaga essa
+
+955
+02:02:06,960 --> 02:02:12,960
+claridade mesmo mantendo essa identidade das duas cipinas né da história da filosofia
+
+956
+02:02:12,960 --> 02:02:18,760
+então acho que uma pergunta bem bem bem interessante bem atual
+
+957
+02:02:20,760 --> 02:02:28,080
+Ótimo obrigado Paulo eu vou passar então a próxima questão aqui é na ordem que eu estou
+
+958
+02:02:29,080 --> 02:02:36,480
+estruturando manipulando aqui né é a da Patrícia né você é mais para colocar as coisas dentro
+
+959
+02:02:36,480 --> 02:02:42,440
+de uma mesma temática isso essa essa pergunta porque eu acho que está bem ligado a forma como
+
+960
+02:02:42,440 --> 02:02:49,400
+Paulo respondeu a pergunta anterior na pergunta então a Patrícia Paulo é o Thomas Kuhn que faz
+
+961
+02:02:49,400 --> 02:02:55,920
+críticas à ideia do modelo linear de desenvolvimento será que o professor poderia falar mais sobre
+
+962
+02:02:56,920 --> 02:03:07,480
+Ah tá ótimo não é esse é um dos talvez os temas principais da estrutura né é propôr como
+
+963
+02:03:07,480 --> 02:03:12,920
+eu coloquei naquela frase inicial né que a frase com que ele inicia o primeiro capítulo da estrutura né
+
+964
+02:03:12,920 --> 02:03:19,640
+se a história fosse vista com mais do que o repositório para dados e cronologias poderia
+
+965
+02:03:19,640 --> 02:03:26,440
+ter uma transformação na imagem que atualmente nos domina né então o que ele está propondo é
+
+966
+02:03:26,440 --> 02:03:33,080
+de fato uma nova imagem de ciência né então tirar a imagem anterior que era essa imagem linear
+
+967
+02:03:33,080 --> 02:03:37,480
+como o ativista do desenvolvimento científico e propor uma imagem que pelo menos em alguns
+
+968
+02:03:37,480 --> 02:03:43,320
+aspectos não é linear ela tem uma certa linearidade com o atividade mas ela não é
+
+969
+02:03:43,320 --> 02:03:51,960
+realmente linear então falando também um pouco do que ele tinha mencionado né o Kuhn
+
+970
+02:03:51,960 --> 02:03:58,400
+quando ele se depara e vai começar a trabalhar no primeiro momento com a história da ciência
+
+971
+02:03:58,400 --> 02:04:03,200
+aquela experiência da histórias que ele reconta em vários momentos né ele teve uma entrevista
+
+972
+02:04:03,200 --> 02:04:08,520
+grande para quem quiser conhecer aliás parênteses né aqui no caminho da estrutura que é esse
+
+973
+02:04:08,520 --> 02:04:13,640
+coletâneo de artigos que são especialmente da cada dia tem de 90 artigos bem técnicos
+
+974
+02:04:13,640 --> 02:04:17,320
+que está falando de filosofia da linguagem com essa habilidade mas no final tem uma longa
+
+975
+02:04:17,320 --> 02:04:22,600
+entrevista com Kuhn de uma 100 páginas em que ele vai falar da vida dele a vida nasceu dos pais
+
+976
+02:04:22,600 --> 02:04:26,720
+educação e dos interesses dele porque ele foi para a filosofia então é muito interessante também se
+
+977
+02:04:26,720 --> 02:04:31,800
+ele quiser ter um primeiro contato com Kuhn talvez menos acadêmico menos filosófico é uma boa
+
+978
+02:04:31,800 --> 02:04:38,280
+porta de entrada aí é bom então voltando aqui né quando ele fala da experiência com a
+
+979
+02:04:38,280 --> 02:04:45,320
+Aristóteles ele percebe que essa imagem que ele tinha né já de senso comum e que ele lia desses
+
+980
+02:04:45,320 --> 02:04:53,800
+livros de filosofia que ele encontrava então era uma imagem que refletia essa percepção de
+
+981
+02:04:53,800 --> 02:04:59,880
+paciência empreendimento linear e como latir né linear porque você não teria quebras né você
+
+982
+02:04:59,880 --> 02:05:07,800
+sabe essas essas mudanças né profundas assim continuar no mesmo direção e como lativa né
+
+983
+02:05:07,800 --> 02:05:13,440
+você tá cada vez adicionando novos conhecimentos né então primeiro senti que descobre uma coisa
+
+984
+02:05:13,440 --> 02:05:19,120
+outro senti descobre alguma coisa mais né expande então aumenta a aplicação daquilo que
+
+985
+02:05:19,120 --> 02:05:27,840
+sabia extrai novas consequências descobre uma nova lei né mas ele não reformula ele não regenta
+
+986
+02:05:27,840 --> 02:05:34,480
+ele não interpreta né aquilo que foi que era sabido continua sabido e só outras coisas
+
+987
+02:05:34,480 --> 02:05:39,920
+não sendo adicionadas né e o que o Kuhn tá propondo né que achar uma imagem de senso comum
+
+988
+02:05:39,920 --> 02:05:45,040
+talvez sobre o que a gente vê da ciência por vários motivos inclusive pelo papel dos manuais
+
+989
+02:05:45,040 --> 02:05:50,520
+sentidos né de como a gente toma contato com a ciência como cientistas se concebe mas que era uma
+
+990
+02:05:50,520 --> 02:05:57,520
+imagem que também era reproduzida e sistematizada da filosofia da ciência e a partir da história
+
+991
+02:05:57,520 --> 02:06:05,120
+da ciência ele percebe que essa a concepção lineária cumulativista da ciência não é capaz
+
+992
+02:06:05,120 --> 02:06:11,280
+de descrever de fato o que acontece na história da ciência né então você vai ver períodos de
+
+993
+02:06:11,280 --> 02:06:16,200
+em que você tem essa imagem cumulativa então que os cientistas estão explorando que a ciência
+
+994
+02:06:16,200 --> 02:06:21,160
+normal né explorando aquele campo de conhecimento descobrindo várias coisas novas né um caso que
+
+995
+02:06:21,160 --> 02:06:25,840
+ele cita da tabela periódica então você tem lá né quais são os elementos possíveis os cientistas
+
+996
+02:06:25,840 --> 02:06:31,480
+descobrindo o novo elemento adicionando essa tabela é uma pesquisa que se encaixa nesse modelo mas
+
+997
+02:06:31,480 --> 02:06:37,360
+você tem períodos também durante a história da ciência que contradizem essa ideia cumulativista
+
+998
+02:06:37,360 --> 02:06:42,960
+lineária então é o caso das grandes evoluições científicas né que você não vai ter só se não
+
+999
+02:06:42,960 --> 02:06:48,080
+vai ter simplesmente uma ação do conhecimento na verdade você vai ter uma reestruturação daquele
+
+1000
+02:06:48,080 --> 02:06:55,560
+campo de conhecimento né então muitas das coisas que você sabia se sabiam vão ser relidas
+
+1001
+02:06:55,560 --> 02:07:01,440
+de outra chave vão ser trabalhadas de uma outra forma vão ser adicionadas coisas novas inclusive
+
+1002
+02:07:01,440 --> 02:07:06,720
+muito do que eram problemas né por uma teoria anterior não vão ser mais problemas para a
+
+1003
+02:07:06,720 --> 02:07:12,320
+teoria mais nova aquilo que eram vistas como soluções para uma teoria não vão ser soluções
+
+1004
+02:07:12,320 --> 02:07:16,880
+para outra então não é só uma questão de edição mas uma questão também de subtração né
+
+1005
+02:07:16,880 --> 02:07:21,360
+então tem um termo que ficou famoso que são as pedras cunhanas né que é o fato de uma
+
+1006
+02:07:21,360 --> 02:07:27,920
+questão científica implica também que algo da teoria anterior é descartada né então isso
+
+1007
+02:07:27,920 --> 02:07:34,320
+compõe essa nova imagem que o cun está propondo né então que é um modelo não como lá não só
+
+1008
+02:07:34,320 --> 02:07:38,560
+acumulativo né então nos períodos de ciência normal e se assemeira esse período de cumulatilidade
+
+1009
+02:07:38,560 --> 02:07:44,400
+linearidade mas tem certas quebras né que impedem que você aplique esse modelo de maneira
+
+1010
+02:07:44,400 --> 02:07:50,800
+absoluta na história da ciência uma última coisa né o cun é talvez um dos grandes nomes
+
+1011
+02:07:50,800 --> 02:07:58,400
+de pessoas que expôs essa ideia de uma de uma da ciência passando por grandes transformações
+
+1012
+02:07:58,400 --> 02:08:05,800
+né ou pelo menos deu um sistematizou isso de uma maneira que foi que permaneça na filosofia
+
+1013
+02:08:05,800 --> 02:08:11,280
+mas ele não é nem o primeiro filósofo a falar desse tipo de coisa né de caberia-quebras e rupturas
+
+1014
+02:08:11,280 --> 02:08:17,000
+né o bachelar é um que fala isso dentro da tradição contínuca ou francesa né e você tinha
+
+1015
+02:08:17,000 --> 02:08:21,760
+a própria ideia de revolução científica que é uma ideia que vem da filosofia uma ideia dos
+
+1016
+02:08:21,760 --> 02:08:28,280
+historiadores dos próprios cientistas né quando vão conceber o seu trabalho então o copêneco
+
+1017
+02:08:28,280 --> 02:08:33,380
+fala de uma revolução né tinha um período de crise né naquele momento na astronomia que ele
+
+1018
+02:08:33,380 --> 02:08:38,360
+está propondo uma revolução né outros cientistas falam de grandes evoluções evolução
+
+1019
+02:08:38,360 --> 02:08:46,760
+e o toniã na lavoziela nova química e por aí vai então contextualizando um pouco mais
+
+1020
+02:08:54,760 --> 02:09:02,000
+eu vou aproveitar que você falou de ciência normal e ciência extraordinária a regulações
+
+1021
+02:09:02,000 --> 02:09:08,840
+para colocar que a pergunta do renan que também fala sobre esse tema é fazendo uma alusão
+
+1022
+02:09:08,840 --> 02:09:16,760
+Aristóteles na pergunta o seguinte deixa o pessoal colocar aqui na tela para ler isso é
+
+1023
+02:09:16,760 --> 02:09:23,360
+possível fazer um comparativo entre ciência normal e revolução científica com os conceitos
+
+1024
+02:09:23,360 --> 02:09:35,120
+e potência de Aristóteles a pergunta complexa eu não sei se teria uma resposta em relação a isso
+
+1025
+02:09:35,120 --> 02:09:39,720
+porque eu não sou um grande conhecedor da pra de Aristóteles eu não sei exatamente qual
+
+1026
+02:09:39,720 --> 02:09:47,520
+que era a analogia que você pensou então eu vou dar uma resposta que passou pela minha cabeça o
+
+1027
+02:09:47,520 --> 02:09:55,040
+trabalho bastante interessante que não sei se você tinha pensado nesse livro atenção
+
+1028
+02:09:55,040 --> 02:10:05,640
+essencial é um artigo que chama então lembrar um nome uma função para os experimentos mentais
+
+1029
+02:10:05,640 --> 02:10:12,600
+é um artigo que ele escreveu e que ele vai tentar entender o que são experimentos mentais
+
+1030
+02:10:12,880 --> 02:10:17,880
+experimenta aquilo que a gente geralmente faz em um laboratório você tem equipamentos
+
+1031
+02:10:17,880 --> 02:10:24,280
+você tem condições nacionais você mede alguma coisa e analisam os resultados mas em vários
+
+1032
+02:10:24,280 --> 02:10:33,000
+episódios da ciência você tem grandes cientistas que vão propor uma espécie de experimento que não
+
+1033
+02:10:33,000 --> 02:10:39,520
+é usado não é feito em um laboratório então mais tem alguns experimentos que ele vai pensar o
+
+1034
+02:10:39,520 --> 02:10:46,000
+que se alguém tivesse no espaço de outra pessoa na terra eu sei que se não me gano boults
+
+1035
+02:10:46,000 --> 02:10:50,800
+o matamento pensa no experimento mental né ele diz como é possível que alguma coisa que eu pensei
+
+1036
+02:10:50,800 --> 02:10:57,600
+na minha cabeça possa dizer alguma coisa sobre a teoria que descreve o mundo então esse é o
+
+1037
+02:10:57,600 --> 02:11:01,360
+problema do qual ele parte né como experimenta alguma coisa que eu laborei mas estou sempre
+
+1038
+02:11:01,360 --> 02:11:05,880
+potética na minha cabeça pode determinar qual a teoria mais adequada para explicar como as
+
+1039
+02:11:05,880 --> 02:11:12,240
+experimentas vão implicamente né e aí ele vai dizer que os experimentos mentais eles não são
+
+1040
+02:11:12,240 --> 02:11:21,720
+exatamente um experimento no sentido de estar coletando dados mas de que eles enfatizam aspectos
+
+1041
+02:11:21,720 --> 02:11:29,080
+latentes de um paradigma que se não fosse eles talvez a gente não prestasse atenção né então
+
+1042
+02:11:29,080 --> 02:11:34,320
+tem um experimento mental famoso do Galileu que ele imagina se ele jogasse um negócio da torre de
+
+1043
+02:11:34,320 --> 02:11:39,600
+arvore depois se ele jogasse um bloco né velocidade ele cairia o que é mais rápido que
+
+1044
+02:11:39,600 --> 02:11:45,400
+não é mais rápido depende da massa né ou do tempo e ele imagina então se ele jogasse duas
+
+1045
+02:11:45,400 --> 02:11:52,160
+coisas que são dois blocos um bloco grande ou dois blocos separados com uma corda e aí ele começa
+
+1046
+02:11:52,160 --> 02:11:59,120
+a pensar no que pode determinar o movimento né e o que ele está fazendo com isso não é obter um
+
+1047
+02:11:59,120 --> 02:12:07,440
+movimento mas a pensar quais as implicações possíveis da teoria que levariam ela a ser aceita
+
+1048
+02:12:07,440 --> 02:12:14,400
+ser refutada né então eu acho que em certo sentido essa questão entre a sensação normal
+
+1049
+02:12:14,400 --> 02:12:18,560
+e sem resolução científica poderia pensar um pouco a partir dessa chave no sentido de que os
+
+1050
+02:12:18,560 --> 02:12:24,760
+cientistas estão tentando explorar o que no caso experimentais eles estão tentando um pouco extrair
+
+1051
+02:12:24,760 --> 02:12:31,000
+o entendimento do paradigma né sei lá de poderia chamar de potencial mas a gente não sabe muito
+
+1052
+02:12:31,000 --> 02:12:38,840
+bem potencial em relação ao que né mas assim essas capacidades explicativas do paradigma de
+
+1053
+02:12:38,840 --> 02:12:45,320
+maneira a resolver o maior número de problemas que eles encontram e a revolução científica é
+
+1054
+02:12:45,320 --> 02:12:51,800
+crise é de fato quando os cientistas não se mostram capazes de de fato articular aquele paradigma
+
+1055
+02:12:51,800 --> 02:12:57,880
+talvez que possa dizer que a potência daquele paradigma se esgotou né pesado de que o que talvez
+
+1056
+02:12:57,880 --> 02:13:02,680
+não gostasse muito de falar nesses termos né de como se tivesse uma coisa ali quando na verdade é
+
+1057
+02:13:02,680 --> 02:13:07,640
+um pouco da engeocidade do cientista da daquilo que você consegue resolver o que são problemas
+
+1058
+02:13:07,640 --> 02:13:12,040
+relevantes para aquela comunidade mas poderia ser pensado um pouco nessa chave assim eu acho que
+
+1059
+02:13:12,040 --> 02:13:18,360
+talvez possa ser uma analogia interessante eu não sei se eu ajudei também mais confuso aí
+
+1060
+02:13:19,320 --> 02:13:27,480
+bom é então vamos continuar nessa linha que o renan inaugurou e que é fazer relações do com
+
+1061
+02:13:27,480 --> 02:13:33,480
+outros autores com outras temáticas que não eram exatamente as que ele tinha em vista né quando
+
+1062
+02:13:33,480 --> 02:13:40,200
+formulou a sua teoria há muitas perguntas nessa direção eu vou passar já que a uma que não é
+
+1063
+02:13:40,200 --> 02:13:49,880
+muito porque é muito mais uma pergunta de esclarecimento que a pergunta é do Marcelo é que
+
+1064
+02:13:49,880 --> 02:13:59,240
+ele quer saber é dos textos não é essa ainda não é a anterior ou a seguinte eu acho não é a
+
+1065
+02:13:59,240 --> 02:14:06,520
+seguinte é ele fez duas perguntas é a segunda segunda pergunta que o Marcelo fez que é muito
+
+1066
+02:14:06,520 --> 02:14:14,680
+mais uma pergunta de apenas de formação o Marcelo pergunta também gostaria de saber em quais textos
+
+1067
+02:14:14,680 --> 02:14:25,320
+com fala sobre ciências humanas é eu acho que uma das dificuldades que a gente falei né dificuldade
+
+1068
+02:14:25,320 --> 02:14:31,640
+você tentar aplicar as filosofias modelos para todas as ciências é que de fato que ele propõe
+
+1069
+02:14:32,280 --> 02:14:40,280
+é baseado em ciências exatas né então ele fala de física química e muito por cima ele menciona
+
+1070
+02:14:40,280 --> 02:14:46,760
+algumas outras teorias com geologia e biologia a estrutura de ciências científicas é a gente tá
+
+1071
+02:14:46,760 --> 02:14:53,280
+falando de revoluções científicas na verdade tá falando das ciências mais clássicas né
+
+1072
+02:14:53,280 --> 02:15:01,440
+de física química né especialmente depois de Newton né então o com nunca se debruçou muito sobre
+
+1073
+02:15:01,440 --> 02:15:07,200
+outras ciências né ele sempre ficou muito restrito a esses campos de conhecimento que eram os campos
+
+1074
+02:15:07,200 --> 02:15:12,400
+que ele dominava mais pela própria formação e que eram os campos tradicionalmente trabalhados
+
+1075
+02:15:12,400 --> 02:15:20,960
+da filosofia da ciência né até a filosofia da ciência muito inicialmente né feita por
+
+1076
+02:15:20,960 --> 02:15:27,360
+outros físicos né que vem aqui a pessoa cientistas né que vão para a filosofia então ele não tem
+
+1077
+02:15:27,360 --> 02:15:31,960
+muitas coisas que ele fala sobre a ciência sobre ciências humanas né a maioria das coisas que ele
+
+1078
+02:15:31,960 --> 02:15:40,000
+fala é sobre ele faz alguns comentários muito esporático solto do tipo a talvez alguma ciência
+
+1079
+02:15:40,000 --> 02:15:47,280
+esteja se aproximando do período paradigmático ou sem claramente não são paradigmáticas né
+
+1080
+02:15:47,280 --> 02:15:54,960
+e faz muito contraste com ciências humanas né então acho que o primeiro ponto que ele apresenta
+
+1081
+02:15:54,960 --> 02:16:03,520
+essa relação é quando ele tá mostrando a diferença entre ciências a ciência normal e outras áreas
+
+1082
+02:16:03,520 --> 02:16:10,200
+de conhecimento e aí ele vai falar bastante sobre filosofia e arte bastante não no sentido de tomar
+
+1083
+02:16:10,200 --> 02:16:17,080
+os campos nessas áreas porque elas contrastam com o que é o ensino de ciência e ele fala um pouco
+
+1084
+02:16:17,080 --> 02:16:22,520
+na esse texto na função do dogma ele usa uma expressão que ele usa também na estrutura né de
+
+1085
+02:16:22,520 --> 02:16:28,120
+que com exceção talvez da teologia não existe nenhuma área com uma educação tão rígida e tão
+
+1086
+02:16:28,120 --> 02:16:35,800
+ortodoxa quanto a ciência de que o cientista tá lá para aprender o que é aceito como conhecimento
+
+1087
+02:16:35,800 --> 02:16:41,800
+da área sem estar preocupado com o que foi falado ao longo da história ser realmente aquilo que o Milton
+
+1088
+02:16:41,800 --> 02:16:51,800
+falou né se como chegou aquele conceito aquele ponto qual artigo original ele vai receber o
+
+1089
+02:16:51,800 --> 02:16:56,280
+conhecimento que é o conhecimento padrão de acordo com a comunidade científica um pouco talvez
+
+1090
+02:16:56,280 --> 02:17:00,760
+como a gente vê no colégio né então a história é isso matemática é isso que me quer isso não tem
+
+1091
+02:17:00,760 --> 02:17:10,520
+uma relação muitas vezes de reconstruir não uma uma visão histórica e o cumpra ele isso não é um
+
+1092
+02:17:10,520 --> 02:17:15,880
+problema no caso da ciência ele acha que isso é muito efetivo por cientistas fazerem aquilo que eles
+
+1093
+02:17:15,880 --> 02:17:24,040
+fazem é o cientista não é alguém que tá precisa ter um pensamento histórico muito apurado que
+
+1094
+02:17:24,040 --> 02:17:29,640
+precisa ter um conhecimento como um campo se desenvolveu ele precisa ter os ferramentais
+
+1095
+02:17:29,640 --> 02:17:37,000
+daquele campo para poder lidar com a fronteira de conhecimento né ele tem que ter uma formação
+
+1096
+02:17:37,000 --> 02:17:42,600
+para chegar com o conhecimento que ele precisa para desenvolver a ciência a partir de então isso com
+
+1097
+02:17:42,600 --> 02:17:47,880
+contraste muito com a educação e ciências humanos né ele dá o exemplo da arte da filosofia que você
+
+1098
+02:17:47,880 --> 02:17:52,760
+passa muito grande com os clássicos né então um curso de filosofia em que você
+
+1099
+02:17:52,760 --> 02:17:59,000
+chegasse na hora e o professor fosse falar o que é a visão que a filosofia aceita não faria nem
+
+1100
+02:17:59,000 --> 02:18:04,440
+muito sentido né não é talvez a se contraditória com a própria noção de filosofia né então a
+
+1101
+02:18:04,440 --> 02:18:09,640
+gente vai claro depois a gente quer trabalhar com os problemas estão sendo discutidos pelos
+
+1102
+02:18:09,640 --> 02:18:15,240
+filósofos hoje né mas a gente vai para isso tentar se familiarizar e conhecer a obra de
+
+1103
+02:18:15,240 --> 02:18:20,040
+que vieram antes né como eles lidaram com problemas parecidos para se espelhar naquilo lá
+
+1104
+02:18:20,040 --> 02:18:27,240
+encontrar semelhanças tanto né problemas de ferramentas para solucionar de de conceitos né
+
+1105
+02:18:27,240 --> 02:18:35,720
+de tese e filosofias então é uma é uma educação muito voltada nas ciências humanas a você ler
+
+1106
+02:18:35,720 --> 02:18:44,280
+os originais e não ler uma representação né que não é fiel aos fatos de como as coisas são
+
+1107
+02:18:44,520 --> 02:18:50,200
+familiarizar logo com aqueles problemas então você lê os originais né tem a ser com a história
+
+1108
+02:18:50,200 --> 02:18:54,600
+que uma educação também muito crítica né então a ideia é de que você está sempre
+
+1109
+02:18:54,600 --> 02:19:00,360
+tentando questionar e ver os problemas e buscando outras soluções e também um campo de
+
+1110
+02:19:00,360 --> 02:19:05,640
+conhecimento muito parecido com aquilo que ele fala que é o período pré-paradigmático das
+
+1111
+02:19:05,640 --> 02:19:10,360
+escolas né são esses vários grupos que estão tentando fundamentar sua posição e
+
+1112
+02:19:11,160 --> 02:19:16,680
+atacar e reputar as posições adversárias né acho que a filosofia tem um pouco disso daí
+
+1113
+02:19:16,680 --> 02:19:22,760
+é enderente a essa esse campo né o que também não é o que nunca falou né acho que não é
+
+1114
+02:19:22,760 --> 02:19:27,080
+intenção dele dizer que assim a filosofia é uma preciência né no fato é um é uma disciplina
+
+1115
+02:19:27,080 --> 02:19:32,440
+diferente que tem essa outra dinâmica que a gente tá sempre discutindo argumentos trazendo
+
+1116
+02:19:32,440 --> 02:19:39,160
+de novo argumentos que pareciam antigos e para passados né e então ali contrasta as ciências
+
+1117
+02:19:39,160 --> 02:19:45,160
+com a ciência humanas nesse sentido e ele tem um artigo que é talvez possa ser interessante
+
+1118
+02:19:46,760 --> 02:19:51,000
+que é nesse livro caminho de gestrutura que ele vai discutir com um filósofo também
+
+1119
+02:19:51,720 --> 02:19:57,080
+bastante conhecido que é o charles taylor que chama as ciências naturais e ciências humanas
+
+1120
+02:19:58,280 --> 02:20:06,600
+né só que talvez aqui acho que o com o bom o taylor está tentando mostrar que as ciências
+
+1121
+02:20:06,600 --> 02:20:13,000
+humanas e ciências naturais são muito diferentes né então ciências ele tem uma leitura tradicional
+
+1122
+02:20:13,000 --> 02:20:17,960
+do que a ciência não então a ciência objetiva a sencela e aos fatos e as ciências humanas
+
+1123
+02:20:17,960 --> 02:20:24,280
+envolvem muita interpretação né e uma que ele chama de hermêneutica né e o cum vai tentar
+
+1124
+02:20:24,280 --> 02:20:29,640
+nesse artigo aproximar as ciências naturais das ciências humanas né com essa ideia de
+
+1125
+02:20:29,640 --> 02:20:33,880
+parar de mal o cientista também tem uma pra concepção essa pra concepção mal do que ele vai ver
+
+1126
+02:20:34,440 --> 02:20:39,080
+né no mundo e como ele vai entender os fatos assim como as ciências humanas é importante você
+
+1127
+02:20:39,080 --> 02:20:44,520
+ter essa compreensão né dos discursos né então esse é um outro momento que ele fala
+
+1128
+02:20:45,960 --> 02:20:50,840
+das ciências humanas curiosamente tentando aproximar as ciências naturais dizendo que elas
+
+1129
+02:20:50,840 --> 02:20:55,400
+não são assim essa imagem que a gente tem das ciências humanas mas não tem muitos outros
+
+1130
+02:20:55,400 --> 02:21:00,440
+momentos que ele fala disso não acho que ele se mantém sempre muito próximo dessa ciência que
+
+1131
+02:21:00,440 --> 02:21:10,600
+ele tinha mais a proximidade que são a física e a química beleza Paulo eu vou aproveitar porque
+
+1132
+02:21:10,600 --> 02:21:18,040
+depois dessa belíssima discussão sobre a educação científica eu não tenho outro outro momento
+
+1133
+02:21:18,040 --> 02:21:25,640
+melhor pra poder propor a pergunta feito pelo gabriel eu tava guardando aqui pra finalizar
+
+1134
+02:21:25,640 --> 02:21:35,800
+esse bloco mas eu vou antecipar é uma pergunta mais longa é isso é essa mesmo gabriel e isso é
+
+1135
+02:21:35,800 --> 02:21:47,080
+assim é não essa é uma essa é do Marcelo do gabriel vamos ver se nossa aí o pessoal achou
+
+1136
+02:21:47,160 --> 02:21:52,440
+então gabriel pergunta se começa né primeiro agradecendo né é
+
+1137
+02:21:55,560 --> 02:22:01,640
+bom dia professor paulo primeiramente obrigado pela ótima aula e pela fala enriquecedora
+
+1138
+02:22:02,520 --> 02:22:10,840
+no contexto do aspecto da incommensurabilidade quando então no ensino de ciência as matérias
+
+1139
+02:22:10,840 --> 02:22:17,880
+didáticas ou os professores dizem por exemplo que a física newtoniana é um caso particular
+
+1140
+02:22:17,880 --> 02:22:24,440
+da física estaniana para com essa afirmação seria problemática para compreensão dessas duas
+
+1141
+02:22:24,440 --> 02:22:34,120
+concepções científicas uma vez que essas duas perspectivas são incommensuráveis é
+
+1142
+02:22:34,120 --> 02:22:44,600
+sim o caso do do Einstein merton eu acho que é emblemático né porque o com está então
+
+1143
+02:22:44,600 --> 02:22:53,400
+no estrutura tentando mostrar que as teorias em debate as terras sucedem no mesmo campo de
+
+1144
+02:22:53,400 --> 02:22:57,960
+conhecimento né com a aceitação de novo para de uma ação incommensuráveis e que não é possível
+
+1145
+02:22:57,960 --> 02:23:05,880
+ter um contato uma comparação ponto a ponto entre elas não e mostra as várias teorias da
+
+1146
+02:23:05,880 --> 02:23:14,600
+teoria do lavo azê que vai substituir a teoria do flogista e agora bom outros casos de copérico
+
+1147
+02:23:14,600 --> 02:23:20,440
+vai substituir do lameu mais um caso clássico na história da ciência de uma grande revolução é
+
+1148
+02:23:20,440 --> 02:23:31,800
+mais né a teoria relativista e tradicionalmente ela vista como uma expansão não sei se eu tô
+
+1149
+02:23:31,800 --> 02:23:37,240
+falando os termos correto né mas assim de que ela consegue de alguma maneira englobar a teoria de
+
+1150
+02:23:37,240 --> 02:23:45,880
+newton é que seria um um caso extremo é a teoria da relatividade é para velocidades muito baixas
+
+1151
+02:23:46,120 --> 02:23:52,600
+então ela de alguma maneira englobaria e isso pareceria estar em desacordo com a teoria do cú
+
+1152
+02:23:52,600 --> 02:23:57,400
+então parece que essa imagem esse é um caso de uma grande revolução né ou de uma grande
+
+1153
+02:23:57,400 --> 02:24:04,120
+teoria científica que aparentemente teria uma relação linear com a teoria anterior né com o
+
+1154
+02:24:04,120 --> 02:24:11,960
+latirista assim simplesmente estaria expandindo a aplicação da mecânica para o qual o newton agora
+
+1155
+02:24:11,960 --> 02:24:18,280
+não é um subcaso não é um caso particular né o que o cú tenta mostrar que mesmo nesse caso que
+
+1156
+02:24:18,280 --> 02:24:25,240
+é um caso emblemático na história da ciência ainda existe uma incomensurabilidade latente né
+
+1157
+02:24:25,240 --> 02:24:32,120
+e essa incomensurabilidade tá no tá no uso dos conceitos né o conceito de tempo conceito de
+
+1158
+02:24:32,120 --> 02:24:37,640
+energia conceito de massa que são empregados de maneira diferente pelas duas teorias eu não
+
+1159
+02:24:37,640 --> 02:24:43,400
+consegui encontrar aqui rapidinho o livro é o que eu vei
+
+1160
+02:24:46,680 --> 02:24:56,520
+mas é acho que não era tempo de encontrar aqui não mas ele dá alguns exemplos de como
+
+1161
+02:24:56,520 --> 02:25:02,680
+os conceitos de massa acho que de que é conversiva no caso do mito as tem um era o caso do mito com
+
+1162
+02:25:02,680 --> 02:25:08,440
+a teoria então como esses conceitos são aplicados de maneira diferente e aí sim ainda
+
+1163
+02:25:08,440 --> 02:25:14,920
+seria impossível uma tradução completa de uma teoria pra outra esse é um caso que não parece ter
+
+1164
+02:25:14,920 --> 02:25:18,920
+uma grande comercialidade porque de fato você consegue derivar as equações de newton a partir
+
+1165
+02:25:18,920 --> 02:25:23,800
+da teoria relativista né então parece que ela engloba tudo você não tem nenhum tipo de pedra
+
+1166
+02:25:23,800 --> 02:25:28,840
+mas ele acha que ainda existe por causa desse conceito da diferença dos conceitos e que como os
+
+1167
+02:25:28,840 --> 02:25:33,640
+conceitos diferentes você pode fazer predições em testes que são diferentes e não totalmente
+
+1168
+02:25:33,640 --> 02:25:41,000
+compatíveis né no caso esse exemplo que é um exemplo que eu acho difícil né que o que é talvez
+
+1169
+02:25:41,000 --> 02:25:44,680
+por isso que ele gasta um pouco de tempo pra discutir porque parece pouco óbvio que a de uma
+
+1170
+02:25:44,680 --> 02:25:51,560
+conversurabilidade aí pelo menos não é assim que usualmente se se entende essa aceitação
+
+1171
+02:25:51,560 --> 02:25:57,000
+a teoria da relatividade a relação com a mecânica antoniela né então ele tem um pouco mais de
+
+1172
+02:25:57,000 --> 02:26:04,680
+tempo pra pra apontar assim como uma historiabilidade mas a questão do cú nesse ponto não tem tanto
+
+1173
+02:26:04,680 --> 02:26:10,200
+falar de dificuldades de comparação e escolha de teorias mas é pra falar um pouco depois sobre a
+
+1174
+02:26:10,200 --> 02:26:15,080
+questão de verdade com o tema que eu nem mencionei né ele acha que as teorias científicas não se
+
+1175
+02:26:15,080 --> 02:26:19,880
+aproximam mais da verdade cientistas não estão preocupados e não tem como avaliar sua matéria
+
+1176
+02:26:19,880 --> 02:26:24,120
+verdadeira ou não eles estão buscando teorias que resolve mais problemas que eles consideram
+
+1177
+02:26:25,080 --> 02:26:30,680
+né então é como uma historiabilidade entre esse ponto pra mostrar que existe uma mudança na
+
+1178
+02:26:30,680 --> 02:26:36,680
+própria ontologia das teorias que torna difícil você falar em uma a teoria da aproximação da
+
+1179
+02:26:36,680 --> 02:26:41,560
+verdade da verdade a das teorias como verdade como correspondência né
+
+1180
+02:26:43,960 --> 02:26:49,960
+é isso mas considera um caso difícil assim acho que um dos contei mais é menos convincente até
+
+1181
+02:26:50,200 --> 02:26:54,600
+a sutileza né que é uma coisa que você consegue derivar as próprias educações é só uma questão
+
+1182
+02:26:54,600 --> 02:26:58,600
+dos conceitos que tem entre relações um pouco diferente é isso
+
+1183
+02:27:01,880 --> 02:27:08,680
+quei paulo eu vou aproveitar vou vou voltar um tema que já foi discutido antes da gente
+
+1184
+02:27:08,680 --> 02:27:15,160
+continuar nessa linha vou abrir um intervalo aqui porque depois há duas perguntas também sobre a
+
+1185
+02:27:15,160 --> 02:27:24,520
+relação do das ideias de com um outro campo é então eu vou eu vou voltar numa pergunta lá do
+
+1186
+02:27:24,520 --> 02:27:33,080
+começo do gabriel perdão não é do marcelo perdão marcelo é a segunda questão que ele fez a primeira
+
+1187
+02:27:33,080 --> 02:27:40,680
+que ele fez essa mesmo é a segunda questão na nossa série aqui é então o marcelo perguntou
+
+1188
+02:27:40,680 --> 02:27:50,280
+o seguinte sobre o relativismo de com não sei se este é o termo mais exato acredito que com demonstra
+
+1189
+02:27:50,280 --> 02:27:55,480
+a influência de outros elementos externos a própria prática científica mas ele acredita
+
+1190
+02:27:55,480 --> 02:28:00,840
+que o conhecimento científico tem uma especificidade em relação às outras formas de conhecimento
+
+1191
+02:28:00,920 --> 02:28:02,840
+existe uma contradição aí
+
+1192
+02:28:05,640 --> 02:28:14,520
+é relativismo não é uma palavra que alguns sentia muito confortável adotando né
+
+1193
+02:28:14,520 --> 02:28:22,520
+mais das críticas que ele recebeu de ser relativista e de como ele tentou então responder a isso ele
+
+1194
+02:28:22,520 --> 02:28:28,280
+chega a falar do momento se vocês quiserem entender como relativista pode até ser mas era um sentido
+
+1195
+02:28:28,360 --> 02:28:34,120
+restrito especialmente quando ele está falando de verdade né então ele fala que não é uma
+
+1196
+02:28:34,120 --> 02:28:39,240
+aproximação da verdade com a sessão de teorias científicas nesse sentido ele seria um relativista
+
+1197
+02:28:39,240 --> 02:28:47,080
+talvez um anti realista seja um melhor né mas ele não se defende ele não se colocava como
+
+1198
+02:28:47,080 --> 02:28:51,800
+relativista e ele sempre deixou muito claro que ele achava que a ciência do empreendimento
+
+1199
+02:28:52,200 --> 02:28:59,720
+que produzia conhecimento de uma maneira efetiva e que cada vez mais se ouvia problemas
+
+1200
+02:28:59,720 --> 02:29:05,880
+de maneira mais precisa mais complexa complexa não diria um cientista mais além de uma imagem
+
+1201
+02:29:05,880 --> 02:29:14,760
+muito positiva aí do que era ciência então eu acho que um aspecto importante que você coloca
+
+1202
+02:29:14,760 --> 02:29:19,880
+é que ele demonstra de fato a influência de aspectos externos a prática científica
+
+1203
+02:29:20,600 --> 02:29:26,200
+ele não fala muito disso na estrutura e ele depois veio
+
+1204
+02:29:29,240 --> 02:29:33,400
+esse já ser uma certa atenção né porque ele parece falar muito desses aspectos foi lido como
+
+1205
+02:29:33,400 --> 02:29:39,880
+alguém que fala das influências e termos a a racionalidade um sentido muito muito amplo
+
+1206
+02:29:39,880 --> 02:29:47,240
+mas ele não dá muitos exemplos de de situações culturais econômicas políticas que levaram
+
+1207
+02:29:47,640 --> 02:29:55,480
+um impacto relevante na história da ciência né então ele foi dito o Correia né que era esse
+
+1208
+02:29:56,280 --> 02:30:01,240
+esse historiador que eu estava muito dizia que ele fazia uma história muito internalista né que
+
+1209
+02:30:01,240 --> 02:30:07,240
+parecia ignorar o ambiente externo mas eu acho que ele isso deriva um pouco do livro sem muito curto né
+
+1210
+02:30:08,280 --> 02:30:13,960
+então ele inicialmente era para ser o verbete de uma enciclopédia né e depois ele expandia um
+
+1211
+02:30:13,960 --> 02:30:19,080
+pouco e tinha a pretensão de fazer um livro a partir daí mas o livro ficou o que o que tinha mesmo
+
+1212
+02:30:19,080 --> 02:30:25,640
+ele nunca teve essa outra versão da estrutura então ele é muito esquemático nos exemplos
+
+1213
+02:30:25,640 --> 02:30:31,720
+um detalhe atanto e não menciona tantos aspectos externos mas eu acho que é muito importante
+
+1214
+02:30:31,720 --> 02:30:40,360
+o como ele é um elemento importante na filosofia dele que as avaliações do cientistas e como eles
+
+1215
+02:30:40,360 --> 02:30:44,920
+dizem no nosso próprio campo de estudos dependem muito da sua própria formação né
+
+1216
+02:30:44,920 --> 02:30:51,240
+então ele tem um artigo bastante interessante que chama juízo de valor objetividade dos valores
+
+1217
+02:30:51,240 --> 02:30:56,840
+de teorias em que ele vai defender que os valores científicos os valores epistêmicos com que o
+
+1218
+02:30:56,840 --> 02:31:02,680
+cientista vai escolher maturgia se maturia mais precisa se maturia mais exata se maturia mais
+
+1219
+02:31:02,680 --> 02:31:09,320
+abrangente sei lá consistente com outras teorias é muito dependente da sua própria trajetória do
+
+1220
+02:31:09,320 --> 02:31:17,400
+que esse cientista se formou né com que problemas ele trabalha né né então tem uma influência
+
+1221
+02:31:17,400 --> 02:31:23,720
+externa forte na concepção que cientistas tem sobre a sua própria atividade o com acha porém
+
+1222
+02:31:23,720 --> 02:31:31,960
+é que cada vez mais a ciência tem se tornado um campo especializado pela própria dificuldade
+
+1223
+02:31:31,960 --> 02:31:36,680
+dos quebra-cabeças dos planos cientistas né que vão se tornando mais e mais esotéricos que a palavra
+
+1224
+02:31:36,920 --> 02:31:44,600
+que ele usa né cada vez mais técnicos e mais difíceis e com isso daí os problemas começam a
+
+1225
+02:31:44,600 --> 02:31:51,240
+se tornar muito distintos dos problemas sociais que a gente tem mais relevantes então sei lá
+
+1226
+02:31:51,240 --> 02:31:58,120
+a medição da carga de uma partícula elementar né qual a relação que os teria com questões mais
+
+1227
+02:31:58,120 --> 02:32:04,840
+amplas em sociedade e com isso a ciência vai se insulando né cada vez mais do mundo exterior
+
+1228
+02:32:04,840 --> 02:32:10,760
+os cientistas estão se tornando os únicos hábitos daquela atividade né depois vai ter pessoas
+
+1229
+02:32:10,760 --> 02:32:17,160
+como criticar que o termo a visão muito conservadora do que a ciência né de que ele estaria quase
+
+1230
+02:32:17,160 --> 02:32:22,760
+pregando que o cientista não tem que prestar contas eu não acho que é isso mas é importante então
+
+1231
+02:32:22,760 --> 02:32:26,920
+ter essa noção de que o cúmão nega que existem influências científicas ele acha que são
+
+1232
+02:32:26,920 --> 02:32:31,320
+importamentos externos ele acha que são importantes principalmente no caso dos valores das escolhas
+
+1233
+02:32:31,320 --> 02:32:35,960
+dos cientistas né de qual campo o pessoal vai trabalhar qual problema considera relevante mas
+
+1234
+02:32:35,960 --> 02:32:40,920
+cada vez mais a ciência vai se tornando extremamente técnica e com isso vai havendo uma maior
+
+1235
+02:32:40,920 --> 02:32:49,320
+desconexão com o ambiente externo em que o centro de se encontre mas que existe é bom tornando
+
+1236
+02:32:51,320 --> 02:32:57,000
+voltando um pouco a segunda parte da pergunta sim né como eu falei acho que tem esses elementos
+
+1237
+02:32:57,000 --> 02:33:01,320
+que caracterizam a atividade científica e que tornam diferente de todas as vezes da educação
+
+1238
+02:33:01,320 --> 02:33:07,720
+científica do que essa prática voltada a articulação do paradigma em uma crítica dos
+
+1239
+02:33:07,720 --> 02:33:12,280
+conhecimentos anteriores esse insulamento da comunidade científica que alguma coisa que
+
+1240
+02:33:12,280 --> 02:33:17,320
+considera que é um produto recente mas que caracteriza atividade científica cada vez mais
+
+1241
+02:33:18,280 --> 02:33:27,720
+então bom é isso não sei se existe uma contradição aí eu acho que eu acho que não
+
+1242
+02:33:27,720 --> 02:33:32,680
+existe um papel cada vez menor do elemento externo mas que não é negligenciável
+
+1243
+02:33:35,560 --> 02:33:45,080
+beleza paulo então eu vou antes de de voltar aquelas relações do com outros autores há uma
+
+1244
+02:33:45,080 --> 02:33:50,840
+pergunta aqui do Caetano que é formulado em três partes eu acredito que são três perguntas
+
+1245
+02:33:50,840 --> 02:34:02,520
+de uma mesma formulação é eu vou ler e aí você vai na medida que achar né é possível tratando
+
+1246
+02:34:02,520 --> 02:34:09,560
+de uma por uma separadamente é a primeira pergunta é a seguinte a crise na ciência sempre
+
+1247
+02:34:09,800 --> 02:34:17,320
+acarretará uma revolução científica aí muda o tema para a segunda questão o negacionismo seria
+
+1248
+02:34:17,320 --> 02:34:24,440
+um elemento presente no contexto de crise da ciência estabelecida por cú e a terceira o
+
+1249
+02:34:24,440 --> 02:34:29,160
+desenvolvimento o modelo de desenvolvimento científico trazido por cú se caracteriza
+
+1250
+02:34:29,160 --> 02:34:32,520
+e um falismo da ciência tendente ao progresso
+
+1251
+02:34:35,480 --> 02:34:44,360
+ah bom muito boas perguntas aí e então começando pela primeira né a crise na ciência sempre
+
+1252
+02:34:44,360 --> 02:34:51,640
+acarreterá uma revolução científica não então o que conta o que ele entende como uma estrutura
+
+1253
+02:34:51,640 --> 02:34:57,480
+da da ciência né por isso a estrutura dessa evolução científica é um padrão recorrente
+
+1254
+02:34:57,480 --> 02:35:02,920
+né que a gente encontra em diversas disciplinas em diversos momentos do tempo mas não é uma
+
+1255
+02:35:04,040 --> 02:35:09,560
+uma necessidade lógica né então não é necessidade lógica tem um campo encontre um paradigma
+
+1256
+02:35:09,560 --> 02:35:16,360
+que esse paradigma é encontro problemas que não conseguem lidar que ele entra em crise que surge
+
+1257
+02:35:16,360 --> 02:35:22,040
+nas paradigmas e que tem uma revolução né então tudo isso são simplesmente coisas padrões que
+
+1258
+02:35:22,040 --> 02:35:28,600
+podem ocorrer que tem uma razão de ser né então por exemplo porque costuma haver uma crise
+
+1259
+02:35:28,600 --> 02:35:34,680
+dentro de uma comunidade científica né porque os cientistas são educados na ciência normal a
+
+1260
+02:35:34,680 --> 02:35:43,400
+explorar os ambientes mais recongidos do paradigma né de trabalhar os maiores netares do paradigma
+
+1261
+02:35:43,400 --> 02:35:49,480
+e com isso tem expectativas muito precisas do que devem resultar daí que isso gera
+
+1262
+02:35:49,720 --> 02:35:56,040
+uma percepção de discrepância muito forte quando a teoria as evidências não estão em
+
+1263
+02:35:56,040 --> 02:36:01,240
+acordo com a teoria então existe uma mecânica dentro da desse funcionamento da ciência que
+
+1264
+02:36:01,240 --> 02:36:06,920
+gera que explica esse padrão que aparece várias vezes mas isso não é necessidade lógica então
+
+1265
+02:36:06,920 --> 02:36:15,960
+especificamente no caso da crise pode ser e o como fala sobre isso que essa esse campo de conhecimento
+
+1266
+02:36:15,960 --> 02:36:21,640
+na científica teja numa situação que parece insolúvel um determinado problema com a ajuda de
+
+1267
+02:36:21,640 --> 02:36:27,400
+um paradigma mas depois de um tempo a gente descobre que é possível resolver né então alguém encontrou
+
+1268
+02:36:27,400 --> 02:36:31,640
+uma solução né que ninguém conseguiu imaginar e tão todos desesperados já pensando em outros
+
+1269
+02:36:31,640 --> 02:36:37,000
+paradigmas que ele não guarda na ciência mas alguém lá elabora uma uma solução e dá alguns
+
+1270
+02:36:37,000 --> 02:36:42,520
+exemplos assim de um campo que entrou em crise depois voltou para a mesma ciência normal pode ser
+
+1271
+02:36:42,600 --> 02:36:49,080
+e pode ser que não pode ser que surge um outro paradigma nessa esse estado de confusão e que
+
+1272
+02:36:49,080 --> 02:36:53,400
+esse outro paradigma se mostra como mais interessante para a comunidade que ela se organiza
+
+1273
+02:36:53,400 --> 02:37:01,240
+paradigma pode ser que não existe nem algo exatamente uma revolução científica e o como vai
+
+1274
+02:37:01,240 --> 02:37:07,240
+falar também dessa segunda modalidade bastante nos críticos posteriores que ele tem da cada
+
+1275
+02:37:07,240 --> 02:37:12,440
+momento quando ele vai se aproximar muito da biologia então ele vai tentar fazer uma filosofia
+
+1276
+02:37:12,440 --> 02:37:19,960
+da ciência usando ideias da biologia evolucionista então essa coisa de adaptação de seleção
+
+1277
+02:37:19,960 --> 02:37:28,040
+e uma das coisas que ele fala é com essa semelhança em relação à evolução biológica de que as
+
+1278
+02:37:28,040 --> 02:37:34,120
+ciências podem se especializar então ele acha que talvez não seja nem tão comum esse processo de
+
+1279
+02:37:34,120 --> 02:37:39,320
+construção científica de substituir um paradigma por um outro mas o que pode acontecer
+
+1280
+02:37:39,320 --> 02:37:46,600
+muitas vezes é que um determinado conjunto de problemas passa a ser o trabalho de uma nova
+
+1281
+02:37:46,600 --> 02:37:52,360
+especialidade então a comunidade se fragmenta em grupos diferentes e aí você tem especialidades
+
+1282
+02:37:52,360 --> 02:38:01,080
+científicas né então não necessariamente a crise leva uma revolução eu sei uma pergunta
+
+1283
+02:38:01,080 --> 02:38:05,720
+que tudo seria elemento presente no contexto de crise da ciência estabelecido por um
+
+1284
+02:38:09,160 --> 02:38:20,440
+aí eu não sei muito bem o que se entenderia por negacionismo eu acho que seria talvez pensando
+
+1285
+02:38:20,440 --> 02:38:28,600
+nessa questão de essa tentativa de rejeitar o paradigma vigente né eu acho que nesse sentido
+
+1286
+02:38:28,600 --> 02:38:34,520
+é um elemento negacionista de rejeitar soluções aquele conhecimento que havia sido tão bem
+
+1287
+02:38:34,520 --> 02:38:41,080
+estabelecido mas sempre tem um grupo também que persevera com o paradigma não todo o que
+
+1288
+02:38:41,080 --> 02:38:46,600
+vai descrever nas no episódio de revolução científica que não existe um comportamento
+
+1289
+02:38:46,600 --> 02:38:51,800
+homogêneo da comunidade né primeiro que não todo mundo acha que é uma crise né e mesmo quando
+
+1290
+02:38:51,800 --> 02:38:58,120
+alguém acha que é uma crise tem alguns que podem continuar insistindo no paradigma que existia
+
+1291
+02:38:58,120 --> 02:39:04,280
+e outros que vão tentar elaborar o né fazer versões novas do paradigma pode ser outro que
+
+1292
+02:39:04,280 --> 02:39:08,280
+vão dizer ó isso é um completo erro a gente tem que mudar completamente as bases da ciência
+
+1293
+02:39:08,280 --> 02:39:13,400
+e estabelecer o novo paradigma então essas reações são muito diferentes algumas delas
+
+1294
+02:39:13,400 --> 02:39:20,520
+podem envolver a rejeição do paradigma que existe e outras podem envolver adaptações ou insistir
+
+1295
+02:39:20,520 --> 02:39:25,320
+naquele paradigma que se provou tão interessante até aquele momento e não é só uma questão de
+
+1296
+02:39:25,320 --> 02:39:31,000
+ser fiel ao paradigma não é só uma questão de uma crença aquele paradigma trouxe muitos ganhos
+
+1297
+02:39:31,000 --> 02:39:35,560
+então a gente tem que continuar assistindo ele é que de fato o paradigma é um instrumento muito
+
+1298
+02:39:35,560 --> 02:39:41,320
+forte né ele tá dizendo como você resolve o problema né abandonar o paradigma significa
+
+1299
+02:39:41,320 --> 02:39:46,760
+abandonar soluções que você conhece né como eu resolvo o problema se não tem nenhuma diretria
+
+1300
+02:39:46,760 --> 02:39:52,120
+de como fazer isso né então como sempre fala que na verdade o cientista nunca abandona totalmente
+
+1301
+02:39:52,120 --> 02:39:57,400
+o paradigma né ele não ficasse nenhum paradigma né sempre um outro paradigma que surge né
+
+1302
+02:39:57,400 --> 02:40:01,720
+em algum momento surge o paradigma acabei de alguém a pessoa propõe o cientista muda de um
+
+1303
+02:40:01,720 --> 02:40:08,680
+pro outro né porque o paradigma fornece bases muito boas e por último né a pergunta se
+
+1304
+02:40:08,680 --> 02:40:13,560
+o modelo de desenvolvimento científico trazido por com se caracteriza por um triunfarismo da
+
+1305
+02:40:13,560 --> 02:40:24,760
+inteligência tendente ao progresso é então é uma pergunta muito interessante eu acho que
+
+1306
+02:40:26,040 --> 02:40:34,280
+eu não sei se a palavra seria triunfarismo mas eu acho que o resultado desse desse modelo desse
+
+1307
+02:40:34,280 --> 02:40:42,040
+tipo de pesquisa científica é geralmente o progresso científico entendido como a resolução de novos
+
+1308
+02:40:43,000 --> 02:40:50,760
+em cada vez observações cada vez mais detalhadas teorias mais complexas mais abrangentes
+
+1309
+02:40:51,640 --> 02:40:59,400
+que conseguem explicar fenômenos cada vez mais recônjitos né então a consequência desse modelo
+
+1310
+02:40:59,400 --> 02:41:06,200
+tipo esse tipo de pesquisa em especial a pesquisa baseando o paradigma de ciência normal é um progresso
+
+1311
+02:41:06,920 --> 02:41:13,400
+é o progresso do ciência mas entendendo que progresso esse progresso é um progresso
+
+1312
+02:41:13,400 --> 02:41:18,120
+limitado um progresso muito específico então progresso que fala ó se você olha a longo do
+
+1313
+02:41:18,120 --> 02:41:23,160
+tempo e ele diz no final de um capítulo de estrutura né vai falar eu não estou negando
+
+1314
+02:41:23,160 --> 02:41:28,840
+o progresso se você olha da teoria estotelica a física quântica é claro que eu vou progresso
+
+1315
+02:41:28,840 --> 02:41:34,120
+é claro que a nossa teoria é muito mais potente pra explicar fenômenos do do mundo natural pra
+
+1316
+02:41:34,120 --> 02:41:39,880
+desenvolver equipamentos pra fazer medições né então ela resolve muito mais problemas né
+
+1317
+02:41:39,880 --> 02:41:46,200
+faz produções muito melhores né e tem aplicações tecnológicas que serão imagináveis anteriormente
+
+1318
+02:41:46,200 --> 02:41:53,720
+mas não é um progresso se você considerar um sentido de aproximação da verdade segundo
+
+1319
+02:41:53,720 --> 02:42:00,520
+então ele não acha que a nova teoria ela é uma representação mais fiel de uma realidade
+
+1320
+02:42:00,520 --> 02:42:07,080
+subjacente inerente metafísica do mundo ela é um instrumento de resolução de problemas
+
+1321
+02:42:07,080 --> 02:42:14,760
+mais potente mais eficiente né então a substituição de um paradigma por um outro não é que um novo
+
+1322
+02:42:14,760 --> 02:42:20,920
+paradigma se aproxima mais da verdade ele representa melhor o que o mundo é é que o paradigma é visto
+
+1323
+02:42:20,920 --> 02:42:26,600
+como os membros pelos membros da comunidade o novo paradigma é como um instrumento mais
+
+1324
+02:42:26,600 --> 02:42:32,120
+efetivo pra solução dos problemas que eles consideram importantes né então nesse sentido
+
+1325
+02:42:32,120 --> 02:42:38,680
+sempre estão procurando soluções de problemas estão tentando na ciência normal produzir mais
+
+1326
+02:42:38,680 --> 02:42:43,880
+soluções de problemas e na ciência extraordinária vão escolher os paradigmas que eles consideram
+
+1327
+02:42:43,880 --> 02:42:50,280
+que resolve mais problemas quase que por definição a ciência vai resolver mais problemas ao longo
+
+1328
+02:42:50,280 --> 02:42:55,720
+do tempo ainda que o que é um problema ou não vai mudar né nessa passagem de uma teoria pra outra
+
+1329
+02:42:56,280 --> 02:43:06,040
+mas não é um sentido de progresso com uma acumulação linear de fato sobre o mundo nem com uma
+
+1330
+02:43:06,040 --> 02:43:11,000
+aproximação da verdade e aí o com vai ter vários textos e vários agências que ele vai
+
+1331
+02:43:11,000 --> 02:43:19,000
+defender uma posição anti-realista da ciência a ciência não se aproxima da verdade então
+
+1332
+02:43:19,000 --> 02:43:23,000
+esse é um pouco de como você encarar o progresso né não um sentido talvez
+
+1333
+02:43:25,000 --> 02:43:29,400
+ser comum mas o sentido desse de aumento da capacidade de resolução de problemas
+
+1334
+02:43:31,400 --> 02:43:42,120
+então vamos continuar com essa temática que tá relacionado a parte dessa resposta
+
+1335
+02:43:42,440 --> 02:43:50,840
+que você formou agora qual que é relativo as eh as dinâmicas né de substituição de
+
+1336
+02:43:50,840 --> 02:43:58,600
+paradigma mas agora focado nas ciências humanas há duas perguntas nessa nesse campo e a primeira eu
+
+1337
+02:43:58,600 --> 02:44:06,840
+vou ler a primeira delas que é do Rafael são duas perguntas longas lá tão mais chegaram mais
+
+1338
+02:44:06,840 --> 02:44:15,640
+no final da nossa conversa Rafael esperando aparecer aqui na tela pra valer vocês poderem acompanhar
+
+1339
+02:44:15,640 --> 02:44:28,360
+e o professor só um minutinho tá carregando aqui elas vão tá bom
+
+1340
+02:44:31,800 --> 02:44:43,000
+aí afael isso isso mesmo é então afael pergunta o professor com relação à ciência normal e as
+
+1341
+02:44:43,000 --> 02:44:50,440
+e as revoluções científicas podemos estabelecer um paralelo com a teoria budiã budiesiana
+
+1342
+02:44:51,160 --> 02:45:00,920
+sobre as disputas do campo onde a ciência normal configuraria um mantenimento mantenimento
+
+1343
+02:45:01,480 --> 02:45:09,400
+do status coacadêmico me parece que muitos acadêmicos continuam a jogar boias de
+
+1344
+02:45:09,400 --> 02:45:16,360
+salvamento para teorias já superadas e isso com maior latência nas ciências humanas e sociais
+
+1345
+02:45:17,080 --> 02:45:23,240
+com outras áreas de conhecimento menos autônomas já a evolução científica parece inaugurar
+
+1346
+02:45:23,240 --> 02:45:32,040
+alguns pontos de ruptura e incomodar alguns challenger das áreas com seus novos paradigmas
+
+1347
+02:45:32,360 --> 02:45:40,440
+olha eu vou ser bem honesto que eu não conheço o suficiente da obra do budiã
+
+1348
+02:45:40,440 --> 02:45:46,440
+para poder dar uma explicação sobre como as duas coisas se relacionam eu acho até que seria muito
+
+1349
+02:45:46,440 --> 02:45:51,640
+interessante não conheço muito trabalhos que conectem esses dois pensadores acho que é alguma
+
+1350
+02:45:51,640 --> 02:46:00,280
+coisa que eu gostaria de ler e conhecer mais mas assim por pouquíssimo muito pouco mesmo que eu
+
+1351
+02:46:01,240 --> 02:46:09,160
+acho que ele fala muito das disputas do campo da identidade disciplinada que os profissionais
+
+1352
+02:46:09,160 --> 02:46:15,080
+eu acho que menciona um pouco isso eu acho que também é um aspecto relevante
+
+1353
+02:46:15,880 --> 02:46:21,480
+mas eu acho que ele talvez esteja menos preocupado com aspectos sociais de posição nesse campo
+
+1354
+02:46:22,120 --> 02:46:26,840
+essa correlação de forças quando ele está analisando essas disputas científicas embora não
+
+1355
+02:46:26,840 --> 02:46:34,600
+ignorem né que essas coisas acontecem mas eu acho que ele está mais preocupado com a dinâmica
+
+1356
+02:46:35,400 --> 02:46:41,160
+desse próprio ensino dessa própria prática científica que impede um pouco que o cientista
+
+1357
+02:46:41,160 --> 02:46:46,600
+às vezes saia da caixa ou questiona esse status quo no sentido desse status quo da teoria vigente
+
+1358
+02:46:46,600 --> 02:46:53,400
+né do paradigma né porque ele é ensinado a fazer ciência a partir daí né e funciona
+
+1359
+02:46:53,400 --> 02:47:00,680
+muito bem então quando ele se encontra no momento em que ele vê uma dificuldade da teoria
+
+1360
+02:47:00,680 --> 02:47:06,760
+ele tende a ficar do lado da preservação desse paradigma né e não do seu questionamento
+
+1361
+02:47:09,720 --> 02:47:13,480
+mas eu acho que inevitabilmente como você fala o efeito de
+
+1362
+02:47:15,560 --> 02:47:22,440
+dessa revolução científica vai ser mexer em toda essa esse campo e de fato convenciona
+
+1363
+02:47:22,440 --> 02:47:27,080
+alguns aspectos que mudam né ele diz assim ele tem um aspecto bem interessante tem um
+
+1364
+02:47:27,080 --> 02:47:30,200
+aspecto bem interessante que na estrutura das revoluções científicas que chama
+
+1365
+02:47:30,200 --> 02:47:35,640
+a invisibilidade das revoluções né que ele vai falar bom mas se existem revoluções tão
+
+1366
+02:47:35,640 --> 02:47:41,560
+profundas assim na ciência que mudam o próprio conhecimento né a linguagem os métodos valores
+
+1367
+02:47:42,200 --> 02:47:47,240
+porque a gente não vê isso né porque a gente tem essa imagem linear né se essas quebras são tão
+
+1368
+02:47:47,720 --> 02:47:51,240
+enormes e uma das respostas que ele dá é
+
+1369
+02:47:53,320 --> 02:47:58,440
+primeiro por essa educação científica né que é feita por manuais eles te apresentam somente
+
+1370
+02:47:59,080 --> 02:48:05,800
+o campo de conhecimento aquilo que é feito como o conhecimento legítimo que os praticantes
+
+1371
+02:48:05,800 --> 02:48:12,120
+daquele campo acham que os novos membros têm que saber para poder fazer para contribuir naquela área
+
+1372
+02:48:12,120 --> 02:48:19,720
+né que ignora um pouco a ciência né mas envolve também uma própria reformulação do campo né
+
+1373
+02:48:19,720 --> 02:48:26,120
+então e com diz assim quando há uma revolução científica você vai ter uma reescrita dos manuais
+
+1374
+02:48:26,120 --> 02:48:30,600
+o manual agora vai ser um outro manual né eu vou mudar a identidade dessa disciplina eu vou contar
+
+1375
+02:48:30,600 --> 02:48:34,920
+a história de uma outra maneira né uma história que terminou lá né agora a história sempre
+
+1376
+02:48:34,920 --> 02:48:40,440
+combina com essa última teoria sem uma grande preocupação com ser uma representação histórica
+
+1377
+02:48:40,440 --> 02:48:47,560
+é a história da ciência né então uma representação continuista apresentista da ciência eu vou
+
+1378
+02:48:47,560 --> 02:48:53,160
+reorganizar a comunidade científica eu vou reorganizar que campos e que áreas são
+
+1379
+02:48:53,160 --> 02:49:01,000
+importantes depois dessa área vai mudar o tipo de prática vai mudar as as revistas
+
+1380
+02:49:01,080 --> 02:49:09,560
+e os departamentos então a evolução tem uma implicação grande não só para as ideias
+
+1381
+02:49:09,560 --> 02:49:15,720
+para o conteúdo da ciência mas também para a ciência como uma organização social né
+
+1382
+02:49:18,440 --> 02:49:25,880
+e para isso eu acho que conheço pouco de budiência é muito interessante ver esses paralelos se alguém
+
+1383
+02:49:25,880 --> 02:49:33,400
+vai levar ainda o assunto então dentro dessa mesma temática e das ciências humanas sociais
+
+1384
+02:49:33,400 --> 02:49:43,640
+a nossa é a nossa última pergunta é a pergunta da patrícia e ela faz a fórmula da seguinte
+
+1385
+02:49:43,640 --> 02:49:50,760
+maneira a ciência sociais aplicadas que estudamos hoje administração marketing etc foram fundadas
+
+1386
+02:49:50,760 --> 02:49:59,880
+o ideal capitalista e neoliberal em que as tecnologias de produção são orientadas
+
+1387
+02:49:59,880 --> 02:50:06,280
+para um lucro por meio da redução sistemática de custos e do aumento quantitativo da produção
+
+1388
+02:50:06,280 --> 02:50:12,920
+hoje já sabemos que essa mentalidade agravou as crises migratórias e as imensas desigualdades
+
+1389
+02:50:13,320 --> 02:50:21,320
+que vemos a nossa volta a economia solidária que orienta as tecnologias para o bem-estar dos
+
+1390
+02:50:21,320 --> 02:50:28,200
+trabalhadores e não para a acumulação capitalista poderia ser considerada uma importante mudança de
+
+1391
+02:50:28,200 --> 02:50:39,320
+paradigma nas ciências sociais aplicadas legal eu acho que eu respondei assim em algumas partes
+
+1392
+02:50:39,320 --> 02:50:48,920
+eu acho uma leitura estrita de cun eu não sei se você poderia ser encarado com a mudança de
+
+1393
+02:50:48,920 --> 02:50:56,520
+paradigma né o paradigma no sentido basilar que ele menciona até na função do dogma que
+
+1394
+02:50:56,520 --> 02:51:03,320
+vocês leram é a ideia de uma solução de problemas que serve de inspiração de modelo
+
+1395
+02:51:03,320 --> 02:51:09,080
+de solução de novos problemas uma solução que envolve uma teoria que o método de instrumentação
+
+1396
+02:51:09,080 --> 02:51:14,440
+aparato matemático não é um jeito de resolver um problema que as pessoas falam esse problema é
+
+1397
+02:51:14,440 --> 02:51:19,080
+relevante solução é efetiva boa e eu vou começar a encarar as coisas a partir daí né
+
+1398
+02:51:20,840 --> 02:51:25,720
+talvez um exemplo que poderia ser um paradigma né quando os economistas falam muito de
+
+1399
+02:51:25,720 --> 02:51:32,520
+feta e demanda que determina o preço né isso é um pouco um paradigma né então quando eu
+
+1400
+02:51:32,520 --> 02:51:37,720
+olha porque calma em total coisa aí então vou pensar qual é o feta qual a demanda né eu eu pego
+
+1401
+02:51:37,720 --> 02:51:44,760
+uma solução simples né talvez ideal de como as preços se relacionam e aí eu vou usar isso para
+
+1402
+02:51:44,760 --> 02:51:51,800
+pensar um problema mais complexo talvez lá taxa de juros com o dinheiro taxa de juros é o preço
+
+1403
+02:51:51,800 --> 02:51:57,400
+também que é o iniciativo que é o dinheiro etc mas isso é uma replicação sobre o que poderia ser
+
+1404
+02:51:57,400 --> 02:52:04,280
+um exemplo de um paradigma né então essa mudança nos valores que você que inspira uma ciência
+
+1405
+02:52:04,280 --> 02:52:11,560
+e parece algo talvez ainda maior do que um paradigma então talvez o que tipo de ciência você deve
+
+1406
+02:52:11,560 --> 02:52:18,280
+privilegiar tipo ciência não deve privilegiar não sei se encaixaria muito o tanto no que o com fala
+
+1407
+02:52:18,280 --> 02:52:27,960
+do paradigma né mas eu acho que é um dos temas das noções de paradigma que a gente usa também
+
+1408
+02:52:27,960 --> 02:52:34,520
+para implicar grandes mudanças né mas aí um outro aspecto da obra do com que eu acho que pode ser
+
+1409
+02:52:34,520 --> 02:52:40,760
+relevante também é que como você indicou mostra o papel dos valores na constituição da ciência né
+
+1410
+02:52:41,560 --> 02:52:47,720
+então as sensas não são isentas de valores exatamente não de valores epistêmicos né de
+
+1411
+02:52:47,720 --> 02:52:53,240
+coisas que a gente gosta gostaria que as ciências estivessem para produzir conhecimento com precisão
+
+1412
+02:52:53,240 --> 02:53:03,800
+abrangência simplicidade mas em alguma medida de valores sociais né então por como isso não é tão
+
+1413
+02:53:03,800 --> 02:53:07,840
+claro até porque como eu disse ele trabalha muito com fisicikime que campos especializados
+
+1414
+02:53:08,000 --> 02:53:15,440
+então para ele os valores sociais elementos sociais entram de maneira muito indireta nesses valores
+
+1415
+02:53:15,440 --> 02:53:21,120
+e como cientistas entendem o seu campo tipo de ciência eles vão privilegiar mas eu acho quando
+
+1416
+02:53:21,120 --> 02:53:26,560
+você vai para outras áreas é preciso ter constritação que os valores têm um papel muito maior né
+
+1417
+02:53:28,000 --> 02:53:32,640
+implícitamente ou explícitamente talvez pessoas não refitam sobre isso mas os valores estão lá né
+
+1418
+02:53:32,640 --> 02:53:39,680
+e vão determinar o tipo de conhecimento que você produz então eu acho que é algo muito
+
+1419
+02:53:39,680 --> 02:53:44,480
+relevante que toca um pouco fala esse papel dos valores para psiquiocentrífica eu acho que um
+
+1420
+02:53:44,480 --> 02:53:50,320
+autor que pode ajudar bastante que escreve muito sobre isso é o rubilês né que é um eu acho ele
+
+1421
+02:53:50,320 --> 02:53:55,600
+australiano se eu não me engano né e mas ficou muito tempo no brasil deu lá na uspa escreveu em
+
+1422
+02:53:55,600 --> 02:54:00,720
+português né ele fala bastante sobre o papel dos valores na pesquisa científica né talvez você
+
+1423
+02:54:00,960 --> 02:54:08,640
+não sei se vem daí a sua pergunta né que vai falar muito do ele vai pensar no modelo né que você
+
+1424
+02:54:08,640 --> 02:54:13,200
+tem valores sociais epistêmicos né que você deveria primeiro fazer uma escolha por valores sociais
+
+1425
+02:54:13,200 --> 02:54:18,480
+né e dentro disso você opta por teorias que atendam melhor os seus valores epistêmicos né então
+
+1426
+02:54:18,480 --> 02:54:27,920
+como essas duas coisas se relacionam então o que é isso essas duas últimas perguntas né Paulo
+
+1427
+02:54:27,920 --> 02:54:36,400
+foram uma característica muito curiosa né da obra do com né que como que ela foi muito bem recebida
+
+1428
+02:54:36,400 --> 02:54:47,760
+entre os cientistas da área de ciências humanas e sociais né talvez até isso explique né o assim
+
+1429
+02:54:47,760 --> 02:54:54,400
+a grande repercussão que ela teve porque ela tem uma repercussão né é muito incomum para uma obra
+
+1430
+02:54:54,400 --> 02:55:01,680
+da filosofia que fala 80% do tempo está dando exemplos de ciências da natureza né exemplos
+
+1431
+02:55:01,680 --> 02:55:07,520
+complexos né que precisa conhecer essas teorias com algum detalhe para poder entender o entanto
+
+1432
+02:55:07,520 --> 02:55:16,880
+ela foi enormemente é disseminada né é traduzida no brasil ela foi quase que traduzida
+
+1433
+02:55:16,880 --> 02:55:26,560
+simultaneamente a publicação da segunda edição em inglês em 68 né é então ela é tem um um
+
+1434
+02:55:26,560 --> 02:55:34,320
+impacto muito comum para uma obra de filosofia né de filosofia técnica né assim como o que faz
+
+1435
+02:55:34,320 --> 02:55:39,120
+ali o curso é uma filosofia que depende de um conhecimento mínimo das ciências da natureza
+
+1436
+02:55:39,120 --> 02:55:46,160
+e ela teve repercussão entre os cientistas sociais e da área de ciências humanas né é pouco da
+
+1437
+02:55:46,160 --> 02:55:56,400
+filosofia eu reputo mas muito entre sociólogos psicólogos né cientistas sociais em geral então
+
+1438
+02:55:56,400 --> 02:56:03,880
+é essas perguntas é são perguntas que sempre ocorrem né nessas conversas que o que que o
+
+1439
+02:56:03,880 --> 02:56:09,920
+cunteria dizer sobre as ciências humanas né e ele mesmo não deu muita chance aos seus leitores
+
+1440
+02:56:09,920 --> 02:56:18,480
+interessados nesse tema é verdade não concorda eu acho que é o livro do quando eu acho que
+
+1441
+02:56:18,480 --> 02:56:22,240
+nem comentei né ele teve números muito grandes né a gente fala que ele foi muito lido em quatro
+
+1442
+02:56:22,240 --> 02:56:27,440
+outras áreas mas estava lendo outro dia foi pesquisar para aula aqui foi o livro mais citado de
+
+1443
+02:56:27,440 --> 02:56:34,080
+ciências humanas do segundo metade século 20 né publicado depois de 1950 né foi traduzido
+
+1444
+02:56:34,080 --> 02:56:40,480
+um milhão e meio de exemplares em ciências humanas né a filosofia da ciência ainda né
+
+1445
+02:56:40,480 --> 02:56:47,040
+mas e teve esse impacto muito grande né em vários cantos né sociologia da ciência psicologia
+
+1446
+02:56:47,040 --> 02:56:53,280
+como você falou e até hoje é muito lido né apesar dele não falar sobre ciências né quando ele
+
+1447
+02:56:53,280 --> 02:56:58,400
+tá falando mas eu não tenho muito atrás também não se interessado muito sempre com as ciências
+
+1448
+02:56:58,400 --> 02:57:04,160
+das cascas né as sites é como se fala né mas é muito interessante que pelo impacto talvez
+
+1449
+02:57:04,160 --> 02:57:12,880
+maior ainda nessas outras ciências né é o uso de paradigma né que é praticamente generalizado
+
+1450
+02:57:12,880 --> 02:57:19,680
+no nosso campo da ciências humanas e sociais é deve ser ele né embora o termo já fosse empregado
+
+1451
+02:57:19,680 --> 02:57:28,400
+então pelo vitriol estái mas o como é quem popularizou inclusive é para o é a popularização
+
+1452
+02:57:28,400 --> 02:57:34,000
+veio até de uma forma contrária o que ele pensava nessa ideia de quebrar paradigmas não é nada que
+
+1453
+02:57:34,000 --> 02:57:40,400
+ele achava que era penetro né isso era algo que acontecia de tempos em tempos de uma forma um pouco
+
+1454
+02:57:41,120 --> 02:57:49,520
+e e indesejável né não era porque não se sabe o que resulta de um processo de crise do paradigma
+
+1455
+02:57:49,520 --> 02:57:56,600
+né ninguém sabe o que vai acontecer com aquele campo de pesquisa né depois de passado é se essa
+
+1456
+02:57:56,600 --> 02:58:05,360
+mudança foi é progressiva né é há um acerta eu foria com a mudança de paradigma mas enquanto
+
+1457
+02:58:05,360 --> 02:58:10,440
+não está acontecendo ninguém está feliz com o que está acontecendo né aqui o causa uma grande
+
+1458
+02:58:10,440 --> 02:58:19,120
+insatisfação uma grande insegurança né na prática é daquele campo de pesquisa é uma só
+
+1459
+02:58:19,120 --> 02:58:27,040
+manedota com 62 né as duas alunos científicas ele ficar muito famoso logo em seguida né o
+
+1460
+02:58:27,040 --> 02:58:33,920
+público tem grande repercussão e aí em maio de 68 ele viram dos grandes ícones lá de mais 68 né
+
+1461
+02:58:33,920 --> 02:58:39,200
+porque parecia falar do autoritarismo da ciência né do fato das revoluções da mudança de paradigma
+
+1462
+02:58:39,200 --> 02:58:43,040
+e aí ele é chamado para falar uma vez ele fala não é isso que eu tô falando não
+
+1463
+02:58:43,040 --> 02:58:47,520
+eu tô falando de revolução tem que mudar não na verdade tô falando um pouquinho ao contrário
+
+1464
+02:58:47,520 --> 02:58:53,600
+que funciona lá ele foi chamado na universidade da califórnia que era a universidade onde havia
+
+1465
+02:58:53,600 --> 02:59:02,160
+um movimento estudantil mais aguerrido né em maio de 68 e ele descalçou uma enorme frustração
+
+1466
+02:59:02,160 --> 02:59:07,400
+ele não falou de revolução ele falou revolução é algo que não é bom assim né quando acontece a
+
+1467
+02:59:07,400 --> 02:59:15,360
+gente depois que passa a gente acha bom mas enquanto está acontecendo não é o que eu estava falando
+
+1468
+02:59:15,360 --> 02:59:25,680
+curioso é essa tensão essencial que está inclusive registrada né no livro que é uma coletana de
+
+1469
+02:59:25,680 --> 02:59:31,960
+coletana entre a quanto o conservadorismo e a grande capacidade de revisão né que caracteriza
+
+1470
+02:59:31,960 --> 02:59:39,080
+a prática científica Paulo então muito obrigado viu foi muito bacana foi muito proveitosa a
+
+1471
+02:59:39,080 --> 02:59:45,600
+nossa manhã aqui na sua companhia com essa reflexão muito organizada muito sistemática
+
+1472
+02:59:45,600 --> 02:59:51,240
+acho que muito esclarecedora para os nossos alunos eu agradeço aos nossos alunos também pela
+
+1473
+02:59:51,240 --> 02:59:59,720
+reflexão pelas mensagens e perguntas que enviaram reforço que essa é uma parte indispensável
+
+1474
+02:59:59,720 --> 03:00:06,680
+da nossa disciplina né essa interação com vocês né reforço que essa interação ela é sempre
+
+1475
+03:00:06,680 --> 03:00:15,080
+muito mais potencializada quando elas parte dos textos que foram recomendados para a leitura
+
+1476
+03:00:15,360 --> 03:00:22,480
+e espero que vocês possam aí com as próximas aulas incluindo a rotina de vocês uma
+
+1477
+03:00:22,480 --> 03:00:28,680
+leitura atenta dos tempos nos textos recomendados e poderem contribuir de maneira ainda mais
+
+1478
+03:00:28,680 --> 03:00:35,080
+proveitosa para a discussão que segue a cada exposição dos nossos professores convidados
+
+1479
+03:00:35,080 --> 03:00:42,160
+Paulo muito muito obrigado é deixo aqui né já um pouco também o anúncio para os nossos alunos
+
+1480
+03:00:42,240 --> 03:00:49,440
+Paulo participar do nosso livro né que reúne os ensaios sobre os autores que estão que
+
+1481
+03:00:49,440 --> 03:00:57,120
+compuseram essa disciplina né o programa dessa disciplina e já é então anúncio né que os alunos
+
+1482
+03:00:57,120 --> 03:01:03,200
+terão a oportunidade de mais uma vez ter contato com as ideias do Paulo agora escritas né nesse volume
+
+1483
+03:01:03,200 --> 03:01:09,320
+que a gente está preparando obrigado Paulo um grande abraço grande abraço a todos Samanta
+
+1484
+03:01:09,320 --> 03:01:16,400
+está com você para fechar aqui o nosso dia só agradecer muito obrigado por convite obrigado
+
+1485
+03:01:16,400 --> 03:01:22,160
+para o convite professor e todo agora já terceira vez que eu participe gosto muito sempre e agora
+
+1486
+03:01:22,160 --> 03:01:29,840
+vou me dedicar a escrita do capítulo aí obrigado a todos aí obrigado professor obrigado professor
+
+1487
+03:01:29,840 --> 03:01:35,200
+Paulo pela aula maravilhosa professor barra pela condução de sempre maravilhosa também
+
+1488
+03:01:35,200 --> 03:01:40,960
+obrigado aos nossos alunos pelas perguntas a toda equipe da PRPG é equipe de monitoria
+
+1489
+03:01:40,960 --> 03:01:47,800
+por fazer por tornar isso aqui possível um abraço pessoal e até semana que vem até só
+

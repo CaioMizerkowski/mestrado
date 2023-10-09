@@ -1,0 +1,5244 @@
+1
+00:01:00,000 --> 00:01:17,560
+Bom dia a todos, sejam bem-vindos ao nosso quinto encontro dessa disciplina transversal
+
+2
+00:01:17,560 --> 00:01:24,480
+de filosofias da ciência e da tecnologia, promovido pelo Universidade Federal do Paraná
+
+3
+00:01:24,480 --> 00:01:31,120
+e agregado em parcerias aí pelo Estado e também pelo Brasil, semana passada tivemos
+
+4
+00:01:31,120 --> 00:01:33,520
+o professor Mauro da Federal de Minas Gerais.
+
+5
+00:01:33,520 --> 00:01:39,740
+É um projeto que nos alegra e hoje temos a satisfação e alegria de receber o
+
+6
+00:01:39,740 --> 00:01:46,920
+professor Remy Shorn, professor da Universidade da União Oeste e aqui eu direi algumas
+
+7
+00:01:46,920 --> 00:01:52,400
+brevíssimas palavras apresentando o professor Remy. O professor Remy possui graduação,
+
+8
+00:01:52,400 --> 00:01:57,440
+realização e filosofia pela Universidade Regional do Noroeste do estado do Rio Grande
+
+9
+00:01:57,440 --> 00:02:04,760
+do Sul, a Uni Juí, tem mestrado em filosofia pela Puque do Rio de Janeiro e doutorado em
+
+10
+00:02:04,760 --> 00:02:11,200
+filosofia pela Puque do Rio Grande do Sul. Atualmente o professor Remy é professor e pesquisador
+
+11
+00:02:11,200 --> 00:02:18,560
+associado da Universidade Estadual do Oeste do Paraná, União Oeste, com interesse em
+
+12
+00:02:18,560 --> 00:02:24,480
+filosofia da linguagem, filosofia da ciência, epistemologia, filosofia da cosmologia e
+
+13
+00:02:24,480 --> 00:02:32,120
+principalmente nos seguintes temas, ciência, epistemologia, falibilismo, conhecimento
+
+14
+00:02:32,120 --> 00:02:39,680
+e crítica. Então hoje teremos a satisfação de acompanharmos uma aula do professor Remy
+
+15
+00:02:39,680 --> 00:02:44,960
+que vai tratar de um de seus filósofos prediletos, um dos filósofos que no qual ele é um grande
+
+16
+00:02:44,960 --> 00:02:51,640
+especialista, que é o Ser Car Popper. Então o professor Remy, sejam muito bem-vindo,
+
+17
+00:02:51,640 --> 00:02:55,760
+uma alegria tê-lo aqui e eu redo a palavra. Muito obrigado.
+
+18
+00:02:55,760 --> 00:03:04,960
+Bom dia Ronay, bom dia Equipe, que enfim está acessorando também a essa aula. É uma satisfação
+
+19
+00:03:04,960 --> 00:03:12,280
+poder participar desse programa de disciplinas transversais também. Na condição exatamente
+
+20
+00:03:12,280 --> 00:03:20,480
+de alguém que enfim, estuda um teórico e que tenha pretensão, claro, de fazer a defesa
+
+21
+00:03:20,480 --> 00:03:26,800
+de um conjunto dessas ideias, a reflexão acerca delas, as consequências dessas ideias,
+
+22
+00:03:26,800 --> 00:03:35,760
+mas também perceber as limitações desses pensamentos. Eu tenho pra mim que a gente
+
+23
+00:03:36,040 --> 00:03:42,760
+compreendo um teórico quando é capaz de criticá-lo. Até então a gente está enfim,
+
+24
+00:03:42,760 --> 00:03:52,080
+em grande medida admirando e venerando esse teórico. Mas quando nós conseguimos estabelecer as
+
+25
+00:03:52,080 --> 00:03:59,680
+limitações dessa teoria, enfim, talvez estejamos mais próximos de uma compreensão e de uma
+
+26
+00:03:59,680 --> 00:04:05,560
+contribuição também mais significativa para o universo da filosofia e do pensamento racional
+
+27
+00:04:05,560 --> 00:04:14,160
+de todo, né? Porque enfim, é exatamente na possibilidade de relacionar com o conjunto
+
+28
+00:04:14,160 --> 00:04:20,120
+dos, enfim, das construções teóricas de outras áreas também, que nós precisamos
+
+29
+00:04:20,120 --> 00:04:28,360
+compreender, acomodar os nossos teóricos, mas ao mesmo tempo nos desacomodar na condição
+
+30
+00:04:28,360 --> 00:04:34,760
+de pensadores para propor exatamente um conjunto de novas reflexões que não estavam lá.
+
+31
+00:04:35,120 --> 00:04:40,560
+Porque por simplesmente cada um dos teóricos pensou a partir do seu tempo, né? A partir
+
+32
+00:04:40,560 --> 00:04:46,640
+dos problemas do seu tempo, a partir da herança tecnológica, científica do seu tempo, dos
+
+33
+00:04:46,640 --> 00:04:55,720
+problemas daquele período e que nós precisamos, enfim, atualizar no conjunto dos demais
+
+34
+00:04:55,720 --> 00:05:04,760
+conhecimentos. Não há nenhum conhecimento que se sustente só, né? Não há nenhuma,
+
+35
+00:05:04,760 --> 00:05:10,920
+assim como nem o santo se sustenta só, né? Nenhum conhecimento também se sustenta só.
+
+36
+00:05:10,920 --> 00:05:17,080
+É preciso que a gente tenha a possibilidade de nessa transversalidade e aproveitando o
+
+37
+00:05:17,200 --> 00:05:25,560
+conceito dos conhecimentos, né? Fazer com que, enfim, ganhe vida a nossa teoria, enfim,
+
+38
+00:05:25,560 --> 00:05:34,360
+aquilo que nós defendemos. Eu quero começar, então, na apresentação, né? Eu tenho isso,
+
+39
+00:05:34,360 --> 00:05:45,600
+um conjunto de, enfim, lâminas que eu quero usar como mote, né? E com poder falar delas, né?
+
+40
+00:05:45,600 --> 00:05:53,720
+Aqui, basicamente, tem o que é a proposta da disciplina também, né? A racionalidade
+
+41
+00:05:53,720 --> 00:06:03,360
+e o progresso científico e tecnológico. Bom, dizer um pouco de cada um desses pontos, né?
+
+42
+00:06:03,360 --> 00:06:09,640
+Porque, a bem da verdade, nós já temos um conceito imbricado aí que é o conceito de
+
+43
+00:06:09,640 --> 00:06:16,920
+progresso, né? Então, isso é uma postura teórica, né? Que eu defendo, que eu concordo,
+
+44
+00:06:16,920 --> 00:06:21,920
+que eu acho que existe, né? E eu acho que existe porque há evidências suficientes para acreditar
+
+45
+00:06:21,920 --> 00:06:31,200
+nisso, né? De que é um progresso, né? De que nós temos uma caminhada desde a nossa, enfim,
+
+46
+00:06:31,200 --> 00:06:39,520
+a nossa criação da linguagem, né? Como, enfim, descendentes dos sapiens ou como homo sapiens,
+
+47
+00:06:39,520 --> 00:06:45,800
+né? O início de uma linguagem, uma complexificação dessa linguagem, uma complexificação,
+
+48
+00:06:45,800 --> 00:06:54,920
+portanto, das nossas sinapses, uma complexificação da nossa capacidade de abordagem do mundo e uma
+
+49
+00:06:54,920 --> 00:07:00,760
+capacidade cada vez maior, então, exatamente de perceber um conjunto de elementos que, antes,
+
+50
+00:07:00,760 --> 00:07:09,960
+que é, poderíamos suspeitar que existiram. E isso se articula de uma forma que nós percebemos,
+
+51
+00:07:09,960 --> 00:07:15,600
+podemos perceber que as revoluções científicas, os avanços científicos, se nós não quisermos
+
+52
+00:07:15,600 --> 00:07:22,280
+chamarmos da revolução, né? O progresso da ciência é um progresso que se consolida
+
+53
+00:07:22,280 --> 00:07:29,520
+na tecnologia também, né? Então, o próprio elemento da tecnologia acaba sendo funcionando
+
+54
+00:07:29,520 --> 00:07:35,680
+como um elemento de constatação de que, efetivamente, que, objetivamente, houve um
+
+55
+00:07:35,680 --> 00:07:44,480
+progresso na complexidade científica, na capacidade de enxergar os nossos fenômenos de uma forma
+
+56
+00:07:44,480 --> 00:07:50,680
+cada vez mais adequada. É claro que a autonomia, então, passando para o ponto 2, a tecnologia
+
+57
+00:07:50,680 --> 00:07:59,440
+tem uma certa autonomia, mas ela é decorrência, por óbvio, de toda a ciência, né? E as práticas
+
+58
+00:07:59,440 --> 00:08:09,160
+científicas, então, elas ensejam o advento da tecnologia. Não quero dizer que a tecnologia,
+
+59
+00:08:09,160 --> 00:08:19,200
+enquanto tal também, não tem um feedback de forma muito direta, muito clara, né? Potencializando
+
+60
+00:08:19,200 --> 00:08:25,960
+a própria ciência. É claro que sim, né? Então, assim, a ciência desenvolve tecnologia, mas é
+
+61
+00:08:25,960 --> 00:08:32,480
+que a tecnologia desenvolve ciência. Isso aqui ainda... Enfim, estamos na introdução das
+
+62
+00:08:32,480 --> 00:08:38,760
+obvedades, quase, né? Mas é importante deixar esse registro, porque nós vamos tirar consequências
+
+63
+00:08:38,760 --> 00:08:46,880
+disso na sequência, tá? E, então, tem o entorno psicosocial, que, claro, cultural, política,
+
+64
+00:08:46,880 --> 00:08:52,440
+econômica, das ciências e da ciência e da tecnologia, mas eu tô contrapondo isso um pouco
+
+65
+00:08:52,480 --> 00:09:01,520
+no mito do contexto, né? Porque nós temos, no Brasil também, em boa parte do mundo, né?
+
+66
+00:09:01,520 --> 00:09:10,280
+Um apego muito grande é o conjunto desses elementos psicosociais. Eu recordo isso
+
+67
+00:09:10,280 --> 00:09:19,440
+dentre os elementos que são científicamente sustentáveis. O conjunto daquele entorno,
+
+68
+00:09:19,440 --> 00:09:28,120
+não é científicamente sustentável. E veja que nós temos ciência muito boa sendo feita na
+
+69
+00:09:28,120 --> 00:09:33,280
+psicologia, nós temos ciência muito boa sendo feita do ponto de vista de analisar os elementos
+
+70
+00:09:33,280 --> 00:09:39,920
+culturais, os elementos políticos, os elementos econômicos, então, claro, por óbvio, né? E
+
+71
+00:09:39,920 --> 00:09:49,200
+tecnológicos também, claro, né? Mas aquilo que não é ciência nesse entorno precisa ser
+
+72
+00:09:49,200 --> 00:09:57,640
+realizado. Por quê? Porque ele não pode ditar esse entorno não científico, não pode ditar para
+
+73
+00:09:57,640 --> 00:10:06,600
+ciência o que ela deva fazer ou a nossa aceitação da ciência. Eu acho que nós temos exemplos muito
+
+74
+00:10:06,600 --> 00:10:16,280
+recentes em que o entorno psicosocial não científico acabou por prejudicar em grande
+
+75
+00:10:16,320 --> 00:10:22,760
+vida o respeito àquilo que é científico, aquilo que objetivamente tem resultados científicos,
+
+76
+00:10:22,760 --> 00:10:29,480
+né? E eu estou falando isso, obviamente, em baseado em POPER, né? Claro, o CalPOPER é o
+
+77
+00:10:29,480 --> 00:10:37,640
+pensador que faz uma distinção muito categórica entre o que é ciência e o que não é ciência.
+
+78
+00:10:37,720 --> 00:10:46,360
+Hoje mais, enfim, mais popularmente chamado de pseudociência, né? E nós temos consequências
+
+79
+00:10:46,360 --> 00:10:52,080
+no mundo, nós temos um conjunto de publicações mais recentes, né? Que fazem também essa
+
+80
+00:10:52,080 --> 00:11:03,280
+divertência, inclusive aos meios estatais, né? Que jogam dinheiro nesse entorno, tentando, por
+
+81
+00:11:03,280 --> 00:11:10,880
+exemplo, na saúde, no Ministério da Saúde Brasileira, tentando confortar o paciente com
+
+82
+00:11:10,880 --> 00:11:17,360
+um conjunto de procedimentos não científicos. O que é condenável porque se já falta dinheiro
+
+83
+00:11:17,360 --> 00:11:23,360
+para a saúde vai faltar mais ainda se botar uma parte desse dinheiro para confortar com
+
+84
+00:11:23,360 --> 00:11:29,120
+outras terapias não científicas. Por exemplo, eu estou dando isso, oferecendo isso mais como um
+
+85
+00:11:29,120 --> 00:11:35,520
+exemplo para dizer o seguinte, nós temos que saber que o contexto em ciência, a bem da verdade,
+
+86
+00:11:35,520 --> 00:11:47,440
+ele, o contexto à ciência em ciência é a bem da verdade, o mito, porque o olhar científico
+
+87
+00:11:47,440 --> 00:11:55,440
+precisa diagnosticar também o contexto em torno de si e nessa condição isso implica claro, né?
+
+88
+00:11:55,440 --> 00:12:02,440
+Um conflito bastante irrasoável, estou sociente disso, né? Com um conjunto de entendimentos,
+
+89
+00:12:02,440 --> 00:12:09,680
+né? Mas o que falta numa sociedade como a nossa, o que falta em boa parte da sociedade mundial é
+
+90
+00:12:09,680 --> 00:12:16,760
+educação científica mais rigorosa, porque então boa parte dos mitos desaparecem, né? E nós
+
+91
+00:12:16,760 --> 00:12:25,840
+temos uma educação que não prima pela cientificidade, né? Exatamente porque se atenha um conjunto
+
+92
+00:12:25,840 --> 00:12:34,280
+a um entorno muito, enfim, que a bem da verdade é relativo, né? Entretanto, claro, né? Nós
+
+93
+00:12:34,280 --> 00:12:40,520
+sabemos que é um processo, mas tem uma retomada no mundo inteiro, não sei se vocês sabem disso,
+
+94
+00:12:40,520 --> 00:12:49,080
+por exemplo, a Inglaterra, a França e tomar a nós no futuro, vamos tomar decisões no sentido
+
+95
+00:12:49,080 --> 00:12:54,760
+de que esse conjunto de elementos não científicos que hoje estão, por exemplo, sendo sustentado
+
+96
+00:12:54,760 --> 00:13:00,680
+para o dinheiro público do Ministério da Saúde, possa ser revisto e esse dinheiro ser
+
+97
+00:13:00,680 --> 00:13:06,440
+exatamente depositado naquilo que é científico, naquilo que é resultado de uma atividade
+
+98
+00:13:06,440 --> 00:13:17,480
+científica com medicamentos eficientes e enfim, né? Com menos tratamentos que não oferecem
+
+99
+00:13:17,480 --> 00:13:24,400
+resultados de forma nenhuma. Esse é um elemento ainda de contextualização, claro, né? Do que eu vou
+
+100
+00:13:24,400 --> 00:13:29,600
+falar e tal, mas eu já quis trazer logo no começo porque eu sei que isso aí vai incomodar alguns,
+
+101
+00:13:29,640 --> 00:13:38,320
+e seria bom que a gente pudesse depois também no debate se ater a esse tema. O outro tema que
+
+102
+00:13:38,320 --> 00:13:45,640
+eu inclui aqui ainda é a relatividade do erro, né? Porque às vezes as pessoas pensam, bom, mas o
+
+103
+00:13:45,640 --> 00:13:52,080
+Popper mesmo diz o seguinte, a ciência está sempre errada, porque ali na frente nós vamos
+
+104
+00:13:52,080 --> 00:14:00,480
+saber que há uma outra forma mais adequada de compreender o contexto dos fenômenos todos
+
+105
+00:14:00,480 --> 00:14:08,160
+abordados pela ciência contemporânea. Isso é verdade, né? Mas há uma produção muito boa
+
+106
+00:14:08,160 --> 00:14:16,600
+contemporânea estudando exatamente esse elemento da relatividade do erro. E é uma chave de
+
+107
+00:14:16,600 --> 00:14:21,320
+uma forma muito simples, né? Quer dizer, eu quero trazer ela aqui de uma forma mais simples, né?
+
+108
+00:14:21,320 --> 00:14:30,360
+É claro que a ciência erra, né? E é claro que a ciência não é a expressão da verdade. Ela
+
+109
+00:14:30,360 --> 00:14:36,800
+busca a verdade, como diz o Popper, né? Mas ela não é a expressão da verdade, ela é a expressão
+
+110
+00:14:36,840 --> 00:14:47,120
+daquilo que não foi possível falsificar no conjunto das proposições contemporâneas. E, portanto,
+
+111
+00:14:47,120 --> 00:14:53,080
+é claro que ela traz junto, em correções relativamente ao conjunto dos fenômenos que aborda.
+
+112
+00:14:53,080 --> 00:15:01,680
+Mas há sempre, sim, e aí eu quero linkar com o conceito de progresso, né? A possibilidade de
+
+113
+00:15:01,760 --> 00:15:07,600
+termos teorias melhores do que as teorias que nós tínhamos. Então, por mais que as teorias que
+
+114
+00:15:07,600 --> 00:15:16,600
+nós temos hoje ainda certamente serão superadas no futuro, as teorias que nós, enfim, tínhamos no
+
+115
+00:15:16,600 --> 00:15:23,320
+passado, elas eram inferiores as que nós temos hoje. Elas eram menos adequadas à compreensão do
+
+116
+00:15:23,320 --> 00:15:28,560
+que quer que seja, do universo como um todo, do cosmos como um todo, ou da especificidade dos
+
+117
+00:15:28,560 --> 00:15:35,280
+fenômenos que nós analisamos. Então, o erro também é relativo. Não é porque não se pode
+
+118
+00:15:35,280 --> 00:15:45,040
+aceitar o combate, a ciência, porque a ciência vai guardar erros em sua exposição. Ela sempre
+
+119
+00:15:45,040 --> 00:15:51,160
+vai guardar erro. Mas não há nenhuma atividade humana intelectual que corrige tão adequadamente
+
+120
+00:15:51,160 --> 00:15:56,800
+os seus erros como a ciência. E eu acho que esse é o elemento importante. Quer dizer, todas as
+
+121
+00:15:56,840 --> 00:16:06,040
+atividades intelectuais, elas têm um apego ao existente. Mas a ciência é porque introduzir
+
+122
+00:16:06,040 --> 00:16:15,800
+o ceticismo na sua metodologia, aquela disciplina, ou aquele conjunto de disciplinas, aquele entendimento
+
+123
+00:16:15,800 --> 00:16:24,680
+de que cada período precisa ser revisto e o conjunto das suas afirmações de um tempo não
+
+124
+00:16:24,680 --> 00:16:32,600
+deverão a longo prazo. E isso é importante, por exemplo, para que a gente, enfim, possa revisitar
+
+125
+00:16:32,600 --> 00:16:40,360
+esses temas, que são os nossos temas tradicionais, mas que, em boa medida, isso aqui é a teoria do
+
+126
+00:16:40,360 --> 00:16:52,120
+Big Bang. Obvio, isso aqui é o tempo, então, decorrido desde o início da ampliação ou da
+
+127
+00:16:52,600 --> 00:17:00,520
+explosão inicial, a ampliação do universo, então. E esse aqui seria exatamente o momento,
+
+128
+00:17:00,520 --> 00:17:11,040
+o olhado de cima para baixo aqui, o momento alcançando hoje esse centro, graças a tecnologia
+
+129
+00:17:11,040 --> 00:17:18,360
+existente, graças ao Hubble, foi o Hubble que fez essa primeira imagem, olhando para trás. Então,
+
+130
+00:17:18,360 --> 00:17:24,520
+nós estaríamos aqui e estamos olhando para trás, e essa é uma das provas de que a tecnologia
+
+131
+00:17:24,520 --> 00:17:31,720
+exerce um feedback muito grande sobre a ciência, de tal forma que a tecnologia nos ajuda, mas isso é
+
+132
+00:17:31,720 --> 00:17:39,400
+mais uma obvedade, claro, que diz que a tecnologia nos ajuda a produzir ciência nova. Sem esse
+
+133
+00:17:39,400 --> 00:17:43,640
+processo tecnológico contemporâneo, nós também não teríamos a possibilidade de revisitar o
+
+134
+00:17:43,640 --> 00:17:51,080
+tempo para reconstruir o passado. Mas é claro, isso aqui é a mesma imagem, só que o Hubble está
+
+135
+00:17:51,080 --> 00:17:58,680
+aqui olhando para trás desde a era da radiação, que se chama, que era exatamente esse centro aqui,
+
+136
+00:17:58,680 --> 00:18:06,360
+o Hubble olhando para trás, encontrando então a idade das trevas, o que popularmente se chamou
+
+137
+00:18:06,360 --> 00:18:11,960
+assim, mas claro, tem inúmeros outros nomes, as primeiras estrelas, o surgimento das primeiras
+
+138
+00:18:11,960 --> 00:18:21,480
+estrelas, tem uma datação aqui embaixo, vocês podem ver, e tem 13,7 milhões de anos, então,
+
+139
+00:18:21,480 --> 00:18:31,080
+essa, esse processo de, enfim, do que nós podemos ver com o Hubble para as trevas, para que dê
+
+140
+00:18:31,080 --> 00:18:37,480
+onde viemos. Trevas também é um nome genérico, como quales de todos os nossos conceitos em ciência
+
+141
+00:18:37,480 --> 00:18:44,680
+também são conceitos que escondem coisas, esse conceito também esconde, porque bem da verdade
+
+142
+00:18:44,680 --> 00:18:49,960
+nós estamos dizendo isso aqui, a gente não sabe o que é, a gente supõe que seja, né, e a gente
+
+143
+00:18:49,960 --> 00:18:54,920
+produz conceitos então para esconder a nossa ignorância, né, é preciso que a gente saiba que
+
+144
+00:18:54,920 --> 00:19:01,800
+cada conceito que a gente usa, a bem da verdade ele está fechando uma porta de reflexão, se a gente
+
+145
+00:19:01,880 --> 00:19:11,160
+dá ele completamente para entender melhor o universo, mas enfim, aqui então com 1,9 milhões
+
+146
+00:19:11,160 --> 00:19:18,760
+nós começamos a ter as galáxias e hoje, enfim, o Hubble está no presente. Para que que serve
+
+147
+00:19:18,760 --> 00:19:28,520
+isso? Para nós termos uma ilustração inicial bem clara de que há um feedback da tecnologia
+
+148
+00:19:28,520 --> 00:19:37,240
+da ciência, de que há um intriga, enfim, uma, deixou dizer de uma forma mais adequada,
+
+149
+00:19:37,240 --> 00:19:45,080
+uma interrelação inevitável entre o avanço da ciência e o avanço da tecnologia, o avanço da
+
+150
+00:19:45,080 --> 00:19:51,240
+tecnologia vai trabalhar bem no sentido de nos permitir ver aquilo que a gente não via também,
+
+151
+00:19:51,720 --> 00:19:59,560
+mas principalmente também para dizer o seguinte, uma imagem como essa aqui ou essa anterior,
+
+152
+00:19:59,560 --> 00:20:06,600
+ela sempre vai permitir a uma pessoa on lógico, a quem usa raciocínio lógico perguntar
+
+153
+00:20:07,320 --> 00:20:13,880
+como é que o universo era antes do Big Bang, por exemplo, tem uma pergunta simples, óbvia,
+
+154
+00:20:13,880 --> 00:20:23,320
+mas que é uma resposta muito difícil, entende? Porque antes do Big Bang, ou no momento do Big
+
+155
+00:20:23,320 --> 00:20:28,120
+Bang, pelo menos, nós tínhamos uma concentração de toda a energia do cosmos, certo? Porque uma
+
+156
+00:20:28,120 --> 00:20:35,080
+resposta muito boa, mas uma resposta ingênua ao mesmo tempo, porque ela esconde que antes da
+
+157
+00:20:35,080 --> 00:20:42,040
+concentração de toda a energia do cosmos, certamente, havia uma desconcentração em algum grau,
+
+158
+00:20:42,040 --> 00:20:50,120
+em algum nível, de toda a energia do cosmos. Se é assim, então talvez o Big Bang seja um
+
+159
+00:20:50,920 --> 00:20:57,640
+estágio contemporâneo, contemporâneo, mas de longa duração, por óbvio, mas de outros tantos
+
+160
+00:20:58,360 --> 00:21:04,120
+universos que já existiram e deixaram de existir, e talvez isso seja, de fato, o que o Nietzsche propõe,
+
+161
+00:21:04,200 --> 00:21:12,040
+enfim, como um regresso, enfim, como uma repetição do mesmo. Em algum momento, pelo menos,
+
+162
+00:21:12,040 --> 00:21:17,880
+pode se pensar assim. Mas o que eu quero dizer é que nós temos uma teoria sempre, ainda,
+
+163
+00:21:20,600 --> 00:21:30,440
+com problemas, né? E esses problemas, claro, eles não evitam de nós enxergarmos e não
+
+164
+00:21:30,440 --> 00:21:36,920
+nos desvendarmos o universo de uma forma maravilhosa, né? Ao ponto de, por exemplo, criar uma imagem
+
+165
+00:21:36,920 --> 00:21:43,400
+dessa, que é uma imagem, enfim, muito assombrosa ao mesmo tempo, né? Porque ela está dizendo que é
+
+166
+00:21:43,400 --> 00:21:50,520
+para onde nós vamos. A Via Láctea um dia será sugada ou se unirá com Andrômeda, por exemplo. E
+
+167
+00:21:50,520 --> 00:21:59,880
+nós vamos, claro, já teremos virado o caldo antes disso, e pó, enfim, né? Mas é o que se aponta
+
+168
+00:21:59,880 --> 00:22:06,600
+com possibilidade, né? De previsibilidade do futuro também, de que as nossas galáxias mesmo se
+
+169
+00:22:06,600 --> 00:22:14,920
+unifiquem um dia por conta da gravidade, e nós sustentamos a gravidade em muitos aspectos da
+
+170
+00:22:14,920 --> 00:22:21,800
+existência contemporânea, e dizemos que ela, inclusive, tem valor universal, absolutamente
+
+171
+00:22:21,880 --> 00:22:29,320
+valor universal, né? Claro, com variações de gravidade maiores e menores, por exemplo,
+
+172
+00:22:29,320 --> 00:22:34,200
+por exemplo, claro, por exemplo, o buraco negro, né? Que a gravidade desfaz, inclusive, a luz, né?
+
+173
+00:22:34,200 --> 00:22:42,520
+E a gravidade em alguns lugares, enfim, é bem menor, mas também, né? Então, eu quero, eu tirei aqui os
+
+174
+00:22:42,520 --> 00:22:50,040
+principais, os principais temas, enfim, desse livro da lógica, da pesquisa científica, que é, vamos
+
+175
+00:22:50,040 --> 00:22:55,160
+dizer assim, a Bíblia de qualquer poperiano, né? Pra usar uma metáfora, por óbvio, né?
+
+176
+00:22:55,160 --> 00:23:04,360
+É, porque a rigor, né? Esse livro aí fez a grande guinada, né? Ele encarou o problema
+
+177
+00:23:04,360 --> 00:23:14,520
+dos, eh, dos positivistas, né? Eh, se baseando em Hume, né? Eh, principalmente, por aceitar,
+
+178
+00:23:14,520 --> 00:23:22,280
+o problema da indução, depois, enfim, ele encarou o problema inteiro da, da matematização,
+
+179
+00:23:22,280 --> 00:23:29,000
+vamos chamar assim, de toda ciência, né? Da logicização de toda ciência e fez perceber que
+
+180
+00:23:30,040 --> 00:23:35,960
+se nós os formos extremamente lógicos, se nós quisermos substituir as nossas proposições
+
+181
+00:23:35,960 --> 00:23:43,480
+científicas por proposições, eh, lógicas, nós também vamos acabar, eh, não permitindo
+
+182
+00:23:43,480 --> 00:23:51,800
+que a ciência aborde a realidade e vamos nos ater exclusivamente na forma, né? Eh, mas fez um
+
+183
+00:23:51,800 --> 00:23:59,480
+combate forte, né? Ao, exatamente, a indução, eh, tratou da, do elemento do psicologismo,
+
+184
+00:23:59,480 --> 00:24:06,600
+que tá presente, exatamente, nesse elemento, nessa possibilidade indutiva, e demarcou que
+
+185
+00:24:06,680 --> 00:24:13,320
+a ciência e o que não é ciência, né? Eh, e depois então, claro, né, apresentou a sua própria
+
+186
+00:24:13,320 --> 00:24:20,920
+metodologia para a abordagem do conjunto dos eventos que podem ser estudados pelas ciências
+
+187
+00:24:20,920 --> 00:24:26,200
+em geral, não é? Porque muito, muito seguidamente se diz que o Popper pode valer pra qualquer coisa,
+
+188
+00:24:26,200 --> 00:24:33,160
+mas não vale pra ciências sociais. É importante que as humanidades saibam que ele tratou disso
+
+189
+00:24:33,160 --> 00:24:42,280
+e que nós, enfim, eu defendo que a metodologia é a mesma. Nós não podemos é nos iludir com o
+
+190
+00:24:42,280 --> 00:24:52,120
+discurso hermeneutico em tentativa de substituição da eh, ciências, da ciência sociais. A hermeneutica
+
+191
+00:24:52,120 --> 00:24:57,560
+é uma boa filosofia, não tem problema com relação a isso, mas não podemos imaginar que
+
+192
+00:24:57,640 --> 00:25:03,640
+uma hermeneutica possa substituir uma ciência. E quando nós estamos fazendo filosofia da ciência,
+
+193
+00:25:03,640 --> 00:25:09,960
+nós não podemos pensar que a hermeneutica seja a forma de abordagem. Nós precisamos exatamente
+
+194
+00:25:09,960 --> 00:25:15,480
+considerar o conjunto dos elementos científicos e, todos os tempos, considerá-los e produzir uma
+
+195
+00:25:15,480 --> 00:25:21,640
+visão de mundo eh, que seja cosmológica. Então, tem a ideia de verdade, que sim, é uma ideia
+
+196
+00:25:21,640 --> 00:25:30,360
+metafísica, né? Tem a lógica como episteme. É bom a gente saber que, por exemplo, tem uma diferença
+
+197
+00:25:30,360 --> 00:25:38,200
+radical entre o que é uma epistemologia, o que é uma episteme, né, do que que é um paradigma,
+
+198
+00:25:38,200 --> 00:25:45,640
+como o Thomas Kuhn, por exemplo, propôs. O paradigma está muito mais relacionado com o avanço de uma
+
+199
+00:25:45,640 --> 00:25:54,200
+ciência específica. Uma epistemologia, uma episteme aborda o conjunto das ciências de um tempo e propõe
+
+200
+00:25:54,200 --> 00:26:02,200
+o entendimento de como é que elas, então, funcionam, como é que elas acontecem, o que é desejável
+
+201
+00:26:02,200 --> 00:26:09,000
+em ciência e o que não é, né? Enfim, e depois os temas aí de ciência, filosofia, tecnologia e tal,
+
+202
+00:26:09,560 --> 00:26:17,880
+depois eu vou abordar vários deles na sequência aqui, alguns mais diretamente e outros menos. Mas é
+
+203
+00:26:17,880 --> 00:26:26,120
+importante que se diga, por exemplo, que no que eu compreendo entre, e a partir de Popper, claro, né,
+
+204
+00:26:26,120 --> 00:26:35,080
+entre ciência e filosofia, a diferença, isso é popper, é puro, tá? A diferença é que filosofia tem
+
+205
+00:26:35,080 --> 00:26:41,240
+uma amplitude maior. Ela trabalha com conceitos não-científicos, por óbvio, né? E ela tem uma
+
+206
+00:26:41,240 --> 00:26:48,520
+amplitude maior, mas não tem, não deve ter uma metodologia diferente, porque trata-se exatamente
+
+207
+00:26:48,520 --> 00:26:54,200
+do desenvolvimento da racionalidade, seja da racionalidade científica, seja da racionalidade
+
+208
+00:26:54,200 --> 00:27:01,080
+filosófica. E as duas racionalidades, nessa condição, elas têm a mesma metodologia, que é
+
+209
+00:27:01,160 --> 00:27:09,240
+usar na sua forma, na sua metodologia, o seticismo como forma exatamente de fazer com que a gente
+
+210
+00:27:09,240 --> 00:27:16,760
+perceba as limitações do pensamento, na ciência aí, na filosofia. Então é uma questão de
+
+211
+00:27:16,760 --> 00:27:26,040
+universalidade. A filosofia é mais ampla porque a filosofia pode tratar com os conceitos metafísicos,
+
+212
+00:27:26,040 --> 00:27:32,120
+pode e deve tratar com os conceitos metafísicos. Diferentemente do que queria, o círculo de
+
+213
+00:27:32,120 --> 00:27:36,840
+Vienna, inclusive, que eu não sei até onde vocês conhecem, mas eu gostaria que, enfim, dentro do
+
+214
+00:27:36,840 --> 00:27:44,280
+possível vocês pudessem pesquisar isso também, o círculo de Vienna entendia exatamente que a
+
+215
+00:27:44,280 --> 00:27:53,560
+metafísica deveria ser superada pela análise lógica da linguagem. E o popper diz, não, nós não
+
+216
+00:27:53,560 --> 00:27:58,200
+precisamos de tratar de superar a metafísica. Trata-se de tratar a metafísica como metafísica,
+
+217
+00:27:58,200 --> 00:28:05,240
+ponto. E introduzir na metafísica uma problematização racional, de tal forma que também os conceitos
+
+218
+00:28:05,240 --> 00:28:11,080
+metafísicos sejam problematizados, sejam compreendidos e possam, sim, jogar luz no entendimento da
+
+219
+00:28:11,080 --> 00:28:17,480
+realidade. Mas isso não quer dizer que eles precisam ser superados ou que eles precisam ser,
+
+220
+00:28:17,640 --> 00:28:24,280
+de alguma forma, eliminados do universo do conhecimento. Pelo contrário, eles são fonte
+
+221
+00:28:24,280 --> 00:28:31,960
+de entendimento de todas aquelas realidades que não podem ser abordadas pelas ciências específicas
+
+222
+00:28:31,960 --> 00:28:40,440
+e que podem ainda assim ajudar a construir uma visão cosmológica, que, segundo o popper,
+
+223
+00:28:40,520 --> 00:28:48,840
+é o sonho de todo o ser de razão. Todo o ser de razão quer compreender o mundo mais amplamente,
+
+224
+00:28:49,480 --> 00:28:56,040
+com a ajuda de todas as ciências, porque são as formas mais confiáveis de entendimento,
+
+225
+00:28:57,160 --> 00:29:06,120
+e com o conjunto daqueles conceitos metafísicos que são problematizados e que se sustentam
+
+226
+00:29:06,200 --> 00:29:14,120
+numa articulação cosmológica do mundo. Porque é verdade que ninguém é capaz de pensar que
+
+227
+00:29:14,120 --> 00:29:21,240
+isso aqui tudo é só ciência. Aqui tem ciência e tem completude, vou chamar assim, complementação
+
+228
+00:29:21,960 --> 00:29:28,440
+para construir uma visão cosmológica dessa aqui, tem complementação, por certo, de um conjunto
+
+229
+00:29:28,440 --> 00:29:35,240
+de conceitos que não são especificamente científicos em cada uma das áreas. Então ela é majoritariamente
+
+230
+00:29:35,240 --> 00:29:41,960
+científica? Sim, nós precisamos que seja assim. O que não for científico de qualquer forma precisa
+
+231
+00:29:41,960 --> 00:29:49,320
+se basear nessa problematização e no falibilismo que é a metodologia científica. Precisa estar
+
+232
+00:29:49,320 --> 00:29:57,320
+disposto a ceder o seu lugar a qualquer momento por uma interpretação mais adequada. Então é
+
+233
+00:29:57,320 --> 00:30:01,880
+exatamente disso que eu estou falando aqui nessa lâmina. O popper é um defensor, então,
+
+234
+00:30:02,760 --> 00:30:13,880
+da visão falsificacionista da realidade, que tem um realismo pluralista, a realidade é plural
+
+235
+00:30:14,600 --> 00:30:23,640
+e ela não é algo estanque, ela é emergente o tempo inteiro, mas não é emergente de qualquer forma,
+
+236
+00:30:23,640 --> 00:30:30,840
+ela é emergente de uma maneira ainda de compreensão mais adequada que é o propensitivismo,
+
+237
+00:30:30,840 --> 00:30:38,840
+que significa o seguinte, vou só para adiantar o conceito já, qualquer coisa mesmo sem previsão
+
+238
+00:30:38,840 --> 00:30:49,960
+pode acontecer, certo? Uma mente aberta, um cientista aberto, um teórico que queira ser
+
+239
+00:30:49,960 --> 00:30:55,960
+consequente, precisa estar aberto para a possibilidade de que o inusitado ocorra,
+
+240
+00:30:56,920 --> 00:31:06,040
+para que o inesperado ocorra, para que aquilo que enfim não está no radar, para usar uma metáfora
+
+241
+00:31:06,040 --> 00:31:14,280
+aqui, possa vir a acontecer. E nós temos elementos, sem ser indutivista, mas nós temos elementos
+
+242
+00:31:14,280 --> 00:31:21,240
+de que, por exemplo, a inteligência humana é um desses fatores. Não era previsível que os humanos
+
+243
+00:31:21,320 --> 00:31:26,040
+se tornassem inteligentes, não era previsível que nós tivéssemos uma linguagem tão complexa,
+
+244
+00:31:26,040 --> 00:31:34,200
+se olharmos para as evidências anteriores, enfim, até onde a ciência alcançou hoje,
+
+245
+00:31:34,200 --> 00:31:42,760
+a gente não tem porque imaginar que isso acontecesse. O próprio elemento da vida ter ocorrido é um
+
+246
+00:31:42,760 --> 00:31:49,560
+elemento inusitado, de alto impacto por óbvio, mas que poderia não ter acontecido e que aconteceu.
+
+247
+00:31:50,520 --> 00:31:58,120
+Então, a propensitividade é exatamente a possibilidade de esperar por tudo,
+
+248
+00:31:58,120 --> 00:32:03,640
+pelo inesperado, inclusive, de estar aberto ao inesperado, como já sabiam os pressocráticos,
+
+249
+00:32:04,360 --> 00:32:12,600
+que teorizarem exatamente sobre isso. E é emergente, trata-se de uma emergência
+
+250
+00:32:12,680 --> 00:32:20,920
+no sentido de que ela está constantemente acontecendo, se transformando e mostrando
+
+251
+00:32:20,920 --> 00:32:28,600
+uma face nova. O mundo é assim. Por isso, nós precisamos de uma postura que introduz o
+
+252
+00:32:29,720 --> 00:32:36,920
+ceticismo, que é o falsificacionismo. Porque tudo aquilo que nós desvendamos até hoje,
+
+253
+00:32:36,920 --> 00:32:41,880
+que nós sabemos que é científico, nós sabemos baseado em um conjunto de realidade
+
+254
+00:32:41,880 --> 00:32:50,840
+que foi testado, enfim, que foi investigado, mas que nossa investigação abordou no estágio
+
+255
+00:32:50,840 --> 00:32:58,360
+do desenvolvimento e não como um processo de desenvolvimento. Então, as nossas evidências
+
+256
+00:32:58,360 --> 00:33:05,880
+são temporárias, elas têm vida curta, as nossas evidências não são suficientes para
+
+257
+00:33:05,960 --> 00:33:14,360
+sustentar as nossas teorias. E em sendo assim, claro, nós temos que poder
+
+258
+00:33:15,560 --> 00:33:23,080
+perceber novos projetos de pesquisas, novos programas de pesquisa todo momento,
+
+259
+00:33:23,080 --> 00:33:28,360
+para exatamente dar conta de um conjunto de elementos que, enfim, nós não dávamos conta
+
+260
+00:33:28,440 --> 00:33:37,880
+antes. E, portanto, aquela posição que eu defendo seja uma ciência, ou seja, um teórico
+
+261
+00:33:37,880 --> 00:33:44,680
+que nós estudamos, nós só os compreendemos quando nós vemos as limitações. E por isso que eu
+
+262
+00:33:44,680 --> 00:33:51,000
+falei daquele elemento ali do Big Bang. É claro que as perguntas que se fazem hoje,
+
+263
+00:33:51,000 --> 00:33:56,440
+acerca do Big Bang, ainda podem ser consideradas um pouco ingênuas, enfim, mas é uma pergunta
+
+264
+00:33:56,520 --> 00:34:02,360
+lógica, né? É uma pergunta lógica, enfim, que até não encontrarmos respostas adequadas,
+
+265
+00:34:02,360 --> 00:34:09,000
+nós não vamos deixar de fazê-las. Porque sim, porque nós precisamos perceber quais são os
+
+266
+00:34:09,000 --> 00:34:15,800
+limites das teorias, elas todas são limitadas, elas abordam um fenômeno, um conjunto de fenômenos
+
+267
+00:34:15,800 --> 00:34:21,960
+durante um determinado estágio de conhecimento e na interface com os outros conhecimentos,
+
+268
+00:34:21,960 --> 00:34:27,560
+essa gente percebe as limitações. Esse é um problema antigo, então, eu só quero trazer aqui
+
+269
+00:34:27,560 --> 00:34:33,800
+que desde a antiguidade a gente teve sempre os filósofos, que são os filósofos mais
+
+270
+00:34:33,800 --> 00:34:41,960
+dogomáticos, que desenvolvem doutrinas. E eu tenho um livrozinho, uma publicação antiga,
+
+271
+00:34:41,960 --> 00:34:51,560
+acho que era do 2008, 2010, não lembro agora, que se chama Doutrinas, o ópio dos intelectuais.
+
+272
+00:34:51,560 --> 00:34:59,880
+E é um problema, nós temos em filosofia e em outras tantas áreas uma defesa intransigente
+
+273
+00:34:59,880 --> 00:35:08,040
+dos nossos teóricos, né? E nós não devemos, eles dispensariam a nossa defesa, certamente,
+
+274
+00:35:08,120 --> 00:35:16,360
+começam a se conversar conosco hoje, porque eles não merecem ser tratados dogmaticamente,
+
+275
+00:35:16,360 --> 00:35:23,000
+todo o intelectual que se preze precisa ser tratado como uma pessoa que, enfim, suas teorias
+
+276
+00:35:23,000 --> 00:35:28,040
+precisam ser problematizadas, eles só quiseram dar uma contribuição durante um tempo. Mas sim,
+
+277
+00:35:28,040 --> 00:35:34,200
+desde os gregos nós temos uma divergência entre o que é a razão, que é o racional, e aí nós
+
+278
+00:35:34,280 --> 00:35:41,160
+os filósofos mais dogmáticos, os filósofos mais éticos ou examinadores, o problematizadores, enfim,
+
+279
+00:35:41,160 --> 00:35:50,600
+em que, assim, a admissão de que a razão também guarda inconsistencias e erros. E é claro que o
+
+280
+00:35:50,600 --> 00:35:58,840
+universo poperiano e que o mefilio, aí, todo é esse segundo em que, obviamente, toda racionalidade,
+
+281
+00:35:58,920 --> 00:36:04,200
+por mais que seja racional, nós consideramos racional durante um determinado tempo, nós
+
+282
+00:36:04,200 --> 00:36:11,320
+vamos precisar revisitar e saber que ela guarda problemas e guarda incompletitudes. A razão,
+
+283
+00:36:11,320 --> 00:36:20,600
+portanto, é falível, crítica, né? Quanto aos grandes problemas, ser, origem, destino, aí,
+
+284
+00:36:20,600 --> 00:36:27,480
+assim, é importante saber, nós podemos inferir, a partir das ciências contemporâneas, muita coisa,
+
+285
+00:36:27,480 --> 00:36:33,480
+mas uma visão cosmológica sempre ainda vai ser conjectural, que é o que eu dizia antes, né?
+
+286
+00:36:33,480 --> 00:36:40,760
+Ninguém imagina que aquela imagem lá no começo pudesse ter sido construída só com evidências
+
+287
+00:36:40,760 --> 00:36:46,600
+científicas, né? Ela é construída a base de evidências científicas, mas ela também é
+
+288
+00:36:46,600 --> 00:36:53,640
+também uma conjectura. Nós não sabemos, finalmente, como é que as coisas se dão e nós podemos, sim,
+
+289
+00:36:53,800 --> 00:37:00,760
+ser surpreendidos com mudanças a qualquer momento no conjunto dos elementos que estão considerando
+
+290
+00:37:00,760 --> 00:37:06,520
+a nossa cosmologia contemporânea, de tal forma que a gente é obrigado a alterá-la, né? E,
+
+291
+00:37:06,520 --> 00:37:15,880
+às vezes, muito significativamente, inclusive. Então, isso faz parte de uma visão, de uma concepção,
+
+292
+00:37:16,520 --> 00:37:22,680
+de uma humildade intelectual que é importante para todos, né? Nós precisamos saber,
+
+293
+00:37:22,680 --> 00:37:29,880
+primeiro, que nós não sabemos, né? Se nós achamos que sabemos, essa é a tragédia de qualquer
+
+294
+00:37:29,880 --> 00:37:37,560
+intelectual, né? O sujeito pensa, não, eu sei isso, enfim, seja o que for. As ciências da
+
+295
+00:37:37,560 --> 00:37:43,880
+mesma forma e as interfaces da ciência com as outras formas de conhecimento precisam ser
+
+296
+00:37:43,880 --> 00:37:50,120
+cuidadosamente analisadas. Por quê? Porque, por exemplo, contemporaneamente nós temos muitos
+
+297
+00:37:50,120 --> 00:37:58,280
+elementos com verniz científico e finalidade econômica ou, às vezes, econômica bastante
+
+298
+00:37:58,280 --> 00:38:06,680
+desonesta, inclusive, né? Então, e aí vai constelação familiar, aí vai, enfim, né? Boa parte dos
+
+299
+00:38:06,680 --> 00:38:15,160
+fitoterápicos, aí vai uma boa parte da psicanálise, né? Freud, pelo menos, né? Eu sei que, enfim,
+
+300
+00:38:15,240 --> 00:38:19,160
+aí pode dar polêmica e eu não me importo com isso, eu estou preparado para fazer um
+
+301
+00:38:19,160 --> 00:38:29,400
+debate. Mas é bom sabermos que o que é científico não é seguro, mas é o mais seguro que conseguimos.
+
+302
+00:38:29,400 --> 00:38:36,680
+E a interface com os outros, com as outras formas de conhecimento, precisa ser cuidadosamente
+
+303
+00:38:36,680 --> 00:38:42,760
+feita, porque, do contrário, nós acabamos pervertendo exatamente a nossa melhor construção,
+
+304
+00:38:42,760 --> 00:38:49,400
+a construção mais digna, vamos chamar assim, da inteligência e do compromisso do homem com,
+
+305
+00:38:49,400 --> 00:38:57,080
+enfim, com a natureza, com o conjunto dos outros seres, né? E conosco mesmo, né? Principalmente
+
+306
+00:38:57,080 --> 00:39:04,520
+com o conjunto das outras, dos outros homens, né? Então, tem interface entre, claro, né? Tem interface
+
+307
+00:39:04,520 --> 00:39:12,840
+entre metafísica, né? Mas, eh, as dimensões metafísicas precisam ser abandonadas quando não
+
+308
+00:39:12,840 --> 00:39:18,200
+podem ser complexificadas, né? Isso aqui, em grande medida, eu acho que eu anunciei, né? Mas,
+
+309
+00:39:18,200 --> 00:39:25,720
+assim, vamos retomar. O ceticismo é uma face inevitável no processo de construção do conhecimento.
+
+310
+00:39:25,720 --> 00:39:32,040
+Trata-se de introduzir-lo na metodologia da epistêmica, né? Na metodologia epistêmica.
+
+311
+00:39:32,120 --> 00:39:39,240
+Por quê? Porque é o ceticismo, exatamente, que nos faz revisitar os nossos conhecimentos científicos
+
+312
+00:39:39,240 --> 00:39:44,440
+sempre de novo. Então, veja que eu não estou falando pra vocês especificamente de um,
+
+313
+00:39:45,160 --> 00:39:51,080
+de um conhecimento científico, mas do que consiste, no que concerne o próprio processo
+
+314
+00:39:51,080 --> 00:40:00,680
+de construção da ciência. A essência do que é científico é exatamente poder estar aberto sempre
+
+315
+00:40:00,680 --> 00:40:06,840
+de novo com o ceticismo à disposição, não o ceticismo extremo, que vai dizer que é impossível
+
+316
+00:40:06,840 --> 00:40:13,240
+conhecer qualquer coisa, porque há possibilidade de conhecer-os. Entre ceticismo e documentismo
+
+317
+00:40:13,240 --> 00:40:19,640
+na realidade, nós temos todo o conhecimento possível, mas o documentismo e o ceticismo
+
+318
+00:40:19,640 --> 00:40:26,120
+puro não produzem conhecimento sobre o que quer que seja, nem sobre a filosofia e nem sobre
+
+319
+00:40:27,080 --> 00:40:33,320
+ciência ou sobre o que quer que seja, enfim, não produz conhecimento. Entretanto, utilizar-se,
+
+320
+00:40:33,320 --> 00:40:42,600
+introduzir a metodologia ceticista no processo epistêmico dá condições, né? E é um processo
+
+321
+00:40:42,600 --> 00:40:51,400
+que nós temos aqui, eu já tenho alguns exemplos só, né? E outros tantos, né? Do que se trata bem
+
+322
+00:40:51,480 --> 00:40:58,440
+da verdade, né? Isso aí é um elemento importante, eu acho, pra gente pensar. Então, vamos trabalhar
+
+323
+00:40:58,440 --> 00:41:05,560
+com uma coisa muito simples assim, né? Vamos imaginar que eu queira falar como o Popper fazia
+
+324
+00:41:05,560 --> 00:41:11,960
+sobre o copo d'água, certo? Qualquer coisa que eu disser, né? Aqui está um copo d'água,
+
+325
+00:41:11,960 --> 00:41:17,160
+Popper fazia muito esse exemplo, esse exercício, né? Aqui está um copo d'água. Isso implicaria,
+
+326
+00:41:17,880 --> 00:41:23,320
+primeiro, que nós tivéssemos uma linguagem perfeita que pudesse falar desse copo d'água
+
+327
+00:41:23,320 --> 00:41:32,280
+e não de outro copo d'água, né? Não existe isso. Portanto, entre a nossa linguagem e a
+
+328
+00:41:32,280 --> 00:41:38,120
+linguagem convencional, a nossa linguagem ordinária, como a gente chama com um pouco mais derrigouro,
+
+329
+00:41:38,120 --> 00:41:44,120
+né? E a linguagem ordinária, ela é imperfeita. Esse problema não é um problema da ciência,
+
+330
+00:41:44,120 --> 00:41:47,880
+é um problema de qualquer outra coisa, é um problema da própria linguagem. A nossa linguagem
+
+331
+00:41:47,880 --> 00:41:55,640
+é imperfeita, ela não nomeia esse copo d'água especificamente. Ela nomeia o copo d'água,
+
+332
+00:41:55,640 --> 00:42:02,360
+por exemplo. Então, entre o fenômeno e a linguagem que nós desenvolvemos, sempre há um iato,
+
+333
+00:42:02,360 --> 00:42:11,080
+sempre há o que eu chamo mais em metaforicamente, né? De um abismo. Como é que os nossos
+
+334
+00:42:11,800 --> 00:42:18,200
+grandes irreverenciados teóricos trataram desse problema? O Kant chamou de representação.
+
+335
+00:42:18,200 --> 00:42:27,480
+Ele diz, entre o que nós dizemos e o que é referido, né? Nós temos representações.
+
+336
+00:42:27,480 --> 00:42:36,280
+O mundo só se lhe aprende por representações. O Wittgenstein criou um elemento da figuração
+
+337
+00:42:37,240 --> 00:42:43,880
+que é extremamente interessante também. É muito bonito. É como assim. Existe a realidade,
+
+338
+00:42:44,600 --> 00:42:52,040
+certo? E existe a nossa linguagem. A nossa linguagem figura, figura a realidade.
+
+339
+00:42:53,160 --> 00:43:00,040
+Como se fosse, eu tô simplificando um pouquinho, mas é como se fosse um teatro acerca da realidade,
+
+340
+00:43:00,040 --> 00:43:08,200
+certo? Então, o Wittgenstein diz, a linguagem figura a realidade. A linguagem não aprende
+
+341
+00:43:08,200 --> 00:43:18,920
+a realidade. A linguagem não é capaz de dar conta do seu referente, né? E o Popper, então,
+
+342
+00:43:18,920 --> 00:43:25,080
+chama de correspondência. Ele diz que entre a linguagem e os fenômenos, o conjunto dos objetos
+
+343
+00:43:25,080 --> 00:43:32,440
+abordado há uma correspondência, né? Então, as proposições de base, por exemplo, elas correspondem
+
+344
+00:43:34,360 --> 00:43:40,760
+a o que é a realidade, né? Se eu digo aqui a um copo d'água, eu estou com um copo d'água na mão,
+
+345
+00:43:40,760 --> 00:43:47,240
+eu tenho uma proposição de base. Mas é claro que ela só corresponde ainda, indirectamente,
+
+346
+00:43:47,240 --> 00:43:54,440
+a realidade. Porque para que você se convença, vocês precisam, por exemplo, aceitar que a minha
+
+347
+00:43:54,440 --> 00:44:02,200
+proposição foi bem formulada e que há algo tipo um copo d'água na minha mão. Então, há uma decisão
+
+348
+00:44:02,200 --> 00:44:09,640
+a ser adotada pelo, por cada uma das pessoas que aceitam uma proposição de base. É uma decisão.
+
+349
+00:44:09,640 --> 00:44:16,040
+Nós não podemos dizer, ah, foi constatado pela ciência, por exemplo. Na linguagem jornalística,
+
+350
+00:44:16,040 --> 00:44:24,680
+se usa muito, né? Ficou provado? Foi constatado? Não. A ciência não constata finalmente nada,
+
+351
+00:44:24,680 --> 00:44:33,000
+não prova finalmente e absolutamente nada, mas permite compreender a realidade de uma forma
+
+352
+00:44:33,000 --> 00:44:41,320
+correspondencial. Ou seja, nós produzimos entendimentos que acreditamos ser mais fidedignos com a
+
+353
+00:44:41,320 --> 00:44:48,920
+realidade do que os entendimentos anteriores. E assim a ciência avança. Em Wittgenstein,
+
+354
+00:44:48,920 --> 00:44:54,920
+nós podemos dizer, nós produzimos entendimentos, produzimos uma figuração mais adequada,
+
+355
+00:44:54,920 --> 00:45:02,040
+de tal forma que nos convencemos que é uma melhor figuração em relação a anterior. E
+
+356
+00:45:02,040 --> 00:45:08,840
+canteonamente nós podemos dizer que nós produzimos representações da realidade mais fidedignas
+
+357
+00:45:08,840 --> 00:45:16,040
+também e de tal forma que nós nos convencíamos que a ciência avançou. Mas ela não avança por
+
+358
+00:45:16,040 --> 00:45:25,160
+aprender, por tomar a realidade finalmente. E eu quero só citar um exemplo assim muito rapidamente,
+
+359
+00:45:25,160 --> 00:45:35,320
+né? De dessa situação. Eu não sei se vocês lembram, um tempo atrás o CERN, que é aquele centro de
+
+360
+00:45:35,320 --> 00:45:42,440
+pesquisa em que tem um acelerador de partículas, que pega três países, a França, a Itália e
+
+361
+00:45:42,440 --> 00:45:55,640
+fugiu o terceiro. Mas vocês sabem o que eu estou falando. Eles noticiaram que houve uma anomalia no
+
+362
+00:45:55,640 --> 00:46:04,520
+movimento e que se confirmado, uma partícula teria se deslocado mais rapidamente que a Lúcia.
+
+363
+00:46:04,520 --> 00:46:12,360
+Vejam que se isso fosse real, nós íamos rever toda a realidade. Porque a nossa realidade
+
+364
+00:46:12,360 --> 00:46:18,120
+inteira está baseada exatamente nessa relação, espaço, tempo e a velocidade da luz é a nossa,
+
+365
+00:46:18,760 --> 00:46:28,040
+enfim, é a nossa referência. Então eles divulgaram o dado e outros aceleradores de
+
+366
+00:46:28,040 --> 00:46:34,040
+partículas no mundo inteiro fizeram os mesmos procedimentos e não constatar. E eles mesmos
+
+367
+00:46:34,040 --> 00:46:40,120
+fizeram os procedimentos e constataram que foi na Itália, que enfim teve um problemazinho
+
+368
+00:46:40,120 --> 00:46:47,800
+de partícula que fez com que o resultado aparecesse dessa maneira. Bom, com o Thomas Kuhn, a gente
+
+369
+00:46:47,800 --> 00:46:57,720
+diria, teve anomalia, houve uma anomalia, chegou a se produzir o início de uma ciência extraordinária,
+
+370
+00:46:57,720 --> 00:47:07,120
+que começasse a pensar fora da relação onde a velocidade da luz é constante. Mas sim, o
+
+371
+00:47:07,120 --> 00:47:14,400
+resultado que manter anterior venceu e ficou provado, ficou constatado, enfim, por várias
+
+372
+00:47:14,400 --> 00:47:22,200
+exemplos em outras pesquisas que isso não aconteceu, que essa anomalia não era uma anomalia real,
+
+373
+00:47:22,200 --> 00:47:31,920
+ela apareceu como tal, mas acabou esse resultado não se repetiu. E eu quero só falar disso porque
+
+374
+00:47:32,680 --> 00:47:37,560
+em ciência não adianta nós chegarmos a uma determinada conclusão a partir de um conjunto
+
+375
+00:47:37,560 --> 00:47:46,520
+de evidências, nós precisamos poder reproduzir isso, nós precisamos poder, enfim, fazer com que
+
+376
+00:47:46,520 --> 00:47:54,840
+outros conhecimentos, em outras pesquisas legitimam esse conhecimento. E por isso exatamente a
+
+377
+00:47:54,920 --> 00:48:05,920
+Freud, o Freud recebia a burguesia americana e europeia, fazia anotações no seu caderno e na
+
+378
+00:48:05,920 --> 00:48:19,680
+sequência fazia uma tese em cima dessas anotações, seguidamente desrespeitando as suas próprias
+
+379
+00:48:19,680 --> 00:48:24,560
+anotações inclusive em grande medida. Isso não é eu que estou dizendo, tem pesquisas feitas em
+
+380
+00:48:24,640 --> 00:48:29,360
+a documentação que estava à disposição e o que ele escreveu depois e tem os testemunhas dos
+
+381
+00:48:29,360 --> 00:48:38,400
+próprios pacientes dele que desisseram, disseram que inclusive do ponto de vista da sua saúde
+
+382
+00:48:38,400 --> 00:48:43,000
+eles pioraram muito e que não melhoraram em um aspecto nenhum e que maior parte das ideias que
+
+383
+00:48:43,000 --> 00:48:51,840
+eram atribuídas a eles foi dito a eles nas primeiras sessões. Então tanto que a psicanálise em
+
+384
+00:48:52,120 --> 00:48:58,680
+hoje não trabalha mais com a base Freudiana forte e o último congresso de psicanálises na
+
+385
+00:48:58,680 --> 00:49:09,600
+França, a parte 70% dos trabalhos foram apresentados estabelecendo a relação entre os avanços
+
+386
+00:49:09,600 --> 00:49:17,720
+nas pesquisas neuronais, portanto sim, do ponto de vista biológico, onde é possível ciência,
+
+387
+00:49:17,720 --> 00:49:23,000
+onde é possível repetição e a interface. O que está produzindo, inclusive dentro da sociedade
+
+388
+00:49:23,000 --> 00:49:27,000
+psicanalítica, um problema imenso porque uma boa parte está dizendo que isso já não é mais
+
+389
+00:49:27,000 --> 00:49:35,960
+psicanálise, enfim, tomas com um certo de novo, o paradigma acabou se asgaçando parece, mas não
+
+390
+00:49:35,960 --> 00:49:41,800
+quero com isso comprometer a psicanálise porque tem muita gente trabalhando sério aí dentro com
+
+391
+00:49:41,800 --> 00:49:49,000
+as bases, com as teorias biológicas, com as demais teorias que são cientificisáveis, mas
+
+392
+00:49:49,000 --> 00:49:54,760
+há, claro, uma base lá do pensamento que está maculado hoje por conta das pesquisas mais
+
+393
+00:49:54,760 --> 00:50:04,200
+contemporâneas. Então, por que isso? Porque é possível, claro, revisitar a luz do ceticismo
+
+394
+00:50:04,200 --> 00:50:08,600
+todos os nossos conhecimentos e saber que determinados procedimentos são científicos,
+
+395
+00:50:08,600 --> 00:50:15,640
+que produzem resultados científicos e outros não. E outros não produzem, não se querem,
+
+396
+00:50:15,640 --> 00:50:22,760
+inclusive, isso. E muito provavelmente, se o Freud estivesse vivo, estaria defendendo que aquilo não
+
+397
+00:50:22,760 --> 00:50:32,040
+é ciência da forma como, enfim, a ciência tem aparecido e tem sido capaz de sucesso no
+
+398
+00:50:32,040 --> 00:50:39,960
+pensamento. Bom, o problema todo está sempre aqui, que é esse projeto, eu estou usando a questão
+
+399
+00:50:39,960 --> 00:50:45,400
+da psicanálise, a questão das demais, mas esse é sempre o problema, como é que nós podemos fazer
+
+400
+00:50:45,400 --> 00:50:51,320
+o conhecimento avançado, como superar o que se sabe, esse é o nosso problema. A gente se apega
+
+401
+00:50:51,320 --> 00:51:00,040
+ao que sabe, uma cultura se apega ao que sabe e, em geral, defende isso, defende de uma forma
+
+402
+00:51:01,000 --> 00:51:08,520
+prática. E a questão que já está dada por Hume, por exemplo, é que a indução não é uma forma
+
+403
+00:51:08,520 --> 00:51:16,040
+adequada, não podemos fazer inferências futuras a partir das conquistas do passado. O futuro pode,
+
+404
+00:51:16,040 --> 00:51:23,000
+sim, ser totalmente distinto do passado. O futuro pode ter outras bases e para que nós o comprendamos,
+
+405
+00:51:23,000 --> 00:51:29,640
+nós precisamos romper com as convicções que nós temos à luz, claro, de evidências que
+
+406
+00:51:29,720 --> 00:51:36,200
+conseguimos construir pela problematização conjectural que fazemos. Então trata-se de
+
+407
+00:51:36,200 --> 00:51:46,920
+produzir conjecturas capazes de serem testadas intersubjetivamente. Testar não é o que o Freud
+
+408
+00:51:46,920 --> 00:51:54,760
+fez, por exemplo. Eu recebo muitas pessoas, eu faço análises, faço a amnésia com eles e produzo
+
+409
+00:51:54,760 --> 00:52:03,560
+outras contas, uma narrativa. Não, é preciso que outras instâncias de pesquisa com outras
+
+410
+00:52:03,560 --> 00:52:11,960
+convicções também possam testar e legitimar. Então, só para nós termos um caso para problematizar.
+
+411
+00:52:13,480 --> 00:52:20,360
+É preciso que esses testes, então, sejam intersubjetivos. Outras instâncias de outros
+
+412
+00:52:20,360 --> 00:52:29,960
+pesquisadores legitimam em outros projetos de pesquisa. Quando uma ciência não é uma ciência,
+
+413
+00:52:29,960 --> 00:52:34,680
+quando ela é uma pseudociência, é isso que eu estou falando aí. Quando não for testável,
+
+414
+00:52:34,680 --> 00:52:41,560
+empírica e criticamente. É preciso poder testar. É preciso que não que os testes empíricos sejam
+
+415
+00:52:41,560 --> 00:52:51,320
+definitivos. Não, os testes empíricos continuam sendo objeto de conjecturas. Os testes empíricos
+
+416
+00:52:51,320 --> 00:52:59,560
+permitem e exigem decisões nossas de aceitar as evidências em proposições de base, em proposições
+
+417
+00:52:59,560 --> 00:53:06,600
+empíricas. Mas ainda assim, se nós não as temos, nós estamos mais longe da realidade, mais perto
+
+418
+00:53:06,600 --> 00:53:13,960
+do sonho ou talvez do devaneio. É que é do que a ciência precisa se afastar todos os dias. E
+
+419
+00:53:13,960 --> 00:53:20,520
+para ela se afastar todos os dias, ela precisa encontrar cada vez mais evidências e evidências
+
+420
+00:53:20,520 --> 00:53:27,960
+construídas intersubjetivamente, de tal forma que se possa validar. Esses entendimentos como
+
+421
+00:53:27,960 --> 00:53:34,040
+compreensão de algo que é válido. Não para aquela ciência específica, mas que possa ser
+
+422
+00:53:34,120 --> 00:53:42,360
+ter interface com outras instâncias da ciência. Algo que é especificamente verdadeiro numa ciência
+
+423
+00:53:42,360 --> 00:53:49,400
+não é verdadeira. Não se pode tomar como... Por que? Porque do contrário, nós não temos a
+
+424
+00:53:49,400 --> 00:53:56,200
+possibilidade de leis científicas, que são exatamente a possibilidade de ter amplitude de um
+
+425
+00:53:56,200 --> 00:54:02,840
+conhecimento. As evidências, as proposições de base, elas permitem que eu tenha uma verdade,
+
+426
+00:54:02,840 --> 00:54:07,320
+eu tenho uma parceria acerca da gravidade, que aceita pelos físicos, por óbvio, mas que
+
+427
+00:54:07,320 --> 00:54:13,480
+também seja aceito pelos biólogos, seja aceito pelos filósofos, seja aceito pelo conjunto das
+
+428
+00:54:13,480 --> 00:54:23,880
+pessoas que, como diziam o Kant, por todos os seres de razão. O que é o objetivo? O objetivo é
+
+429
+00:54:23,880 --> 00:54:32,280
+aquilo que pode ser aceito por todos os seres de razão. E isso é o elemento que distingue o
+
+430
+00:54:32,680 --> 00:54:39,320
+um, uma pseudociência. Uma pseudociência pode ser aceita por um conjunto específico de pessoas que
+
+431
+00:54:42,040 --> 00:54:51,320
+se contaminaram, tanto do contexto teórico, que acabaram por aceitar uma verdade não universalizável,
+
+432
+00:54:51,320 --> 00:54:56,760
+uma verdade que é só a verdade do seu ponto de vista. E que a bem da verdade... Desculpa,
+
+433
+00:54:56,840 --> 00:55:04,360
+trocadilha, mas que a bem da verdade não é verdade nenhuma. Por que? Porque é verdade,
+
+434
+00:55:04,360 --> 00:55:10,920
+só de um contexto teórico muito específico de um conjunto de teóricos dogmáticos.
+
+435
+00:55:12,280 --> 00:55:21,080
+Isso são pseudociências e o Popper, enfim, identificou esse elemento de psicologismo que
+
+436
+00:55:21,080 --> 00:55:29,480
+pretende investigar, às vezes, muito seguidamente a origem das ideias como forma de sustentação
+
+437
+00:55:29,480 --> 00:55:38,360
+das ideias. E a origem das ideias, a bem da verdade, não se pode pretender alcançar. Nós temos ideias.
+
+438
+00:55:38,360 --> 00:55:45,240
+Nós temos ideias porque nós produzimos sinapses. Os seres humanos, os racionais encontram
+
+439
+00:55:46,200 --> 00:55:52,920
+conformações teóricas que dão conta de uma determinada realidade. A questão é saber
+
+440
+00:55:53,560 --> 00:56:00,360
+se isso faz sentido. Se isso que alguém diz conjecturalmente ou que propõe teoricamente
+
+441
+00:56:00,360 --> 00:56:07,960
+num projeto de investigação, como fez Einstein, como fez Newton, como fizeram os quânticos todos
+
+442
+00:56:08,040 --> 00:56:17,400
+depois, se pode fazer algo com isso, quer dizer, se isso funciona na realidade, se isso tem sentido,
+
+443
+00:56:17,400 --> 00:56:23,960
+ou se isso só funcionou na cabeça daquela pessoa durante aquele período. Então, as pseudociências
+
+444
+00:56:23,960 --> 00:56:33,640
+são aquelas que têm um restrito alcance, porque exatamente são baseadas em um procedimento psicológico
+
+445
+00:56:33,640 --> 00:56:41,080
+de tentar dizer que as ideias, por terem sido originárias dessa ou daquela forma, já são legítimas.
+
+446
+00:56:41,080 --> 00:56:47,720
+Nenhuma ideia legítima pela origem que tem em ciência e no pensamento racional como um todo.
+
+447
+00:56:47,720 --> 00:56:55,320
+Todas as ideias que querem, que pretendem ser sustentadas, elas precisam exatamente de uma
+
+448
+00:56:55,320 --> 00:57:02,440
+conformação com o mundo, ou elas se conformam com o mundo, ou nós podemos extrair delas proposições
+
+449
+00:57:02,440 --> 00:57:08,600
+de base e então perceber a sua conformidade com o mundo. Essas ideias são só ideias daquelas
+
+450
+00:57:08,600 --> 00:57:17,160
+pessoas que, enfim, as tiveram em alguns insights, que, enfim, às vezes tem outras tantas motivações
+
+451
+00:57:17,160 --> 00:57:21,720
+que não têm importância para ciência, que não têm importância para o pensamento racional,
+
+452
+00:57:22,520 --> 00:57:32,200
+mas que, às vezes, movem pelos financiamentos. Às vezes, movem procedimentos não adequados
+
+453
+00:57:32,200 --> 00:57:40,600
+e não éticos, inclusive no universo econômico. As teorias, então, elas precisam, claro,
+
+454
+00:57:43,000 --> 00:57:54,520
+de uma articulação que a sustentem. E eu vejo, além da correspondência com a realidade que o
+
+455
+00:57:54,520 --> 00:58:02,200
+Popper defende, uma importância muito grande no elemento coerentista. Isso aqui é algo que eu
+
+456
+00:58:03,480 --> 00:58:10,920
+estou oferecendo em, vamos chamar assim, em completude com a teoria poperiana. Eu já disse antes que a
+
+457
+00:58:10,920 --> 00:58:18,120
+gente só compreende um teórico quando percebe que tem limitações e eu percebo essa limitação no
+
+458
+00:58:18,120 --> 00:58:23,080
+Popper. Ele já teve a correspondência, ele não está errado com relação à correspondência,
+
+459
+00:58:23,080 --> 00:58:29,560
+mas como a correspondência com a realidade, a correspondência da proposição com a realidade
+
+460
+00:58:29,560 --> 00:58:37,080
+é algo nunca exato, por óbvio, porque a nossa própria linguagem já não é suficientemente adequada,
+
+461
+00:58:37,080 --> 00:58:46,520
+a nossa linguagem ordinária é uma linguagem imperfeita. Trata-se de poder entre o conjunto
+
+462
+00:58:46,520 --> 00:58:53,880
+das construções científicas de um tempo encontrar os elementos de coerência dessa teoria.
+
+463
+00:58:54,520 --> 00:59:04,920
+Ou seja, uma determinada ciência precisa compor de forma coerente com as demais ciências,
+
+464
+00:59:05,960 --> 00:59:14,760
+não para mantê-las no seu exato estágio de desenvolvimento, mas para rearticulá-las
+
+465
+00:59:14,760 --> 00:59:22,120
+em um novo estágio de entendimento. Uma construção científica sempre mexe com todo o cosmos,
+
+466
+00:59:22,120 --> 00:59:28,680
+vamos chamar assim, com todo o universo, com toda a nossa cosmologia. A ordem inteira é
+
+467
+00:59:28,680 --> 00:59:36,520
+refeita quando uma ciência avança, mesmo que não seja refeita absolutamente, por óbvio que não,
+
+468
+00:59:37,080 --> 00:59:43,640
+mas ela toda é afetada, não há algo que fuja a uma construção científica nova.
+
+469
+00:59:44,200 --> 00:59:48,920
+E essas construções científicas, eu estou falando aqui das construções científicas,
+
+470
+00:59:48,920 --> 00:59:55,480
+vamos chamar assim, mais paradigmáticos, mais importantes, pensando no Thomas Kuhn,
+
+471
+00:59:55,480 --> 01:00:03,080
+as revoluções científicas, pensando no que o Einstein fez, pensando no que a física quântica fez,
+
+472
+01:00:03,880 --> 01:00:11,080
+produzir alterações da forma de ver o mundo que afetam todas as formas de ciência
+
+473
+01:00:11,080 --> 01:00:21,480
+e que nessa condição precisam ter um elemento de coerência entre si para que todas elas
+
+474
+01:00:21,480 --> 01:00:27,800
+exatamente possam ganhar com essas construções, para que não haja um avanço, por exemplo,
+
+475
+01:00:27,800 --> 01:00:34,920
+da física, mas sei lá, algo específico na medicina pudesse continuar igual e não continua,
+
+476
+01:00:34,920 --> 01:00:41,480
+a gente sabe que não continua, mas por isso exatamente o conceito de coerência interdisciplinar,
+
+477
+01:00:41,480 --> 01:00:48,040
+vamos chamar assim, ou entre os campos da ciência, os campos de produção de conhecimento,
+
+478
+01:00:48,040 --> 01:00:56,040
+é algo que precisa estar sempre presente. Claro, nós precisamos investigar a forma lógica,
+
+479
+01:00:56,040 --> 01:01:01,480
+tem que ter um discurso lógico, um discurso ilógico, é um discurso que não se sustenta
+
+480
+01:01:02,440 --> 01:01:11,720
+cientificamente, não há como sustentar, então a coerência e a coerência exterra com o conjunto
+
+481
+01:01:11,720 --> 01:01:17,000
+das ciências, das demais ciências, com a própria ciência internamente também, claro,
+
+482
+01:01:17,000 --> 01:01:21,160
+o conjunto das proposições de uma determinada ciência precisam ser coerentes, não podem
+
+483
+01:01:21,160 --> 01:01:28,120
+estar em contradição, vão chamar assim, essas tautologias precisam, portanto, ser excluídas,
+
+484
+01:01:28,680 --> 01:01:34,920
+e qual é o critério para eu aceitar uma teoria que se pretende
+
+485
+01:01:36,040 --> 01:01:42,040
+superior à outra? Como é que eu substituo teorias? Ou seja, como é que eu sei que eu sei mais
+
+486
+01:01:42,760 --> 01:01:48,280
+em relação ao que eu sabia antes? Se a nossa teoria é mais ampla, porque em sendo mais ampla,
+
+487
+01:01:48,280 --> 01:01:54,200
+ela permite mais proposições de base e, portanto, ela diz mais sobre a realidade,
+
+488
+01:01:54,280 --> 01:02:01,960
+e, portanto, ela é mais testável também. Então, uma teoria científica não pode,
+
+489
+01:02:02,680 --> 01:02:09,400
+uma ou um conjunto de teorias científicas não podem limitar-se a um campo específico, elas podem,
+
+490
+01:02:09,400 --> 01:02:15,880
+sim, resolver problemas de um campo específico e talvez a gente tenha aí um problema para discutir,
+
+491
+01:02:15,880 --> 01:02:22,520
+inclusive depois, porque, assim, é claro que um procedimento científico específico,
+
+492
+01:02:22,520 --> 01:02:31,960
+ele sempre tem um objeto determinado, mas aquela abordagem daquele objeto determinado
+
+493
+01:02:32,680 --> 01:02:39,320
+tem um conjunto de relações conceituais com toda a ciência vigente. E, se, efetivamente,
+
+494
+01:02:39,320 --> 01:02:47,320
+ela produzir ali uma alteração significativa, ela vai mudar todo o seu entorno científico.
+
+495
+01:02:47,400 --> 01:02:53,480
+Pode, por óbvio, mudar também o seu entorno social, seu entorno político,
+
+496
+01:02:53,480 --> 01:03:01,160
+claro que sim, seu entorno econômico, sem dúvida, mas primeiro o seu entorno científico.
+
+497
+01:03:02,440 --> 01:03:11,800
+E nós podemos, claro, precisamos trabalhar com a tese de que uma proposição científica,
+
+498
+01:03:11,800 --> 01:03:18,840
+uma proposição universal só se sustenta na medida em que nós não encontramos proposições
+
+499
+01:03:18,840 --> 01:03:27,000
+de base que possam ser contrárias a ela, contraditórias a ela. Então, proposições
+
+500
+01:03:27,000 --> 01:03:33,960
+universais não podem estar em desacordo com proposições de base que sejam retiradas por dedução
+
+501
+01:03:34,600 --> 01:03:40,760
+e esse é exatamente o método. Ou seja, qual é a relação entre as teorias universais e as
+
+502
+01:03:40,760 --> 01:03:47,800
+proposições de base? É uma relação tal que das proposições universais, das teorias universais,
+
+503
+01:03:47,800 --> 01:03:55,880
+são retiradas proposições acerca do mundo e essas proposições acerca do mundo em sendo aceitas
+
+504
+01:03:57,320 --> 01:04:02,280
+precisam estar em consonância com as proposições universais. Se estiverem
+
+505
+01:04:03,000 --> 01:04:11,000
+em desacordo, se as nossas proposições de base não refletirem as nossas proposições
+
+506
+01:04:11,000 --> 01:04:18,280
+universais, é claro que a nossa proposição universal será falsificada, ela não,
+
+507
+01:04:18,280 --> 01:04:24,280
+isso é critério de dedução. É muito fácil, né, quer dizer, vamos pensar na dedução,
+
+508
+01:04:24,280 --> 01:04:29,400
+láto senso, assim, agora, aqui e tal. Eu tenho uma proposição qualquer que seja universal,
+
+509
+01:04:29,640 --> 01:04:41,800
+gravidade, todos os corpos são atraídos para o centro do corpo maior. É claro que isso precisa
+
+510
+01:04:41,800 --> 01:04:46,360
+acontecer não só com o copo d'água ou com a minha caneta ou com o que quer que seja, isso precisa
+
+511
+01:04:46,360 --> 01:04:54,120
+acontecer universalmente. Se eu tiver condições de provar quem em determinado momento isso não
+
+512
+01:04:54,600 --> 01:05:03,400
+tem, então, a teoria universal fica em cheque. E é o que sustenta a gravidade nesse caso,
+
+513
+01:05:03,400 --> 01:05:10,280
+mas o que sustenta todas as proposições científicas. Não há como relativizar isso,
+
+514
+01:05:10,280 --> 01:05:15,480
+se nós relativizarmos a relação entre as proposições universais, a ciência,
+
+515
+01:05:15,480 --> 01:05:21,400
+e as proposições de base, nós vamos acabar produzindo seu do ciência, nós vamos fazer
+
+516
+01:05:21,400 --> 01:05:28,120
+ciência mal feita e vamos produzir. O problema da ciência mal feita não é só que as pessoas,
+
+517
+01:05:28,120 --> 01:05:36,600
+enfim, pervertem o universo teórico, né, ou que perdem um tempo, enfim, às vezes, um tempo
+
+518
+01:05:36,600 --> 01:05:42,200
+significativo, gerações, né. O problema da ciência mal feita é exatamente que ela produz
+
+519
+01:05:42,200 --> 01:05:46,920
+uma alteração significativa na sociedade como um todo e muito seguidamente quando ela
+
+520
+01:05:47,880 --> 01:05:56,840
+amorte um conjunto de pessoas imensas, entende? Nós temos exemplos no mundo afora, né,
+
+521
+01:05:56,840 --> 01:06:05,000
+de ciência mal feita que, enfim, acabou por condenar um conjunto de pessoas a exatamente
+
+522
+01:06:05,000 --> 01:06:11,720
+amorte. Tem um caso muito simples de pessoas europeus que se tratavam com a medicina tradicional
+
+523
+01:06:12,520 --> 01:06:20,200
+para imagrecer as mulheres europeias querendo ficar magras, né, e bonitas e as beltas ficaram,
+
+524
+01:06:20,200 --> 01:06:31,560
+mas contraíram o câncer de xiga quase de uma para uma, entendeu? Porque claro,
+
+525
+01:06:31,640 --> 01:06:42,440
+lhes foi administrado uma substância cancerígena que não estava no rodar, né, e que por
+
+526
+01:06:42,440 --> 01:06:51,560
+óbvio, né, não tinha sido objeto de ciência, tinha sido objeto de um conhecimento, enfim,
+
+527
+01:06:51,640 --> 01:07:02,120
+tradicional, né, que não percebeu a quantidade e a concentração da substância exageraram
+
+528
+01:07:02,120 --> 01:07:12,120
+e o resultado é isso, né. Nós temos médicos, enfim, fitoterápicos que submeter seus próprios
+
+529
+01:07:12,120 --> 01:07:20,440
+filhos a tratamentos específicos, foram condenados depois porque os filhos morreram.
+
+530
+01:07:21,640 --> 01:07:29,320
+E é disso que se fala. A ciência mal feita mata, não é algo simples. A ciência mal feita,
+
+531
+01:07:29,320 --> 01:07:35,720
+a ciência que não é feita com o maior cuidado possível mata em grande quantidade. E é uma
+
+532
+01:07:35,720 --> 01:07:46,840
+questão de responsabilidade criar uma sociedade científica bastante sética e bastante cuidadosa
+
+533
+01:07:47,560 --> 01:07:53,960
+no processo de aceitação do que é ciência e do que não é ciência. Isso pode ser visto como,
+
+534
+01:07:55,320 --> 01:08:01,400
+enfim, imperrando a ciência, prejudicando a avança à ciência? Talvez sim, talvez não. O que
+
+535
+01:08:01,400 --> 01:08:06,280
+nós não temos em grande medida, o que nos falta é exatamente uma educação científica
+
+536
+01:08:06,280 --> 01:08:13,480
+desde a infância das crianças, de tal forma que elas possam já se criar dentro de um conjunto
+
+537
+01:08:13,560 --> 01:08:19,240
+de referências que estejam um pouco mais imunes às crendices, porque elas implicam exatamente
+
+538
+01:08:19,240 --> 01:08:33,080
+a disposição a aceitar o que simplesmente pode lhes matar. Então esse é o problema da demarcação,
+
+539
+01:08:33,080 --> 01:08:41,800
+enfim, o que é científico que não é, enfim. Vem que uma ciência impírica, então, para ser
+
+540
+01:08:41,800 --> 01:08:48,360
+uma ciência objetivamente reconhecida precisa ter. Precisa ser sintética de modo que possa
+
+541
+01:08:49,000 --> 01:08:54,600
+representar um mundo não contraditório. Isso é um mundo possível, que é aquilo que eu disse antes,
+
+542
+01:08:54,600 --> 01:09:01,400
+tem que retirar as contradições, não excluí-las, mas superar as contradições por um conhecimento
+
+543
+01:09:01,400 --> 01:09:11,400
+que objetivamente possa ser coerente internamento. Satisfazer o critério de demarcação, ou seja,
+
+544
+01:09:12,200 --> 01:09:20,360
+provar porque é ciência. Nem uma ciência pode vigir sem provar que ela é uma ciência.
+
+545
+01:09:20,360 --> 01:09:25,880
+Esse é um critério básico da ciência. Ela precisa provar na sua metodologia que ela é uma
+
+546
+01:09:25,880 --> 01:09:37,960
+ciência, porque ela vai alterar, com base nela que nós vamos agir socialmente, na nossa saúde, enfim.
+
+547
+01:09:37,960 --> 01:09:48,120
+E que nós vamos, em última instância, nos orientar no mundo contemporâneo. Então,
+
+548
+01:09:48,120 --> 01:09:55,480
+a ciência tem que ser não metafísica. Não quer dizer que para a conjectura geral, nós não
+
+549
+01:09:55,480 --> 01:10:00,680
+tenhamos elementos metafísicos, mas o resultado depois tem que ter sido depurado, de tal forma que
+
+550
+01:10:00,680 --> 01:10:09,480
+temos ciência no lugar das demais, enfim, em substituição, as demais conjecturas. Mas é
+
+551
+01:10:09,480 --> 01:10:13,320
+claro, vocês vão dizer para quem já conhece um pouco mais de Popper, mas o Popper não diz que
+
+552
+01:10:13,320 --> 01:10:22,520
+mesmo as proposições científicas continuam conjecturais? Sim. E eu quero que a gente compreenda isso.
+
+553
+01:10:23,480 --> 01:10:30,360
+Por isso, eu introduzi lá na frente a questão da relatividade do erro.
+
+554
+01:10:30,360 --> 01:10:41,960
+Toda ciência vai guardar uma certa conjectura, vai permanecer sendo uma conjectura. Por quê?
+
+555
+01:10:41,960 --> 01:10:47,960
+Porque não há um conhecimento exato, um conhecimento exato final sobre qualquer
+
+556
+01:10:48,680 --> 01:10:55,960
+fenômeno no mundo implicaria nada menos do que nós dominarmos todas as variáveis,
+
+557
+01:10:56,680 --> 01:11:02,840
+não as do passado. Todas as variáveis do passado, do presente e do futuro, o que é absolutamente
+
+558
+01:11:02,840 --> 01:11:07,480
+impossível. Nós somos humanos, nós temos racionalidade humana, nós não somos deuses.
+
+559
+01:11:08,440 --> 01:11:18,200
+Teria que existir um Deus absolutamente sábio que pudesse fazer uma ciência final,
+
+560
+01:11:18,200 --> 01:11:27,640
+a ciência final. Não existe esse Deus que faz a ciência final e existe a nossa razão falha
+
+561
+01:11:27,640 --> 01:11:35,960
+que busca avançar e produzir a melhor ciência possível. Mas o que nós não podemos fazer
+
+562
+01:11:36,600 --> 01:11:42,440
+é negligenciar o estágio de avanço da nossa condição científica contemporânea
+
+563
+01:11:43,400 --> 01:11:53,880
+em nome de alguma crença subjetiva ou de algum conhecimento milenar ou de algum outro conhecimento
+
+564
+01:11:55,720 --> 01:12:02,280
+tradicional que a gente pensa ser bom. O debate que tem aí é sempre assim.
+
+565
+01:12:02,280 --> 01:12:10,840
+Não, mas qual é o problema de nós ampararmos os nossos pacientes, por exemplo, ou a nossa
+
+566
+01:12:10,840 --> 01:12:16,840
+construção científica com um conjunto de outros elementos complementares?
+
+567
+01:12:21,000 --> 01:12:27,800
+O que pode ser complementar a melhor conquista teórica que nós temos?
+
+568
+01:12:28,520 --> 01:12:36,520
+Nos basta a melhor conquista teórica objetiva. Aquela que nós temos como mostrar de como se
+
+569
+01:12:36,520 --> 01:12:44,040
+constituiu, em base do que ela se constituiu, com quais evidências e como funciona,
+
+570
+01:12:44,840 --> 01:12:51,320
+para permitir que os outros e a próxima geração, os mesmos da mesma geração, as demais pessoas
+
+571
+01:12:52,040 --> 01:13:00,680
+problematizem e encontrem as debilidades. Então, não há complementariedade à ciência.
+
+572
+01:13:04,040 --> 01:13:11,720
+Há, assim, um conjunto de conceitos de todas as áreas da arte, da metafísica,
+
+573
+01:13:12,600 --> 01:13:19,080
+da religião, se nós quisermos, que estão à disposição como chave de compreensão para as
+
+574
+01:13:19,080 --> 01:13:26,280
+conjecturas futuras que depois, então, passam a ser testadas. Mas nós não podemos adotar
+
+575
+01:13:26,280 --> 01:13:33,160
+procedimentos complementares à ciência pensando que eles podem ter alguma validade,
+
+576
+01:13:35,480 --> 01:13:40,040
+enfim, alguma validade, seja no conforto aos pacientes,
+
+577
+01:13:40,840 --> 01:13:51,480
+seja, enfim, no que quer, em outras instâncias da vida social. A tecnologia toda surgiu de
+
+578
+01:13:51,480 --> 01:13:57,640
+projetos, de pesquisa, de ciência. A tecnologia não aparece sozinho. Alguém vai dizer,
+
+579
+01:13:57,640 --> 01:14:04,120
+ah, mas tem os inventores? Sim, tem os inventores. É claro que existem os inventores, mas os inventores
+
+580
+01:14:04,120 --> 01:14:11,480
+não são pessoas que talvez eles não sejam grandes acadêmicos. Em grande medida,
+
+581
+01:14:12,840 --> 01:14:18,840
+a academia não necessariamente faz a melhor ciência também. Se nós formos ver boa parte
+
+582
+01:14:18,840 --> 01:14:23,320
+das nossas aulas de ciência, não foram aulas de ciência, foram aulas de história da ciência.
+
+583
+01:14:25,320 --> 01:14:29,480
+Então, nós precisamos rever isso. Nós precisamos rever isso, inclusive, na filosofia. Quando nós
+
+584
+01:14:29,480 --> 01:14:32,840
+damos muita aula de história da filosofia, nós não estamos fazendo filosofia. Quando nós
+
+585
+01:14:32,840 --> 01:14:36,360
+damos muita aula de história da ciência, nós não necessariamente estamos fazendo ciência.
+
+586
+01:14:36,360 --> 01:14:41,240
+Muito provavelmente não estamos fazendo ciência. O que nós não temos no país como Brasil e
+
+587
+01:14:41,240 --> 01:14:46,360
+também não temos em boa parte comum. Não é um problema nosso só. É uma educação científica,
+
+588
+01:14:46,360 --> 01:14:53,880
+que, enfim, que o menininha efetivamente bota a mão na ciência, faça ciência e possa construir
+
+589
+01:14:53,880 --> 01:15:01,880
+um referencial de que esse é o seu par de óculos prioritário. E um cientista rigoroso vai gostar
+
+590
+01:15:01,880 --> 01:15:06,680
+de poesia, vai gostar de arte e vai gostar da cultura como um todo, vai gostar, inclusive,
+
+591
+01:15:06,680 --> 01:15:12,120
+de filosofia muito mais do que um cientista não rigoroso ou alguém que tenha aprendido só a
+
+592
+01:15:12,120 --> 01:15:20,200
+história da ciência. Por quê? Porque aprende o rigor. Não há boa arte sem rigor. Não há filosofia
+
+593
+01:15:20,200 --> 01:15:27,880
+sem rigor. E não há ciência sem rigor. O rigor científico é que dá, que legitimam os resultados
+
+594
+01:15:27,880 --> 01:15:34,040
+da ciência. E claro que isso é problematizável. Vocês podem dizer, mas num universo em que
+
+595
+01:15:34,040 --> 01:15:40,040
+os grandes laboratórios, são os grandes institutos de pesquisa hoje sobre saúde,
+
+596
+01:15:40,040 --> 01:15:47,000
+isso se sustenta, podemos problematizar tudo isso. Não tem nenhum problema de encarar esse tipo
+
+597
+01:15:47,000 --> 01:15:55,320
+desse situação. Mas com esse argumento, então, sugerir que outras coisas não científicas e vão
+
+598
+01:15:55,320 --> 01:16:03,560
+se sobrepor, aí é forçar a nossa racionalidade. Aí é desacreditar da nossa própria capacidade de
+
+599
+01:16:03,560 --> 01:16:09,960
+fazer com que o nosso pensamento avance cada vez com mais rigor e com mais entendimento sobre
+
+600
+01:16:09,960 --> 01:16:16,360
+o universo como um todo. Então, é aqui essa lâmina em grande medida diz que nós tomamos
+
+601
+01:16:16,360 --> 01:16:27,720
+decisões quando temos procedimentos empíricos. Enfim, já tratei disso. Os enunciados básicos ou
+
+602
+01:16:27,720 --> 01:16:38,920
+empíricos, todos eles, tem um problema que se ofereceu aí ao longo da tradição, que diz o
+
+603
+01:16:39,160 --> 01:16:46,120
+problema teórico sempre vai acabar nesse trilhema aí, que é o dogmatismo, a regressão infinita
+
+604
+01:16:46,120 --> 01:16:59,080
+ou psicologismo. Ou eu aceito dogmaticamente, ou eu procuro buscar a origem daquele pensamento,
+
+605
+01:16:59,080 --> 01:17:04,920
+nenhum pensamento anterior e isso produz um regresso infinito, ou eu vou, em última instância,
+
+606
+01:17:05,080 --> 01:17:14,840
+fazer um, vou chamar assim, uma cola psicológica ao discurso como um todo e aceito ele pela sua,
+
+607
+01:17:14,840 --> 01:17:25,160
+enfim, pelo seu desempenho, pela sua capacidade psicológica de me satisfazer. O pô perdiço
+
+608
+01:17:25,160 --> 01:17:32,440
+é o seguinte, as três coisas acontecem. No meu método, no método dele, no caso, as três coisas
+
+609
+01:17:32,440 --> 01:17:39,000
+acontecem. O que eu considero objetivo é algo um pouco mais plástico do que o círculo de Viena
+
+610
+01:17:39,000 --> 01:17:45,400
+compreendia. O plástico aqui é por minha conta, tá? É um pouco, é um pouco mais relativizado nos
+
+611
+01:17:45,400 --> 01:17:49,480
+termos dele, eu acho que ele usa, né? Mas é um pouco mais plástico do que o círculo de Viena
+
+612
+01:17:49,480 --> 01:17:59,720
+concebia. Esse, esse trilhema, portanto, pode ter sim elementos do dogmatismo, porque, porque uma
+
+613
+01:17:59,720 --> 01:18:07,240
+decisão de aceitar uma determinada proposição sempre pode ser revisitada e nós podemos problematizar
+
+614
+01:18:07,240 --> 01:18:15,320
+essa, essa aceitação. Então é inofensivo esse dogmatismo. E depois eu quero usar uma metáfora
+
+615
+01:18:15,320 --> 01:18:21,640
+para trabalhar disso, que é uma metáfora dele, inclusive. A regressão infinita da mesma forma
+
+616
+01:18:21,640 --> 01:18:28,760
+é inofensiva, porque no método do pô perdiço, porque, a bem da verdade, nós vamos regredir
+
+617
+01:18:28,840 --> 01:18:35,640
+buscando as proposições originárias até um ponto que nós achamos necessário, depois abandonamos,
+
+618
+01:18:35,640 --> 01:18:41,000
+não precisamos buscar até o fim, né? Então não é uma regressão infinita de verdade, é uma regressão
+
+619
+01:18:41,000 --> 01:18:49,800
+até um determinado ponto de buscar os fundamentos daquilo que queremos. Muitos teóricos definem
+
+620
+01:18:49,800 --> 01:18:55,400
+a filosofia, por exemplo, com a busca dos fundamentos, dos fundamentos últimos. Veja a pretensão, né?
+
+621
+01:18:55,400 --> 01:19:02,120
+Nós pudéssemos buscar, em algum jeito, um fundamento último. Aí todos eles, todos eles,
+
+622
+01:19:02,120 --> 01:19:08,120
+alcançaram um dogma, que eles dizem ser o fundamento último, mas nenhum encontrou o
+
+623
+01:19:08,120 --> 01:19:14,680
+fundamento racional último. Não há como achar, né? E, enfim, para quem conhece Descartes,
+
+624
+01:19:14,680 --> 01:19:20,520
+talvez possa ter o melhor exemplo aí, né? A rocha dura sobre a qual todo o edifício do
+
+625
+01:19:20,520 --> 01:19:28,920
+edifício precisa ser construído. Ela é areia movediça. Não existe rocha dura que diz
+
+626
+01:19:28,920 --> 01:19:35,400
+respeito a os supostos filosóficos de qualquer teoria. E o psicologismo também é inofensivo,
+
+627
+01:19:35,400 --> 01:19:40,440
+porque da mesma forma pode se sempre buscar novas justificativas. Eu quero trabalhar aqui com uma
+
+628
+01:19:42,440 --> 01:19:49,400
+metáfora. O Calpoper trabalha com a seguinte situação. Quando nós construímos conhecimentos,
+
+629
+01:19:49,400 --> 01:19:59,000
+como se fosse construir um edifício no Pântano. O Descartes pretendeu a rocha dura, né? A rocha,
+
+630
+01:19:59,000 --> 01:20:06,280
+enfim, final. Não encontrou, claro que não, e fez, inclusive, erros lógicos que depois foram,
+
+631
+01:20:06,280 --> 01:20:17,640
+enfim, foram percebidos. O Calpoper diz o seguinte, e aqui vai a minha confissão de torcida
+
+632
+01:20:17,880 --> 01:20:24,680
+futebolística, tá? O estádio do Berarrio no Rio de Janeiro e outros tantos em todo lugar, né?
+
+633
+01:20:24,680 --> 01:20:34,280
+Foi construído sob a areia que foi colocada para ocupar um espaço ali do lago que tem Porto
+
+634
+01:20:34,280 --> 01:20:43,560
+Alegre. E a metáfora do Póper é exatamente disso. Proporcionalmente à nossa construção teórica,
+
+635
+01:20:44,200 --> 01:20:50,600
+aquilo que queremos dizer, nós precisamos buscar os fundamentos. Então é como se nós construíssemos
+
+636
+01:20:50,600 --> 01:21:00,840
+sobre o Pântano sempre, afundando, buscando o conjunto dos pressupostos, proporcionalmente aquilo
+
+637
+01:21:00,840 --> 01:21:08,360
+que queremos dizer. Se depois decidirmos dizer mais coisas, tirar mais consequências, nós
+
+638
+01:21:08,360 --> 01:21:12,680
+precisamos revisitar os fundamentos. Não vamos ter fundamentos que permitem nós dizer o que
+
+639
+01:21:12,680 --> 01:21:22,440
+nós quisermos. Nós precisamos construir, logicamente, inferências, proporcionalmente
+
+640
+01:21:22,440 --> 01:21:27,960
+ao que nós queremos dizer sobre o mundo. Então é como se nós construíssemos sempre todo o
+
+641
+01:21:27,960 --> 01:21:36,120
+conhecimento no Pântano. Não há uma fonte segura última. Por isso, a metodologia é o rigor
+
+642
+01:21:36,120 --> 01:21:50,280
+necessário. Sem, vamos pensar de novo, a base é as estácas no Pântano. Mas veja bem, se sobre
+
+643
+01:21:50,280 --> 01:21:58,280
+estácas bem estabelecidas nós construímos um edifício de conhecimento cuja metodologia permite
+
+644
+01:21:58,360 --> 01:22:07,480
+que não haja fissuras, que não haja inconsistência. Se nós estabelecemos uma construção lógica
+
+645
+01:22:08,280 --> 01:22:13,960
+para todo o edifício, ele vai sobreviver e a todo momento nós podemos refazê-lo.
+
+646
+01:22:14,760 --> 01:22:22,680
+Entretanto, se a metodologia nos falta e nós tiramos consequências inconsistentes,
+
+647
+01:22:22,680 --> 01:22:27,800
+ele vai desabar por conta própria, não por causa dos fundamentos, ele vai desabar porque a metodologia
+
+648
+01:22:27,800 --> 01:22:33,240
+falhou, porque nós tiramos consequências inadequadas, porque nos faltou rigor. Então a
+
+649
+01:22:33,240 --> 01:22:40,200
+ciência é isso, fruto do rigor, ou temos rigor científico, a nossa vida é assim, as nossas instâncias
+
+650
+01:22:40,200 --> 01:22:48,200
+da vida todas são assim, ou nós temos rigor ou não acontece. Ninguém aprende uma arte sem rigor,
+
+651
+01:22:48,200 --> 01:22:56,680
+ninguém aprende o que quer sem rigor. E nós fazemos sim, apesar disso, criações tentativas.
+
+652
+01:22:57,240 --> 01:23:05,400
+Nós temos visões cosmológicas e a partir dessas visões cosmológicas testamos as consequências dela.
+
+653
+01:23:07,880 --> 01:23:14,360
+A verdade, portanto, que talvez para alguns afete mais, para outros menos,
+
+654
+01:23:16,440 --> 01:23:21,320
+não passa de uma ideia reguladora. Nós não podemos pretender que as nossas proposições
+
+655
+01:23:21,320 --> 01:23:28,360
+sejam finalmente verdadeiras. Elas podem e devem, nossa construção teórica pode e deve
+
+656
+01:23:28,360 --> 01:23:35,480
+se aproximar da verdade, pode e deve elevar-se na sua complexidade e abordar mais o mundo.
+
+657
+01:23:36,440 --> 01:23:43,960
+Mas nós não podemos imaginar que a verdade seja algo não metafísico ainda. O conceito
+
+658
+01:23:43,960 --> 01:23:51,080
+de verdade é um conceito que nós usamos como uma ideia reguladora, é em direção à verdade,
+
+659
+01:23:51,080 --> 01:23:59,000
+relativamente às teorias que nós tínhamos antes, que nós caminhamos. Se a nossa conjectura
+
+660
+01:23:59,000 --> 01:24:07,160
+não permitir que tenha avanços no que diz respeito a poder dizer mais sobre o mundo e de uma forma
+
+661
+01:24:07,160 --> 01:24:13,960
+mais adequada, mais completa, mais complexa, de tal forma que podemos tirar mais consequências,
+
+662
+01:24:14,040 --> 01:24:20,680
+então a nossa teoria é pior que a que existia antes, então a nossa conjectura não valeu de
+
+663
+01:24:20,680 --> 01:24:30,680
+nada, por isso a ideia de verdade é uma ideia reguladora. Mas então não há proposições
+
+664
+01:24:30,680 --> 01:24:37,720
+verdadeiras em ciência, não há proposições tidas como verdadeiras em ciência, há sim proposições
+
+665
+01:24:37,720 --> 01:24:43,000
+de base que nós podemos afirmar a sua verdade, porque é a nossa decisão de aceitá-las como
+
+666
+01:24:43,000 --> 01:24:53,800
+verdadeiras em relação à teoria universal e então elas exercem o poder de fazer com que nós
+
+667
+01:24:53,800 --> 01:25:00,040
+abordemos o mundo de várias formas. Esse exemplo eu já dei, eu não preciso refazer. Isso daqui
+
+668
+01:25:00,040 --> 01:25:07,880
+eu também falei em grande medida que a ciência se distingue da filosofia por ter a ciência
+
+669
+01:25:08,200 --> 01:25:14,280
+menor universalidade, a filosofia tem maior universalidade e a ciência tem menor universalidade.
+
+670
+01:25:14,840 --> 01:25:21,080
+É como se a ciência ainda fosse um subconjunto da filosofia, só que é o subconjunto
+
+671
+01:25:21,080 --> 01:25:27,080
+que é o núcleo duro, que é ali onde tem a maior metodologia aplicada e aonde a razão
+
+672
+01:25:27,080 --> 01:25:35,640
+está mais tranquila, é mais intersubjetiva e está garantindo mais proximidade com a verdade.
+
+673
+01:25:35,720 --> 01:25:43,320
+A filosofia não alcança verdades intersubjetivas como alcança a ciência.
+
+674
+01:25:45,720 --> 01:25:50,520
+Mas é claro, não há ciência sem filosofia e não há boa filosofia sem
+
+675
+01:25:51,160 --> 01:25:58,520
+considerar o estágio atual da ciência. Isso aqui é mais um elemento cosmológico. Se eu tenho
+
+676
+01:25:58,520 --> 01:26:04,680
+uma leitura filosófica, uma investigação crítica, nacional dos princípios e relações
+
+677
+01:26:05,240 --> 01:26:12,280
+de tudo que há, se eu tenho uma cosmologia, essa cosmologia repercute na política, na epistemologia,
+
+678
+01:26:12,280 --> 01:26:18,360
+na educação, na filosofia da mente, na estética, na história, na filosofia da história, na filosofia
+
+679
+01:26:18,360 --> 01:26:24,680
+da linguagem. Isso aqui é algo do tipo assim. Eu acho que eu sou um filósofo. A maior parte
+
+680
+01:26:24,680 --> 01:26:29,800
+dos filósofos eu acho que não é filósofo, mas enfim. Se a pessoa pensa, eu quero desenvolver
+
+681
+01:26:29,800 --> 01:26:39,240
+uma filosofia, eu quero construir algo digno de crença, vai precisar rodar todo o conjunto,
+
+682
+01:26:39,240 --> 01:26:44,360
+e outros tantos que não estão aqui, que são os subconjuntos, enfim, pra que nós tenhamos
+
+683
+01:26:44,360 --> 01:26:51,000
+coerência nessa filosofia. Ela não pode ser dogmática em um setor e altamente, enfim,
+
+684
+01:26:51,000 --> 01:26:58,840
+investigativa em outro setor. Essa é mais uma opinião de quem diz, bom, que eu acho que é o
+
+685
+01:26:58,840 --> 01:27:04,520
+futuro. Vocês são jovens, enfim, de alguma forma, mais cedo, mais tarde, vocês vão ter,
+
+686
+01:27:04,520 --> 01:27:11,960
+cada vez mais, uma compreensão cosmológica, que é saber o que é mesmo, o que é o mundo,
+
+687
+01:27:11,960 --> 01:27:20,200
+o que é o mundo desde o menor objeto até o maior, desde a galáxia até o átomo, pelo menos,
+
+688
+01:27:20,200 --> 01:27:28,360
+ou o neutrino, ou o que quer que seja das pequenas partículas. Ou o universo como um todo e uma
+
+689
+01:27:28,360 --> 01:27:35,960
+pequena partícula. Precisa construir uma visão, enfim, que tem interfaces não contraditórias,
+
+690
+01:27:35,960 --> 01:27:41,160
+do contrário, você não vai ter uma filosofia. Isso é um elemento importante, porque isso eu acho
+
+691
+01:27:41,160 --> 01:27:50,680
+que a gente devia poder construir sempre na educação. Um jovem chega à faculdade e eu pergunto
+
+692
+01:27:50,680 --> 01:27:54,600
+qual é a visão do mundo que você tem, o que você acha que é o mundo. O cara diz mais do que,
+
+693
+01:27:54,600 --> 01:27:59,800
+o professor está falando do ônibus que eu peguei para vir para a faculdade. Não, eu estou falando
+
+694
+01:27:59,800 --> 01:28:06,280
+do que que você acha que existe, da menor partícula maior. Não sei o que é isso. Então,
+
+695
+01:28:06,280 --> 01:28:12,040
+assim, significa que nós não temos uma visão rigorosa, nem filosófica, nem científica,
+
+696
+01:28:12,040 --> 01:28:19,480
+em grande medida. Mas pode ser, claro, sempre que as minhas experiências sejam limitadas nesse sentido.
+
+697
+01:28:19,480 --> 01:28:24,520
+Então, a relação da ciência e tecnologia, acho que em grande medida já abordei também,
+
+698
+01:28:25,480 --> 01:28:32,760
+tecnologia de corno, da ciência constitui possibilidade de falciar as próprias teorias
+
+699
+01:28:32,760 --> 01:28:40,280
+científicas. Ninguém vai querer falciar uma teoria científica só com a lógica, vai precisar também
+
+700
+01:28:40,280 --> 01:28:47,480
+submeter a testes e os testes mais rigorosos. Então, assim, nós sabemos do conjunto dos laboratórios
+
+701
+01:28:47,480 --> 01:28:54,120
+hipercomplexos que nós temos hoje, a disposição, nós não tínhamos, em outros tempos, nas ciências
+
+702
+01:28:54,120 --> 01:29:00,920
+mais duras, mas nós precisamos saber que nós precisamos constituir nas ciências humanas,
+
+703
+01:29:00,920 --> 01:29:07,080
+em geral, nas ciências sociais, também esses laboratórios que não vão passar pela construção
+
+704
+01:29:07,960 --> 01:29:17,720
+mecânica, vamos chamar assim, mas pela construção, sim, cada vez maior, de centros de pesquisa com um
+
+705
+01:29:17,800 --> 01:29:25,640
+poder crítico, com o ceticismo incorporado na sua verve, vamos chamar assim, que problematize
+
+706
+01:29:25,640 --> 01:29:34,360
+as teorias contemporâneas. Porque, por exemplo, em economia, só pra te citar, eu não estou
+
+707
+01:29:34,360 --> 01:29:39,800
+problematizando ninguém, não estou querendo ofender ninguém, mas em economia nós temos teorias que,
+
+708
+01:29:39,800 --> 01:29:45,720
+enfim, elas foram criadas por algumas pessoas, elas são adoradas até hoje, elas não têm
+
+709
+01:29:45,720 --> 01:29:50,760
+mais relação com a realidade, praticamente, continuam sendo estudadas em muitas universidades,
+
+710
+01:29:51,560 --> 01:29:56,840
+e assim, nas ciências sociais, assim, na filosofia também, se quisermos, não estou dizendo isso,
+
+711
+01:29:57,640 --> 01:30:07,800
+mas o que acontece é que é a postura teórica, entende? De aceitar o dogma, de reproduzir o dogma,
+
+712
+01:30:07,800 --> 01:30:14,760
+é mais fácil, é mais fácil, mas assim se faz na igreja, assim não se faz na universidade,
+
+713
+01:30:14,760 --> 01:30:20,040
+assim não se deve fazer na universidade, certo? Então, o que nós precisamos construir é cada vez
+
+714
+01:30:20,040 --> 01:30:28,680
+mais centros de pesquisa que sejam capazes de com o ceticismo introduzido na sua metodologia,
+
+715
+01:30:28,680 --> 01:30:35,720
+isso não é uma coisa mágica nem nada, é só estar mais à disposição de uma abertura teórica,
+
+716
+01:30:36,680 --> 01:30:45,640
+e veja que isso é grave, é gravíssimo, eu acho que todo mundo viu aquele meteorologista gaúcho
+
+717
+01:30:45,640 --> 01:30:49,960
+dizer um dia antes de todas aquelas inundações que não tinha previsão nenhuma da inundação,
+
+718
+01:30:49,960 --> 01:30:58,680
+cara, ele disse aquilo contra as evidências que existiam e que estavam ali, negligenciar a ciência,
+
+719
+01:30:58,680 --> 01:31:04,600
+mata gente em grande quantidade, é disso que nós estamos falando, nós podemos inviabilizar
+
+720
+01:31:04,600 --> 01:31:13,080
+uma noção, se nós não tivermos teorias econômicas problematizadas, vivas, constantemente
+
+721
+01:31:13,080 --> 01:31:20,760
+revisitadas, que possam ser percebidas as suas fragilidades e reconstruídas, de tal forma que
+
+722
+01:31:21,720 --> 01:31:27,800
+essas fragilidades sejam vencidas, assim é conto, é com a ciência em geral, então alguém poderia
+
+723
+01:31:27,800 --> 01:31:31,320
+dizer, ah, a ciência falhou no Rio Grande, se não a ciência não falhou no Rio Grande,
+
+724
+01:31:31,320 --> 01:31:37,160
+sua eficiência fez todas as previsões adequadas, mas algum maluco que não prestou atenção nas
+
+725
+01:31:37,160 --> 01:31:44,760
+evidências disse pra não alarmar, ou sei lá com que finalidade, não vou nem entrar em questões
+
+726
+01:31:44,760 --> 01:31:51,480
+ideológicas, o cara disse pra toda nação, disse publicamente que não ia acontecer nada,
+
+727
+01:31:52,200 --> 01:31:57,240
+e olha o que deu, tem famílias que foram desimiladas inteiras, empresas inteiras que nunca mais
+
+728
+01:31:57,240 --> 01:32:06,760
+vão se recuperar agora, estão tentando financiar pelo BNDS e tal, pra tentar recuperar, mas assim,
+
+729
+01:32:06,760 --> 01:32:15,880
+é quando a falta de rigor mata pessoas, não adianta pensar que não, com base em que os governos vão
+
+730
+01:32:15,880 --> 01:32:25,240
+tomar suas decisões? O Collor de Melo tomava, porque a mãe de Narno, sei quem lá, falava pra ele,
+
+731
+01:32:25,720 --> 01:32:34,120
+no Porão do Palácio, mas isso era um caso específico, né, os governos se baseiam nas
+
+732
+01:32:34,120 --> 01:32:39,640
+previsões científicas, enfim, no conjunto do que é mais racional de um tempo, pelo menos uma boa
+
+733
+01:32:39,640 --> 01:32:52,040
+parte da classe política dos mais espertos, né, e se o rigor científico falha, enfim, né,
+
+734
+01:32:52,760 --> 01:32:59,000
+essa lâmina também já vi, enfim, a realidade dos três mundos, é bom, isso aqui acho que é meio
+
+735
+01:32:59,000 --> 01:33:07,160
+o chão do Popper, né, assim, o chão de fábrica do Popper, né, existe um mundo que é um mundo
+
+736
+01:33:07,160 --> 01:33:13,960
+material, existe a nossa mente, e existe os produtos da mente que são as construções teóricas,
+
+737
+01:33:13,960 --> 01:33:21,400
+as científicas, as filosóficas, as artísticas, elas brotam todos da mente humana, esse mundo
+
+738
+01:33:21,400 --> 01:33:28,440
+brasileiro, nós criamos inteiramento. Então, eu sempre gosto de fazer um exercício, é um exercício
+
+739
+01:33:28,440 --> 01:33:39,080
+de imaginação, assim, né, pensem em nós próprios quando nós éramos caçadores coletores, né,
+
+740
+01:33:39,080 --> 01:33:45,000
+nós éramos caçadores coletores, nós estávamos lá, enfim, correndo atrás dos animais, tentando
+
+741
+01:33:45,000 --> 01:33:50,280
+resolver o problema do nosso almoço, da nossa janta, enfim, que não tinha nem esses nomes na época,
+
+742
+01:33:50,280 --> 01:34:00,360
+nós provamos de sobrevivência, né, quando nós desenvolvemos uma primeira forma de compreender que,
+
+743
+01:34:01,240 --> 01:34:08,760
+de alguma maneira, nós podíamos ter uma estratégia para produzir uma caça mais adequada,
+
+744
+01:34:09,880 --> 01:34:17,000
+nós tivemos o primeiro objeto cultural, vamos chamar assim, né, quando nós comunicamos isso
+
+745
+01:34:17,000 --> 01:34:24,360
+para a nossa tribo, quando nós começamos a treinar as nossas tribos para, né, quando,
+
+746
+01:34:24,360 --> 01:34:31,560
+para fazer procedimentos desse tipo, nós tivemos produtos mentais. Toda construção teórica
+
+747
+01:34:31,560 --> 01:34:39,880
+contemporânea é um produto mental humano, surgiu da nossa mente, e que a nossa mente existe,
+
+748
+01:34:41,000 --> 01:34:46,680
+é claro que hoje há muitas pesquisas neuronais, há muitas pesquisas, enfim, das regiões do nosso
+
+749
+01:34:46,680 --> 01:34:53,640
+cérebro, essa caixa, isso que há pouco tempo atrás era uma caixa preta, foi desvendada em grande
+
+750
+01:34:53,640 --> 01:35:03,560
+medida, mas nós conhecemos os produtos da mente, então nós dizemos isso é uma mente, aquilo que
+
+751
+01:35:03,560 --> 01:35:10,760
+acontece ali, as sinapses, enfim, o conjunto dos procedimentos neuronais que temos para fazer uma
+
+752
+01:35:10,840 --> 01:35:18,200
+fala como estou fazendo, enfim, o que vocês estão fazendo é porque há uma mente, e nós em ciência
+
+753
+01:35:18,200 --> 01:35:24,360
+queremos abordar algo que é externo a tudo, a toda mente, que é exatamente o conjunto
+
+754
+01:35:24,920 --> 01:35:28,520
+dos objetos materiais para poder fazer ciência, para poder melhorar o mundo.
+
+755
+01:35:31,640 --> 01:35:36,440
+Então tem, mas assim, a relação não é uma relação simplificada entre os três mundos,
+
+756
+01:35:37,400 --> 01:35:43,480
+essa, isso aqui representa um pouquinho, há uma multidimensionalidade, e eu vou terminar
+
+757
+01:35:43,480 --> 01:35:52,040
+em breve, há uma multidimensionalidade entre todas as partes, entre a parte física, entre a mente
+
+758
+01:35:52,040 --> 01:35:57,720
+e os resultados da mente, não é uma relação simples, é uma relação de feedback o tempo
+
+759
+01:35:57,720 --> 01:36:03,480
+inteiro, da forma que a minha mente tem feedback da realidade, e a realidade por óbvio pode ser
+
+760
+01:36:03,480 --> 01:36:12,120
+melhor entendida a partir do todo. O mundo como um todo existe objetivamente, nós podemos
+
+761
+01:36:12,120 --> 01:36:18,760
+produzir um entendimento, isso aqui é uma imagem da curvatura do espaço, e isso aqui, claro, é uma
+
+762
+01:36:18,760 --> 01:36:24,520
+imagem do nosso período contemporâneo, conjunto das galáxias, mas ele existe independente do
+
+763
+01:36:24,520 --> 01:36:30,920
+sujeito conhecedor, significa o seguinte, eu preciso descobrir como ele funciona, mas eu não posso
+
+764
+01:36:31,000 --> 01:36:41,000
+tentar produzir um funcionamento nele a partir da minha razão, a razão é descobridora,
+
+765
+01:36:41,000 --> 01:36:47,560
+ela descobre o mundo, ela não é criadora de um mundo, ela é criadora de um terceiro mundo só,
+
+766
+01:36:47,560 --> 01:36:54,840
+não do mundo físico, ela é criadora do terceiro mundo, mundo das teorias, que é exatamente esse
+
+767
+01:36:54,840 --> 01:37:00,360
+terceiro mundo, esse mundo objetivo é criado por nós, mas esse mundo aqui todo ele é descoberto
+
+768
+01:37:00,360 --> 01:37:07,080
+por nós, a realidade é descoberta, e então ele é real, aqui é só uma citação, não precisa,
+
+769
+01:37:07,080 --> 01:37:12,680
+só que isso acontece, claro, de forma propensitiva, que eu acho que em grande um pouco a gente pode
+
+770
+01:37:12,680 --> 01:37:18,520
+discutir depois, que é aquela ideia de que tudo está vindo a ser o tempo inteiro, então nós
+
+771
+01:37:18,520 --> 01:37:24,920
+não podemos ter ciências estantes, porque as ciências precisam considerar que a única,
+
+772
+01:37:25,880 --> 01:37:33,320
+a única constante é a mudança, é a emergência, isso é o cosmos como um todo, que a gente acha que
+
+773
+01:37:33,320 --> 01:37:39,800
+é, pelas imagens contemporâneas, e essa é a emergência cultural, esse é o primeiro quadro de uma
+
+774
+01:37:39,800 --> 01:37:48,680
+greve produzida no mundo, ele foi pintado, ele foi produzido então como uma nova face da realidade
+
+775
+01:37:49,000 --> 01:37:56,840
+social, enfim, mas é isso, ele emergiu de algo que também não existia antes, é só um exemplo,
+
+776
+01:37:56,840 --> 01:38:04,600
+a propensão a gente pode continuar discutindo, uma imagem científica sempre é uma imagem cosmológica,
+
+777
+01:38:04,600 --> 01:38:11,160
+depois eu posso meter um pouco ao Caléb, que é um cara que escreveu a lógica do Cisne Negro,
+
+778
+01:38:11,240 --> 01:38:15,720
+e ele diz o seguinte, aquilo que eu disse lá no começo da nossa aula de hoje,
+
+779
+01:38:17,320 --> 01:38:24,040
+há eventos que produzem um grande impacto e que não são previsíveis, e ele chamou isso de
+
+780
+01:38:24,040 --> 01:38:32,520
+a lógica do Cisne Negro, nesse livro, enfim, que eu botei a capa aí, que é um livro que vale
+
+781
+01:38:32,520 --> 01:38:40,440
+muito a pena para a gente poder manter a nossa racionalidade aberta para eventos extraordinários,
+
+782
+01:38:40,440 --> 01:38:44,520
+para eventos que não são previsíveis, que não foram previstas pela ciência,
+
+783
+01:38:44,520 --> 01:38:51,240
+mas sobre os quais precisamos fazer ciência depois também. Eu passei do tempo, quero pedir
+
+784
+01:38:51,240 --> 01:38:55,480
+desculpa já antecipadamente para vocês, ainda teria algumas coisas, mas com isso eu quero encerrar
+
+785
+01:38:55,480 --> 01:39:00,520
+essa primeira, esse primeiro estágio e me botar a disposição para os debates depois, muito obrigado.
+
+786
+01:39:04,200 --> 01:39:08,840
+Obrigado professor, então agora a gente entra no nosso intervalo, vamos fazer 15 minutos,
+
+787
+01:39:08,840 --> 01:39:14,440
+aí a gente retorna às 10 horas e 55 minutos, pessoal, bom intervalo.
+
+788
+01:56:08,840 --> 01:56:23,720
+Minha apresentação belíssima, que nos serve também, me ouviu te ouvindo,
+
+789
+01:56:23,720 --> 01:56:30,200
+assim, apreciando a tua argumentação e a conexão com coisas contemporâneas,
+
+790
+01:56:30,200 --> 01:56:35,880
+que estão aí no nosso nosso lado, você citou a tragédia do Rio Grande do Sul, quer dizer,
+
+791
+01:56:35,880 --> 01:56:42,280
+apontando a ciência e a filosofia acerca dela, está presente em nossas vidas, assim,
+
+792
+01:56:42,280 --> 01:56:50,760
+brilhante e de grande utilidade pública, se você me permite a sua fala, e apontando,
+
+793
+01:56:50,760 --> 01:56:58,440
+sobretudo, acerca da nossa deseducação científica, da nossa tragédia de entendimento
+
+794
+01:56:58,440 --> 01:57:05,160
+de conceitos e que estão conectados com o nosso cotidiano. Eu costumo dizer que,
+
+795
+01:57:05,160 --> 01:57:11,880
+para se concentrar em um submercado, nós devemos nos sentir completamente sem nenhuma
+
+796
+01:57:11,880 --> 01:57:17,800
+linguagem capaz de decodificar o que está ali dentro, desde os produtos até a própria
+
+797
+01:57:17,800 --> 01:57:25,240
+estrutura técnica que o acompanha. Mas enfim, agora passamos para a segunda parte
+
+798
+01:57:25,240 --> 01:57:31,240
+da nossa conversa, que é a parte também essencial da nossa disciplina, que é a conversa com os
+
+799
+01:57:31,240 --> 01:57:38,760
+candidatos, as questões que eles, muito numerosas, estão mandando aqui para a gente. Então,
+
+800
+01:57:38,760 --> 01:57:45,240
+eu vou colocar as questões na ordem que elas foram enviadas, Remi, e aí, se tiver algumas
+
+801
+01:57:45,240 --> 01:57:52,120
+repetidas, a gente volta, comenta, mas a gente vai apresentando assim de forma, digamos, democrática
+
+802
+01:57:52,120 --> 01:58:00,920
+em relação à sequência das questões. Uma primeira questão que nos foi enviada pelo
+
+803
+01:58:00,920 --> 01:58:07,000
+candidato, pelo Cândido, que você abordou bastante na sua fala, ele pergunta assim, o Cândido.
+
+804
+01:58:07,000 --> 01:58:14,280
+Gostaria que o professor discorresse sobre a cientificidade da psicanálise, se comentou
+
+805
+01:58:14,280 --> 01:58:21,240
+bastante na sua fala, e ele então começa com essa questão, e logo abaixo ele faz um outro
+
+806
+01:58:21,240 --> 01:58:27,720
+comentário também, perguntando assim, não sei se consigo formular a pergunta adequadamente,
+
+807
+01:58:27,720 --> 01:58:34,760
+mas gostaria de saber se o problema de GTE tem de alguma forma abala a visão poperiana.
+
+808
+01:58:34,760 --> 01:58:39,400
+Começamos com essas duas questões aí do Cândido, estou aqui, nós agradecemos.
+
+809
+01:58:39,400 --> 01:58:54,680
+Sim, a minha visão, assim, é de que eu participei, eu trabalhei 20 anos no Departamento de Filosofia
+
+810
+01:58:55,640 --> 01:59:02,280
+o único no Brasil em que a terminologia inteira do curso era voltada para a psicanálise,
+
+811
+01:59:02,280 --> 01:59:10,520
+no curso de psicologia, e enfim, eu interagir bastante nesse período com essa forma de pensamento
+
+812
+01:59:10,520 --> 01:59:20,040
+e estudei e me preocupei. O poper que eu já estudava há um bom tempo tinha essa, enfim,
+
+813
+01:59:20,120 --> 01:59:29,240
+essa postura de um questionamento à psicologia do Adler, basicamente, ele mesmo já disse que
+
+814
+01:59:29,240 --> 01:59:38,120
+a boa psicologia sendo feita em muitas áreas e abonou sempre toda a comportamental, mas
+
+815
+01:59:40,760 --> 01:59:47,960
+enfim, isso se tornou para mim sempre uma questão a ser problematizada, enfim, o que eu posso dizer
+
+816
+01:59:47,960 --> 01:59:53,320
+hoje é que assim, e nem sou eu que estou dizendo, quem está dizendo em grande medida são os próprios
+
+817
+01:59:53,320 --> 02:00:01,080
+psicanalistas hoje, eles abandonaram em grande medida aquele referencial teórico mais dogmático
+
+818
+02:00:01,080 --> 02:00:08,840
+inicial do próprio Freud, não todos na parte deles abandonou e uma parte está em conflito,
+
+819
+02:00:08,840 --> 02:00:13,480
+porque enfim, acha que o que se faz hoje já não é mais psicologia, já não é mais psicanálise,
+
+820
+02:00:14,120 --> 02:00:20,200
+é exatamente porque, enfim, está buscando essa interface cada vez maior com as demais ciências,
+
+821
+02:00:22,040 --> 02:00:30,760
+e buscando, então, problematizar, criar novas perspectivas, a partir de uma
+
+822
+02:00:33,160 --> 02:00:39,320
+construção científica que não é específica da sua área, mas que ajuda, como eu disse antes,
+
+823
+02:00:39,400 --> 02:00:47,080
+ajuda a construir um universo de referência sustentável para a psicanálise contemporânea,
+
+824
+02:00:47,080 --> 02:00:56,360
+então assim, nós temos uma transformação em cada campo do conhecimento,
+
+825
+02:00:58,040 --> 02:01:01,800
+e a psicanálise está passando exatamente por essa transformação
+
+826
+02:01:02,520 --> 02:01:15,640
+em busca de uma legitimidade também científica maior, porque em última instância
+
+827
+02:01:17,240 --> 02:01:23,240
+a possibilidade de sustentação de qualquer conhecimento que não considere os avanços
+
+828
+02:01:23,880 --> 02:01:31,480
+científicos contemporâneos vai ficar cada vez mais abalado como, enfim, como crença particular,
+
+829
+02:01:31,720 --> 02:01:39,080
+como um devaneio de uma área, ou como um pensamento dogmático, porque eu tenho leitura,
+
+830
+02:01:39,080 --> 02:01:47,400
+e eu acho que isso é algo que a ciência tem avançado e tem alterado, vamos chamar assim,
+
+831
+02:01:47,400 --> 02:01:54,520
+o universo de referência não nos, enfim, não como nós gostaríamos, né, que tivesse muito
+
+832
+02:01:54,520 --> 02:01:58,600
+mais ciência, que as culturas, enfim, já se constituíssem mais como científicas
+
+833
+02:01:59,320 --> 02:02:05,240
+do que como dogmáticas, mas é verdade que vamos chamar assim, a razão tem avançado
+
+834
+02:02:05,240 --> 02:02:13,080
+sobre o dogma de uma forma significativa, e então a psicanálise busca essa legitimação,
+
+835
+02:02:13,800 --> 02:02:19,560
+está no processo de transformação, sim, há carreiras que, enfim, se sustentam
+
+836
+02:02:21,720 --> 02:02:27,320
+nos dogmas iniciais e há outras, enfim, que continuam vivas, investigativas,
+
+837
+02:02:27,400 --> 02:02:34,040
+e que buscam essas interfaces, essas são, segundo pelo menos a coerência com o que eu
+
+838
+02:02:34,040 --> 02:02:41,400
+defendo, que eu tenho lido de pôper e dos demais, essas são as que têm futuro, porque estão vivas
+
+839
+02:02:41,400 --> 02:02:48,600
+e estão problematizando as próprias, as que estão fundadas nos dogmas não vão sobreviver, mas cedo
+
+840
+02:02:48,600 --> 02:02:56,040
+mais tarde elas passam como uma história da psicanálise, mas já não mais com psicanálise
+
+841
+02:02:56,040 --> 02:03:01,400
+contemporânea, e quem vai dizer que são os grandes encontros internacionais da sociedade
+
+842
+02:03:01,400 --> 02:03:06,760
+psicanálitica, por exemplo, entende? Porque a gente tem que pensar, sim, qual é o critério,
+
+843
+02:03:06,760 --> 02:03:11,000
+agora o Remy decidiu que vai ser assim, não fui eu que decidi nada, eu só estou lendo o que que
+
+844
+02:03:11,000 --> 02:03:16,600
+os caras que participaram da sociedade psicanálitica, por exemplo, tem dito agora, entende? Que tem uma
+
+845
+02:03:16,600 --> 02:03:24,920
+guinada e que tem novidade na área, mas claro, tem um grupo de pessoas que está defendendo
+
+846
+02:03:24,920 --> 02:03:31,880
+o dogma inicial, como normal, toda área de conhecimento isso acontece, né? Quando eu digo, por
+
+847
+02:03:31,880 --> 02:03:36,200
+exemplo, que nós damos muita aula de história da filosofia e menos aula de filosofia,
+
+848
+02:03:36,200 --> 02:03:41,960
+tem colegas meus que me olham com uma cara assim tipo, ah, tá querendo me enterrar, né? Não, eu só
+
+849
+02:03:41,960 --> 02:03:47,560
+estou dizendo que ou nós mantemos nossas áreas vivas, ou elas passam para a história, elas não
+
+850
+02:03:47,560 --> 02:03:58,360
+vão se sustentar baseada, enfim, em inscritos dos nossos, por mais que grandes e complexos e,
+
+851
+02:03:58,360 --> 02:04:04,520
+enfim, grandes filósofos, mas que são do passado, né? Nós precisamos atualizar isso sempre, isso vale
+
+852
+02:04:04,520 --> 02:04:09,400
+para a psicologia, mas vale para os canais no caso, vale para a ciência, mas vale para a filosofia da
+
+853
+02:04:09,400 --> 02:04:16,440
+mesma forma, então é esse o processo de transformação. E perfeito, e aí conectar da
+
+854
+02:04:16,440 --> 02:04:24,120
+forma do gatilho, do gatilho, é assim, não acho que não afeta a visão popeliana, porque ele
+
+855
+02:04:24,120 --> 02:04:32,840
+parte de uma crença verdadeira justificada e uma das coisas que o Popper mais defende é exatamente a
+
+856
+02:04:32,840 --> 02:04:41,560
+ideia de que não é, não é filosoficamente adequado, não é científicamente adequado,
+
+857
+02:04:41,560 --> 02:04:49,640
+não é criarenteorias. Nós não devemos defender teorias, nós não podemos crer em teorias, não
+
+858
+02:04:49,640 --> 02:04:57,720
+há verdades para nós acreditarmos. Há elementos postos pela cultura que nós devemos problematizar
+
+859
+02:04:57,720 --> 02:05:04,120
+e construir conhecimentos novos. Então os dois exemplos sim, né, que ele dá, eu acho que só
+
+860
+02:05:04,120 --> 02:05:10,120
+para as pessoas, né, tanto das moedas como do carro, não são conhecimentos, é verdade,
+
+861
+02:05:10,120 --> 02:05:14,600
+é conhecimento, entende? No entanto, é uma crença verdadeira justificada? Sim, é uma
+
+862
+02:05:14,600 --> 02:05:22,200
+crença verdadeira justificada. E ele está certo? Ele está certo. Crença verdadeira justificada não
+
+863
+02:05:22,200 --> 02:05:34,920
+é conhecimento. Conhecimento é exatamente algo dinâmico, disposto a avançar, problematizar e
+
+864
+02:05:34,920 --> 02:05:42,360
+não institui. Não há um conhecimento posto. Compreendo que é aí que está o diferencial.
+
+865
+02:05:42,360 --> 02:05:49,000
+Para Popper, não há um conhecimento posto. Há uma instância de desenvolvimento da
+
+866
+02:05:49,000 --> 02:05:55,240
+racionalidade, a que nós alcançamos, mas que precisa necessariamente ser revisitado. E que é
+
+867
+02:05:55,240 --> 02:06:00,680
+sempre conjectural ainda, que é sempre ainda falho, que é sempre ainda não completo, não
+
+868
+02:06:00,920 --> 02:06:06,680
+suficientemente adequado, não livre de erro e que, portanto, é só conjectura ainda.
+
+869
+02:06:08,280 --> 02:06:16,440
+Então, não há o conhecimento verdadeiro e a justificação nunca é última também.
+
+870
+02:06:17,400 --> 02:06:24,280
+As justificações sempre são um processo de justificação, de continuação da investigação.
+
+871
+02:06:24,840 --> 02:06:31,640
+Então, inclusive o sujeito, ele retira o sujeito porque ele trabalha com um conhecimento
+
+872
+02:06:31,640 --> 02:06:41,960
+objetivo. Não é eu que acredito. É o estágio atual do desenvolvimento lógico
+
+873
+02:06:41,960 --> 02:06:50,920
+racional de uma área do conhecimento que vai receber de mim, de ti, de qualquer pessoa, enfim,
+
+874
+02:06:51,480 --> 02:06:57,640
+que tenha eleito esse problema como seu problema, uma conjectura que o problematiza.
+
+875
+02:06:58,680 --> 02:07:04,600
+Então, sim, nós nos relacionamos como entidades de conhecimento e não exatamente como sujeitos,
+
+876
+02:07:04,600 --> 02:07:10,200
+porque nós também somos constituídos do conjunto daquelas teorias que nós aprendemos
+
+877
+02:07:10,760 --> 02:07:18,840
+coletivamente. Tem, inclusive, um elemento aí de relação muito legal de compreender que
+
+878
+02:07:19,400 --> 02:07:23,960
+não há nada que seja conhecimento meio específico, como não é Teuro, né,
+
+879
+02:07:23,960 --> 02:07:28,760
+como não há de ninguém que está nos assistindo aí, o que está participando. Há conhecimentos que
+
+880
+02:07:28,760 --> 02:07:35,880
+nós, enfim, defendemos, que nós conhecemos, que nós tivemos contatos e que nós aceitamos
+
+881
+02:07:36,520 --> 02:07:44,200
+durante determinado tempo e que quando nós nos tornamos adultos teoricamente, no sentido assim,
+
+882
+02:07:44,680 --> 02:07:49,320
+maduros teoricamente, nós já começamos a encontrar elementos para refutação deles.
+
+883
+02:07:49,960 --> 02:07:56,520
+Então, nós sabemos que eles eram só algo do que nós tínhamos nos apropriados temporariamente.
+
+884
+02:07:57,400 --> 02:08:05,800
+Perfeito. Obrigado, Remi. O Edivaldo conectando com essa questão acerca da científicidade da
+
+885
+02:08:05,800 --> 02:08:13,800
+psicanálise, ele coloca o seguinte, aproveitando essa pergunta sobre a psicanálise, o que você
+
+886
+02:08:13,800 --> 02:08:23,240
+me achou do livro Que Besteira, o título do livro, que a, que bobagem, desculpa, aqui
+
+887
+02:08:23,240 --> 02:08:29,640
+tem que Besteira, perdão, que Besteira tem que bobagem, que é classificação como não-ciência.
+
+888
+02:08:30,280 --> 02:08:34,760
+Você lê uma olhada? Sim, não, eu acabei de ler.
+
+889
+02:08:35,160 --> 02:08:47,960
+Assim, com relação à psicanálise, por exemplo, eu acho que eles subfaturaram a conclusão.
+
+890
+02:08:49,400 --> 02:08:57,560
+É uma concepção que eu percebo muito claramente. E ele sim, e por isso provavelmente inclusive
+
+891
+02:08:57,560 --> 02:09:04,280
+deve ter vindo a lembrança, porque eu mencionei algumas coisas aí com relação ao Freud
+
+892
+02:09:05,000 --> 02:09:14,760
+e às construções Freudianas. O que eu concordo plenamente, o que eu mencionei e sustento isso.
+
+893
+02:09:14,760 --> 02:09:23,080
+O que há é que o criador da, de toda essa área do conhecimento, por certo, precisa ser vencido
+
+894
+02:09:23,080 --> 02:09:29,880
+pelos seus discípulos, pelos seus, enfim, pela área do conhecimento que agora estuda.
+
+895
+02:09:30,040 --> 02:09:37,720
+Mas eles meio que tiraram uma conclusão sobre a psicanálise como um todo. O que eu acho que é
+
+896
+02:09:37,720 --> 02:09:45,320
+indevido. E esses dias, inclusive, eu não vou lembrar o nome do teórico da Unicamp,
+
+897
+02:09:45,320 --> 02:09:52,920
+esses dias que fez um psicanalista. E ele, então, fez referência a um conjunto de
+
+898
+02:09:52,920 --> 02:10:02,520
+estudos contemporâneos que estão nos melhores periódicos, nacionais, internacionais,
+
+899
+02:10:02,520 --> 02:10:14,040
+e que sustentam a legitimidade da psicanálise. E eu também concordo com isso. O que se faz,
+
+900
+02:10:14,040 --> 02:10:20,520
+normalmente, a gente sabe como é que isso funciona. Somos todos os adultos aqui teoricamente.
+
+901
+02:10:21,480 --> 02:10:30,200
+Um livro, um artigo, ele tem uma parte investigativa necessária, sempre legítima e muito importante.
+
+902
+02:10:30,200 --> 02:10:37,240
+Mas ele não está livre de fazer injustiça, porque a gente acaba caricaturando alguns aspectos
+
+903
+02:10:37,240 --> 02:10:46,360
+da realidade. Do contrário, seria uma tarefa infinita, nós não conseguimos abordar a totalidade.
+
+904
+02:10:47,160 --> 02:10:53,400
+Então, eu vejo que os autores tratam de questões importantíssimas, significativas.
+
+905
+02:10:54,200 --> 02:10:59,480
+Eu acho que o livro é bom. E eu também divido significativamente dessa abordagem, dessa entrevista,
+
+906
+02:10:59,480 --> 02:11:06,360
+que eu não vou lembrar o nome do psicanalista da Unicamp, em que ele diz que não são citadas
+
+907
+02:11:06,360 --> 02:11:12,360
+as fontes. Pelo contrário, esse livro aqui tem umas dez páginas no final, só das fontes e muitas
+
+908
+02:11:12,440 --> 02:11:19,960
+delas eu fui atrás. São fontes muito claras de que, sim, que eles estão falando a partir de um conjunto
+
+909
+02:11:19,960 --> 02:11:31,160
+de referências visitáveis, vamos a uma terminologia, que podia permitir, enfim, a investigação e a
+
+910
+02:11:31,160 --> 02:11:37,720
+certeza do que eles estão dizendo. Mas, sim, um campo em transformação. E eu achei que o livro é um
+
+911
+02:11:37,800 --> 02:11:44,840
+livro que vale a leitura. E ele vale a leitura, eu acho, por múltiplos efeitos. Mas, claro,
+
+912
+02:11:44,840 --> 02:11:53,320
+ele também trata de outros temas muito, enfim, que a gente já superou, em grande medida, a maior
+
+913
+02:11:53,320 --> 02:11:59,640
+parte dos seres ronacionais não está mais pensando nisso. Entretanto, ele faz muitas metáforas
+
+914
+02:12:00,040 --> 02:12:06,680
+que ajudam a compreender essa necessidade de uma sociedade cada vez mais científica.
+
+915
+02:12:08,280 --> 02:12:16,760
+Acho que com isso está bom. Maravilha, perfeito. Já nos instiga, para quem não leu o livro, lê-lo, né?
+
+916
+02:12:16,760 --> 02:12:23,720
+Que acho que é um pouco objetivo de todo o livro ser instigante. A Tatiana queria que ela
+
+917
+02:12:23,720 --> 02:12:31,400
+faça uma reflexão, mas eu registro. Ela diz, se o universo, e elas são, acho que, as primeiras
+
+918
+02:12:31,400 --> 02:12:39,880
+imagens, se o universo está em constante expansão, o que tem depois? Muitas e muitas perguntas sobre
+
+919
+02:12:39,880 --> 02:12:47,000
+tudo isso, diz a Tatiana. E eu aproveito e coloco a questão da Estefânia. Ela diz assim, por favor,
+
+920
+02:12:47,320 --> 02:12:53,320
+peça a ele, para você, Remy, para voltar à explicação da figuração.
+
+921
+02:12:53,320 --> 02:13:04,600
+De Victor Einstein. Eu vou tentar falar do universo um pouquinho. O mais adequado, se ele não
+
+922
+02:13:04,600 --> 02:13:11,960
+dizer que não sabemos, nós não sabemos. Depois a gente pode dizer o seguinte, a menos que aconteça
+
+923
+02:13:11,960 --> 02:13:21,480
+uma revolução imensa na nossa ciência contemporânea, o tempo. O tempo vai continuar existindo.
+
+924
+02:13:25,080 --> 02:13:35,080
+O tempo é objetivo. Mas, claro, ele é, ao mesmo tempo, uma constituição intelectual
+
+925
+02:13:36,040 --> 02:13:47,480
+e rigorosa, vamos chamar assim, que baliza todo o nosso conhecimento. Então, aquela imagem do
+
+926
+02:13:47,480 --> 02:13:57,400
+universo ali, enfim, ela dá conta de que, com essa categoria, nós podemos revisitar e atribuir
+
+927
+02:13:58,200 --> 02:14:13,080
+efeitos, causas, números, causas, mas também inúmeros efeitos. Não podemos simplificar isso
+
+928
+02:14:13,080 --> 02:14:26,760
+para uma relação causa efeito singular. E o futuro, depois, já prevê o tempo.
+
+929
+02:14:26,920 --> 02:14:34,360
+O que nós sabemos até aqui são duas, enfim, são duas coisas básicas. O nosso universo está
+
+930
+02:14:34,360 --> 02:14:39,640
+em expansão, ele vai continuar a se expandir. Então, nós vamos estar cada vez mais longe,
+
+931
+02:14:39,640 --> 02:14:46,680
+vamos chamar assim, cada um de nós. Mas isso é complexo, não podemos tirar conclusões precipitadas,
+
+932
+02:14:46,680 --> 02:14:52,600
+mas cada corpo celeste, vamos chamar assim, cada corpo do universo vai estar cada vez mais longe,
+
+933
+02:14:52,600 --> 02:14:58,760
+um do outro, ele está em expansão, continua em expansão, e aí tem duas teorias disputando,
+
+934
+02:14:58,760 --> 02:15:03,640
+as teorias cosmológicas básicas disputando. Estou aqui simplificando ao máximo toda a
+
+935
+02:15:03,640 --> 02:15:08,200
+complexidade desse processo, mas assim, só para tornar possível uma resposta nesse tempo.
+
+936
+02:15:09,240 --> 02:15:17,880
+Uma que nós vamos continuar infinitamente nos distanciando. Tudo a bem da verdade vai
+
+937
+02:15:17,880 --> 02:15:25,000
+perder gravidade e vai virar pó denovo, vai virar partícula menor, menor, menor, menor,
+
+938
+02:15:25,960 --> 02:15:35,320
+porque a distância exatamente diminui clara gravidade. Nós estamos indo para um universo
+
+939
+02:15:36,200 --> 02:15:45,480
+em milhões e milhões de anos dissipado. Mas há aquele problema que é o nosso problema lógico
+
+940
+02:15:45,480 --> 02:15:55,080
+lá do começo. Se nós tivemos uma concentração de toda a energia do universo em determinado
+
+941
+02:15:55,080 --> 02:16:04,280
+tempo e depois o Big Bang começou a dissipação, há de se pensar que talvez quando o universo
+
+942
+02:16:04,280 --> 02:16:10,920
+estiver se dissipado a tal ponto que as partículas sejam minúsculas, o simples shock de duas partículas
+
+943
+02:16:10,920 --> 02:16:20,760
+podem reiniciar o processo de concentração. Pode ser que sim, entende? E pode ser que um
+
+944
+02:16:20,760 --> 02:16:26,840
+novo Big Bang um dia, um dia que terá que ter tido uma inteligência para chamar de dia,
+
+945
+02:16:26,840 --> 02:16:36,440
+conceitual, enfim, mas um dia desses aconteça de novo. Isso não é linear, isso anularia,
+
+946
+02:16:36,440 --> 02:16:49,560
+por exemplo, a nossa reunião da Via Láctea com Andrômeda, enfim. Não quer dizer que os
+
+947
+02:16:49,560 --> 02:16:55,560
+eventos não vão continuar acontecendo esses eventos menores mais rápidos, mais antecedentes.
+
+948
+02:16:56,520 --> 02:17:03,560
+Mas isso é o que dizem hoje os cosmólogos. A gente não tem como saber o que vai acontecer,
+
+949
+02:17:03,560 --> 02:17:15,240
+porque é uma alteração, por menor que seja, na teoria contemporânea e talvez a gente refaça
+
+950
+02:17:15,240 --> 02:17:27,800
+os cálculos todos de novo e o futuro seja outro. Mas nada que coloque em risco as nossas gerações
+
+951
+02:17:27,800 --> 02:17:36,680
+e a nossa procreação. Podem continuar fazendo filhos e organizando uma vida boa, porque isso vai
+
+952
+02:17:36,680 --> 02:17:48,920
+demorar muito tempo para acontecer. A outra é... É a questão da Estefânia. É uma chave de
+
+953
+02:17:48,920 --> 02:17:58,600
+construção maravilhosa. Eu sugiro que se estude, que se compreenda assim. Ela é, vamos
+
+954
+02:17:58,600 --> 02:18:06,600
+chamar assim, rigorosa o suficiente para barcar ciência, mas ao mesmo tempo ilustrativo o
+
+955
+02:18:06,600 --> 02:18:17,080
+suficiente para ser rica, para ser curiosa, para ser desafiadora, porque também permita
+
+956
+02:18:17,080 --> 02:18:27,480
+fazer fases com muitas áreas, com as artes, por exemplo. E essa ideia de que nós não temos como
+
+957
+02:18:27,480 --> 02:18:42,200
+superar, vamos chamar assim, como atravessar o abismo entre a linguagem e as coisas. E porque
+
+958
+02:18:42,200 --> 02:18:52,840
+nós construímos do lado DK, no lado da linguagem. Uma representação, nesse caso dele, de representação
+
+959
+02:18:52,840 --> 02:18:59,800
+de antianamento falando, canta é pai dessa ideia, não adianta, canta é o pai da ideia. Tanto da
+
+960
+02:18:59,800 --> 02:19:08,040
+Poperiana como da Duvett Einstein, por sério. Construímos uma maquete, vamos chamar assim, do que
+
+961
+02:19:08,120 --> 02:19:15,960
+no mundo do lado do outro lado. Construímos uma figuração. Construímos uma atividade que tem bastante
+
+962
+02:19:15,960 --> 02:19:24,440
+a ver com a própria arte, mas não deixa de ser racional. Construímos uma figuração do mundo.
+
+963
+02:19:24,440 --> 02:19:32,840
+A nossa linguagem não pode mais do que figurar o mundo. O seu referente só é alcançado por figuração.
+
+964
+02:19:32,920 --> 02:19:41,960
+O seu referente não é alcançado de uma forma objetivamente final, mas isso não quer dizer que
+
+965
+02:19:41,960 --> 02:19:48,200
+essa figuração não seja uma figuração objetiva, é uma figuração objetiva ainda assim. Problematizável,
+
+966
+02:19:48,200 --> 02:19:58,840
+problematizável, criticável, próbvio, aprimorada, podendo ser aprimorada, podendo ser transformada,
+
+967
+02:19:59,640 --> 02:20:05,560
+e cabe aí todo o edifício das ciências. Talvez a ciência não seja outra coisa que uma figuração
+
+968
+02:20:05,560 --> 02:20:12,760
+do mundo. A ciência como um todo, é uma figuração do mundo, mas é a figuração rigorosa que existe.
+
+969
+02:20:13,480 --> 02:20:20,360
+Não quer dizer que a poesia não seja uma figuração. É claro que a poesia é uma figuração,
+
+970
+02:20:21,240 --> 02:20:27,960
+mas a poesia não precisa ter um rigor da ciência, porque a poesia ninguém vai exigir verdade,
+
+971
+02:20:27,960 --> 02:20:32,280
+ninguém vai pegar um poema e dizer, ah, mas ele é falso. Um poema não é falso, é verdadeiro,
+
+972
+02:20:32,280 --> 02:20:38,360
+vocês aprenderam isso em aula de lógico, imagina. Poesia não é nem verdadeiro, nem falsa poesia.
+
+973
+02:20:39,080 --> 02:20:47,320
+O elemento que nos faz legitimar a poesia, por exemplo, é exatamente a sua estética bem
+
+974
+02:20:47,320 --> 02:20:54,040
+desenvolvida, que dizia seu critério estético. E não o critério de verdade, não o critério, enfim,
+
+975
+02:20:55,000 --> 02:21:02,120
+de objetividade. Mas vale com uma figuração também. Só que não é, não podemos comparar
+
+976
+02:21:02,120 --> 02:21:07,320
+essas figurações. A ciência é uma figuração, a melhor figuração que nós alcançamos, porque
+
+977
+02:21:07,320 --> 02:21:13,320
+ela é, ela corrige seus próprios erros, mas ainda assim é uma figuração. E é muito,
+
+978
+02:21:14,280 --> 02:21:25,240
+é muito interessante pensar por aí, porque nós produzimos, vamos considerar um elemento maior,
+
+979
+02:21:27,320 --> 02:21:34,120
+um espaço maior para consideração dos elementos imaginativos. Porque se tem uma
+
+980
+02:21:34,120 --> 02:21:40,920
+coisa que é importante nesse processo todo, é que uma conjectura ela é, chama assim, retirada,
+
+981
+02:21:40,920 --> 02:21:48,280
+inteiramente do imaginário humano. Não existe uma conjectura que é feita
+
+982
+02:21:48,280 --> 02:21:53,400
+objetivamente já. Não, se ela vai ser objetiva ou não, vai depender das consequências que ela
+
+983
+02:21:53,400 --> 02:22:00,840
+produz e não da sua origem. Porque esse é o problema sempre, né, que nós temos que debater
+
+984
+02:22:00,840 --> 02:22:10,680
+em ciência. O contexto da descoberta é importante, propôper não. O contexto da descoberta não é
+
+985
+02:22:10,680 --> 02:22:18,600
+importante. Porque nós investigarmos como é que nós temos ideia e não nos garante absolutamente
+
+986
+02:22:18,600 --> 02:22:26,520
+que nós vamos ter boas ideias. E nem legitimamos uma ideia por força de que ela tenha surgido
+
+987
+02:22:26,520 --> 02:22:35,480
+num momento chiso, numa instância tal, um contexto, não importa, entendeu? Os grandes matemáticos
+
+988
+02:22:35,480 --> 02:22:40,840
+do mundo vocês têm na história aí, não precisamos, eu só voltou sugerindo agora assim de forma bem
+
+989
+02:22:40,840 --> 02:22:47,480
+lata, mas nós temos matemáticos que produziram as maiores construções de matemática dizendo
+
+990
+02:22:47,480 --> 02:22:51,880
+que sonhavam durante a noite, que quando acordavam, faziam as anotações, me fugiu o nome, se alguém
+
+991
+02:22:51,880 --> 02:23:02,600
+quiser me ajudar, faziam as anotações, entendeu? Mas o que garantia que aquilo era matemática
+
+992
+02:23:02,680 --> 02:23:08,200
+era a forma de que elas funcionaram depois, elas eram exatas. E não a origem de que o cara tava
+
+993
+02:23:08,200 --> 02:23:14,440
+puxando, enfim, dormindo, tava sonhando, tava qualquer coisa assim, então o contexto da descoberta
+
+994
+02:23:14,440 --> 02:23:21,080
+não importa, o que importa é o contexto da justificação. Isso não quer dizer que é uma
+
+995
+02:23:21,080 --> 02:23:28,040
+crença verdadeira, vou voltar à questão, né, quer dizer que é uma conjectura que encontra
+
+996
+02:23:28,040 --> 02:23:37,480
+consequências que permitem implicar o universo do mundo, é que essas consequências então
+
+997
+02:23:37,480 --> 02:23:49,000
+efetivamente podem ser defendidas como oriundas dessa conjectura. Todo o conhecimento humano
+
+998
+02:23:49,080 --> 02:23:57,320
+foi extraído do nosso imaginário, mas nem tudo que nós imaginamos é conhecimento, por
+
+999
+02:23:57,320 --> 02:24:04,520
+óbvio, aquilo que tem consequência, que pode ser testado, que pode ser intersubjetivamente
+
+1000
+02:24:04,520 --> 02:24:11,080
+legitimado, nós chamamos de ciência. E o resto, as outras coisas, não é resta no sentido depressativo,
+
+1001
+02:24:11,080 --> 02:24:18,040
+tá? As demais formas de imaginação servem para um conjunto de outras coisas, inclusive
+
+1002
+02:24:18,040 --> 02:24:24,360
+enfim, diretamente, ajudam a ciência, mas não podem passar pelo crivo da ciência.
+
+1003
+02:24:26,120 --> 02:24:34,840
+Perfeito, Remy, obrigado. Agora temos uma pergunta acompanhada de uma reflexão do Felipe, então é
+
+1004
+02:24:34,840 --> 02:24:42,520
+uma pergunta bastante longa, mas eu vou ler porque ela traz coisas bem importantes para a gente
+
+1005
+02:24:43,000 --> 02:24:51,000
+então o Felipe diz assim, obrigado Felipe. O professor você apontou algo como, entre aspas,
+
+1006
+02:24:51,640 --> 02:24:58,440
+hoje em dia a psicanálise está se aproximando da biologia das neurociências do campo mais
+
+1007
+02:24:58,440 --> 02:25:05,400
+científico, fecha aspas. Nesse sentido tem a impressão de que você está equalizando
+
+1008
+02:25:05,400 --> 02:25:12,920
+ciência igual matéria. Mas o materialismo não é um ponto de vista estritamente científico,
+
+1009
+02:25:12,920 --> 02:25:21,480
+e sim uma visão de mundo filosófico. Diversos fenômenos em psicanálise escapam de sua apreensão na
+
+1010
+02:25:21,480 --> 02:25:27,240
+matéria, ou seja, no corpo. Isso não significa que não haja uma relação entre corpo e psiquê,
+
+1011
+02:25:27,240 --> 02:25:35,480
+mas que derivar a psiquia do corpo novamente seria um pressuposto filosófico e não necessariamente
+
+1012
+02:25:35,480 --> 02:25:42,920
+científico. Digo isso, inclusive, partindo dos estudos das experiências religiosas de William
+
+1013
+02:25:42,920 --> 02:25:50,840
+James, em que propõem que tais experiências religiosas não devem ser avaliadas através
+
+1014
+02:25:50,840 --> 02:25:57,960
+de origem, causa corporal, etc., mas sim do valor moral da experiência, as transformações
+
+1015
+02:25:57,960 --> 02:26:07,720
+subjetivas na personalidade, claro, a razoabilidade filosófica. Por tanto, seria um critério pragmático
+
+1016
+02:26:07,720 --> 02:26:15,960
+de avaliar coisas invisíveis, mas que, apesar de serem invisíveis, entre aspas, produzem
+
+1017
+02:26:15,960 --> 02:26:22,920
+outros psíclicos significativos. Então, ele diz, como você responderia essa ideia de que
+
+1018
+02:26:22,920 --> 02:26:31,000
+muitas vezes confunde-se ciência com pressupostos materialistas? Primeira questão, porque, nesse
+
+1019
+02:26:31,000 --> 02:26:39,160
+caso, a ciência, ao meu ver, estaria fundamentada em uma metafísica, na medida em que não sabemos
+
+1020
+02:26:39,160 --> 02:26:47,320
+exatamente o que é, entre aspas, matéria em si, tão pouco o que é o espírito em si. Então,
+
+1021
+02:26:47,320 --> 02:26:54,520
+fundamentar uma ciência psicológica, tanto em um ponto de vista quanto no outro, seria basear-se
+
+1022
+02:26:54,520 --> 02:27:02,560
+em pressupostos metafísicos. Em última análise, para formular ciência e psicanálise, e aí ele
+
+1023
+02:27:02,560 --> 02:27:08,040
+diz o que você acha sobre isso. E aí ele complementa, ele diz, para complementar essa
+
+1024
+02:27:08,040 --> 02:27:18,000
+questão, como exemplo, pensemos na conversão de Saulo e Paulo, na entrada de Damasco. Considerar
+
+1025
+02:27:18,000 --> 02:27:25,120
+que a visão que este teve de Cristo foi um epifenômio de uma crise hipelética decorrente
+
+1026
+02:27:25,120 --> 02:27:33,880
+de um distúrbio do córtex hospital pode ser uma hipótese válida. Mas avaliar essa experiência
+
+1027
+02:27:33,880 --> 02:27:42,280
+de acordo com tais critérios, de acordo com a causa corporal, não explica o Saulo anti-cristão,
+
+1028
+02:27:42,280 --> 02:27:49,440
+que perseguia cristãos e ao converter-se em Paulo, tornar-se um cristão fervoroso e que
+
+1029
+02:27:49,440 --> 02:27:56,720
+influencia a própria disseminação do cristialismo na sociedade ocidental. Há um doutor psicólogo
+
+1030
+02:27:56,720 --> 02:28:02,080
+famoso no YouTube, não sei o que ele não disse qual, que defende a ideia de que na verdade pode
+
+1031
+02:28:02,080 --> 02:28:08,880
+ser Saulo, Paulo nem viu Cristo, mas sim um simples clarão. Mas isso não seria abusar do
+
+1032
+02:28:08,880 --> 02:28:16,000
+critério materialista e começar a especular ao estilo metafísico? É nesse ponto que afirmo
+
+1033
+02:28:16,000 --> 02:28:23,520
+dizer a metafísica da matéria ou a mitologia cerebral. E ainda não explica nada dos primordios
+
+1034
+02:28:23,520 --> 02:28:30,880
+do cristianismo. Transportemos isso para a clínica e pensemos em suas consequências práticas. Enfim,
+
+1035
+02:28:30,880 --> 02:28:35,760
+eu vou utilizar esse exemplo como um ponto de apoio para pensarmos o que significa ciência em
+
+1036
+02:28:35,760 --> 02:28:42,760
+psicologia e problematizar a ideia que a psicologia deveria ser submissa aos critérios das ciências
+
+1037
+02:28:42,760 --> 02:28:53,000
+naturais. Então é essa reflexão e perguntas que faz o Felipe. Por favor. Sim, primeiro muito
+
+1038
+02:28:53,280 --> 02:28:59,320
+Felipe, porque de fato é, enfim, o primeiro mostra que está é um problema grande para
+
+1039
+02:28:59,320 --> 02:29:08,880
+ti também, enfim, né? E que, enfim, tu encontrou bons elementos para problematizar que essa
+
+1040
+02:29:08,880 --> 02:29:18,720
+tese, enfim, dá psicanálise precisando de interfaces, mas eu usei a interface, por exemplo,
+
+1041
+02:29:19,720 --> 02:29:26,880
+a neurociência, porque isso é o fenômeno contemporâneo, né? Quer dizer, agora está
+
+1042
+02:29:26,880 --> 02:29:35,280
+tendo esse evento dentro da área da psicanálise, mas eu não, assim, no ponto de vista da sustentação
+
+1043
+02:29:35,280 --> 02:29:41,960
+do discurso psicanalítico, eu não vejo que tem que fazer isso com esse tipo de ciência
+
+1044
+02:29:41,960 --> 02:29:49,240
+praticamente, muito pelo contrário, ele deve buscar a interface com as ciências, com as
+
+1045
+02:29:49,240 --> 02:29:58,320
+ciências sociais, com as ciências humanas em geral e buscar então construir a sua, a sua
+
+1046
+02:29:58,320 --> 02:30:04,240
+legitimidade cada vez mais, porque não há nenhum conhecimento que seja legítimo, ele é a
+
+1047
+02:30:04,240 --> 02:30:09,520
+princípio, ele é aceito contemporâneamente em qualquer área do conhecimento, mesmo a ciência,
+
+1048
+02:30:09,520 --> 02:30:16,000
+mas amanhã será problematizado, então a legitimidade é algo para construir-se cotidianamente,
+
+1049
+02:30:16,000 --> 02:30:26,040
+constantemente, sem pretender ter descoberto verdades ou mesmo exemplos que sejam indubitáveis
+
+1050
+02:30:26,040 --> 02:30:34,200
+ou chaves de compreensão que não possam ser revisitadas. Eu estou, eu estou aqui para
+
+1051
+02:30:34,280 --> 02:30:43,080
+ver que as leis lógicas, segundo a filosofia contemporânea, podem e devem ser problematizadas,
+
+1052
+02:30:43,080 --> 02:30:49,000
+isso vai dizer, bom, mas aí vai mexer no nosso instrumental, sim, vamos mexer no nosso
+
+1053
+02:30:49,000 --> 02:30:54,000
+instrumental também, nós vamos usar de um instrumental para a análise da realidade,
+
+1054
+02:30:54,000 --> 02:31:01,360
+cujo instrumental é deficiente, então nós sabemos que nós tínhamos uma concepção
+
+1055
+02:31:01,360 --> 02:31:08,440
+de lógica há pouco tempo atrás, nós temos uma concepção de lógica muito mais complexa,
+
+1056
+02:31:08,440 --> 02:31:16,120
+contemporânea, que foi trazida a realidade pela física quântica, não tem como deixar de
+
+1057
+02:31:16,120 --> 02:31:24,680
+considerar que a complexidade do mundo e de todas as situações científicas contemporâneas foram
+
+1058
+02:31:24,680 --> 02:31:30,640
+alteradas por um outro elemento que inclusive não é, não é puramente lógica, de uma ciência
+
+1059
+02:31:30,640 --> 02:31:35,160
+muito maior, mas que implicou nós pensarmos a lógica para consistente, por exemplo,
+
+1060
+02:31:35,160 --> 02:31:43,480
+só para citar rapidamente aqui sem correr grandes riscos, então assim, é preciso que tenha uma
+
+1061
+02:31:43,480 --> 02:31:52,480
+revisita, sim, agora é preciso que ela seja as ciências hard que a gente considerava? Não,
+
+1062
+02:31:52,480 --> 02:31:58,680
+essa própria nomenclatura ela já é inadequada, não há ciências hard, nenhuma ciência hard,
+
+1063
+02:31:58,680 --> 02:32:02,600
+existe ciência rigorosa e ciência não rigorosa, há ciência e não ciência,
+
+1064
+02:32:04,600 --> 02:32:14,880
+não tem ciências brandas, não tem ciências que possam flertar com a pseudociência, isso não
+
+1065
+02:32:14,880 --> 02:32:24,520
+é ciência, uma narrativa consistente como Freud fez, não afaz a científica, nem aqui,
+
+1066
+02:32:24,520 --> 02:32:31,280
+agora nenhum contemporaneamente mais, ela é uma narrativa consistente, mas uma narrativa
+
+1067
+02:32:31,280 --> 02:32:41,240
+consistente pode ter uma certeza, uma verdade justificada, uma certeza justificada e isso não
+
+1068
+02:32:41,520 --> 02:32:58,760
+disso é um conhecimento, exemplos como chaves de compreensão, nós podemos e devemos usar como
+
+1069
+02:32:58,760 --> 02:33:05,920
+metáforas a partir da reflexão, o problematizador, não contra a reflexão, o problematizador,
+
+1070
+02:33:06,600 --> 02:33:15,480
+porque primeiro um elemento que eu falei antes no começo dessa aula, nós temos que saber e isso
+
+1071
+02:33:15,480 --> 02:33:23,160
+é um problema, que cada um dos conceitos que nós usamos é parte, já vou usar de volta ali a
+
+1072
+02:33:23,160 --> 02:33:34,760
+figuração, é parte da figuração, mas que configura uma figuração que acaba por esconder outras
+
+1073
+02:33:34,760 --> 02:33:42,240
+possibilidades de configuração, de figuração, de figuração, então quando eu uso uma chave de
+
+1074
+02:33:42,240 --> 02:33:50,120
+compreensão, quando eu uso um exemplo, quando eu uso um, eu tenho que saber que se eu abrir mão dele
+
+1075
+02:33:50,120 --> 02:34:00,960
+talvez eu tenha mais capacidade de reflexão do que se eu me prender aí, e muito seguidamente eles
+
+1076
+02:34:00,960 --> 02:34:15,600
+vão por exemplo dilemas, então se viu Cristo, se não viu Cristo, se a bem da verdade nós estamos
+
+1077
+02:34:15,600 --> 02:34:26,520
+falando de duas coisas muito diferentes, nas ciências uma metáfora desse tipo pode ser uma
+
+1078
+02:34:26,520 --> 02:34:32,320
+metáfora, mas ela vai continuar sendo uma metáfora, não é nada científico isso, pode servir para
+
+1079
+02:34:32,320 --> 02:34:37,160
+divulgação científica em algum momento para dar uma chave de compreensão para alguém ou qualquer
+
+1080
+02:34:37,160 --> 02:34:43,560
+coisa nesse sentido, mas a bem da verdade não há cientificidade sobre isso, não há e não pode
+
+1081
+02:34:43,560 --> 02:34:56,600
+entender, não há e não pode haver, porque é uma possibilidade, é um conjunto de variáveis nada
+
+1082
+02:34:56,600 --> 02:35:02,920
+consistentes com as quais o mais objetivo que se poderia dizer é nunca vamos saber
+
+1083
+02:35:02,920 --> 02:35:14,880
+e então estaríamos considerando a seriedade do ceticismo, porque nós não temos obrigação de
+
+1084
+02:35:14,880 --> 02:35:23,720
+saber, nós não precisamos e não devemos querer saber, nós precisamos vencer as limitações ao
+
+1085
+02:35:23,720 --> 02:35:32,400
+conhecimento, identificar absolutamente tudo possível como dogmático e vencer os dogmas, porque
+
+1086
+02:35:32,400 --> 02:35:38,440
+o inverso do conhecimento é exatamente, o inverso do processo de conhecimento é exatamente a
+
+1087
+02:35:38,440 --> 02:35:45,280
+nossa certeza de que já conhecemos, em todas as áreas aquele maluco que deu a com todo o
+
+1088
+02:35:45,280 --> 02:35:52,120
+respeito e com um termo não acadêmico aqui, mas aquele cientista que fez a previsão no Regrano
+
+1089
+02:35:52,120 --> 02:35:57,920
+do Sul, ele pensou que ele sabia, mas ele pensou que ele sabia alguma coisa que ele não tinha nenhum
+
+1090
+02:35:57,920 --> 02:36:07,280
+jeito de saber e assim em geral o inimigo do processo de avanço da nossa reflexão e do
+
+1091
+02:36:07,280 --> 02:36:17,680
+nosso da nossa busca investigativa é exatamente as nossas certezas e essa então eu não vejo a
+
+1092
+02:36:17,680 --> 02:36:23,160
+condição de que a gente possa não quer eu uso metáforas e eu acho que elas são ótimas como
+
+1093
+02:36:23,160 --> 02:36:31,800
+ativas, de determinadas situações, mas eu não vejo possibilidade de nós em nome da metáfora
+
+1094
+02:36:31,800 --> 02:36:38,520
+abrirmos mão da realidade e a realidade que não é física, eu quero só relembrar isso, não é
+
+1095
+02:36:38,520 --> 02:36:44,680
+matéria, quando você falou materialismo aí eu pensei será que está pensando materialismo
+
+1096
+02:36:44,680 --> 02:36:51,480
+histórico, marxista, qualquer coisa assim, eu quero só que vocês entendam que eu estudei o
+
+1097
+02:36:51,480 --> 02:37:00,720
+marx na Numa Estrada, duas concepções de filosofia, uma positiva, uma negativa, uma que ele confiava
+
+1098
+02:37:00,720 --> 02:37:11,960
+que o materialismo podia ser ciência e a outra que ele abandona, então essa tese de que o materialismo
+
+1099
+02:37:11,960 --> 02:37:23,800
+pode se abordar a realidade de forma definitiva e o que que acontece não se o que o popper propõe
+
+1100
+02:37:23,800 --> 02:37:29,960
+uma outra coisa muito diferente, há três realidades, uma é a material, a outra é a nossa construção
+
+1101
+02:37:29,960 --> 02:37:37,520
+mental, aquilo que nós temos e o resultado disso que é a construção objetiva, quando nós falamos
+
+1102
+02:37:37,520 --> 02:37:45,280
+de ciência, quando nós falamos de construções culturais, nós estamos falando do terceiro mundo,
+
+1103
+02:37:45,280 --> 02:37:54,800
+do mundo que nós criamos inteiramente, que o ser humano criou, que a racionalidade humana criou,
+
+1104
+02:37:54,800 --> 02:38:06,040
+que os dogmas humanos criarem enfim, esse é o mundo problematizável, a ciência é a parte desse
+
+1105
+02:38:06,040 --> 02:38:15,480
+mundo que quer ter uma plausabilidade prática com o mundo existente, mas qual é o mundo?
+
+1106
+02:38:16,480 --> 02:38:24,520
+A psicologia, por exemplo, estuda o segundo mundo, que é exatamente em compreender o que acontece,
+
+1107
+02:38:24,520 --> 02:38:32,960
+conosco enquanto o subjetivo, enquanto sujeitos, como pessoas, como o segundo mundo, o mundo doido,
+
+1108
+02:38:33,360 --> 02:38:44,400
+o seu objeto é o mundo doido. Então não é por isso que ela não precisa fazer, ela pode não
+
+1109
+02:38:44,400 --> 02:38:53,000
+fazer, mas ela ganha a plausabilidade se ela fizer uma investigação de como é que o segundo mundo
+
+1110
+02:38:53,000 --> 02:39:00,280
+se coaduna como o primeiro no que diz respeito à relação, por exemplo, entre os nossos, enfim,
+
+1111
+02:39:00,560 --> 02:39:07,480
+conjuntos nossos neurônios, nossas sinapsas, o que é, por exemplo, o conceito de inconsciente.
+
+1112
+02:39:07,480 --> 02:39:17,600
+O conceito inconsciente é um belo de um conceito, ele é importantíssimo, mas ele ainda é desconhecido
+
+1113
+02:39:17,600 --> 02:39:29,160
+e nós não podemos imaginar que uma conceitualização teórica do inconsciente resolve o problema.
+
+1114
+02:39:29,160 --> 02:39:39,480
+Ele vai precisar ser revisitado o tempo inteiro. Há, sim, movimentos cerebrais que não se transformem
+
+1115
+02:39:39,480 --> 02:39:49,480
+em linguagem e que, portanto, não são sequer memória e que eu não lembro, enfim, que eu não sou capaz
+
+1116
+02:39:49,480 --> 02:39:56,760
+de atingir. Sim, então, dizendo que sim, que tem há muitos, que é uma parte significativa dos nossos
+
+1117
+02:39:56,760 --> 02:40:03,600
+movimentos não se transformem em linguagem, não voltam, não sobem, não chamam assim pra consciência
+
+1118
+02:40:03,600 --> 02:40:09,240
+e pra nossa linguagem e pra nossa abordagem do mundo e tal. Então, veja, mas eles influenciam ainda
+
+1119
+02:40:09,240 --> 02:40:13,400
+assim no nosso processo de produção do terceiro mundo, eu tenho certeza que o Pocor, se estivesse aqui
+
+1120
+02:40:13,400 --> 02:40:20,240
+falando com vocês, devia sim, claro que sim, sim, ele nunca negou a psicologia, ele negou uma forma
+
+1121
+02:40:20,240 --> 02:40:29,280
+específica de psicologia dogmática que achou que os conceitos poderiam ser criados, uma significação
+
+1122
+02:40:29,280 --> 02:40:35,120
+inventada e não precisasse mais revisitar. Não, tem que revisitar. A psicanália descobriu que tem
+
+1123
+02:40:35,120 --> 02:40:41,720
+que revisitar e tá revisitando. Agora, o conjunto das outras, as outras vão chamar assim metáforas,
+
+1124
+02:40:42,720 --> 02:40:57,240
+teóricas que nós fazemos e pra ciências humanas, por exemplo. Eu acho que tem uma chave que é muito
+
+1125
+02:40:57,240 --> 02:41:11,480
+importante, assim, saber que mesmo as ciências vão chamar físicas, né? O processo de constituição
+
+1126
+02:41:11,480 --> 02:41:18,040
+delas é exatamente o mesmo do que o processo de constituição de ciências humanas. Por que,
+
+1127
+02:41:18,040 --> 02:41:27,000
+por que as proposições de base da física não são finalmente verificáveis? Nós as aceitamos
+
+1128
+02:41:27,000 --> 02:41:37,120
+por uma decisão desupor. Ou seja, é o meu subjetivo que decide de qualquer forma. E por que a minha
+
+1129
+02:41:37,120 --> 02:41:42,080
+subjetividade decide aceitar uma proposição de base tem consequências. Toda decisão tem
+
+1130
+02:41:42,080 --> 02:41:47,560
+consequência. Decido aceitar uma proposição de base, essa proposição de base pode ou não fazer
+
+1131
+02:41:47,560 --> 02:41:57,760
+ruir o edifício do conhecimento. Isso nas ciências físicas, né? Mas nas ciências humanas, de qualquer
+
+1132
+02:41:57,760 --> 02:42:08,160
+forma, é o jogo entre as proposições que vai fazer com que eu aceite essa e não aceite outra.
+
+1133
+02:42:08,160 --> 02:42:18,040
+Quero voltar a tentar resumir a resposta do que diz respeito à metafísica como origem. Sim,
+
+1134
+02:42:18,040 --> 02:42:26,560
+não há base sólida nem para ciências físicas, nem para ciências humanas, nem para psicanar,
+
+1135
+02:42:26,560 --> 02:42:36,480
+nem para nenhum conhecimento humano. Todas elas têm pressupostos metafísicos. Mas a questão é se
+
+1136
+02:42:36,480 --> 02:42:45,880
+os nossos pressupostos metafísicos podem ser problematizados. Porque também na metafísica nós
+
+1137
+02:42:45,880 --> 02:42:54,240
+podemos problematizar, a nossa racionalidade alcança metafísica e isso que faz a diferença entre
+
+1138
+02:42:54,240 --> 02:43:04,440
+ciências, por exemplo. Então, os pressupostos problematizáveis nos permitem ciência. Os pressupostos
+
+1139
+02:43:04,440 --> 02:43:15,280
+dogmáticos não permitem ciência. Então, e não quero dizer que o conhecimento é melhor do ponto
+
+1140
+02:43:15,280 --> 02:43:22,840
+de vista do seu desenvolvimento. São distintos. O que mais importa é que a gente saiba quando
+
+1141
+02:43:22,840 --> 02:43:30,680
+está falando de teologia, quando está falando de mito e quando está falando de filosofia e racional
+
+1142
+02:43:30,680 --> 02:43:37,480
+no sentido assim e quando está falando de ciência. Sabendo disso não tem problema nenhum. Fazemos o que
+
+1143
+02:43:37,480 --> 02:43:44,040
+nós quisermos, mas nós precisamos fazer a distinção. Todos têm pressupostos metafísicos. Sim,
+
+1144
+02:43:44,040 --> 02:43:53,280
+mas há pressupostos metafísicos que são dogmáticos, parte do dogma inicial, que precisa ser aceito.
+
+1145
+02:43:55,280 --> 02:44:05,000
+E o pressuposto metafísico ciência parte, sim, também, por exemplo, do realismo metafísico. É preciso
+
+1146
+02:44:05,000 --> 02:44:10,240
+que eu saiba que existe uma realidade. Porque eu concordo que há uma realidade, que essa realidade
+
+1147
+02:44:10,280 --> 02:44:20,640
+é uma configuração física, mental e objetiva, teórica e objetiva. Mas esse pressuposto eu
+
+1148
+02:44:20,640 --> 02:44:27,080
+posso problematizar, posso questionar ele, eu posso mudar ele, eu posso produzir racionalidade que
+
+1149
+02:44:27,080 --> 02:44:34,640
+mostra que determinados aspectos são inconsequentes ou contraditórios. Então, eu não tenho dogma
+
+1150
+02:44:34,640 --> 02:44:44,160
+física. Então, eu não tenho metafísica dogmática. E esse é o grande divisor de árvores. A ciência
+
+1151
+02:44:44,160 --> 02:44:51,520
+e a boa filosofia que eu defendo tem quem defende que a filosofia também pode partir de dogma
+
+1152
+02:44:51,520 --> 02:44:57,880
+inicial. Não concordo, não concordo. Nós, até há pouco tempo atrás, era um subário da teologia
+
+1153
+02:44:57,880 --> 02:45:05,560
+da filosofia brasileira na capa e tal. Eu acho que nós avançamos muito só em compreender que nós
+
+1154
+02:45:05,560 --> 02:45:14,320
+não somos uma subária da teologia. Eu acho que nós avançamos porque nós produzimos o entendimento
+
+1155
+02:45:14,320 --> 02:45:22,840
+de que a filosofia tem pressupostos problematizáveis ou não é filosofia. Eu sei que isso é
+
+1156
+02:45:22,840 --> 02:45:32,560
+trabalhável, tem uma tradição para me bater se precisar, mas assim, ou nós estamos dispostos
+
+1157
+02:45:32,560 --> 02:45:38,600
+à guerra ou não precisamos sair de casa. Então, é assim que funciona. Desculpa, isso é um mistério.
+
+1158
+02:45:38,600 --> 02:45:46,360
+Perfeito, perfeito, perfeito. Uma reflexão extremamente importante. Mas o nosso tempo corre e aqui
+
+1159
+02:45:46,360 --> 02:45:54,880
+eu vou juntar algumas questões e você falou que, se referindo lá, vamos chamar de cientista gaúcho,
+
+1160
+02:45:54,880 --> 02:46:03,280
+um profissional não, que não estava zeloso com a sua área, pelo menos, que uma certeza o leva a erro,
+
+1161
+02:46:03,280 --> 02:46:09,880
+e constitui um pouco um obstáculo no sentido também que a gente conversou aqui sobre bachelar.
+
+1162
+02:46:09,880 --> 02:46:15,920
+E justamente por isso, o Catiano traz bachelar aqui um pouco na conversa. Ele diz assim, quando se
+
+1163
+02:46:15,920 --> 02:46:23,320
+disser que a ciência empírica deve ser não metafísica, esse é o mesmo não bachelar dianismo,
+
+1164
+02:46:23,320 --> 02:46:31,040
+correto, pergunte a ele. E eu junto a essa questão do Catiano, mais um comentário aqui do Cândido,
+
+1165
+02:46:31,040 --> 02:46:35,840
+que ele diz interessante, o professor Pedro Demos insista na pesquisa como está a estratégia
+
+1166
+02:46:35,840 --> 02:46:44,520
+fundamental para a educação em qualquer nível escolar. Revolta a questão da pesquisa. E o Caetano,
+
+1167
+02:46:44,520 --> 02:46:55,120
+ao meio, diz assim, pergunta. Primeiro, existiria para Popper uma verdade impermeável às vicessitudes
+
+1168
+02:46:55,120 --> 02:47:02,640
+e particularidades da pessoa que já está buscando, enquanto objeto de investigação científica e
+
+1169
+02:47:02,640 --> 02:47:12,520
+filosófica, na medida em que defende ser a linguagem, ao menos de modo pleno, insuficiente para
+
+1170
+02:47:12,520 --> 02:47:19,520
+o real, juntamente como o fato de a ciência e a filosofia estarem adestritas à linguagem
+
+1171
+02:47:19,520 --> 02:47:27,880
+humana, o racionalismo de Popper seria idealista. E a terceira, haveria em Popper um triunfalismo
+
+1172
+02:47:27,880 --> 02:47:37,400
+e uma neutralidade da ciência e da tecnologia. E aí a Carla pega o gancho da pergunta do Caetano
+
+1173
+02:47:37,400 --> 02:47:43,360
+e diz, pegando cada um na pergunta, nas perguntas do Caetano, não seria idealismo achar que
+
+1174
+02:47:43,360 --> 02:47:49,920
+governantes tomam decisões políticas baseadas em conhecimento científico? Se assim fosse,
+
+1175
+02:47:49,920 --> 02:47:55,640
+certamente já teríamos resolvido questões sérias de saúde pública, como a regulamentação do
+
+1176
+02:47:55,640 --> 02:48:02,040
+aborto no Brasil, diz a Carla. Então, te deixo essas questões e aí a gente passa para o último bloco a seguir.
+
+1177
+02:48:02,040 --> 02:48:17,400
+Sim, muito obrigado a cada um que fez as perguntas. Vou tentar me ater aqui, vejo que a ciência não é
+
+1178
+02:48:17,400 --> 02:48:25,000
+exatamente não metafísica, ela pode ter origem metafísica e ela tem para supostos metafísicos e
+
+1179
+02:48:25,640 --> 02:48:31,800
+mas a questão é que primeiro ela não pode permanecer no universo metafísico,
+
+1180
+02:48:31,800 --> 02:48:40,360
+precisam tirar consequências da metafísica e essas consequências de alguma forma precisam
+
+1181
+02:48:40,360 --> 02:48:48,120
+intersubjetivamente serem problematizadas e testadas. Veja, quando a gente diz teste, normalmente eu
+
+1182
+02:48:48,120 --> 02:48:55,240
+acho que vocês todos, quando pensam teste, pensam laboratório, alguém atrás de um aparelho
+
+1183
+02:48:55,240 --> 02:49:01,640
+tecnologicamente bem desenvolvido e estava fazendo teste de alguma coisa. Não, as minhas ideias estão
+
+1184
+02:49:01,640 --> 02:49:08,920
+sendo testadas por vocês aqui agora, nós estamos problematizando. É desse processo que nós falamos,
+
+1185
+02:49:08,920 --> 02:49:15,960
+por exemplo, quando nós fazemos ciências humanas, nós testamos intersubjetivamente,
+
+1186
+02:49:16,280 --> 02:49:22,760
+mas nós testamos e nós precisamos corrigir as limitações, as nossas limitações, os erros que
+
+1187
+02:49:22,760 --> 02:49:29,480
+sempre estão embutidos de alguma forma. Então, assim, não é que ela precisa não ser metafísica,
+
+1188
+02:49:29,480 --> 02:49:37,640
+ela tem base metafísica porque tem um conjunto de elementos que são elementos de erração,
+
+1189
+02:49:37,640 --> 02:49:43,000
+que precisam também ser problematizados por algo, mas que dão sustentação para nós fazermos
+
+1190
+02:49:43,080 --> 02:49:49,000
+determinado conjunto de inferências e essas inferências, enfim, depois serem testadas pelo
+
+1191
+02:49:49,000 --> 02:49:59,960
+conjunto da comunidade científica como um todo. E esse é o elemento, vamos chamar assim, mas eu vou usar
+
+1192
+02:49:59,960 --> 02:50:08,440
+um termo que vocês podem dizer, podem problematizar aí, mas assim, tem alguma coisa muito republicana
+
+1193
+02:50:08,440 --> 02:50:14,280
+na ciência que nós fazemos. Ela precisa ser absolutamente pública para que qualquer
+
+1194
+02:50:14,280 --> 02:50:18,520
+pessoa problematize. Deve ser só dizer, mas não é o que acontece hoje nos institutos,
+
+1195
+02:50:18,520 --> 02:50:25,240
+eles fecham os segredos, tiram consequências, constroem tecnologia e nós só recebemos a
+
+1196
+02:50:25,240 --> 02:50:30,680
+tecnologia pronta. É verdade, é verdade, mas essa é uma limitação do nosso tempo,
+
+1197
+02:50:31,320 --> 02:50:37,720
+isso não é a melhor forma de fazer ciência e sim, muito provavelmente, setores que hoje se
+
+1198
+02:50:37,720 --> 02:50:46,120
+declaram científicos estão nos vendendo em godo, pode, sem dúvida nenhum. Não podemos partir
+
+1199
+02:50:46,920 --> 02:50:54,360
+de uma compreensão do que seja ciência ou que não seja ciência, se submetendo enteramento
+
+1200
+02:50:54,360 --> 02:51:00,760
+ao nosso tempo também, senão não fazemos ciência, não buscamos novidade, não problematizamos,
+
+1201
+02:51:00,760 --> 02:51:06,920
+não temos elementos de superação. Então assim, agora estou partindo para o segundo
+
+1202
+02:51:06,920 --> 02:51:16,520
+elemento, da pesquisa. Sim, a pesquisa, educação científica se faz com pesquisa.
+
+1203
+02:51:18,200 --> 02:51:25,720
+É na pesquisa que você descobre inclusive o que é ciência, descobre de verdade o que é ciência.
+
+1204
+02:51:26,280 --> 02:51:34,600
+Então assim, um projeto em que crianças, desde a infância, fossem mais pesquisadores,
+
+1205
+02:51:34,600 --> 02:51:39,560
+um projeto, não, uma educação. Eu não estou nem dizendo que ela não existe, ela existe em
+
+1206
+02:51:39,560 --> 02:51:44,600
+certa medida, mas que pudesse dar cada vez mais ênfase para essa direção.
+
+1207
+02:51:46,040 --> 02:51:53,240
+Primeiro, acaba com o pensamento, acaba no sentido assim, acaba com a ilusão de que
+
+1208
+02:51:53,880 --> 02:52:02,680
+a magia vai resolver os problemas. Toda conquista humana é fruto de uma investigação importante
+
+1209
+02:52:02,760 --> 02:52:08,120
+e ela não é. Aqui eu não quero tirar a magia da vida, entendeu? Assim, a felicidade,
+
+1210
+02:52:08,120 --> 02:52:15,720
+então é impossível ser feliz. Não, mas o rigor ensina, o rigor da pesquisa ensina
+
+1211
+02:52:16,840 --> 02:52:22,280
+que as nossas construções são construções que, primeiro, são frágimas.
+
+1212
+02:52:23,880 --> 02:52:31,480
+Para quem olha de fora para alguém que está bem, sei lá, sucedido no esporte, por exemplo,
+
+1213
+02:52:32,040 --> 02:52:36,760
+não sabe os riscos que essa pessoa corre todos os dias. Para quem olha de fora para quem
+
+1214
+02:52:36,760 --> 02:52:43,000
+faz um, para quem publica um livro, não sabe o que essa pessoa passou para publicar um livro.
+
+1215
+02:52:44,120 --> 02:52:50,440
+Para quem olha de fora uma pesquisa qualquer, não tem melhor ideia. Então sim, a pesquisa é que
+
+1216
+02:52:50,440 --> 02:52:56,920
+é o chão de fábrica de toda ciência. E uma sociedade científica seria assim, aí o Pedro
+
+1217
+02:52:57,000 --> 02:53:04,200
+Demos está certo em isso, em integralmente. Ganharia muito com uma educação que pudesse
+
+1218
+02:53:04,200 --> 02:53:12,040
+ser feita pela pesquisa desde o começo. Porque, então, não porque ela seria mais dura,
+
+1219
+02:53:12,040 --> 02:53:18,280
+ou porque, não, ela pode ser até mais leve. Nós, por exemplo, fazemos um aulismo.
+
+1220
+02:53:18,280 --> 02:53:27,160
+Nós submetemos crianças a campos de concentração das 6 da manhã, 7 da manhã às 8, às 7 da noite,
+
+1221
+02:53:27,160 --> 02:53:36,280
+sem menor necessidade. Com um número, uma quantidade de conteúdo meio que repetido,
+
+1222
+02:53:36,280 --> 02:53:44,280
+sem articulação, em grande medida, tá? Tem muita experiência boa, mas tem muita aula.
+
+1223
+02:53:44,280 --> 02:53:50,280
+As nossas universidades dão aula demais. É muita aula e pouca pesquisa.
+
+1224
+02:53:50,280 --> 02:53:56,280
+Um professor que, às vezes, nem sequer prepara, chega na frente de uma sala de aula e continua
+
+1225
+02:53:56,280 --> 02:54:02,280
+falando o que estava falando na aula passada, o aluno não sabe nem para que lado e vai aquela conversa.
+
+1226
+02:54:02,280 --> 02:54:08,280
+Então, nós precisamos rever todo o nosso processo. Sim, um aluno precisa chegar na
+
+1227
+02:54:08,280 --> 02:54:13,480
+universidade. Primeiro que se ele chegar na universidade, já tendo tido pesquisa séria antes,
+
+1228
+02:54:13,480 --> 02:54:23,480
+mas precisa chegar na universidade e ser inserido em projetos de pesquisa, e ser captado por esse
+
+1229
+02:54:23,480 --> 02:54:29,480
+universo de investigação, então ele vai saber que ciência se faz assim, ele vai estar fazendo
+
+1230
+02:54:29,480 --> 02:54:35,480
+ciência já, em qualquer área do conhecimento. Eu defendo isso na filosofia. Se a gente estava
+
+1231
+02:54:35,480 --> 02:54:43,480
+aqui na União Unida sobre isso. Enfim, eu sou um intransigente defensor de que a maior parte
+
+1232
+02:54:43,480 --> 02:54:51,480
+dos nossos cursos no Brasil ainda sofre de uma menoridade. Nós estamos repetindo. Os europeus,
+
+1233
+02:54:51,480 --> 02:54:59,480
+agora alguns jatão, enfim, alguns ingleses, uns americanos, enfim, mas nós temos boas
+
+1234
+02:54:59,480 --> 02:55:05,480
+experiências nacionais, nós temos que ter problemas, eleger problemas e produzir
+
+1235
+02:55:05,480 --> 02:55:12,480
+entendimento nosso sobre esses problemas, e isso precisa estar compondo conjunto
+
+1236
+02:55:12,480 --> 02:55:19,480
+dos nossos conteúdos filosóficos também. Isso em filosofia. Imagina-nos outras áreas todas.
+
+1237
+02:55:19,480 --> 02:55:26,480
+É dessa forma. E a pesquisa é, por excelência, a via pela qual essa construção de uma
+
+1238
+02:55:26,480 --> 02:55:34,480
+educação científica vai se dar. E aí quando eu digo científica, científica, filosófica,
+
+1239
+02:55:34,480 --> 02:55:41,480
+poética, junto, mas via pesquisa, não via repetição, transmissão por professores, por
+
+1240
+02:55:41,480 --> 02:55:51,480
+sistemas que já vem com cartilhas prontas, que acaba tentando simplificar, tentando fazer
+
+1241
+02:55:51,480 --> 02:55:57,480
+que seja leve, mas também vira uma superficialidade que a pessoa não tenha a menor noção do que
+
+1242
+02:55:57,480 --> 02:56:04,480
+é mesmo uma atividade científica. É nesse sentido. No que diz respeito a particular
+
+1243
+02:56:04,480 --> 02:56:17,480
+universal, e se eu peguei essa pergunta bem, os projetos científicos, normalmente eles atuam
+
+1244
+02:56:17,480 --> 02:56:24,480
+aqui sobre elementos particulares, mas eles, sobre objetos particulares, ferões particulares,
+
+1245
+02:56:24,480 --> 02:56:32,480
+enfim, mas o cientista verdadeiro, chamam-se os grandes cientistas, não são esses caras
+
+1246
+02:56:32,480 --> 02:56:37,480
+que a gente acaba vendo nossos colegas na universidade que vão para o laboratório testar, enfim.
+
+1247
+02:56:37,480 --> 02:56:43,480
+Esses caras são os experimentadores. Isso não é de mérito, assim como muita gente
+
+1248
+02:56:43,480 --> 02:56:49,480
+acha que médico é cientista. O médico não é um cientista, o médico é um aplicador de ciência.
+
+1249
+02:56:49,480 --> 02:56:55,480
+Os nossos professores, uma parte deles, são aplicadores de ciência. A ciência mesmo
+
+1250
+02:56:55,480 --> 02:56:59,480
+não se desenvolve ali, naqueles laboratórios. Não é ali que se faz ciência. Não quer dizer
+
+1251
+02:56:59,480 --> 02:57:08,480
+que você possa fazer projetos, enfim, e introduzir pesquisadores no projeto científico.
+
+1252
+02:57:08,480 --> 02:57:19,480
+Agora, uma pessoa em qualquer instância que quiser conversar, que quiser ser, ter plausibilidade
+
+1253
+02:57:19,480 --> 02:57:28,480
+sobre o que fala, no que é particular, sem considerar o macro da sua área, pelo menos,
+
+1254
+02:57:28,480 --> 02:57:37,480
+não tem chance, tem muito pouca chance de ser consequente. Então, assim, é preciso que mesmo
+
+1255
+02:57:37,480 --> 02:57:45,480
+o cientista não seja um hiperespecialista. Não quer dizer que não vai ter o hiperespecialista.
+
+1256
+02:57:45,480 --> 02:57:53,480
+Esse é o experimentador. Torve algo lá. Mas aquela concepção de que há a necessidade
+
+1257
+02:57:53,480 --> 02:58:00,480
+para qualquer ser derrasado e compreender objetivamente o mundo, não um mundo específico, mas um
+
+1258
+02:58:00,480 --> 02:58:08,480
+mundo, continua valendo. Nós precisamos ter uma cosmologia. Do contrário, sem cosmologia,
+
+1259
+02:58:08,480 --> 02:58:15,480
+nós tachamos de forma equivocada nas nossas áreas. Perfeito.
+
+1260
+02:58:15,480 --> 02:58:21,480
+Remy, desculpe, eu vou te interrompê-lo. Fechando, eu queria só falar sobre o idealismo.
+
+1261
+02:58:21,480 --> 02:58:27,480
+Não acho que idealismo. E o popper não produz neutralidade científica, não quer neutralidade
+
+1262
+02:58:27,480 --> 02:58:33,480
+científica, não. A ciência não é neutra. A ciência é permeada de outras relações,
+
+1263
+02:58:33,480 --> 02:58:40,480
+mas ela precisa, ainda assim, fazer valer o que é específico da ciência e se impor
+
+1264
+02:58:40,480 --> 02:58:45,480
+perante as outras formas. E sim, os políticos, em geral, não escutam muitos cientistas,
+
+1265
+02:58:45,480 --> 02:58:52,480
+mas deveriam. E os cientistas deveriam falar coisas racionais para que os políticos pudessem
+
+1266
+02:58:52,480 --> 02:59:00,480
+merecer no sentido de se orientar melhor. E, por exemplo, sim, também acho que é muito adequado
+
+1267
+02:59:00,480 --> 02:59:08,480
+o debate contemporâneo, enfim, que parece não terminar nunca sobre a questão do aborto.
+
+1268
+02:59:08,480 --> 02:59:18,480
+E a influência, enfim, de outras concepções tentando, enfim, turvar o universo aí, não
+
+1269
+02:59:18,480 --> 02:59:26,480
+permitindo racionalidade nenhuma. O Brasil ainda, eu acho, vai precisar tratar desse
+
+1270
+02:59:26,480 --> 02:59:35,480
+problema. Não sei quando nós vamos ter uma racionalidade maior, mas política, desprovida
+
+1271
+02:59:35,480 --> 02:59:44,480
+do aval científico é uma tolice. Não quero dizer que o político deve se submeter completamente
+
+1272
+02:59:44,480 --> 02:59:51,480
+à ciência, porque o político também é alguém que desafia a ciência produzindo problemas
+
+1273
+02:59:51,480 --> 02:59:58,480
+que a ciência deva resolver. Então sim, a academia não é dono da verdade, os cientistas
+
+1274
+02:59:58,480 --> 03:00:02,480
+não são dono da verdade e eles precisam estarem em interação com a sociedade para
+
+1275
+03:00:02,480 --> 03:00:07,480
+receber os problemas efetivamente sociais, por exemplo, na fome, e ajudar a resolver
+
+1276
+03:00:07,480 --> 03:00:14,480
+esses problemas no âmbito das ciências. Não significa com isso que há os iluminados.
+
+1277
+03:00:14,480 --> 03:00:19,480
+E não, muito pro contrário, a ciência não pode ser eletista sob o aspecto algum.
+
+1278
+03:00:19,480 --> 03:00:23,480
+Ela precisa exatamente se submeter ao seu tempo e ajudar a resolver os grandes problemas
+
+1279
+03:00:23,480 --> 03:00:31,480
+do seu tempo. Só vai fazer isso de forma consequente, com menos ambiente turvado pelos
+
+1280
+03:00:31,480 --> 03:00:39,480
+mitos, pelas verdades pré-existentes e pela metafísica não problematizada.
+
+1281
+03:00:39,480 --> 03:00:45,480
+Perfeito, Remi. Só para registrar perguntas que a gente, infelizmente, não teve tempo de fazer.
+
+1282
+03:00:45,480 --> 03:00:51,480
+O Luís fez uma questão importante acerca da científicidade da história.
+
+1283
+03:00:51,480 --> 03:00:56,480
+Creio que ele já tem elementos e, a partir da psicologia, também para pensar...
+
+1284
+03:00:56,480 --> 03:01:02,480
+Eu diria que sim, só para responder já, pelo menos sim, nós não podemos desenvolver pelo que estou vendo.
+
+1285
+03:01:02,480 --> 03:01:08,480
+Não, o nosso tempo já se foi, mas é importante que você comenta. Se você quiser, comenta aí.
+
+1286
+03:01:08,480 --> 03:01:16,480
+Então, a história... São interpretações históricas, são interpretações e reinterpretações,
+
+1287
+03:01:16,480 --> 03:01:25,480
+mas elas precisam estar baseadas em evidências. E essas evidências precisam ser intersubjetivamente validadas.
+
+1288
+03:01:25,480 --> 03:01:34,480
+Elas não podem existir para um catecismo particular. Essas evidências precisam poder refazer a história.
+
+1289
+03:01:34,480 --> 03:01:41,480
+A história está constantemente em reconstrução. Agora temos aí escavações bem significativas
+
+1290
+03:01:41,480 --> 03:01:49,480
+que estão, inclusive, refazendo a nossa concepção do nosso tempo civilizatório.
+
+1291
+03:01:49,480 --> 03:01:57,480
+Dizendo de hábitos que nós não sabíamos, que tínhamos tido e, enfim...
+
+1292
+03:01:57,480 --> 03:02:08,480
+Por exemplo, com relação a isso. Mas também essa outra história, que é meio fruto da narrativa dos grandes eventos e tal.
+
+1293
+03:02:08,480 --> 03:02:16,480
+Nós precisamos rever. Temos o clássico do Brasil descoberto,
+
+1294
+03:02:16,480 --> 03:02:24,480
+que, por exemplo, está em disputa o tempo inteiro, que é boa parte da sociedade e não concorda mais com a ideia da descoberta.
+
+1295
+03:02:24,480 --> 03:02:32,480
+E que trata isso de uma outra forma, que vai continuar em disputa por muito tempo, porque tem outros interesses aí.
+
+1296
+03:02:32,480 --> 03:02:42,480
+Mas a validação vai precisar ser refeita todos os dias intersubjetivamente e não a partir de certeza já existe.
+
+1297
+03:02:42,480 --> 03:02:52,480
+Perfeito, Remy, muito obrigado. Agradeço a Patrícia, que é a pergunta dela que se inseriu nas anteriores e também a William.
+
+1298
+03:02:52,480 --> 03:03:07,480
+Mas o nosso tempo acaba. Remy, agradecemos demais essa maravilhosa aula sobre pop, sobre coisas que tocam no nosso presente, no nosso cotidiano,
+
+1299
+03:03:07,480 --> 03:03:17,480
+na nossa postura de cidadão. Então, agradeço demais a você, agradeço a todos e a todas que nos acompanharam,
+
+1300
+03:03:17,480 --> 03:03:29,480
+toda a nossa equipe de monitores e toda a estrutura que está permitindo que a gente esteja aqui nessa manhã agradável.
+
+1301
+03:03:29,480 --> 03:03:39,480
+Bom, boa continuação a todos e a todas e até a próxima semana, onde teremos a professora Halina com Fire Up.
+
+1302
+03:03:39,480 --> 03:03:48,480
+Muito obrigado a todos, um bom dia, boa semana, bons estudos, boas dissertações.
+
+1303
+03:03:48,480 --> 03:03:55,480
+Então, professores, em nome da equipe das disciplinas transversais, queria deixar o nosso muito obrigado,
+
+1304
+03:03:55,480 --> 03:04:03,480
+principalmente o professor Remy pela exposição de hoje, pelas contribuições ao nosso curso. Obrigado, professor Roney, pela mediação da aula.
+
+1305
+03:04:03,480 --> 03:04:11,480
+E nós queremos também agradecer aos nossos alunos pelas contribuições, as perguntas, as participações que sempre enriquecem a discussão.
+
+1306
+03:04:11,480 --> 03:04:18,480
+Nosso muito obrigado, também finalizo agradecendo toda a equipe técnica e a equipe das disciplinas transversais.
+
+1307
+03:04:18,480 --> 03:04:21,480
+Até a próxima semana e nos vemos lá.
+
+1308
+03:04:25,480 --> 03:04:52,480
+Música
+
+1309
+03:04:55,480 --> 03:05:24,480
+Música
+
+1310
+03:05:24,480 --> 03:05:49,480
+Música
+
+1311
+03:05:49,480 --> 03:05:58,480
+Música
+
