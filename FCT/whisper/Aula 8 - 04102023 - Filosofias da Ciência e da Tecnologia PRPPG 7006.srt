@@ -1,0 +1,6012 @@
+1
+00:01:00,000 --> 00:01:18,760
+Olá, bom dia. Sejam todas e todos bem-vindos e bem-vindos. Nós estamos agora iniciando
+
+2
+00:01:18,760 --> 00:01:27,080
+mais uma aula da Disciplina Filosofias da Ciência e da Tecnologia, uma disciplina que está integrada
+
+3
+00:01:27,080 --> 00:01:33,720
+no programa de disciplinas transversais mantido pela própria heitoria de pós-graduação da
+
+4
+00:01:33,720 --> 00:01:41,000
+Universidade Fidel do Paraná com o apoio de outras, muitas universidades aqui do estado também do
+
+5
+00:01:41,000 --> 00:01:47,800
+Paraná que se associaram a esse programa e permitem que seus estudantes de pós-graduação
+
+6
+00:01:47,800 --> 00:01:55,640
+contabilizem essa disciplina na sua cargo horária em disciplinas, os créditos em disciplina. Nós
+
+7
+00:01:55,640 --> 00:02:02,240
+temos muito a presença de todos vocês, agradecemos muito o apoio de todas essas instituições e
+
+8
+00:02:02,240 --> 00:02:12,600
+sobretudo da PRPG da UFPR para termos a oportunidade de oferecer essa disciplina. Hoje nós vamos fazer a
+
+9
+00:02:12,600 --> 00:02:19,160
+última aula do primeiro bloco dessa disciplina que é dedicada às filosofias da ciência. O tema da
+
+10
+00:02:19,160 --> 00:02:27,200
+hoje é a filosofia da ciência de Ian Hacke, um filósofo da ciência. Até o ano passado seria o único
+
+11
+00:02:27,200 --> 00:02:34,320
+filósofo vivo da nossa lista, mas infelizmente eles nos deixou no ano passado ou nesse ano, no início
+
+12
+00:02:34,320 --> 00:02:42,560
+desse ano, né? E portanto, então esse é o nosso mais jovem filósofo da ciência tratado aqui na nossa
+
+13
+00:02:42,960 --> 00:02:51,240
+das nossas almas. Nós temos a honra de receber o professor Antônio Augusto Passovideira,
+
+14
+00:02:51,240 --> 00:03:00,520
+grande amigo nosso dessa equipe que se responsabiliza pela organização dessa disciplina. Eu já vou
+
+15
+00:03:00,520 --> 00:03:07,720
+apresentar o currículo do professor Antônio Augusto, mas quero já deixar aqui de público o meu
+
+16
+00:03:07,720 --> 00:03:16,360
+profundo agradecimento e nome dessa equipe pela participação do professor Guto, nosso amigo
+
+17
+00:03:16,360 --> 00:03:25,000
+Guto, nessa disciplina, que então, portanto, compõe um grupo bem diversificado de filósofos
+
+18
+00:03:25,000 --> 00:03:31,640
+da ciência brasileiros que apoiam essa disciplina e que, portanto, tornam possível esse formato que
+
+19
+00:03:31,640 --> 00:03:39,120
+escolhemos para organizar as nossas alas. Eu vou apresentar o currículo do professor Guto para
+
+20
+00:03:39,120 --> 00:03:48,560
+vocês. Ele tem graduação em filosofia pela Universidade Federal do Rio de Janeiro. Ele fez
+
+21
+00:03:48,560 --> 00:03:54,880
+também estudos em física antes de se dedicar especificamente à filosofia. Ele fez doutorado
+
+22
+00:03:54,880 --> 00:04:04,520
+em filosofia na Universidade de Paris 7, a Universidade Denis de Derrô, em 92. É professor titulado
+
+23
+00:04:04,520 --> 00:04:10,120
+à Universidade do Estado do Rio de Janeiro, ao ERG, além de professor do programa de ensino
+
+24
+00:04:10,120 --> 00:04:16,760
+e história da matemática na UFRJ, professor convidado no Instituto de Biofísicas da UFRJ
+
+25
+00:04:16,760 --> 00:04:24,480
+e pesquisador e colaborador no CDPF. Ele atuou como docente no mestrado em divulgação da
+
+26
+00:04:24,480 --> 00:04:33,440
+tecnologia e saúde na Casa de Oswaldo Cruz, na Fiocruz. Atuou como pesquisador no Observatório
+
+27
+00:04:33,440 --> 00:04:42,360
+Nacional e é membro atualmente da Academia Paraense de Ciência e membro, fundador e editor-chefe da
+
+28
+00:04:42,360 --> 00:04:49,040
+revista eletrônica em construção arquivos de hipstemologia histórica e estudos da ciência.
+
+29
+00:04:49,040 --> 00:04:56,120
+Kuto, muito obrigado mais uma vez pela sua presença aqui, pela sua colaboração nesse programa e
+
+30
+00:04:56,120 --> 00:05:03,360
+nossos estudantes, nossa sala de aula está à sua disposição. Então, obrigada. Bom dia Eduardo,
+
+31
+00:05:03,360 --> 00:05:10,400
+bom dia a todos. Muito obrigado pela palavra gentis, pela apresentação. Para mim é um prazer
+
+32
+00:05:10,400 --> 00:05:17,280
+estar aqui nessa disciplina, mesmo em um tempo a um desafio. Sou de um tempo em que as aulas remotas
+
+33
+00:05:17,280 --> 00:05:23,160
+não existiam nessa maneira, ensino remoto é uma realidade há muito tempo, mas não dessa forma.
+
+34
+00:05:23,160 --> 00:05:32,120
+E nós fomos como que treinados para atuar em contato direto com a assistência. Então,
+
+35
+00:05:32,120 --> 00:05:38,800
+qualquer gaffe minha é devido ao fato de treinamento específico para essa situação. Mas todo mundo
+
+36
+00:05:38,800 --> 00:05:44,120
+é um prazer, ainda mais pela segunda vez, no passado eu tive a oportunidade de participar do curso
+
+37
+00:05:44,120 --> 00:05:52,080
+de maneira também. Acho que uma iniciativa muito interessante, muito rica e espero contribuir
+
+38
+00:05:52,080 --> 00:05:57,840
+à altura dos colegas que me antecederam e daqueles que vão da continuidade ao curso.
+
+39
+00:05:57,840 --> 00:06:05,520
+Então, hoje nós vamos tratar do pensamento, como o Eduardo mencionou, do recém-falecido, digamos
+
+40
+00:06:05,520 --> 00:06:15,040
+Ian Reckin, ele infelizmente faleceu, já com alguma idade, faleceu no dia 10 de maio deste ano 2023,
+
+41
+00:06:15,040 --> 00:06:22,160
+então tem quatro meses praticamente. E de uma certa maneira, a morte do Reckin, os aparecimentos
+
+42
+00:06:22,160 --> 00:06:31,360
+do Reckin fecha como que um ciclo eu diria é quase poderoso na filosofia da ciência.
+
+43
+00:06:31,360 --> 00:06:37,840
+Quase porque ainda há pessoas muito importantes em filosofia da ciência, pessoas que podem ser
+
+44
+00:06:37,840 --> 00:06:44,160
+analisadas, trabalhadas, como nós na filosofia fazemos em geral, analisamos o pensamento do Reckin,
+
+45
+00:06:44,160 --> 00:06:53,120
+o pensamento do CUM, ou do CANTE, ou do Platâneo e assim por diante. Eu ouço dizer que da estatura
+
+46
+00:06:53,120 --> 00:07:00,640
+do Reckin, aqueles que permaneçam vivos, eu passo praticamente em dois nomes, o Bass Fanfrazen,
+
+47
+00:07:00,720 --> 00:07:05,600
+que é aposentado, já tem uma entidade, e também é um pouco mais novo que o Reckin.
+
+48
+00:07:05,600 --> 00:07:15,520
+O Reckin nasceu em 1936, em fevereiro de 1936, e a Nancy Kaltreit, que também está por volta dos 80,
+
+49
+00:07:15,520 --> 00:07:23,440
+como o Fanfrazen. O Fanfrazen em Kaltreit devem ter 80, 80 e pouquinhos, eles eram um pouco mais novos
+
+50
+00:07:23,520 --> 00:07:29,360
+que o Reckin. Mas ainda assim, em que pese a originalidade e o interesse, a particularidade
+
+51
+00:07:29,360 --> 00:07:39,440
+do pensamento de Kaltreit, o Fanfrazen, eu não diria que eles têm o escopo do Reckin.
+
+52
+00:07:39,440 --> 00:07:43,120
+O Eduardo se referiu a Reckin como filosofia ciência, assim de certa maneira ele pode e merece
+
+53
+00:07:43,120 --> 00:07:48,080
+aconselhar a filosofia ciência, mas a verdade é um pouco, ele é mais do que isso. Ele mesmo se
+
+54
+00:07:48,160 --> 00:07:53,440
+apresentava como um filósofo, não que ele quisesse dar uma sema aura especial a essa palavra
+
+55
+00:07:53,440 --> 00:07:59,680
+filósofo, mas ele, de uma certa maneira, ele pensou sobre vários assuntos diferentes,
+
+56
+00:07:59,680 --> 00:08:05,360
+sobre vários temas diferentes. Eu não vou mencionar todos, desde já eu digo, eu não sou um
+
+57
+00:08:05,360 --> 00:08:10,720
+conhecedor da obra completa do Reckin, eu não sou um especialista em Reckin, nunca quis ser
+
+58
+00:08:10,720 --> 00:08:16,000
+um especialista em Reckin. Eu cheguei ao Reckin por conta das suas contribuições à filosofia
+
+59
+00:08:16,000 --> 00:08:22,400
+ciência, que é a área na qual me situa alguma familiaridade, alguma vontade, digamos assim,
+
+60
+00:08:23,120 --> 00:08:29,760
+mas ele pensou sobre lógica, sobre filosofia matemática, sobre filosofia da linguagem,
+
+61
+00:08:30,320 --> 00:08:39,120
+sobre questões de epistemologia, questões ligadas ao autismo, à saúde mental,
+
+62
+00:08:39,920 --> 00:08:43,840
+e até vou fazer referência a isso também, quer dizer, é uma pessoa, ele pensou,
+
+63
+00:08:43,920 --> 00:08:48,160
+isso que eu acho interessante. Eu vou comentar um pouco o estilo dele mais adiante,
+
+64
+00:08:48,160 --> 00:08:55,440
+que eu acho que merece ser conhecido, mas ainda que, ou seja, ele é uma pessoa que tenta dizer que
+
+65
+00:08:56,560 --> 00:09:02,080
+nesse universo da filosofia de ciência e da epistemologia, eu acho que ele tem uma
+
+66
+00:09:05,280 --> 00:09:13,120
+relevância que poucos hoje em dia têm. Bom, então vamos lá. O meu objetivo hoje
+
+67
+00:09:13,120 --> 00:09:19,520
+não é apresentar o pensamento do Reckin. Eu acho que nem isso talvez seja possível.
+
+68
+00:09:19,520 --> 00:09:24,240
+Ele mesmo dizia que não havia humanidade no seu pensamento, ele era uma pessoa que
+
+69
+00:09:24,240 --> 00:09:28,080
+se dedicava a temas em função de seu interesse, da relevância que ele acreditava,
+
+70
+00:09:28,080 --> 00:09:38,560
+ou seja, não há uma tese central que una as versas temáticas abordadas pelo Reckin
+
+71
+00:09:38,560 --> 00:09:44,000
+ao longo de sua vida como profissional, que, assim, grosso modo, ele começa a produzir meados
+
+72
+00:09:44,000 --> 00:09:48,560
+anos 60, ele nasce em 36, ele vai fazer, ele começa, o que é muito comum na sua geração,
+
+73
+00:09:48,560 --> 00:09:51,840
+ele estuda Física e Matemática primeiro, mas logo em seguida ele se dedica à filosofia,
+
+74
+00:09:51,840 --> 00:09:57,520
+ele vai para a filosofia, ele estuda, ele é canadense, ele estuda no seu país de origem,
+
+75
+00:09:58,400 --> 00:10:02,560
+na graduação, depois ele vai para a Inglaterra, o que também é comum, devido ao fato de
+
+76
+00:10:02,560 --> 00:10:07,760
+Inglaterra e Canadá sem países muito próximos, ainda hoje, ele recebe uma bolsa e vai para Cambridge,
+
+77
+00:10:07,760 --> 00:10:13,040
+o que também é importante observar, eu não sei explorar tudo isso, mas é que
+
+78
+00:10:13,040 --> 00:10:16,880
+eu vou fazer algumas considerações sobre isso, quer dizer, o fato de ele ter estudado em Cambridge,
+
+79
+00:10:16,880 --> 00:10:23,760
+onde ele tem, bom, então, e a primeira área a qual ele vai se dedicar, é lógica e filosofia da
+
+80
+00:10:23,760 --> 00:10:27,920
+Matemática, depois de filosofia dele, ou seja, nos anos 60, ele vai se dedicar, lógico,
+
+81
+00:10:27,920 --> 00:10:33,520
+na segunda metade, vai produzir livros sobre probabilidade, trabalhos, técnicos sobre
+
+82
+00:10:33,520 --> 00:10:39,200
+probabilidade, e depois, nos anos 70, ele vai começar a trabalhar em filosofia da linguagem,
+
+83
+00:10:39,200 --> 00:10:46,000
+a sua inserção no universo da filosofia da ciência só vai se dar a partir do final dos anos 70,
+
+84
+00:10:47,200 --> 00:10:51,920
+e vai durar uma década, aproximadamente um pouco mais, mas assim, então, não há um,
+
+85
+00:10:51,920 --> 00:10:58,480
+quer dizer, só por essa rápida menção azarra, já que quase ele trabalha, nós podemos suspeitar
+
+86
+00:10:58,480 --> 00:11:03,760
+um fio condutor na sua reflexão, ele mesmo dizia isso. Há muitas entrevistas do Reckin,
+
+87
+00:11:03,760 --> 00:11:09,200
+ele é um homem que gostava de conversar, ele gostava de interagir, mas a interação social é um
+
+88
+00:11:09,200 --> 00:11:15,440
+tema para ele também, nós vamos ver isso mais adiante, mas não há um tema. Aliás, então,
+
+89
+00:11:17,840 --> 00:11:24,560
+assim, para corroborar, para fortalecer esse meu ponto de vista, eu fiz uma pesquisa,
+
+90
+00:11:24,560 --> 00:11:28,160
+já há algum tempo, eu fiz até motivado para esse curso, fiz uma pesquisa para saber
+
+91
+00:11:29,280 --> 00:11:34,640
+se haveria estudos sistemáticos sobre o pensamento do Reckin. Eu descobri um, pode ser que existam
+
+92
+00:11:34,640 --> 00:11:39,040
+outros, eu fui a gente como sempre, a gente faz pesquisa da internet, e talvez eu não saiba,
+
+93
+00:11:39,920 --> 00:11:46,880
+eu não saiba adequadamente a internet, digamos assim, mas a única obra que eu encontrei é de uma
+
+94
+00:11:46,880 --> 00:11:52,640
+professora uruguai, aliás, conhecida não apenas de mim, mas de muitos brasileiros, ela tem muito
+
+95
+00:11:52,640 --> 00:11:57,280
+ao Brasil, participado dos eventos, a Maria Laura Martinez, que é professora no Departamento
+
+96
+00:11:57,280 --> 00:12:01,680
+de História de Filosofia e de Ciência na Universidade da República, concede em Montevideo,
+
+97
+00:12:01,680 --> 00:12:07,040
+Uruguai, e ela é uma estudiosa bastante competente do Reckin, e ela tem um livro
+
+98
+00:12:07,040 --> 00:12:17,360
+publicado recentemente, em inglês, onde ela, aliás, a proposta é fornecer uma análise sistemática
+
+99
+00:12:17,440 --> 00:12:24,160
+do Reckin, e o texto, eu traduz o título para o português, é a textura na obra de Reckin,
+
+100
+00:12:24,160 --> 00:12:31,840
+dois pontos, Michel Foucault como um fio condutor para o pensamento de Reckin. Sabe pela Springer,
+
+101
+00:12:31,840 --> 00:12:36,400
+que vocês encontram na internet, a gente sabe que exige um determinado local na internet que
+
+102
+00:12:36,400 --> 00:12:45,040
+nos permite ter acesso a obras as mais variadas, e esse é um livro interessante,
+
+103
+00:12:45,040 --> 00:12:53,920
+mas vocês veem, ela vai procurar estabelecer um link que conduza um fio condutor, algo que
+
+104
+00:12:53,920 --> 00:13:01,120
+permita uma união, permita uma perceber como um núcleo duro no pensamento do Reckin,
+
+105
+00:13:01,120 --> 00:13:06,400
+o que é recusado pelo mesmo, como eu disse, mas fazendo menção à figura de Foucault, já vou
+
+106
+00:13:06,400 --> 00:13:14,000
+explicar tudo isso. Bom, ou seja, é só para Reckin, é um pensador, portanto, que vai
+
+107
+00:13:14,000 --> 00:13:20,960
+trabalhar, vai produzir, digamos assim, de meados dos anos 60, até, o seu primeiro livro fica sobre
+
+108
+00:13:20,960 --> 00:13:28,720
+a lógica da inferência estatística de 65, e vai trabalhar até, vai produzir até 2010, se me
+
+109
+00:13:28,720 --> 00:13:33,920
+falha memória, ou seja, tem uma vida profissional bastante longa, um homem bastante bem sucedido,
+
+110
+00:13:33,920 --> 00:13:39,520
+ele, por exemplo, foi o primeiro professor de língua inglesa a receber o convite que ele aceitou
+
+111
+00:13:39,520 --> 00:13:46,480
+para ocupar uma cátedra no prestigioso colégio de France, quer dizer, isso no início do
+
+112
+00:13:46,480 --> 00:13:53,920
+de século, após o episódio da Guerra da Ciência, do que mostra a interesse, a importância das suas
+
+113
+00:13:53,920 --> 00:13:59,600
+ideias. Então, assim, o que eu quero fazer hoje, como eu dizia, é despertar o interesse de vocês,
+
+114
+00:13:59,600 --> 00:14:04,800
+é mostrar que Reckin é um jeito interessante, é um jeito que merece ser lido, que merece ser discutido,
+
+115
+00:14:04,800 --> 00:14:10,400
+e sobre o qual nós podemos conversar, de maneira nenhuma, quero oferecer uma reflexão mais profunda,
+
+116
+00:14:10,400 --> 00:14:15,760
+um ponto de vista original, e muito menos um princípio que permita uma sistematização
+
+117
+00:14:15,760 --> 00:14:21,200
+do pensamento. Não, eu vou passar aqui para alguns temas, vou pular, e aí, assim, não há continuidade,
+
+118
+00:14:21,200 --> 00:14:25,600
+o que o próprio Reckin faz, assim, portanto eu me sinto um pouco à vontade, porque eu estou como
+
+119
+00:14:25,600 --> 00:14:32,560
+autorizado pelo próprio Reckin a proceder dessa maneira. Ele teve no Brasil, não sei se alguns
+
+120
+00:14:32,800 --> 00:14:39,760
+vocês chegaram a vê-lo, mas ele veio ao Brasil, convidado para uma professora falecida há pouco
+
+121
+00:14:39,760 --> 00:14:44,720
+tempo, uma colega e amiga nossa, Ana Carulina Reegner, que trabalhou primeiro na Fittal Jogando
+
+122
+00:14:44,720 --> 00:14:49,200
+Sul, depois de um ensino, acho que ele chegou e a Florianópolis, ele também foi uma pessoa que
+
+123
+00:14:49,200 --> 00:14:57,520
+recebeu muitos prêmios, a material disponível na internet. Aliás, assim, eu não acabei, eu não,
+
+124
+00:14:58,240 --> 00:15:05,440
+assim, eu, não, não, não, não. Para preparar essa aula, eu não usei nenhum material disponível no
+
+125
+00:15:05,440 --> 00:15:11,120
+YouTube, não é? Bom, ou seja, eu estou trabalhando da moda antiga, apenas contextos publicados.
+
+126
+00:15:12,880 --> 00:15:18,640
+Então, assim, os seus livros mais conhecidos, ou apreendendo, assim, alguns livros que
+
+127
+00:15:18,640 --> 00:15:22,560
+são, que marcam a carreira do Reckin, inclusive para nós pontuarmos um pouco aquilo que ele
+
+128
+00:15:22,960 --> 00:15:29,520
+fez, como as áreas as quais ele dedicou, como eu já disse, ele publicou em 65,
+
+129
+00:15:29,520 --> 00:15:35,120
+por exemplo, com menos de 30 anos, um livro chamado A Lógica da Infelicidade Statística,
+
+130
+00:15:35,120 --> 00:15:40,240
+10 anos depois, A Emergência da Probabilidade, e esse termo emergência é um termo, é um
+
+131
+00:15:40,240 --> 00:15:45,840
+conceito importante para nós percebermos o que o Reckin faz, né, a partir de um certo momento.
+
+132
+00:15:46,640 --> 00:15:50,880
+No mesmo ano, tem um livro, Por que a linguagem interessa, é importante para a filosofia?
+
+133
+00:15:51,200 --> 00:15:57,680
+Você não me enganei, esse livro foi trazido porquês? E 83 vem um livro que vai, digamos assim,
+
+134
+00:15:58,240 --> 00:16:05,440
+marcá-lo como uma pessoa da filosofia da ciência. É um 83, vem um livro chamado
+
+135
+00:16:05,440 --> 00:16:10,080
+Inglésia Representing and Intervening, Tóxicos e Introtóxicos em Filosofia da Ciência Natural.
+
+136
+00:16:10,080 --> 00:16:12,880
+Em Filosofia da Ciência Natural. Os títulos Reckin são interessantes,
+
+137
+00:16:15,200 --> 00:16:20,000
+todo qualquer bom filósofo, ele toma muito cuidado com as palavras, os conceitos, esse
+
+138
+00:16:20,000 --> 00:16:24,640
+livro foi traduzido por português, lá, pela edictora da minha universidade,
+
+139
+00:16:24,640 --> 00:16:29,680
+pela Eduérgio, tem aqui a tradução em português, representar e intervir
+
+140
+00:16:29,680 --> 00:16:34,400
+o Tóxicos e Introtóxicos em Filosofia da Ciência Natural. Nós não mantivemos o gerúndio,
+
+141
+00:16:35,120 --> 00:16:40,720
+tal como consta, por decisão do diretor da editora, que na época ele era professor
+
+142
+00:16:40,720 --> 00:16:45,680
+da literatura, um poeta, então ele sabe mais português que eu, eu tentei manter representando,
+
+143
+00:16:45,760 --> 00:16:50,080
+intervindo, ele disse que em português não faria muita diferença, bom, perdi
+
+144
+00:16:51,840 --> 00:16:58,800
+a briga com o diretor, depois vem The Taming of Chance, 90, Scythe of Revolutions,
+
+145
+00:16:59,760 --> 00:17:05,360
+de 90, uma coletânea, e aí depois, a partir de meia dos anos 90, vem uma série de livros
+
+146
+00:17:05,360 --> 00:17:10,080
+que vão de uma certa maneira também ajudar a popularização do Reckin. Reckin é um filósofo
+
+147
+00:17:10,080 --> 00:17:15,440
+que ultrapassou os domínios da academia justamente por conta de algumas obras nas quais ele discute
+
+148
+00:17:16,320 --> 00:17:23,200
+problemas ligados à psicologia, à saúde mental, à alma, então para mim 95, ele publica um livro
+
+149
+00:17:23,200 --> 00:17:29,920
+reescrevendo a alma, personalidade múltipla e as ciências da memória, e 98, vem um Met Travelers,
+
+150
+00:17:30,800 --> 00:17:35,120
+reflexão sobre a realidade das doenças mentais transitórias,
+
+151
+00:17:37,200 --> 00:17:43,600
+e 99, vem um livro muito interessante também, da Social Construction of What, que é um livro
+
+152
+00:17:43,600 --> 00:17:50,320
+em que ele vai meter a mão naquilo que já era uma polêmica enorme, acho que gerou a chamada
+
+153
+00:17:50,320 --> 00:17:56,720
+de Guerra da Ciência, o que eu esqueço é o Constitutivismo, ele vai procurar oferecer
+
+154
+00:17:56,720 --> 00:18:01,840
+algumas reflexões, e aí tem Restore Control, que é 2002, que tem uma tradição em português que
+
+155
+00:18:01,840 --> 00:18:07,840
+foi, digamos assim, patrocinada, de apoiada, a ideia original vem da Pudana da Carina Rei,
+
+156
+00:18:07,920 --> 00:18:13,600
+e finalmente, em 2014, o último livro dele, que dessa maneira é um grosso modo, um resto,
+
+157
+00:18:14,240 --> 00:18:18,960
+que ele discutiu no início da carreira, que é, por que existe, por que que sobretudo existe
+
+158
+00:18:18,960 --> 00:18:23,520
+uma filosofia da matemática, também numa tradição lírica, né? Bom, então em português,
+
+159
+00:18:23,520 --> 00:18:28,720
+até onde eu sei, existem representar e intervir ontológia histórica pela Ditora Unicínios,
+
+160
+00:18:28,720 --> 00:18:32,480
+e por que a linguagem interessa a filosofia, que eu infelizmente não me lembro agora qual
+
+161
+00:18:32,560 --> 00:18:37,040
+Ditora foi a responsável pela publicação da obra em português. Bom, então,
+
+162
+00:18:39,840 --> 00:18:44,240
+isso tudo muito rapidamente para dar uma caracterizada, assim, no Reckin, né? Então é uma pessoa que,
+
+163
+00:18:45,120 --> 00:18:50,800
+ou seja, é interessante porque na filosofia, infelizmente, hoje em dia nós temos especialistas,
+
+164
+00:18:50,800 --> 00:18:54,320
+né? Temos especialistas em filosofia da ciência, muitas vezes especialistas
+
+165
+00:18:54,320 --> 00:19:00,560
+em filosofia da física, ou em cunha, em farámen, carne, perrempel, pouco importo ao autor, né?
+
+166
+00:19:00,560 --> 00:19:08,560
+O fato é que nós temos um... e a filosofia também, ela foi cometida por essa doença,
+
+167
+00:19:08,560 --> 00:19:14,160
+digamos assim, que é a especialização. Reckin não é um especialista, né? Não é uma especialista,
+
+168
+00:19:14,160 --> 00:19:17,840
+e nunca se apresentou como tal, apesar... agora é um pensador profundamente original,
+
+169
+00:19:18,640 --> 00:19:23,040
+profundamente interessante, inteligente, arruto. Então, bom, então o que eu procuro?
+
+170
+00:19:23,920 --> 00:19:27,680
+Vou dizer aqui mais uma vez, vou procurar justificar essa minha afirmação
+
+171
+00:19:28,160 --> 00:19:38,800
+relativa à Rússia, à inteligência do Reckin. Bom, um último dado geográfico que é importante
+
+172
+00:19:38,800 --> 00:19:43,440
+para a gente situar, e tem a ver, inclusive, né? Então essa maneira ele faz remissão ao título
+
+173
+00:19:43,440 --> 00:19:48,800
+do livro da Maria Laura Martinez, que eu espero que vocês não se lembrem, ela tem um... ela
+
+174
+00:19:48,800 --> 00:19:55,520
+procura oferecer uma sistematização do pensamento do Reckin dizendo que o fio contor para isso é
+
+175
+00:19:55,520 --> 00:20:03,520
+o pensamento de Foucault. Bom, por que isso? Reckin, ele se doutorou em Cambridge, na Inglaterra,
+
+176
+00:20:03,520 --> 00:20:07,840
+onde ele vai de uma certa maneira sofre influências, como ele mesmo diz, né? Uma das suas grandes influências
+
+177
+00:20:07,840 --> 00:20:12,240
+foi o chamado segundo Wittgenstein, o Wittgenstein das investigações filosóficas. Mary Hesse também
+
+178
+00:20:12,240 --> 00:20:21,280
+é um nome importante nesse contexto, né? Entre outras pessoas, né? E ele... no segundo
+
+179
+00:20:21,600 --> 00:20:27,600
+metade dos anos 60, 68, 69, se não me falha memória, ele vai para Uganda, da aula em Uganda.
+
+180
+00:20:28,720 --> 00:20:35,600
+E lá, por sugestão de um colega, ele lê a história da loucura, se não me falha memória, é esse o livro
+
+181
+00:20:35,600 --> 00:20:42,320
+do Foucault que ele lê, e ele se maravilha com isso, né? Então Foucault é uma influência
+
+182
+00:20:42,320 --> 00:20:46,560
+explicitamente reconhecida pelo Reckin sobre seu pensamento, entendeu? Assim, se tratando
+
+183
+00:20:46,560 --> 00:20:51,280
+de influência, seja o que é complicado, mas eu não sei manejar muito bem esse tipo de
+
+184
+00:20:53,120 --> 00:20:59,280
+ideia na filosofia, mas é muito comum, eu sei, na filosofia, mas assim, dois pensadores marcantes
+
+185
+00:21:00,320 --> 00:21:05,280
+pro Reckin, dois pensadores importantes pro Reckin são o Wittgenstein, o chamado segundo
+
+186
+00:21:05,280 --> 00:21:10,960
+Wittgenstein das investigações filosóficas, e o Foucault, de quem ele inclusive foi amigo, né?
+
+187
+00:21:11,920 --> 00:21:17,200
+Eles eram pessoas que se respeitavam, né, e o Reckin lê muito Foucault. Você não quer dizer
+
+188
+00:21:17,200 --> 00:21:22,160
+que seja um seguidor de Foucault, porque como ele mesmo diz, ele não vai para a ontologia dele,
+
+189
+00:21:22,160 --> 00:21:26,640
+é histórica e não política, como Foucault procurou estabelecer, né? Isso tem diferenças
+
+190
+00:21:26,640 --> 00:21:31,520
+importantes, Reckin se via fundamentalmente como um filósofo, que seria um filósofo por Reckin,
+
+191
+00:21:31,520 --> 00:21:38,400
+uma pessoa que analisa conceitos, né? Apesar dele ter tido uma forte influência da chamada
+
+192
+00:21:38,400 --> 00:21:45,280
+filosofia continental, claro, ele leu Heidegger, entre outros, né? Uns dos grandes monstros da
+
+193
+00:21:45,280 --> 00:21:49,360
+filosofia do século 20, né? Ele tinha uma cultura, Reckin tem uma cultura filosófica
+
+194
+00:21:49,360 --> 00:21:54,000
+bastante considerável, pra ele ter sido muito influenciado pra chamada filosofia continental,
+
+195
+00:21:54,000 --> 00:21:59,840
+ele foi treinado na filosofia analítica, está devendo de saxão, né? E de uma certa maneira,
+
+196
+00:21:59,840 --> 00:22:05,040
+o Reckin pode ser caracterizado como uma ponte entre esses dois universos filosóficos.
+
+197
+00:22:05,040 --> 00:22:09,520
+Isso é que se faz sentido. Lá atrás, quando eu estive em filosofia, havia de um lado a chamada
+
+198
+00:22:09,520 --> 00:22:14,880
+filosofia continental, do outro lado a filosofia analítica, as duas reviam em guerra, né? Eu cresci
+
+199
+00:22:14,880 --> 00:22:23,040
+nessa guerra boba, boba, diga-se passagem, né? Ninguém ganhou nada com isso, muito menos mais aqui,
+
+200
+00:22:23,040 --> 00:22:27,040
+né? Talvez lá de fora, tem um ganhado, que estabeleceram suas agendas profissionais,
+
+201
+00:22:27,040 --> 00:22:31,600
+isso era o meio. Aqui no Brasil, no mesmo que quem ganhou. Bom, então fechado parênteses,
+
+202
+00:22:31,600 --> 00:22:37,440
+o Reckin, se a gente quiser, ele transita muito bem entre esses universos, né? Bom,
+
+203
+00:22:40,320 --> 00:22:46,320
+então o que que o Reckin fazia fundamentalmente era analisar conceito. E aqui eu vou citar palavras
+
+204
+00:22:46,320 --> 00:22:54,560
+dele, tá? Tu sendo literal, ele diz assim, meu trabalho é fazer distinções. Outra caracterização,
+
+205
+00:22:54,560 --> 00:23:00,400
+a caracterização que ele oferece é, todas as minhas questões são motivadas por tentar compreender
+
+206
+00:23:00,400 --> 00:23:07,360
+como nós pensamos sobre as coisas agora, né? Ou seja, aí eu pedi a vocês que guardasse o termo
+
+207
+00:23:07,360 --> 00:23:14,160
+emergência, né? É emergência à probabilidade, emergência do acaso, né? São temas com os quais o
+
+208
+00:23:14,160 --> 00:23:20,880
+Reckin trabalhou. Ou seja, o Reckin, e isso é muito interessante, essa é uma característica que
+
+209
+00:23:20,880 --> 00:23:30,080
+nós vamos encontrar em muitos momentos do seu pensamento, da sua vida profissional.
+
+210
+00:23:30,080 --> 00:23:38,320
+É preocupado em perceber como se deu o surgimento de temas que acabam tendo um impacto
+
+211
+00:23:38,320 --> 00:23:43,680
+enorme, não apenas na filosofia e na filosofia, mas na nossa vida. Probabilidade. Quais são as
+
+212
+00:23:43,680 --> 00:23:47,440
+probabilidades de nós ganharmos na filosoteria? Quais são as probabilidades de hoje o meu time,
+
+213
+00:23:47,440 --> 00:23:54,000
+hoje é um dia tenso pra mim? Fluminense, superar o internacional do Beira Rio. Quais são as
+
+214
+00:23:54,080 --> 00:24:00,080
+probabilidades do Palmeiras amanhã do Boca Junto? Quais são as probabilidades, etc., etc.,
+
+215
+00:24:00,080 --> 00:24:06,880
+né? Ou seja, nós vivemos num universo em que a avaliação do risco se dá para a probabilidade
+
+216
+00:24:06,880 --> 00:24:12,640
+e o Reckin se vê como é que isso aconteceu? Quando se deu, como isso se dá? Isso de uma
+
+217
+00:24:12,640 --> 00:24:17,440
+maneira é o aproxima da história, mas não faz dele um historiador e ele mesmo jamais se apresentou
+
+218
+00:24:17,440 --> 00:24:26,400
+um historiador. Aliás, em termos, digamos assim, de história, da filosofia, da ciência,
+
+219
+00:24:26,400 --> 00:24:32,960
+da história, da história da ciência, no século passado, na próxima nois, o Reckin participa
+
+220
+00:24:32,960 --> 00:24:38,560
+de um projeto internacional na Alemanha, justamente nesse momento em que ele está escrevendo
+
+221
+00:24:38,560 --> 00:24:45,040
+o representar e intervir, que é um projeto sobre a probabilidade, sobre a história da
+
+222
+00:24:45,440 --> 00:24:51,200
+cidade, que envolve várias pessoas e que era coordenado, foi idealizado e coordenado por um alemão
+
+223
+00:24:51,200 --> 00:24:56,160
+que faleceu há muitos anos atrás, há algumas décadas, relativamente, de novo, da geração do
+
+224
+00:24:56,160 --> 00:25:07,200
+Reckin, o Lawrence Krueger, né? E desse projeto saiu alguma coisa como uma versão alemana chamada
+
+225
+00:25:07,200 --> 00:25:13,920
+epistemologia histórica, um certo modo de fazer uma história filosófica da ciência ou uma
+
+226
+00:25:14,000 --> 00:25:20,000
+filosofia histórica da ciência, né? E o Reckin esteve ligado a esse grupo, um grande nome só para
+
+227
+00:25:22,000 --> 00:25:27,840
+situar um pouco mais esse projeto e coisas que saíram do projeto, é uma americana
+
+228
+00:25:28,800 --> 00:25:33,440
+chamada Lorraine Daystone, talvez vocês tenham ouvido falar, bom, um pouco importante. Então, o Reckin
+
+229
+00:25:34,320 --> 00:25:39,840
+ele é uma pessoa que vai, se você considerar como filósofo, ele vai respeitar essa tradição na qual
+
+230
+00:25:39,920 --> 00:25:45,920
+ele foi educado, que é a tradição da chamada filosofia analisca, na análise dos conceitos,
+
+231
+00:25:46,880 --> 00:25:56,000
+mas ao mesmo tempo ele vai se preocupar em entender como certos temas aparecem e
+
+232
+00:25:56,000 --> 00:26:02,800
+aparecem e se tornam muito, muito relevantes a ponto de determinar os rumos da sociedade,
+
+233
+00:26:02,800 --> 00:26:09,760
+as configurações da sociedade. E aí a gente pode ver um pouco a presença do pensamento do Fouco,
+
+234
+00:26:09,760 --> 00:26:15,360
+mas ele quer compreender, ele não quer se posicionar com relação àquilo que está marcando
+
+235
+00:26:15,360 --> 00:26:25,280
+a nossa época. Ele, assim, outra caracterização, perdão, que ele fazia, ele não se considerava
+
+236
+00:26:25,280 --> 00:26:28,720
+muito competente de generalizações, o que é curioso, que em princípio o filósofo faz
+
+237
+00:26:28,720 --> 00:26:33,600
+generalizações, ele não se considerava muito nisso. Ele, assim, ele considerava, ele se
+
+238
+00:26:33,600 --> 00:26:39,680
+considerava, perdão, um filósofo caso particular, né? Ele acreditava poder ter coisas interessantes
+
+239
+00:26:39,680 --> 00:26:46,320
+nisso, caso particular. Ele tem um, mas é claro que ele, muitas vezes, foi convidado,
+
+240
+00:26:46,320 --> 00:26:53,200
+foi instado, né? Ele foi chamado a participar de questões mais mundanas, mais urgentes, digamos,
+
+241
+00:26:53,200 --> 00:27:01,920
+assim, do cotidiano. Então, por exemplo, em 2013, ele publicou no Rolnery Review of Books um artigo
+
+242
+00:27:01,920 --> 00:27:07,520
+chamado, assim, Lost in the Forest, perdido na foresta. Aliás, uma das razões pelas quais o
+
+243
+00:27:07,600 --> 00:27:15,040
+Reckyn fez muito sucesso é que ele escrevia muitíssimo bem. Ele é uma pessoa, assim, eu me
+
+244
+00:27:15,040 --> 00:27:20,240
+permito essa confissão, eu tenho inveja de como ele escreve. Ele tem uma capacidade de sedução
+
+245
+00:27:20,240 --> 00:27:27,120
+enorme, enorme, enorme, enorme. Então, ele é muito feliz nos títulos, nas escolhas, das palavras,
+
+246
+00:27:27,120 --> 00:27:33,840
+e no modo como ele conta as suas histórias e apresenta suas ideias. Então, nesse livro Lost in
+
+247
+00:27:34,160 --> 00:27:40,960
+the Forest, ele vai se pronunciar sobre o DSM, que é uma obra de referência na área da psiquiatria,
+
+248
+00:27:40,960 --> 00:27:48,320
+da psicologia, que é um manual de diagnóstico das bênçãos mentais, que sofre revisões
+
+249
+00:27:48,320 --> 00:27:55,920
+periódicas e ele vai, por exemplo, se comentar sobre as modificações pelas quais passam o DSM.
+
+250
+00:27:55,920 --> 00:28:00,320
+Claro, isso tem a ver, eu não sei se vocês já ouviram falar nesse, talvez alguns de vocês conheçam
+
+251
+00:28:00,320 --> 00:28:07,360
+e usam até essa obra de referência para a psiquiatria, mas, assim, a gente é uma obra,
+
+252
+00:28:07,360 --> 00:28:12,720
+eu nunca não sei nenhuma, mas pelo que eu pude entender de conversas e leituras sobre,
+
+253
+00:28:12,720 --> 00:28:17,840
+é uma obra extremamente detalhada, onde nós temos muitos diferentes casos ou tipos específicos
+
+254
+00:28:17,840 --> 00:28:23,760
+de esquizofrenia entre outras experiências mentais. Bom, então, ou seja, ele vai aí, por exemplo,
+
+255
+00:28:23,760 --> 00:28:29,200
+se pronunciar sobre a... Ele está falando sobre o DSM, ele está falando sobre uma coisa que é muito
+
+256
+00:28:29,200 --> 00:28:33,680
+caro dele, que é um tema muito caro, que sobre o qual eu também sempre sou, que é a classificação.
+
+257
+00:28:33,680 --> 00:28:37,280
+O que que... Os problemas, os perigos que adivende a classificação.
+
+258
+00:28:37,280 --> 00:28:41,360
+Bom, tudo isso até o momento é para fazer uma caracterização rápida, eu sei,
+
+259
+00:28:44,080 --> 00:28:50,640
+e algo, algo, assim, certamente não muito arrumado, se eu sei disso, eu reconheço. Bom,
+
+260
+00:28:51,600 --> 00:29:00,880
+então, outra auto-characterização do Racking, que ele ofereceu aos seus leitores, aos seus ouvintes,
+
+261
+00:29:00,880 --> 00:29:05,920
+digamos, era, ele dizia assim, a filosofia para ele era como que lançaram um olhar para a rica
+
+262
+00:29:05,920 --> 00:29:12,400
+complexidade do mundo. Como eu também já disse, ele nunca sentiu a necessidade de unificar o seu
+
+263
+00:29:12,400 --> 00:29:21,360
+próprio trabalho. E outra coisa muito interessante é que ele não escreve para o curto prazo,
+
+264
+00:29:22,640 --> 00:29:26,320
+mas sim para o médio prazo. Não nem para o longo prazo, bom, também o que que é o longo prazo,
+
+265
+00:29:26,320 --> 00:29:33,920
+para quem, talvez seja muita pretensão, escrever para daqui a 200 anos. Não, ele está escrevendo para,
+
+266
+00:29:34,640 --> 00:29:39,760
+assim, para o médio prazo, não apenas... Ou seja, isso mostra um pouco, quer dizer, Racking não quer
+
+267
+00:29:39,760 --> 00:29:44,720
+escrever para hoje, não é um jornalista, não é um analista político, não é alguém que queira
+
+268
+00:29:44,720 --> 00:29:53,360
+participar dos debates atuais no sentido de oferecer respostas ou justificar posicionamentos. Não,
+
+269
+00:29:53,360 --> 00:30:00,080
+decisões. Não, ele quer pensar para, assim, a médio prazo. Como eu disse, ele quer fazer uma análise
+
+270
+00:30:00,080 --> 00:30:04,720
+conceitual. Então, ele tem que entender, por exemplo, por que que se fala tanto em construtivismo social,
+
+271
+00:30:05,680 --> 00:30:10,960
+e quando ele faz essas análises conceituais, as distinções, ele quer que as pessoas parem,
+
+272
+00:30:10,960 --> 00:30:15,840
+reflita. Ou seja, de uma certa maneira, isso eu que o digo, aflutorfia para o Racking como que
+
+273
+00:30:15,840 --> 00:30:22,880
+o mecanismo para diminuir o ritmo, muitas vezes, quando não sempre, extremamente acelerado no
+
+274
+00:30:22,880 --> 00:30:28,160
+qual nós estamos envolvidos. Nós temos que... E aí, claro, só eu que estou fazendo essa relação,
+
+275
+00:30:28,800 --> 00:30:33,200
+não sei se o Racking em algum momento fez, talvez tenha feito, mas pouco importa,
+
+276
+00:30:35,600 --> 00:30:38,800
+nós vivemos num tempo em que nós temos que ter opinião sobre tudo e opinião agora.
+
+277
+00:30:39,680 --> 00:30:45,040
+Ninguém nos dá tempo a pensar. Ninguém nos... Ninguém dizem, ah, tome o seu tempo, reflita depois,
+
+278
+00:30:45,040 --> 00:30:51,280
+não, não. Ou você fala agora, ou você não fala. E a gente sabe, né, a história da espécie humana,
+
+279
+00:30:51,280 --> 00:30:57,520
+das sociedades, nos mostram que se nós, quando nós falamos, ainda mais sem tempo,
+
+280
+00:30:58,080 --> 00:31:04,320
+as nossas chances de dizermos bobagens são enormes. Eu diria que são de 99 vírgula,
+
+281
+00:31:04,400 --> 00:31:09,680
+99, 9, 9, 9, 9, 9, 9, 9. E aí nós poderíamos gastar o resto das aulas com os nomes. Então,
+
+282
+00:31:09,680 --> 00:31:13,600
+sim. Então, que o Racking de uma certa maneira, ele não diz isso. Aliás, as grandes conclusões
+
+283
+00:31:13,600 --> 00:31:18,400
+do pensamento do Racking, o Racking não diz. Ele deixa para o seu leitor, para a sua leitora
+
+284
+00:31:18,400 --> 00:31:23,920
+formular. De uma certa maneira, o Racking como que dizer, olha, eu pensei isso, cheguei até aqui,
+
+285
+00:31:23,920 --> 00:31:28,640
+você se quiser fazer alguma coisa com isso, faça, sinta-se à vontade. Mas não diga que foi
+
+286
+00:31:29,600 --> 00:31:34,320
+por minha causa que você tomou essa decisão, que você agiu. Não, eu estou fazendo uma análise
+
+287
+00:31:34,320 --> 00:31:41,920
+conceitual, então, em alguns casos, assim, na maioria dos casos eu não vou dizer o que tem
+
+288
+00:31:41,920 --> 00:31:49,520
+que ser feito. Não quero, ou seja, não quero fazer, não quero que decisões sejam tomadas
+
+289
+00:31:49,520 --> 00:31:56,480
+a partir das minhas reflexões. Eu quero contribuir para que os outros pensem. E pensem, como dizia,
+
+290
+00:31:56,560 --> 00:32:03,360
+com calma, nós precisamos ter tempo para pensar. Então, ele, tudo isso foi a partir da outra
+
+291
+00:32:03,360 --> 00:32:07,680
+auto-cararquização. Ele dizia, eu não sou um sujeito para o curto prazo, eu sou um sujeito
+
+292
+00:32:07,680 --> 00:32:13,840
+para o longo prazo. Perdão, para o médio prazo. E não para o longo prazo. Bom, ou seja,
+
+293
+00:32:13,840 --> 00:32:17,520
+de uma certa maneira, acho que ele está desenhando, posso estar escrevendo para geração de amanhã
+
+294
+00:32:17,520 --> 00:32:22,480
+e eu consigo mais ou menos imaginar o que a geração, ou seja, ele consegue imaginar o seu interlocutor.
+
+295
+00:32:22,480 --> 00:32:26,640
+Isso que é importante. Quando ele descreve, quando a gente fala, a gente imagina os interlocutores.
+
+296
+00:32:26,640 --> 00:32:32,800
+Então, eu estou falando aqui, em princípio, para algumas dezenas de estudantes de pós-jolação
+
+297
+00:32:32,800 --> 00:32:38,080
+das universidades localizadas no Paraná e eu tenho uma noção mais ou menos do que eu encontro.
+
+298
+00:32:38,080 --> 00:32:45,280
+E eu, ou seja, não é uma situação que me seja completamente estranha. Eu não conheço
+
+299
+00:32:45,280 --> 00:32:53,040
+em detalhes, mas eu tenho uma noção de quem está do outro lado. Bom, e aí, assim,
+
+300
+00:32:53,040 --> 00:32:59,840
+também sempre apresentando ideias sobre o Reck, tentando caracterizá-lo, ele diz assim,
+
+301
+00:32:59,840 --> 00:33:05,280
+a respeito da filosofia da ciência agora, digamos assim, nos aproximando um pouco do nosso
+
+302
+00:33:05,280 --> 00:33:11,280
+tema, ele diz assim aos filósofos, não podem nem devem querer julgar as ciências. De novo, é
+
+303
+00:33:11,280 --> 00:33:19,200
+compreender e não julgar. Ou seja, a filosofia da ciência não poderia, não deveria querer ser
+
+304
+00:33:19,200 --> 00:33:27,440
+prescritiva, dizer como a ciência tem que proceder. Não, os cientistas tomam suas decisões. Claro que
+
+305
+00:33:27,440 --> 00:33:35,920
+se informados, sendo a partir de um diálogo com a filosofia, tanto melhor. Bom, outra
+
+306
+00:33:36,240 --> 00:33:42,480
+ideia importante é a filosofia da ciência, e que em geral a gente não respeita ou para
+
+307
+00:33:42,480 --> 00:33:52,720
+não levar suficientemente a sério, o curso aqui é uma exceção, mas a filosofia da ciência
+
+308
+00:33:52,720 --> 00:33:58,000
+possui diferentes públicos. Ou seja, de uma certa maneira, a gente com isso está dizendo, olha,
+
+309
+00:33:58,080 --> 00:34:03,280
+a relação de ciência e sociedade é muito importante. A filosofia da ciência tem que
+
+310
+00:34:03,280 --> 00:34:11,360
+tentar entender essas relações que são complexas, que são tensas, que muitas vezes geram episódios
+
+311
+00:34:11,360 --> 00:34:17,280
+muito violentos mesmo, como aconteceu no final do século passado, a partir do chamado
+
+312
+00:34:18,160 --> 00:34:23,520
+afer socal, que motivou mais uma, não foi a primeira, nem será a última guerra,
+
+313
+00:34:23,520 --> 00:34:27,680
+a chamada guerra das ciências. Outra ideia muito importante é que não se pode definir
+
+314
+00:34:27,680 --> 00:34:33,120
+ciência. Então, a pergunta o que é ciência para o REC vai ser respondida de forma as mais variadas
+
+315
+00:34:33,120 --> 00:34:39,520
+possíveis. Então, sobre a ciência, ele, e aqui eu vou também mais uma vez citá-lo,
+
+316
+00:34:39,520 --> 00:34:47,040
+ele se apoia numa pessoa que eu não conheço, e essa pessoa chamada Doron Seilberger falou
+
+317
+00:34:47,040 --> 00:34:52,240
+sobre a matemática, e aí o REC diz aquilo que a Doron Seilberger falou sobre a matemática,
+
+318
+00:34:52,320 --> 00:35:00,400
+eu vou usar para oferecer uma caracterização da ciência. Então, o que a Doron Seilberger falou
+
+319
+00:35:00,400 --> 00:35:06,560
+sobre a matemática? Abre aspas. Nossa matemática é o resultado de uma caminhada aleatória
+
+320
+00:35:07,440 --> 00:35:13,360
+através da qual Seilberger considera aquilo que nós chamamos matemática. Então,
+
+321
+00:35:13,360 --> 00:35:19,600
+ou seja, é uma caminhada aleatória, nós não podemos, ou seja, nós não podemos sabendo
+
+322
+00:35:19,920 --> 00:35:25,840
+espadamente onde nós vamos chegar e precisamos de como nós vamos chegar. Ou seja, a contingência tem
+
+323
+00:35:25,840 --> 00:35:31,680
+um papel muito importante. Então, acho que isso, a aleatoriedade, a contingência são elementos
+
+324
+00:35:31,680 --> 00:35:38,320
+que o REC vai valorizar muito, e de uma certa maneira, são elementos que ele pode ter passado
+
+325
+00:35:38,320 --> 00:35:43,760
+a valorizar a partir da leitura do Foucault, que ele vai fazer, como eu já disse lá no final dos anos
+
+326
+00:35:44,560 --> 00:35:48,800
+Então, no processo de geração das ideias, nós devemos levar a contingência.
+
+327
+00:35:50,880 --> 00:35:57,440
+A necessidade, caso ela venha a aparecer, ela se dá ao final do processo de extinção,
+
+328
+00:35:57,440 --> 00:36:02,160
+ao final, quando nós somos capazes de oferecer uma explicação para os fenômenos naturais.
+
+329
+00:36:03,360 --> 00:36:09,920
+Bom, alguns principais temas trabalhados por REC foram experimentação e intervenção,
+
+330
+00:36:10,000 --> 00:36:15,280
+desse livro de experimentar e intervir, construção de pessoas, ele vai fazer menção,
+
+331
+00:36:15,280 --> 00:36:21,280
+chamado looping effect, o effect looping, isso é alguma coisa que também vai ser importante
+
+332
+00:36:21,280 --> 00:36:26,480
+para ele. O REC vai trabalhar com uma distinção natural, uma distinção que para ele é muito
+
+333
+00:36:26,480 --> 00:36:34,080
+importante. Existem tipos naturais e tipos, digamos, sociais humanos, os tipos naturais
+
+334
+00:36:34,080 --> 00:36:42,640
+não se modificam com as nossas teorias, mas os tipos não naturais, digamos, humanos,
+
+335
+00:36:42,640 --> 00:36:49,040
+sociais, são modificáveis. Nós vamos voltar a esse ponto, mas é isso. E essa modificação
+
+336
+00:36:49,040 --> 00:36:53,920
+se dá justamente por conta desse efeito looping, ou seja, as classificações que nós fazemos para
+
+337
+00:36:55,360 --> 00:37:00,240
+classificar os seres humanos e as suas relações têm efeitos sobre os seres humanos,
+
+338
+00:37:00,240 --> 00:37:05,040
+diferentemente que se passa com os elétrons, com os quartos, com os gentes e assim por diante.
+
+339
+00:37:05,040 --> 00:37:09,920
+Então, voltando, fazendo uma lista breve de alguns principais temas que ele
+
+340
+00:37:09,920 --> 00:37:14,160
+trabalhou, experimentação e intervenção, construção de pessoas, probabilidade,
+
+341
+00:37:14,160 --> 00:37:17,120
+estilo de raciocínio científico, constitutivismo social.
+
+342
+00:37:24,720 --> 00:37:29,200
+As pessoas que interagiram com o REC que o entrevistaram, o que é natural,
+
+343
+00:37:29,200 --> 00:37:34,320
+tinham uma preocupação de tentar encontrar temas unificadores, questões de unificadores
+
+344
+00:37:34,320 --> 00:37:40,160
+e dez unificadores, tentando organizar um pouco a produção do REC, as ideias do REC.
+
+345
+00:37:40,160 --> 00:37:46,000
+Ele sempre recusou a ser isso, mas como uma pessoa, creio eu, educada, e como eu disse, gostava
+
+346
+00:37:46,000 --> 00:37:52,560
+de conversar, ele procurava oferecer respostas que por um lado não correspondesse à verdade,
+
+347
+00:37:52,560 --> 00:37:57,120
+aquilo que ele pensava e sentia, por outro lado também que satisfizessem aos seus interlutores.
+
+348
+00:37:57,120 --> 00:38:01,360
+Então, quando endagado sobre seus projetos filosóficos, REC afirmava que ao longo de
+
+349
+00:38:01,360 --> 00:38:05,520
+sua carreira ele se dedicou, fundamentalmente, a três projetos, estilos de raciocínio
+
+350
+00:38:05,520 --> 00:38:08,560
+científico, construção de pessoas e filosofia da matemática.
+
+351
+00:38:10,560 --> 00:38:12,880
+Isso apenas para reforçar, porque que eu apresentei isso?
+
+352
+00:38:12,880 --> 00:38:16,720
+Para reforçar um pouco aquela classificação que eu acabei também de apresentar a vocês.
+
+353
+00:38:16,720 --> 00:38:21,680
+Bom, então vamos lá.
+
+354
+00:38:25,680 --> 00:38:35,680
+Voltando ao Foucault, para marcar essa influência, essa força que foi Foucault no pensamento do
+
+355
+00:38:35,680 --> 00:38:43,200
+REC. O REC não publicou obra sobre o Foucault, aliás, ele chegou a começar a escrever um
+
+356
+00:38:43,200 --> 00:38:49,600
+livro sobre o Foucault, 200 páginas, que ele teria escrito sobre o Foucault, que ele jogou
+
+357
+00:38:49,600 --> 00:38:55,440
+fora na lata do lixo da universidade. E por que ele jogou fora 200 páginas? Porque
+
+358
+00:38:56,800 --> 00:39:04,560
+ele foi dar um curso. Isso mostra, inclusive, um pouco a riqueza intelectual, filosófica
+
+359
+00:39:04,560 --> 00:39:10,800
+de algumas pessoas. O Jaco Ríntica, que foi um lógico da linguagem finlandês dentro
+
+360
+00:39:10,880 --> 00:39:16,560
+da escola analítica, deu com o REC, se eu não me falei memória, nos anos 70 ou 80,
+
+361
+00:39:16,560 --> 00:39:19,920
+em Stanford, onde o REC trabalhava, eles dois deram curso ao Foucault.
+
+362
+00:39:21,680 --> 00:39:25,920
+Então, por isso que eu falei que aquela guerra entre filosofia analítica e filosofia continental
+
+363
+00:39:25,920 --> 00:39:33,680
+é bobagem. Era, já na altura. Nós aqui não percebimos, eu não percebi. Mas Ríntica
+
+364
+00:39:33,760 --> 00:39:41,840
+e REC deram um curso ao Foucault. E lá o Ríntica mostrou que o Foucault manipulava
+
+365
+00:39:41,840 --> 00:39:46,880
+estações. Isso depois estão se conhecendo. Foucault não tinha muito respeito pelas estações
+
+366
+00:39:46,880 --> 00:39:51,680
+que fazia. O que era grave, porque ele estava, por exemplo, muitas vezes citando o doutor
+
+367
+00:39:51,680 --> 00:39:59,520
+de século 18, de século 19. E aí o REC ficou como que mexido por isso e jogou fora
+
+368
+00:39:59,600 --> 00:40:04,960
+um ano escrito, que ele estava escrevendo sobre Foucault. Bom, então isso pode dizer que
+
+369
+00:40:04,960 --> 00:40:13,440
+ele nunca escreveu uma obra de sistema sobre Foucault. Então, mas agora, Foucault, uma coisa
+
+370
+00:40:13,440 --> 00:40:21,760
+que REC nunca falou sobre a noção de poder. A grande distinção entre REC e Foucault é que
+
+371
+00:40:21,760 --> 00:40:26,720
+REC nunca se interessa em analisar a noção de poder. Ou seja, aqui talvez nós podemos
+
+372
+00:40:26,800 --> 00:40:31,520
+estar em perceber aquilo que eu também já tinha deixado no ar, que é REC em se afastar de temas
+
+373
+00:40:31,520 --> 00:40:40,400
+que o atrairiam, como se fosse um buraco negro, para dentro de debates que ele consideraria
+
+374
+00:40:42,720 --> 00:40:51,120
+estereis. Bom, então, ou seja, REC jamais se interessou pelo seguinte, porque propor soluções
+
+375
+00:40:51,120 --> 00:40:58,080
+para os problemas que afingem as sociedades contemporâneas. Talvez não seja um exagero
+
+376
+00:40:58,080 --> 00:41:03,840
+afirmar, portanto, que o principal interesse do REC estava, ou esteve, em entender como surgem
+
+377
+00:41:03,840 --> 00:41:11,040
+as ideias, probabilidade, como eu falei há pouco, construção de pessoas. E ele faz isso, como
+
+378
+00:41:11,040 --> 00:41:16,960
+eu também já tive ocasiado, afirmar através de uma análise conceitual das condições históricas
+
+379
+00:41:16,960 --> 00:41:24,240
+localizadas, ou seja, presentes no surgimento de conceitos e objetos. Então,
+
+380
+00:41:26,240 --> 00:41:36,000
+quais são as condições que tornam possível que certas temas apareçam? Progresso, por exemplo,
+
+381
+00:41:36,000 --> 00:41:41,760
+exemplo são meus agora, evolução, criação do universo, só para dar alguns temas próximos
+
+382
+00:41:41,840 --> 00:41:49,040
+à filosofia da ciência, a história da ciência. Agora, para vocês perceberem como REC também,
+
+383
+00:41:49,040 --> 00:41:52,960
+assim, um pouco mais simples, um pouco sobre o estilo dele, um pouco o modo pelo qual ele,
+
+384
+00:41:52,960 --> 00:42:02,960
+como ele se movimentava, e a sua preocupação em evitar ser preso por temas, preso por filósofos,
+
+385
+00:42:02,960 --> 00:42:09,040
+por questões, isso é interessante, um pouco a liberdade. E aí, eu acho que tem um,
+
+386
+00:42:09,360 --> 00:42:12,640
+nisso ele se aproxima de uma pessoa aqui para ela que tinha muito respeito,
+
+387
+00:42:13,440 --> 00:42:19,440
+que ele nunca chegou a afirmar que foi uma influência, talvez por conta do problema que sua carretaria,
+
+388
+00:42:19,440 --> 00:42:25,920
+mas REC tem um enorme respeito por Fairámen, que é uma coisa, ela é um maldito, eu não considero
+
+389
+00:42:25,920 --> 00:42:31,920
+isso, ou, ao contrário, adoro Fairámen, mas é um maldito, as pessoas entendem muito mal Fairámen,
+
+390
+00:42:31,920 --> 00:42:36,320
+leem muito rápido, já leem com estereótipos na cabeça, e talvez por isso que eu devia ficar
+
+391
+00:42:36,400 --> 00:42:39,760
+dizendo, alguém é o maior, por que você gosta de Fairámen, que era anti-scientificista,
+
+392
+00:42:39,760 --> 00:42:45,760
+anti-racionalista, não sei o que, então eu vou passar o resto do dia me explicando. Então,
+
+393
+00:42:45,760 --> 00:42:53,600
+para evitar isso, o REC nunca afirmou, assim, uma proximidade muito grande, mas ele resenhou
+
+394
+00:42:53,600 --> 00:42:56,560
+livros de Fairámen, ele resenhou mais de um livro de Fairámen, ele resenhou, por exemplo,
+
+395
+00:42:56,560 --> 00:43:01,520
+a autobiografia do Fairámen, o que mostra um respeito pelo pensamento do Fairámen.
+
+396
+00:43:01,600 --> 00:43:06,640
+Então, ou seja, Fairámen, ou seja, tem uma ironia que a gente percebe no Fairámen,
+
+397
+00:43:06,640 --> 00:43:11,600
+ele utiliza essa ironia para, muitas vezes, evitar de ser capturado por temas que são
+
+398
+00:43:11,600 --> 00:43:18,240
+incômodos. Então, por exemplo, ele, eu mencionei a vocês com um livro que ele publicou em
+
+399
+00:43:18,240 --> 00:43:22,880
+inglês no início desse século e que foi trazido em português, ontologia histórica,
+
+400
+00:43:24,080 --> 00:43:29,760
+que vocês encontram na internet, PDF, ele tem a seguinte, ontologia é uma palavra presunçosa.
+
+401
+00:43:31,600 --> 00:43:37,360
+É, é uma presunçosa, gente da besta. O Anabí, como muitas vezes a gente fala,
+
+402
+00:43:38,640 --> 00:43:42,320
+é curioso. Agora, mesmo assim, ele deu um título do seu livro de ontologia histórica.
+
+403
+00:43:45,280 --> 00:43:54,000
+Mas ele vai mais, ele vai mais longe, ele diz assim, a ontologia no século 20, ou próxima a ele,
+
+404
+00:43:54,000 --> 00:43:59,600
+quer dizer, ele está pensando, talvez, nas décadas de 60, 70, 80, 90, mas você não vai estar de
+
+405
+00:43:59,680 --> 00:44:05,920
+século 20 grosso modo. Ele assim, ele diz mais, ele afirmava que a ontologia era, naquele momento,
+
+406
+00:44:05,920 --> 00:44:17,040
+insípida e desinteressante. Quer ver, eu quero aceitar. Então, ele, ou seja,
+
+407
+00:44:18,080 --> 00:44:24,560
+vocês vejam que assim, ele está aí querendo mais uma vez, eu digo assim, ele percebe que ele tem que
+
+408
+00:44:25,520 --> 00:44:31,120
+quer dizer algo sobre a ontologia, mas ele tem que preparar o terreno. Então, é, presunçosa,
+
+409
+00:44:31,120 --> 00:44:38,160
+é insípida e desinteressante. E ele faz uma, uma, uma, uma, uma brega história desse terro.
+
+410
+00:44:39,120 --> 00:44:42,720
+Então, segundo ele, ele diz assim, olha, uma primeira pessoa que utilizou de forma sistemática
+
+411
+00:44:42,720 --> 00:44:46,400
+o termo ontologia, foi Wolf, né, um alemão, um alemão, um fóssil alemão da primeira
+
+412
+00:44:46,400 --> 00:44:52,720
+metade do século 18, que, segundo o Reckin, teria definido a ontologia, perdão, da seguinte
+
+413
+00:44:52,720 --> 00:44:59,200
+maneira, traça do estudo reflexão sobre o ser em geral, ou ser em geral, né. E aí o Reckin,
+
+414
+00:44:59,200 --> 00:45:04,960
+mais uma vez de famirônica, mais sempre, também, dizendo o que pretende fazer, ele diz assim,
+
+415
+00:45:04,960 --> 00:45:09,840
+ele, Reckin, tem dificuldades em falar sobre o ser em geral, né. Nesse artigo, o que eu mencionei,
+
+416
+00:45:09,840 --> 00:45:15,760
+que ele brincou no, no, no Loan Review of Books, Lost in the Forest, ele diz, eu não, esse artigo,
+
+417
+00:45:15,760 --> 00:45:19,200
+ele diz assim, eu, diferentemente do que eu tenho feito ao longo da minha vida, aqui nesse artigo,
+
+418
+00:45:19,200 --> 00:45:24,000
+eu vou ter que falar sobre a floresta, eu gosto de falar sobre as árvores, sobre uma árvore,
+
+419
+00:45:24,000 --> 00:45:27,360
+sobre outra árvore, sobre o NISSO, lembra que ele, ele, ele é bom, ele se conserva bom,
+
+420
+00:45:27,360 --> 00:45:32,400
+competente para analisar casos específicos, não para falar sobre o todo, ele tem dificuldades
+
+421
+00:45:32,400 --> 00:45:37,840
+para essas grandes análises, né, ele tem muita dificuldade com isso, ele não gostava de fazer isso,
+
+422
+00:45:37,840 --> 00:45:44,400
+mas, então, ele, aqui ele repete a mesma atitude, ele, ele, eu tenho dificuldades em falar sobre o
+
+423
+00:45:44,400 --> 00:45:50,720
+material, né, então, assim, Reckin, para ele, a ontologia é histórica, porque trata da construção
+
+424
+00:45:50,720 --> 00:45:57,600
+ou invansão de nós mesmos, construção desce daquela outra coisa, desce daquela outra maneira,
+
+425
+00:45:57,600 --> 00:46:03,680
+então, é sempre específico, nós temos que entender, né, agora, são, por que que é ontologia?
+
+426
+00:46:03,680 --> 00:46:08,800
+Porque são termos que vão modificar nossa maneira de ser, nossa maneira de estar no mundo, né,
+
+427
+00:46:08,800 --> 00:46:14,880
+então, a ontologia trata de, nos dá exemplos de como nós nos construímos a nós mesmos,
+
+428
+00:46:14,880 --> 00:46:20,080
+né, probabilidade, maltrato infantil, doenças metais sanitórias, são exemplos mencionados
+
+429
+00:46:20,080 --> 00:46:24,880
+por Reckin, agora, Lemes, a ontologia dele não tem a pretensão política como ocorria,
+
+430
+00:46:24,880 --> 00:46:29,920
+enfocou e não pode ter, porque ele, Reckin, não se pronuncia sobre o poder, o que é o poder,
+
+431
+00:46:29,920 --> 00:46:35,520
+o que constitui o poder, de onde vem o poder, porque o poder tem essa força toda, digamos assim,
+
+432
+00:46:35,600 --> 00:46:42,160
+ele não se preocupa com isso, e é de caso pensado, né, então, pra ele, Reckin, a ontologia
+
+433
+00:46:42,160 --> 00:46:46,240
+histórica deve se preocupar em descrever, entender de que modos, conceitos, objetos,
+
+434
+00:46:46,240 --> 00:46:52,080
+são alterados historicamente, né, como então, objetos que têm uma história, né,
+
+435
+00:46:55,360 --> 00:47:04,800
+e a gente tem que tentar entender isso, né, e aí ele diz assim, porque que a ontologia histórica
+
+436
+00:47:04,800 --> 00:47:12,720
+não é apenas história, e aí é um problema importante, né, ele diz assim, bom, ele diz assim,
+
+437
+00:47:12,720 --> 00:47:16,720
+o problema da edição do Rio me sugere que esse problema tem uma dimensão histórica, ou seja,
+
+438
+00:47:18,000 --> 00:47:23,280
+a gente é, mantê uma dimensão filosófica, perdão, ou seja, por que que a generaliza,
+
+439
+00:47:24,400 --> 00:47:30,080
+né, por que que a generaliza? A gente, né, a gente generaliza, então, por que? Então, isso,
+
+440
+00:47:30,800 --> 00:47:35,440
+né, faz com que a dimensão histórica não seja suficiente pra dar conta
+
+441
+00:47:36,160 --> 00:47:40,240
+do análise que ele, Reckin, quer fazer, né, então, como eu disse lá no início,
+
+442
+00:47:40,240 --> 00:47:44,480
+ele nunca se considera um historiador, inclusive ele diz, ó, talvez eu fosse um mau historiador,
+
+443
+00:47:44,480 --> 00:47:52,800
+caso eu me considerasse como tal, ou fosse considerado como tal, né, então, é, o Reckin tá assim,
+
+444
+00:47:52,880 --> 00:48:04,240
+ele tá interessado em perceber como as coisas, e quando, como e quando, perdão, as coisas se
+
+445
+00:48:04,240 --> 00:48:10,400
+generalizaram, ele não quer explicar por que se generalizaram, mas ele quer entender como e quando
+
+446
+00:48:10,400 --> 00:48:15,680
+as coisas se analisaram, mais uma vez aqui a gente percebe um compromisso com o que eles chamavam
+
+447
+00:48:15,680 --> 00:48:22,160
+de uma versão historicizada da análise filosófica britânica dos anos 30, que é a escola,
+
+448
+00:48:22,240 --> 00:48:27,440
+na escola de forma, quer dizer, décadas depois, né, mas é quando o Victor Quintain tá atuando,
+
+449
+00:48:27,440 --> 00:48:35,040
+é antes, quando Reckin começa a entrar no cenário, né, ou seja, é uma análise conceitual que é
+
+450
+00:48:35,040 --> 00:48:41,840
+concebida como análise às palavras nos lugares em que elas, palavras, se encontram, né, então,
+
+451
+00:48:41,840 --> 00:48:49,600
+pra ele, o universal não é intemporal, é histórico, e ele assim, o universal, e os seus casos
+
+452
+00:48:49,600 --> 00:48:55,360
+particulares, e ele vai dar dois exemplos bastante eloquentes, as crianças ou as vítimas de trauma
+
+453
+00:48:55,360 --> 00:49:00,720
+são formados e alterados na medida em que o universal é mestre, são palavras o Reckin,
+
+454
+00:49:00,720 --> 00:49:05,120
+então, ainda continuando com o próprio Reckin, tem o chamado esse processo, e esse é uma expressão
+
+455
+00:49:05,120 --> 00:49:10,720
+importante, nominalismo dinâmico, ele é assim que se constrói, um nominalismo dinâmico, porque
+
+456
+00:49:10,720 --> 00:49:16,720
+ele conecta fortemente o que passa a existir com a dinâmica histórica de nomear e o uso posterior
+
+457
+00:49:16,720 --> 00:49:25,040
+de nome, em outras palavras, e aí brincando um pouco com ideias também já conhecidas, eu diria que a
+
+458
+00:49:25,040 --> 00:49:32,080
+existência precede a essência, somos constituídos por aquilo que fazemos, somos o que fazemos, né,
+
+459
+00:49:32,080 --> 00:49:40,160
+bom, então, ou seja, tudo isso aqui também para caracterizar um pouco o que o Reckin faz, é um
+
+460
+00:49:40,240 --> 00:49:46,320
+processo dinâmico que analisa conceitos para entender como eles surgem, quando surgem, né, e
+
+461
+00:49:46,320 --> 00:49:51,680
+claro, e quais são os efeitos que esses, que as transformações, quer dizer, nós nos transformamos,
+
+462
+00:49:51,680 --> 00:49:56,400
+os homens humanos transformam, os nossos conhecimentos se transformam, pouco importa se não é boa, uma
+
+463
+00:49:56,400 --> 00:50:00,480
+direção se não interessa, não cabe a ele julgar, né, pessoalmente lembra, se assim é, no caso das
+
+464
+00:50:00,720 --> 00:50:04,400
+menos ainda, bom, é
+
+465
+00:50:08,080 --> 00:50:13,840
+uma outra coisa que talvez também para caracterizar o Reckin, o Reckin era um filósofo
+
+466
+00:50:14,720 --> 00:50:19,520
+bastante curioso, porque, por exemplo, ele não era, não sei, que só trabalhava com livros e
+
+467
+00:50:19,520 --> 00:50:24,640
+ativos, nas bibliotecas, no gabinete, não, o Reckin, para escrever e representar a intervia,
+
+468
+00:50:25,200 --> 00:50:29,040
+ele entrou em contato com o grupo de físicos, ele foi para o laboratório de física,
+
+469
+00:50:29,120 --> 00:50:33,680
+para ver que os caras faziam, não como o Latour, para fazer uma antropologia da prática científica,
+
+470
+00:50:34,400 --> 00:50:39,440
+mas para ver como é que, como é que eles falavam, quais eram os conceitos que eles utilizavam,
+
+471
+00:50:39,440 --> 00:50:44,880
+o que que eles acreditavam estar fazendo ali, né, o Reckin, e isso é uma das grandes contribuições
+
+472
+00:50:44,880 --> 00:50:52,880
+que deu a filósofa da ciência, foi o fato de que ele colocou na agenda da filosofia experimento
+
+473
+00:50:52,880 --> 00:51:01,120
+e laboratório, né, ou seja, ele, como que inverte uma ideia que era muito, é, muito comum
+
+474
+00:51:01,120 --> 00:51:05,840
+e que, por exemplo, CUM foi um grande representante dessa ideia, qual a teoria mais importante que
+
+475
+00:51:05,840 --> 00:51:12,000
+a experiência, o escritório do Einstein é mais importante que o laboratório do Rotorford
+
+476
+00:51:12,000 --> 00:51:19,920
+e Cambridge, e a gente sempre pega as estruturas de evoluções científicas, quais são as grandes
+
+477
+00:51:19,920 --> 00:51:24,480
+evoluções, aquelas que, bom, quanto a mim, de fato, que o CUM dizia, isso é revolução,
+
+478
+00:51:24,480 --> 00:51:29,840
+aqui esse termo pode ser utilizado, é Darwin, é Newton, é Einstein, é Lavoisier,
+
+479
+00:51:30,560 --> 00:51:33,760
+pouco mais, acho que lá eu, você não me falha a memória, já não me lembro, eu não sou
+
+480
+00:51:33,760 --> 00:51:38,880
+cintão dos nomes, cara, ele fala, pode existir pequenas revoluções, mas os nomes que ele cita
+
+481
+00:51:38,880 --> 00:51:46,320
+são esses, né, então pro Reckin não, o Reckin não está preocupado, o Reckin não acha isso,
+
+482
+00:51:46,400 --> 00:51:52,080
+o Reckin valoriza a experiência, só vamos, mais daqui a pouquinho, comentar muito brevemente
+
+483
+00:51:52,080 --> 00:52:01,040
+o representar intervir, pra ver que ele propõe uma inversão, né, bom, vamos chegar lá, bom,
+
+484
+00:52:02,800 --> 00:52:09,040
+então, bom, então assim, como eu dizia, eu vou ler aqui um trecho só pra ganhar tempo, né, porque
+
+485
+00:52:09,360 --> 00:52:16,080
+assim, são muitos os assuntos, então ele diz assim, Reckin se denomina ou se classifica como
+
+486
+00:52:16,080 --> 00:52:19,760
+um nominalista dinâmico, como eu já tinha mencionado, e que também essa italia se chama
+
+487
+00:52:19,760 --> 00:52:26,080
+de realista dialético, ou seja, aparentemente, os termos, os conceitos, não vai brigar por isso,
+
+488
+00:52:26,480 --> 00:52:35,520
+né, ou seja, Reckin procura conciliar o tal nominalismo dinâmico, que eu escrevi, espereu de uma forma
+
+489
+00:52:35,600 --> 00:52:39,760
+compreensível, com o chamado realismo de entidade, que é o que nós vamos mencionar daqui a pouquinho,
+
+490
+00:52:39,760 --> 00:52:45,440
+que é o tema, digamos assim, do livro representar intervir, então repetindo, Reckin procura
+
+491
+00:52:45,440 --> 00:52:50,000
+conciliar o nominalismo dinâmico, com realismo de entidade, já que se interessa pela interação,
+
+492
+00:52:50,000 --> 00:52:55,680
+entre a classificação e os indivíduos classificados, né, voltemos àquela ideia do natural kinds,
+
+493
+00:52:56,240 --> 00:53:02,720
+existem tipos que podem ser, que só possam a influência das classificações, nós, por exemplo,
+
+494
+00:53:03,360 --> 00:53:09,040
+e outros objetos, outras coisas, digamos assim, que não sofrem, elétrons, por exemplo,
+
+495
+00:53:10,400 --> 00:53:14,320
+ontologia histórica acompanha esse nominalismo dinâmico, uma vez que a primeira ontologia
+
+496
+00:53:14,320 --> 00:53:19,200
+histórica se ocupa com as formas, segundo as quais as possibilidades de eleição a ser
+
+497
+00:53:19,200 --> 00:53:26,880
+aparece, de ser, perdão, aparece, então, por exemplo, comentando a sua própria sobre estatística,
+
+498
+00:53:26,960 --> 00:53:31,680
+Reckin diz o seguinte sobre a obra, ela não é tanto sobre o pensamento atual
+
+499
+00:53:32,400 --> 00:53:37,920
+relativo à estatística, ela é mais sobre como nós acabamos por viver em um universo
+
+500
+00:53:37,920 --> 00:53:43,840
+acaso de probabilidade, no qual pensamos tudo e qualquer coisa em termos de probabilidade,
+
+501
+00:53:43,840 --> 00:53:49,920
+nós vivemos em um mundo de probabilidade, não havia um tal mundo no século 17, eu estou interessado
+
+502
+00:53:49,920 --> 00:53:56,320
+em saber como foi que surgiu uma tamanha modificação na nossa concepção de universo,
+
+503
+00:53:56,400 --> 00:54:07,360
+fim de situação. Bom, então, assim, agora, digamos assim, claro, muitas coisas foram ditas
+
+504
+00:54:07,360 --> 00:54:12,800
+em grande parte, a partir da minha preocupação em caracterizar o Reckin, usando as suas próprias
+
+505
+00:54:12,800 --> 00:54:19,360
+palavras, arregou para dizer assim, olha só, Reckin é caracterizável, bom, Reckin,
+
+506
+00:54:19,360 --> 00:54:24,640
+ou seja, a gente não deve ler Reckin porque a gente está interessado apenas em um realista
+
+507
+00:54:24,640 --> 00:54:29,200
+de entidades, o que ele era, ou num realista de um homem, isso não interessa, o que eu procurei
+
+508
+00:54:29,200 --> 00:54:35,200
+aqui fazer, estou mais uma vez fazendo propaganda do Reckin, mas é um cara inteligente, se a gente
+
+509
+00:54:35,200 --> 00:54:40,320
+quer, se vocês querem ler gente inteligente, que vai nos mostrar o outro ponto de vista,
+
+510
+00:54:40,320 --> 00:54:45,280
+de uma forma irônica, agradável, amigável, leiam o Reckin, porque assim, hoje em dia,
+
+511
+00:54:45,280 --> 00:54:48,560
+a gente entra em contato com o opôsito, outras vezes é muito complicado, né,
+
+512
+00:54:48,640 --> 00:54:53,600
+ele virou uma disputa entre a Tati Paraná e Escuritiba, entre Flamengo e Fluminense,
+
+513
+00:54:53,600 --> 00:54:59,840
+não, nem sempre, não precisa ser assim, em filosofia não deveria ser assim, não deveria ser
+
+514
+00:54:59,840 --> 00:55:05,680
+assim, né, a filosofia fica brigando por bandeiras, é de uma pobreza horrorosa, na minha opinião,
+
+515
+00:55:05,680 --> 00:55:11,920
+desculpa, esse desabafo, digamos assim, bom, então vamos falar agora desse tal realismo científico,
+
+516
+00:55:11,920 --> 00:55:19,440
+desse realismo, que é aquilo que o nosso amigo Reckin, pelo qual, pelo que ele ficou conhecido,
+
+517
+00:55:19,440 --> 00:55:27,840
+que está aqui magistralmente apresentado nesse livro, que eu recomendo a leitura, né, é um livro
+
+518
+00:55:27,840 --> 00:55:34,960
+fascinante, muito, muito bom, é um livro curioso, né, porque é um livro que consta de três partes,
+
+519
+00:55:34,960 --> 00:55:43,200
+uma parte que é a parte A dedicada à representação, ao representar, ao representando,
+
+520
+00:55:43,200 --> 00:55:50,240
+a um break, que é o tempo de uma pausa, um interlúdio, e depois vem a parte B, e ele diz, olha, a
+
+521
+00:55:50,240 --> 00:55:55,040
+parte A e a parte B não tem nada a ver uma coisa com a outra, a parte A é negativa, destrutiva,
+
+522
+00:55:55,040 --> 00:56:00,240
+a parte B é construtiva, então a parte B, onde ele trata do tema da intervenção do laboratório,
+
+523
+00:56:01,200 --> 00:56:09,680
+e são de fato, são partes muito diferentes, é claro que vale a pena ler o livro na sua ordem,
+
+524
+00:56:12,240 --> 00:56:19,440
+mesmo porque aprende um mantíssimo, é assim, ele diz, é um livro de introdução, foi um livro
+
+525
+00:56:19,440 --> 00:56:23,520
+que ele escreveu quando ele foi professor em Stanford, nos final dos anos 70, anos 80, depois
+
+526
+00:56:23,520 --> 00:56:28,800
+ele sai, esse tempo, ele não passou muitos anos em Stanford, ele vai embora de Stanford,
+
+527
+00:56:28,800 --> 00:56:35,440
+e ele era um curso que ele dava para os alunos de Filosofia da Ciência, sendo que naquela altura
+
+528
+00:56:35,440 --> 00:56:38,480
+de Filosofia da Ciência do Estados Unidos era uma matéria obrigatória para todos os alunos,
+
+529
+00:56:38,480 --> 00:56:42,880
+ele provavelmente tinha diante de si uma assistência constituída composta por pessoas
+
+530
+00:56:42,880 --> 00:56:47,520
+dos mais diferentes cursos, não apenas filosofia, eufísico, química, não, podia ter gente de
+
+531
+00:56:47,520 --> 00:56:56,000
+contabilidade ali, não é um livro trivial, é um livro que ao mesmo tempo, é de novo a dialética
+
+532
+00:56:56,000 --> 00:57:02,560
+do Reck, que pressupõe muito conhecimento, mas ao mesmo tempo ensina muito isso, é um livro com
+
+533
+00:57:02,560 --> 00:57:09,920
+muita informação, aprende-se muito lendo esse livro, é assim, ele fala do Putnam, ele fala do
+
+534
+00:57:09,920 --> 00:57:16,160
+Kripke, ele fala do Gunn, ele fala do Karnat, ele fala do Rampel, ele fala de muita gente,
+
+535
+00:57:16,160 --> 00:57:23,600
+como se diz hoje de uma cabeçada, mas sem explicar, sem entrar, porque ele não fica
+
+536
+00:57:23,600 --> 00:57:28,880
+falando quais são as ideias do Kripke, onde ele estudou, de onde ele se originou, um pouco
+
+537
+00:57:28,880 --> 00:57:39,000
+do que eu fiz, ele fala sobre o tema que interessa, por exemplo, qual é a grande tese na primeira
+
+538
+00:57:39,000 --> 00:57:45,320
+parte, essa parte destrutiva que se quiserem, segundo ele, nós podemos pular, fundamentalmente
+
+539
+00:57:45,320 --> 00:57:51,640
+é uma parte que ele, na qual ele procura assim, que ele é só, se nós quisermos propositivas
+
+540
+00:57:51,640 --> 00:57:56,440
+com relação ao realismo, ou seja, nós quisermos dizer por que que o realismo é uma boa posição
+
+541
+00:57:56,440 --> 00:58:00,680
+filosófica, epistemológica e metafísica, porque para ele o realismo é uma questão
+
+542
+00:58:00,680 --> 00:58:05,160
+metafísica, nós temos que justamente reconhecer que o realismo é uma questão metafísica
+
+543
+00:58:05,160 --> 00:58:10,520
+e não apenas epistemológica, ou seja, o modo pelo qual a filosofia tem organizado os seus
+
+544
+00:58:10,520 --> 00:58:16,920
+argumentos em favor do realismo é inconsequente, é ineficiente, é inócuo, não vai levar
+
+545
+00:58:16,920 --> 00:58:22,200
+a lugar nenhum, ou seja, não é para uma análise do conceito de representação, ou para os
+
+546
+00:58:22,200 --> 00:58:28,720
+mecanismos que nos levam a produzir representações, que nós vamos conseguir, perdão, oferecer
+
+547
+00:58:28,720 --> 00:58:35,400
+uma resposta favorável, positiva para o realismo, não, esqueça, não vai dar certo, a representação
+
+548
+00:58:35,400 --> 00:58:41,480
+é roubada, que é isso que ele diz na primeira parte, só que ele pode dizer isso, ele fala
+
+549
+00:58:41,480 --> 00:58:48,200
+do CUM, ele fala do CRIP, que ele fala do PATAM, ele fala do LOUDON, ele fala do LAKATUS,
+
+550
+00:58:48,200 --> 00:58:55,800
+ele fala do FAYERABEN, ou seja, ele movimenta muita gente, é um livro com o qual se pode
+
+551
+00:58:55,800 --> 00:59:02,400
+aprender muito e de fato se pode utilizar no curso de introdução da filosofia de
+
+552
+00:59:02,400 --> 00:59:06,600
+presidência. Existe muito do professor, da pessoa responsável pela disciplina, também
+
+553
+00:59:06,600 --> 00:59:16,960
+dos alunos, mas principalmente do professor. Bom, é, então assim, aquilo que vai defender
+
+554
+00:59:16,960 --> 00:59:22,080
+o realismo, aquilo que vai dizer que o realismo é uma posição é consistente, coerente,
+
+555
+00:59:22,080 --> 00:59:29,640
+interessante, é a intervenção, é a manipulação que se dá em laboratório, não é, nem observação
+
+556
+00:59:29,760 --> 00:59:35,440
+de um astrônomo, é até eu vou ler, se não enchermos tempo, vou ler como ele fecha o
+
+557
+00:59:35,440 --> 00:59:40,040
+livro, inclusive, assim, para ver como é que a gente tem que tomar cuidado quando a gente
+
+558
+00:59:40,040 --> 00:59:44,900
+quer julgar, ou seja, prever, antecipar o desenvolvimento da ciência. Lembre-se, esse
+
+559
+00:59:44,900 --> 00:59:51,440
+livro é publicado em 83, em inglês, e, infelizmente, demorou muito tempo a ser traduzido em português,
+
+560
+00:59:51,440 --> 00:59:55,720
+aliás, na verdade, a tradução só se deu porque eu resolvi usar esse livro na UERG,
+
+561
+00:59:55,840 --> 01:00:04,840
+isso no final dos anos 90, e tinha um aluno que, sabeis, e que graciosamente resolveu traduzir
+
+562
+01:00:04,840 --> 01:00:12,840
+o livro, e o livro só conseguiu ser publicado muitos anos depois, se ninguém recebeu nada.
+
+563
+01:00:12,840 --> 01:00:18,840
+O REC escreveu um prefácio para o próprio tradução brasileira, eu pedia ele para escrever,
+
+564
+01:00:18,960 --> 01:00:26,960
+ele muito profissionalmente escreveu um prefácio, vale a pena ler, mas, então, mas é um livro
+
+565
+01:00:26,960 --> 01:00:33,480
+de 83. Nesse momento, havia um enorme debate sobre o realismo, enorme debate, era o tema
+
+566
+01:00:33,480 --> 01:00:37,480
+da moda, o tema mais quente entre os filósofos da ciência, não apenas entre o filósofo
+
+567
+01:00:37,480 --> 01:00:42,680
+da linguagem, entre os filósofos analíticos, mas na fluvidência era a questão do realismo
+
+568
+01:00:42,680 --> 01:00:52,680
+em grande parte devido a tese que Kuhn e Feyeramen teriam defendido e que muitos, rapidamente,
+
+569
+01:00:52,680 --> 01:01:01,680
+em uma forma muito insuficiente, tinham uma tese que teria sido defendida pelos dois pelo
+
+570
+01:01:01,680 --> 01:01:05,240
+Kuhn e Feyeramen e que colocaria em cheque o realismo, é chamada tese em começabilidade,
+
+571
+01:01:05,240 --> 01:01:11,760
+que tem milhões de versões, que gerou muita confusão, muita discussão, muita análise,
+
+572
+01:01:11,760 --> 01:01:18,680
+mas o fato é que, nesse momento, o realismo estava, digamos assim, sob ataque. E, claro,
+
+573
+01:01:18,680 --> 01:01:25,080
+o realismo é uma posição extremamente importante para a ciência, são poucos cientistas,
+
+574
+01:01:25,080 --> 01:01:30,720
+que, em alto e bom som, de público, têm coragem de dizer que não são realistas. Bom,
+
+575
+01:01:30,720 --> 01:01:39,640
+então, o livro, assim, e Reckin, assim, ele tem uma, assim, para a gente fazer sucesso,
+
+576
+01:01:39,640 --> 01:01:45,360
+também, em filosofia, a gente precisa ter, saber construir frases, ao mesmo tempo, saber
+
+577
+01:01:45,360 --> 01:01:51,080
+escrever, saber convencer é importante. Comecer com inteligência, com graça, não é,
+
+578
+01:01:51,080 --> 01:01:57,600
+convencer de maneiras equivocadas, mas, então, tem uma frase que está associada a esse livro
+
+579
+01:01:57,600 --> 01:02:02,440
+e ao pensamento do Reckin nessa etapa, não sei se vocês já ouviram falar, uma frase,
+
+580
+01:02:02,440 --> 01:02:06,600
+quase que é um jogo, andaria para um, daria para colocar em uma camiseta, que é assim,
+
+581
+01:02:06,600 --> 01:02:14,640
+a experiência tem vida própria. Ou seja, a experiência depende da teoria, isso é muito
+
+582
+01:02:14,640 --> 01:02:21,440
+importante, porque, de novo, a experiência não precede a teoria, ela pode ser independente.
+
+583
+01:02:21,440 --> 01:02:25,640
+Numa visão tradicional, onde a teoria está valorizada, a gente pensa que a experiência
+
+584
+01:02:25,640 --> 01:02:34,560
+foi concebida para provar as ideias. Então, por exemplo, eu não sei se, sim, por exemplo,
+
+585
+01:02:34,560 --> 01:02:37,560
+que vem a cabeça, eu não pensei para ela me ver a cabeça. Ontem você foi anunciado
+
+586
+01:02:37,560 --> 01:02:43,920
+para enrolar a audiofísica, três físicos ganhados, uma franco-sueca, um francês que
+
+587
+01:02:43,920 --> 01:02:49,160
+está nos Estados Unidos e um número que está na Alemanha, um número alemão. Então,
+
+588
+01:02:49,160 --> 01:02:55,240
+os três ganham, porque eles conseguem fotografar muito rápido, também, muito rapidamente,
+
+589
+01:02:55,240 --> 01:03:07,040
+ato-segundos, em uma escala de tempo absurdamente pequena, movimento selétrico. O Press Release,
+
+590
+01:03:07,040 --> 01:03:12,760
+que a academia Nobel escreveu para justificar a concessão do prêmio aos três, começa
+
+591
+01:03:12,760 --> 01:03:18,600
+a falar do Reiser em 25, quando ele propõe lá o famoso artigo da mecânica matricial,
+
+592
+01:03:18,600 --> 01:03:22,400
+da mecânica das matríticas, que vai dar início a chamar da mecânica quântica, vendo assim,
+
+593
+01:03:22,400 --> 01:03:27,520
+há coisas que não são observáveis. O que esses caras fizeram foi observar aquilo que
+
+594
+01:03:27,520 --> 01:03:35,840
+para o Reiser em princípio é inobservável. Ou seja, os caras não estão preocupados
+
+595
+01:03:35,840 --> 01:03:40,640
+em criticar o Reiser, quem faz essa relação é lá o pessoal da academia de ciências
+
+596
+01:03:40,640 --> 01:03:46,480
+na Suécia, mas o fato é que os caras estavam interessados em entender outras coisas, avançar
+
+597
+01:03:46,480 --> 01:03:51,880
+de forma diferente. Não estava na cabeça dos três, muitos outros, claro, três ganham,
+
+598
+01:03:51,880 --> 01:03:55,800
+mas é um trabalho de dezenas de pessoas em várias etapas diferentes e muitos lugares
+
+599
+01:03:55,800 --> 01:04:00,520
+diferentes, mas o fato é que eles não estão interessados, assim, a teoria não foi aquela
+
+600
+01:04:00,520 --> 01:04:05,240
+técnica, eles ganham mais pela técnica do que pelos Reis Estados Empínicos, eles
+
+601
+01:04:05,240 --> 01:04:12,160
+tornaram possível fotografia de átomos, de elétrons, perdão. Não foi para criticar
+
+602
+01:04:12,160 --> 01:04:17,560
+o Reiser, para negar o Reiser, para dizer que o Reiser está errado, não, foi para tentar
+
+603
+01:04:17,560 --> 01:04:24,680
+entender, e foi meio intervê-se um acaso aí, ou seja, tem a contingência. Essa é uma
+
+604
+01:04:24,680 --> 01:04:28,600
+história interessante que até onde eu pude perceber, do que eu rapidamente vi ontem,
+
+605
+01:04:28,600 --> 01:04:39,880
+cai bem nesse espírito que o Reikin quer defender. Bom, então, ou seja, voltando um
+
+606
+01:04:39,880 --> 01:04:45,960
+pouco, aqui é algumas coisas que eu já disse, repetindo, o realismo teórico que analisa
+
+607
+01:04:45,960 --> 01:04:51,640
+que tem que a representação como alvo central é incapaz de ganhar a batalha contra o anti-realismo.
+
+608
+01:04:51,640 --> 01:04:56,280
+Reikin, como eu já disse, mas uma vez se apresenta em favor do realismo científico. A sua noção
+
+609
+01:04:56,280 --> 01:05:02,360
+central em favor do realismo não é a referência, né, mas se é a manipulação do âmbito de
+
+610
+01:05:02,360 --> 01:05:07,000
+sua defesa de que as entidades já físicas existem. Ou seja, Reikin, por exemplo, não se interessa
+
+611
+01:05:07,000 --> 01:05:11,880
+pela verdade. Então, assim, ou seja, já discutindo se a noção de verdade é adotada pela ciência
+
+612
+01:05:11,880 --> 01:05:15,920
+de correspondência, tendo um lado a representação, do outro lado tem o mundo, e eu tenho que
+
+613
+01:05:15,920 --> 01:05:19,520
+ver se as duas coisas correspondem, a representação e o mundo, ele não se interessa por isso.
+
+614
+01:05:19,520 --> 01:05:26,720
+Ele não vai levar a lugar nenhum. Tudo isso é discutido pela parte do livro. Bom, então,
+
+615
+01:05:26,720 --> 01:05:37,360
+Reikin, aqui, eu disse a vocês que eu leria, podemos ler vários trechos, mas eu vou ler
+
+616
+01:05:37,360 --> 01:05:48,480
+só um, só para, assim, mostrar como é problemático, né, a fluidofia da ciência querer determinar
+
+617
+01:05:48,480 --> 01:05:59,360
+os rumos da ciência. Então, ele diz assim... Então, ele está falando lá, esse é o último
+
+618
+01:05:59,360 --> 01:06:08,080
+parágrafo do livro, olha, 384 da edição brasileira. Então, ele está, ou seja, o Reikin
+
+619
+01:06:08,080 --> 01:06:11,400
+dizia o seguinte, como é que o Reikin chegou a ser ideia de que as entidades existam? Eu
+
+620
+01:06:11,400 --> 01:06:16,560
+falei a vocês que ele foi para um laboratório de físicas, de partículas. Na verdade, a gente
+
+621
+01:06:16,560 --> 01:06:22,040
+visitou mais de um laboratório. Mas, muito sinteticamente, devido ao tempo que nós
+
+622
+01:06:22,040 --> 01:06:28,680
+temos, ele foi para um laboratório onde estava sentando provar a existência de quartos.
+
+623
+01:06:28,680 --> 01:06:39,560
+Quartes eram, são consideradas as partículas elementares fundamentais que constituem outras
+
+624
+01:06:39,560 --> 01:06:45,560
+partículas como emproto e neutro. Os quartos foram propostos teoricamente, ou seja, a sua
+
+625
+01:06:45,560 --> 01:06:50,480
+existência foi proposta para tentar organizar o universo as partículas elementares e as
+
+626
+01:06:50,480 --> 01:06:55,320
+pessoas ressonances, que são partículas, que são ressonances, coisas que vivem muito
+
+627
+01:06:55,320 --> 01:07:02,040
+rapidamente, não são estáveis. Isso tudo assim, em 64, há quase 60 anos atrás. Na
+
+628
+01:07:02,040 --> 01:07:14,080
+quela altura, era uma confusão enorme em um das partículas e o programa era reducionista.
+
+629
+01:07:15,080 --> 01:07:20,400
+Ou seja, temos que ter poucas partículas para organizar essa complexidade, ou seja,
+
+630
+01:07:20,400 --> 01:07:25,400
+na base a complexidade está a simplicidade. Bom, e o hacking? Perdão, e aí, perdão
+
+631
+01:07:25,400 --> 01:07:32,600
+o hacking, mas dois físicos, norte-americanos, o Gellman e o Tsvai, que propuseram a existência
+
+632
+01:07:32,600 --> 01:07:35,840
+de quartes. Assim, muito rapidamente, é uma história muito mais complexa, muito mais
+
+633
+01:07:35,840 --> 01:07:43,480
+interessante, mas, bom, e os quartes, eles, assim, a sua existência não foi comprovada
+
+634
+01:07:43,480 --> 01:07:47,680
+na única vez. Foram vários momentos muito importantes na história das partículas e
+
+635
+01:07:47,680 --> 01:07:56,080
+comprovar a existência do Quark. Nesse momento, é, nesse momento, que ele
+
+636
+01:07:56,080 --> 01:08:02,960
+reague em 30 anos e 70, final de anos e 70, segunda-feira de 1970, ele vai para um laboratório
+
+637
+01:08:02,960 --> 01:08:08,240
+que está, como eu dizia, interessado, mais, e propôr uma prova de que os quartes existam.
+
+638
+01:08:08,240 --> 01:08:14,600
+Então, o que eles faziam? O que eles faziam, os físicos? Pegavam uma gota de nióbio, metal,
+
+639
+01:08:14,600 --> 01:08:20,280
+muito falado, pouco tempo atrás, nesse país, né? Havia gente muito interessada em nióbio.
+
+640
+01:08:20,280 --> 01:08:24,480
+E o que eles fariam? Eles iam pegar positrons que é antipartícula do elétron, ou seja,
+
+641
+01:08:24,480 --> 01:08:28,800
+é uma partícula tal, quase tal, qual é, a prevenção da carga elétrica. Vocês sabem
+
+642
+01:08:28,800 --> 01:08:32,680
+que o elétron tem uma carga elétrica negativa e o posito tem uma carga elétrica positiva.
+
+643
+01:08:32,680 --> 01:08:38,760
+Então, eles iam pegar um feixe de positrons e iam bombardear a gota de nióbio com os positrons.
+
+644
+01:08:38,760 --> 01:08:44,640
+Pra quê? Eles, qual é o efeito que eles gostariam de observar? Eles gostariam de observar que
+
+645
+01:08:44,640 --> 01:08:50,480
+a superfície da gota de nióbio teria cargas elétricas diferentes, não seria uma carga
+
+646
+01:08:50,480 --> 01:08:59,560
+única. E eles explicariam os físicos a existência dessas cargas elétricas diferentes na gota
+
+647
+01:08:59,680 --> 01:09:03,200
+de nióbio, na superfície da mesma gota de nióbio, por meio dos quartos. Por quê?
+
+648
+01:09:03,200 --> 01:09:07,880
+Porque uma das propriedades dos quartos é que eles têm cargas elétricas fracionárias,
+
+649
+01:09:07,880 --> 01:09:13,440
+mais um terço, menos um terço. Os quartos têm propriedades muito estranhas, são objetos
+
+650
+01:09:13,440 --> 01:09:19,000
+estranhíssimos, mais do que o elétron. Bom, e uma das propriedades dos quartos é justamente
+
+651
+01:09:19,000 --> 01:09:23,080
+ter cargas elétricas fracionárias. Então, eles querem explicar isso. O Reckend diz
+
+652
+01:09:23,080 --> 01:09:30,840
+olha, o Reckend diz olha, eu não sei se vocês vão explicar a existência caso esse efeito
+
+653
+01:09:30,840 --> 01:09:36,680
+seja aprovado por meio dos quartos, porque é possível pensar em um outro tipo de explicação,
+
+654
+01:09:36,680 --> 01:09:40,360
+é possível inventar, criar um outro tipo de explicação pra explicar esse efeito. Então,
+
+655
+01:09:40,360 --> 01:09:43,720
+o Reckend pluralista, no que diz respeito, mas possibilidades explicativas do mesmo
+
+656
+01:09:43,720 --> 01:09:48,400
+efeito. Agora, eu não sei se os quartos existem, mas por outro lado eu sei que os positrons
+
+657
+01:09:48,400 --> 01:09:54,120
+existam. Porque vocês pegaram positos, atribuíram propriedades aos positos,
+
+658
+01:09:54,120 --> 01:09:58,280
+acreditam que essas propriedades existem nos prósitos, então, reacrisem na causalidade,
+
+659
+01:09:58,280 --> 01:10:03,720
+por quê? Porque esses prósitos com as propriedades que possuem vão causar alguma coisa, vão
+
+660
+01:10:03,720 --> 01:10:10,880
+provocar o surgimento de alguma coisa na gouta do Niob, estas regiões com cargas elétricas
+
+661
+01:10:10,880 --> 01:10:16,520
+com valores diferentes. Então, o Reckend diz, eu não sei se os quartos existem, eu sei
+
+662
+01:10:16,520 --> 01:10:21,600
+que os positos existem, porque eu fui capaz de manipulá-los, eu fui capaz de utilizá-los
+
+663
+01:10:21,600 --> 01:10:29,760
+para alcançar um efeito que eu previ. Que eu quis, o que acontecesse. Então, daí
+
+664
+01:10:29,760 --> 01:10:35,960
+a ideia da manipulação da intervenção. Bom, e aí, ao final, aí vocês vejam como
+
+665
+01:10:35,960 --> 01:10:44,640
+as coisas são interessantes. Para terminar, gostaria de confessar certo seticismo acerca
+
+666
+01:10:44,640 --> 01:10:51,360
+da identidade do tipo dos buracos negros. Suspeito que pode ser criada outra representação
+
+667
+01:10:51,360 --> 01:10:56,040
+para o universo e, igualmente, consistente com os fenômenos na qual os buracos negros
+
+668
+01:10:56,040 --> 01:11:03,640
+não seriam necessários. Compartilhe daquele certo desprezo laibinciano pelos poderes ocultos,
+
+669
+01:11:03,640 --> 01:11:09,440
+como aquele manifesto contra a gravidade antoniana, que, por mais que incomodasse nilto, nunca
+
+670
+01:11:09,520 --> 01:11:15,480
+se conseguiu provar que não atueria a distância. Demorou dois séculos para descobrir se a crítica
+
+671
+01:11:15,480 --> 01:11:21,280
+de Lymes estava correta. O Ether de Nilton também era oculto por excelência. Aprendemos
+
+672
+01:11:21,280 --> 01:11:26,520
+muito por meio dele. Maxwell desenvolveu seus trabalhos a respeito das ondas eletromagnéticas
+
+673
+01:11:26,520 --> 01:11:32,040
+no Ether, e Hertz confirmou o Ether pela demonstração da existência das ondas de rádio.
+
+674
+01:11:32,040 --> 01:11:36,240
+Michelson inventou uma maneira de interagir com o Ether e achou que esse seu experimento
+
+675
+01:11:36,240 --> 01:11:43,200
+confirmava a teoria do arrastamento do Ether de Stokes. Mas, no fim das contas, ela, a
+
+676
+01:11:43,200 --> 01:11:48,400
+experiência de Michelson, acabou contribuindo para que o Ether fosse abandonado. Por quem?
+
+677
+01:11:48,400 --> 01:11:51,160
+Por Einstein noze cinco, quando ele propõe a realidade restrita.
+
+678
+01:11:51,160 --> 01:12:00,320
+Então, e aí, é o fechamento do livro. Para um sético como eu, resta apenas uma tímida
+
+679
+01:12:00,360 --> 01:12:07,720
+conclusão. Dois pontos. Entidades teóricas de vida muito longa e que acabam não sendo
+
+680
+01:12:07,720 --> 01:12:16,040
+manipuladas tendem, comumente, a ser descartadas como grandes enganos. Ou seja, naquela altura
+
+681
+01:12:16,040 --> 01:12:22,520
+de 83, os bracos negros já eram falados a quase meio seco. Uma pessoa que discutiu
+
+682
+01:12:22,520 --> 01:12:26,720
+bracos negros, em termos teóricos, é claro, é um sujeito também está muito batalado
+
+683
+01:12:26,720 --> 01:12:30,440
+hoje em dia, porque é um filme que está passando no cinema sobre ele, que é o Open
+
+684
+01:12:30,440 --> 01:12:38,240
+Heimer. O Robert Open Heimer, um físico norte-americano. Isso, inclusive, está mostrado no filme,
+
+685
+01:12:38,240 --> 01:12:43,680
+não sei se vocês assistiram, ele faz uns cálculos com os estudantes de seu Snyder sobre
+
+686
+01:12:43,680 --> 01:12:50,920
+bracos negros. Que era uma previsão tida como obrigatória da realidade geral do Einstein,
+
+687
+01:12:50,920 --> 01:12:56,640
+que o Einstein não gostava. Aliás, o Einstein detestava algumas das conclusões que o Einstein
+
+688
+01:12:56,760 --> 01:13:00,960
+tem de ser utilizadas como obrigatórias para a sua terria da realidade geral, as ondas
+
+689
+01:13:00,960 --> 01:13:08,400
+gravitacionais e os bracos negros. Agora, recentemente, fotografou-se o buraco negros.
+
+690
+01:13:08,400 --> 01:13:16,160
+Aliás, os bracos negros deram o prêmio Nobel. Então, vocês vêem o que? Você vê como
+
+691
+01:13:16,160 --> 01:13:22,760
+assim, tem que ter que tomar cuidado em ficar dizendo a ciência, jamais fará isso, jamais
+
+692
+01:13:22,760 --> 01:13:28,400
+consiga isso, tem que prestar esse caminho. Não, não, vocês viram. Vocês viram com todo
+
+693
+01:13:28,400 --> 01:13:35,560
+cuidado. Olha, eu não gosto de bracos negros. Etidades, né, repetindo. Etidades teóricas
+
+694
+01:13:35,560 --> 01:13:42,120
+de vida muito longa, tipo, há quase 50 anos, eram mais novos do que eu. Então, velhos
+
+695
+01:13:42,120 --> 01:13:49,560
+assim. E que acabam não sendo manipuladas tendem, comumente, a ser descartadas como
+
+696
+01:13:49,560 --> 01:13:53,080
+grandes enganos como o Héter. E ele fala do Héter porque o Héter, supostamente, foi
+
+697
+01:13:53,080 --> 01:13:58,240
+manipulado por um Hertz, por exemplo, que provou a existência das ondas eletromagnéticas
+
+698
+01:13:58,240 --> 01:14:04,640
+prevista historicamente pelo Maxwell, alguns anos antes. Então, ou seja, vocês vêem como
+
+699
+01:14:04,640 --> 01:14:09,360
+de fato é preciso tomar cuidado. Então, o que também justifica a autocalização que
+
+700
+01:14:09,360 --> 01:14:16,440
+o Hecken fez-se mesmo e que eu apresentei mais ou menos no início da nossa aula de hoje
+
+701
+01:14:16,440 --> 01:14:23,400
+que é, não escrevo por longo prazo, não escrevo, porque é complicado, né? Escrever
+
+702
+01:14:23,400 --> 01:14:28,560
+por longo prazo hoje. Você está escrevendo para quem? Para que mundo? Que mundo é esse
+
+703
+01:14:28,560 --> 01:14:37,400
+que receberá as minhas palavras? Bom, então, continuamos.
+
+704
+01:14:37,400 --> 01:14:46,360
+Um tema que também, Hecken, trabalhou bastante, é os estilos de raciocínio científico,
+
+705
+01:14:46,360 --> 01:14:51,720
+né? Que é uma expressão que ele vai punhar a partir de uma ideia anterior a ele, estilos
+
+706
+01:14:51,720 --> 01:14:57,960
+de pensamento, de um filósofo, perdão, perdão, esqueço, de um historiador da ciência, Alistair
+
+707
+01:14:57,960 --> 01:15:01,800
+Cromby, se ele não me engano, australiano, mas que acabou, bom, obviamente estudando
+
+708
+01:15:01,800 --> 01:15:10,640
+na Inglaterra e fez sua vida aí, ou na Inglaterra ou nos Estados Unidos, né? E ele tomando
+
+709
+01:15:10,640 --> 01:15:15,080
+de empréstimo a ideia do Cromby, ele vai dizer que são seis estilos de raciocínio.
+710
+
+01:15:15,080 --> 01:15:20,600
+Que que é isso? É o que caracteriza a prática científica, de uma certa maneira dá uma organizada
+
+711
+01:15:20,600 --> 01:15:28,320
+na prática científica. Vocês veem, são seis, não existe um estilo, né? Ou seja, e são
+
+712
+01:15:28,320 --> 01:15:33,400
+esses estilos que, muitas vezes, quando aplicadas à ciência, nos permitem compreender o surgimento
+
+713
+01:15:33,400 --> 01:15:43,600
+de características, de conceitos, de marcas registradas da ciência. Então, é, por, então
+
+714
+01:15:43,600 --> 01:15:49,760
+quais são os estilos de raciocínio? Sim, tipo. Primeiro, método simples de postulação,
+
+715
+01:15:49,760 --> 01:15:54,800
+por exemplo, tal como existente nas matemáticas gregas, nas ciências da matemática grega.
+
+716
+01:15:54,800 --> 01:16:01,000
+Então, primeiro, o método simples de postulação. Segundo, construção hipotética de modelos
+
+717
+01:16:01,000 --> 01:16:07,320
+analógicos. Terceiro, ordenação de variedades por comparação e taxonomia, classificação,
+
+718
+01:16:07,320 --> 01:16:13,440
+né? Que é uma coisa que, como eu também já mencionei, ainda que eu não tenha apresentado
+
+719
+01:16:13,440 --> 01:16:17,720
+de forma detalhada, que ele vai fazer em várias das suas obras, né? Quando ele fala sobre
+
+720
+01:16:17,720 --> 01:16:22,000
+autismo, sobre esquizofrenia, esse artigo que eu mencionei, eu estou no Lost in the Forest,
+
+721
+01:16:22,000 --> 01:16:26,400
+ele está preocupado com isso. Com a classificação. Cara, qual, são parentes, qual o grande
+
+722
+01:16:26,400 --> 01:16:32,560
+problema disso? Nós consideramos que a classificação existe no mundo. De fato, o mundo é assim
+
+723
+01:16:32,560 --> 01:16:39,600
+tal como nós estamos classificando. Quarto estilo de raciocínio científico. Análise
+
+724
+01:16:39,600 --> 01:16:45,840
+estatística de regularidades, população, populações perdão e os cálculos de probabilidades.
+
+725
+01:16:45,840 --> 01:16:51,840
+Quinto tema, derivação histórica de desenvolvimento sonético e cês-desenvolvimento experimento.
+
+726
+01:16:51,840 --> 01:16:58,760
+Que é o que ele vai, em grosso modo, fazer na parte B do representável intervio. Então,
+
+727
+01:16:58,760 --> 01:17:01,960
+são, fundamentalmente, talvez três grandes estilos que têm sido os mais trabalhados
+
+728
+01:17:01,960 --> 01:17:06,280
+pelo REC, aquele ligado à probabilidade, aquele segundo ligado à estatística e o terceiro
+
+729
+01:17:06,280 --> 01:17:12,480
+ligado ao experimento ou ao laboratório científico. Os estilos introduzem uma quantidade enorme
+
+730
+01:17:12,480 --> 01:17:18,440
+de novidades, objetos, elementos de prova, ou seja, como se prova uma coisa, como se
+
+731
+01:17:18,440 --> 01:17:23,960
+comprova alguma coisa, leis, possibilidades, tipos de classificação e explicação.
+
+732
+01:17:23,960 --> 01:17:33,160
+Bom, agora, para ele, REC-IN, talvez o estilo mais poderoso, na medida que tornou possível
+
+733
+01:17:33,160 --> 01:17:38,760
+um mundo moderno, é o estilo de laboratório. Que foi o sexto que eu apresentei aqui, desenvolvimento
+
+734
+01:17:38,880 --> 01:17:47,800
+experimento. Então, citando o REC-IN, ele diz assim, nós fazemos fenômenos, nós os isolamos
+
+735
+01:17:47,800 --> 01:17:56,760
+e os purificamos. Isso, para ele, era muito importante. Bom, mas os estilos têm uma outra
+
+736
+01:17:56,760 --> 01:18:04,120
+característica importante. Eles criam seus próprios critérios de verdade. Ou seja, criam
+
+737
+01:18:04,240 --> 01:18:11,320
+os critérios para a sua própria autogistificação, autentificação. Ou seja, de uma instância,
+
+738
+01:18:11,320 --> 01:18:18,840
+a verdade estilo constitui um círculo que poderia ser considerado muito, será convicioso.
+
+739
+01:18:18,840 --> 01:18:30,960
+Não sei se é a melhor cara, porque aparentemente é o modo pelo qual as coisas se dão. Ou
+
+740
+01:18:30,960 --> 01:18:36,880
+seja, para o REC-IN, as ciencias são desunificadas, desunidas, não há possibilidade de unificá-las.
+
+741
+01:18:36,880 --> 01:18:41,920
+Ou seja, é que quando você pode falar o que é, pois lá no início eu falei, a pergunta
+
+742
+01:18:41,920 --> 01:18:48,720
+o que é a ciência, não tem uma resposta. Nós não podemos responder o que é a ciência.
+
+743
+01:18:48,720 --> 01:18:56,000
+Bom, e aí vamos assim para um outro tema, nesses momentos que nos restam, que é um
+
+744
+01:18:56,000 --> 01:19:02,720
+tema muito importante, que de uma certa maneira, é um tema que tornou o REC-IN popular. Quer
+
+745
+01:19:02,720 --> 01:19:09,840
+dizer, REC-IN é um filósofo, digamos assim, que ultrapassou as fronteiras, não apenas
+
+746
+01:19:09,840 --> 01:19:14,800
+da filosofia da ciência ou da filosofia matemática, da filosofia da lógica, mas também chegou
+
+747
+01:19:14,800 --> 01:19:24,480
+a médicos, a outras pessoas do universo acadêmico e mesmo fora. Quando a gente escreve para um
+
+748
+01:19:24,560 --> 01:19:29,280
+artigo como esse, para o Long Review of Books, a gente sabe que vai ser lido, o que tem chance
+
+749
+01:19:29,280 --> 01:19:35,280
+de ser lido, para pessoas que estão fora da academia. É uma publicação sofisticada,
+
+750
+01:19:35,280 --> 01:19:46,480
+sim, mas que não é uma publicação acadêmica. Bom, é uma publicação intelectual, o modo
+
+751
+01:19:46,480 --> 01:19:51,280
+geral, se a REC-IN ainda faz algum sentido falar em intelectual no mundo de hoje. Bom,
+
+752
+01:19:51,280 --> 01:19:59,280
+então esse o REC-IN vai falar sobre a condição de pessoas. Então eu vou assim rapidamente,
+
+753
+01:19:59,280 --> 01:20:05,680
+nós temos não tem muito tempo, mas assim, procurar, mostrar um pouco o interesse, a
+
+754
+01:20:05,680 --> 01:20:15,280
+originalidade, o com essas ideias do REC-IN são saborosas. Então eu digo, é um pouco
+
+755
+01:20:15,280 --> 01:20:19,280
+de síntese que eu fiz, as palavras são minhas, quando forem deles, obviamente vou avisar,
+
+756
+01:20:19,280 --> 01:20:25,520
+e assim, os fenômenos estudados pela REC-IN não são estáveis, eles são como que alvos
+
+757
+01:20:25,520 --> 01:20:30,320
+móveis. As ciências naturais trabalham com classes indiferentes, foi aquilo que eu falei,
+
+758
+01:20:30,320 --> 01:20:37,120
+já mencionamos algumas vezes isso. Então aquilo que é estudado pela REC-IN podem sofrer
+
+759
+01:20:37,120 --> 01:20:42,720
+algum tipo de transformação provocada pela REC-IN, já no caso das REC-IN, não, os objetos
+
+760
+01:20:42,720 --> 01:20:48,480
+são indiferentes. A diferença entre ciências humanas e ciências naturais é descrita por
+
+761
+01:20:48,480 --> 01:20:53,680
+REC-IN no seguinte modo, agora sim eu vou citar. Nós podemos estar próximos da diferença
+
+762
+01:20:53,680 --> 01:20:58,680
+fundamental entre ciências humanas e ciências naturais, diz REC-IN. As ciências humanas,
+
+763
+01:20:58,680 --> 01:21:04,720
+continua aí, e sociais não diferem das naturais fundamentalmente, porque elas lidam com aquilo
+
+764
+01:21:04,720 --> 01:21:11,760
+que é chamado de constitutivismo social, ou porque elas exigem, festeina, ele usa o termo
+
+765
+01:21:12,000 --> 01:21:17,520
+compreensão e não consplicação, predição e controle. Não é isso que faz com que as
+
+766
+01:21:17,520 --> 01:21:23,280
+ciências humanas, ciências naturais, vou repetir. As ciências humanas e sociais não
+
+767
+01:21:23,280 --> 01:21:28,400
+diferem as naturais fundamentalmente, porque elas lidam com aquilo que é chamado de constitutivismo
+
+768
+01:21:28,400 --> 01:21:34,640
+social, ou porque elas exigem, requerem, festeina, compreensão e não consplicação, predição
+
+769
+01:21:34,640 --> 01:21:38,720
+e controle, que seria o caso das ciências naturais. Elas retomo REC-IN, elas, as ciências
+
+770
+01:21:38,800 --> 01:21:43,920
+humanas e sociais diferem, porque existe uma interação dinâmica entre as classificações
+
+771
+01:21:43,920 --> 01:21:49,200
+envolvidas das ciências sociais e os comportamentos classificados. Aquilo que eu chamei de, qual
+
+772
+01:21:49,200 --> 01:21:57,680
+que ele chama, né, todo looping effect, esse efeito retroativo que faz com que as classificações
+
+773
+01:21:58,240 --> 01:22:03,840
+ajam, modifiquem os fenômenos estudados pelas ciências humanas e sociais.
+
+774
+01:22:09,280 --> 01:22:14,800
+As ciências naturais podem refazer o mundo, mas não quer dizer que elas podem, isso
+
+775
+01:22:14,800 --> 01:22:21,200
+significa que nos permita dizer que os seus objetos, os quarks, por exemplo, são resultados
+
+776
+01:22:21,200 --> 01:22:25,200
+constitucional, as ideias são resultados de constituição social, isso é interessante então,
+
+777
+01:22:25,200 --> 01:22:31,440
+ou seja, as ideias na ciência não são apenas frutos de um método científico,
+
+778
+01:22:31,440 --> 01:22:39,920
+para quem não acredita nisso, ou são apenas ideias que são geradas e existem dentro do
+
+779
+01:22:39,920 --> 01:22:46,880
+ambiente do laboratório ou da universidade, do instituto de pesquisa, não, há uma interação
+
+780
+01:22:46,880 --> 01:22:53,520
+com o mundo lá fora, certamente, mas são as ideias e não os objetos. Então, o quark
+
+781
+01:22:53,520 --> 01:23:00,240
+não é o resultado de uma construção social. Enquanto o objeto, a ideia é de quark sim,
+
+782
+01:23:00,240 --> 01:23:05,920
+mas não quark. E como é que o rack procura mostrar essa diferença dizendo assim, nós
+
+783
+01:23:05,920 --> 01:23:14,000
+somos capazes de manipular o quark, ou o velé, e o que nos faz possível sermos capazes de
+
+784
+01:23:14,000 --> 01:23:19,120
+fazer essa manipulação é que nós atribuímos a eles propriedades, que estão nele, são
+
+785
+01:23:19,120 --> 01:23:36,960
+dele. Então, não existem natural kinds, são com o som humano, os tipos naturais existem
+
+786
+01:23:36,960 --> 01:23:42,240
+independentemente do fato de se ter tornado objeto de estudos em ti. Então, como é que
+
+787
+01:23:42,320 --> 01:23:49,760
+ele caracteriza, como é que ele define o tal do efeito looping ou retroativo, com as classificações
+
+788
+01:23:49,760 --> 01:23:57,760
+agindo sobre os objetos que elas classificam, com objetos que caem sobre sua alçada? Então,
+
+789
+01:23:57,760 --> 01:24:06,000
+eu digo assim, eu estou traduzindo do inglês. E essa tradução foi estrada de um texto que
+
+790
+01:24:06,000 --> 01:24:12,320
+deu uma importância, digamos assim, que eu diria que não é pequena, porque é a aula inaugural
+
+791
+01:24:12,320 --> 01:24:18,640
+que ele rack pronunciou no colégio de França, quando ele assume a cátedra para a qual ele foi
+
+792
+01:24:18,640 --> 01:24:25,840
+convidado. E essa aula foi pronunciada, proferida, dada, em 16 de janeiro de 2001. Então, eu retirei
+
+793
+01:24:25,840 --> 01:24:40,000
+do texto que está disponível na internet, o modo pelo qual como o Reckon define esse efeito looping,
+
+794
+01:24:40,000 --> 01:24:46,640
+esse looping effecto. Então assim, aquilo que é conhecido sobre as pessoas classificadas de uma certa
+
+795
+01:24:46,640 --> 01:24:54,880
+maneira pode vir a ser falsa, pode tornar-se falsa, porque as pessoas assim classificadas
+
+796
+01:24:54,960 --> 01:25:03,920
+mudaram em virtude do modo pelo qual elas foram classificadas. Pelo modo que elas acreditam ser,
+
+797
+01:25:05,040 --> 01:25:13,680
+as crenças que elas têm sobre elas mesmas, ou porque uma terceira possibilidade de modificação
+
+798
+01:25:14,800 --> 01:25:20,560
+de acordo com o modo pelas quais elas foram tratadas na medida em que foram assim classificadas.
+
+799
+01:25:20,960 --> 01:25:32,000
+Então, as pessoas que foram classificadas de certo modo, isso pode ser nosso falso,
+
+800
+01:25:32,000 --> 01:25:39,840
+mas o que interessa aqui não é se tornar falso ou não, o fundamental é a capacidade de
+
+801
+01:25:39,840 --> 01:25:43,760
+as classificações agirem sobre elas, sobre as próprias pessoas.
+
+802
+01:25:49,280 --> 01:25:56,000
+Ou seja, então, para um exemplo que ele dá, que ele discute, é o prêmio de mulher refugiada,
+
+803
+01:25:56,000 --> 01:26:03,360
+falando das mulheres na Afriano-Estão. Quer dizer, uma mulher na Afriano-Estão, ela não é uma
+
+804
+01:26:03,360 --> 01:26:11,440
+mulher refugiada, ela pode ter características que tornam impossível que ela venha a
+
+805
+01:26:11,440 --> 01:26:18,880
+candidatar ao asilo político. É uma questão, essa é bastante atual.
+
+806
+01:26:21,120 --> 01:26:25,840
+Nós hoje em dia não mais falamos tanto sobre as mulheres afeganas, mas falamos, por exemplo,
+
+807
+01:26:25,840 --> 01:26:32,880
+sobre mulheres iranianas ou sobre homens, mulheres e crianças, idosos, provenientes
+
+808
+01:26:32,880 --> 01:26:39,040
+da África, certamente eu ouvi falar daquilo que muitas vezes acontece no Mediterrâneo,
+
+809
+01:26:39,040 --> 01:26:46,560
+na famória do Saíli de Lampedusa, etc., etc., é um tema que tem recorrentemente voltado à mídia.
+
+810
+01:26:48,960 --> 01:26:58,960
+Ainda que os resultados sejam bastante tristes. O que que torna a questão da classificação,
+
+811
+01:26:59,040 --> 01:27:05,360
+aí você vê a importância da discussão, porque o que torna uma pessoa passível de
+
+812
+01:27:05,360 --> 01:27:12,640
+receber um visto para presidir na Itália, na França, no espaço da comunidade europeia?
+
+813
+01:27:14,960 --> 01:27:21,120
+É só ter fome, é ser perseguido politicamente, mas por que é possível politicamente assim
+
+814
+01:27:21,120 --> 01:27:30,880
+por diante? Ou seja, vocês veem qual é a importância social e política dessas
+
+815
+01:27:30,880 --> 01:27:38,080
+classificações, e o réquim não vai discutir isso, ele vai dizer assim, ele reconhece que
+
+816
+01:27:38,080 --> 01:27:44,400
+essas classificações podem modificar a situação. Uma mulher afegan que está sendo
+
+817
+01:27:44,400 --> 01:27:49,920
+perseguida, porque quer frequentar a universidade, não quer usar a burga, não quer se comportar de
+
+818
+01:27:49,920 --> 01:28:00,320
+acordo com os valores, digamos assim, do regime talibã, ela pode sair do seu país de origem,
+
+819
+01:28:02,720 --> 01:28:09,440
+ela pode se fixar na Inglaterra, por exemplo, nos Estados Unidos ou no Canadá, e aí ela vai
+
+820
+01:28:09,440 --> 01:28:13,600
+ser vista como mulher refugiada. Ela não é vista como mulher canadense, ela não é vista como
+
+821
+01:28:13,600 --> 01:28:20,480
+mulher ocidental, ela é uma mulher que saiu por razões que são contrárias a sua própria
+
+822
+01:28:20,480 --> 01:28:24,880
+vontade, provavelmente, quer dizer, não queria ter saído da frente, mas foi obrigado por que?
+
+823
+01:28:24,880 --> 01:28:30,800
+Porque se ela permanecesse o seu país de origem, ela seria morta, digamos assim, ou presa ou
+
+824
+01:28:30,800 --> 01:28:36,720
+carcerada, passaria por maus bucados. Uma vez no Canadá, na Inglaterra, nos Estados Unidos,
+
+825
+01:28:36,800 --> 01:28:43,680
+ela passa a ser uma mulher refugiada, então a vida dela vai mudar, o cotidão dela muda
+
+826
+01:28:43,680 --> 01:28:52,480
+em função disso, e vai mudar durante um certo momento, enquanto essas classificações perduram,
+
+827
+01:28:52,480 --> 01:28:58,640
+porque provavelmente, a sociedade que é acolha não vai querer que ela permaneça como uma pessoa
+
+828
+01:28:58,640 --> 01:29:05,120
+refugiada, uma mulher refugiada, no momento vai querer que ela se integre à sociedade,
+
+829
+01:29:05,920 --> 01:29:12,080
+em que pese toda a dificuldade que relativa essa questão da integração, como a gente está
+
+830
+01:29:12,080 --> 01:29:19,680
+vendo. Também é um tema que é bastante discutido. E para concluir, primeiro, essa primeira parte
+
+831
+01:29:19,680 --> 01:29:27,040
+da nossa, da nossa, nosso encontro de hoje, já somos 10 e meio, eu vou pedir a paciência de vocês aí,
+
+832
+01:29:27,040 --> 01:29:33,040
+para me darem mais uns três minutinhos, só para eu terminar aqui um pouco o esquema que eu
+
+833
+01:29:34,000 --> 01:29:40,160
+é organizado para apresentar a vocês, galera. O esquema que vocês acham que tiveram acesso,
+
+834
+01:29:40,160 --> 01:29:48,160
+que a rigor é o mesmo que eu usei no ano passado, né? Então, é para falar um pouco sobre
+
+835
+01:29:48,160 --> 01:29:55,200
+conjuntivismo social, que é um tema bastante importante, também muito atual, e que foi,
+
+836
+01:29:55,200 --> 01:30:01,760
+se não trouxe um modo, responsável pela última grande guerra das ciências, que finalzinho do século
+
+837
+01:30:01,760 --> 01:30:08,320
+passado, né? Então, o REC diz assim, ele não vê grande utilidade no rótulo conjuntivismo social.
+
+838
+01:30:08,320 --> 01:30:12,960
+Então, ele diz assim, são palavras dele, nenhuma questão, mas jamais esclarecida,
+
+839
+01:30:12,960 --> 01:30:18,640
+aí ele volta aquilo que ele acha que é o característico, aquilo que ele faz bem, que é
+
+840
+01:30:18,640 --> 01:30:24,400
+análises conceituais, nenhuma questão, mas jamais esclarecida, afirmando que algo é uma
+
+841
+01:30:24,400 --> 01:30:30,320
+construção social. Muitos debates ficaram confusos, tão logo essa frase foi introduzida.
+
+8420
+01:30:31,280 --> 01:30:38,080
+Fechado. Então, no livro que ele publicou sobre isso, eu acho que não há tradução em português,
+
+843
+01:30:39,120 --> 01:30:48,080
+a construção social do que? Ele, por exemplo, logo no início, no capítulo 1,
+
+844
+01:30:48,080 --> 01:30:55,040
+ele faz uma relação de livros que poderiam ser coisas, que tratam de coisas que poderiam ser
+
+845
+01:30:55,040 --> 01:31:01,200
+apresentadas como sendo construídas socialmente. Então, por exemplo, a autoria, a irmandade,
+
+846
+01:31:02,160 --> 01:31:10,000
+a criança enquanto observadora da televisão, perigo, emoções, fatos, gênero, cultura
+
+847
+01:31:10,000 --> 01:31:17,120
+homossexual, doença, conhecimento, natureza, história oral, pós-modernismo, quarte,
+
+848
+01:31:17,120 --> 01:31:24,000
+realidade. Então, assim, uma vez que tudo isso aqui decorre desse troço chamado
+
+849
+01:31:24,000 --> 01:31:32,800
+Constitutivismo Social, ele não nos diz sobre o que é isso Constitutivismo Social.
+
+850
+01:31:33,520 --> 01:31:38,080
+Então, essa é uma ideia muito importante para ele e, de uma certa maneira, é aquilo que vai
+
+851
+01:31:38,080 --> 01:31:45,920
+fazer com que ele se interesse pelo tempo. Então, assim, aí como é que ele vai fazer isso?
+
+852
+01:31:45,920 --> 01:31:48,960
+Ele vai propor a seguinte estratégia, não devemos perguntar pelo sentido,
+
+853
+01:31:49,920 --> 01:31:54,880
+mas por aquilo que interessa, aquilo que está em jogo, ou seja, quando as pessoas, ou seja,
+
+854
+01:31:54,880 --> 01:32:02,080
+em tentar entender uma pessoa que se preocupa, por exemplo, a assistência é infantil na
+
+855
+01:32:02,080 --> 01:32:06,240
+televisão, é uma criança enquanto... Hoje em dia, não é? Fala-se não mais em televisão,
+
+856
+01:32:06,240 --> 01:32:12,480
+mas fala-se em tela. As crianças passam muitas horas diante dos celulares, diante dos tablets,
+
+857
+01:32:13,360 --> 01:32:20,560
+menos diante dos computadores. Então, assim, todo o pai, toda a mãe, todos os responsáveis
+
+858
+01:32:21,120 --> 01:32:26,240
+por crianças, hoje em dia são alertados. Em última instância, o sério das crianças vai virar
+
+859
+01:32:26,240 --> 01:32:34,960
+uma coisa horrorosa, se ficarem vendo muito, se ficarem assistindo muito, vendo muito, manipulando
+
+860
+01:32:35,280 --> 01:32:43,360
+muita tela, uma opção de celular. Então, o que está em jogo aqui? Por que nós temos
+
+861
+01:32:43,360 --> 01:32:49,840
+de nos preocupar com isso? O que a ciência afirma sobre isso? A ciência é a neurofisiologia,
+
+862
+01:32:49,840 --> 01:32:56,720
+psicologia, ou até mesmo o que os professores, os cuidadores dessas crianças nas escolas,
+
+863
+01:32:56,800 --> 01:33:05,760
+nas creches, dizem sobre isso. Então, quais são os efeitos? Não tanto assim,
+
+864
+01:33:06,960 --> 01:33:13,600
+porque esses efeitos, os termos nós vamos utilizar para entender essa relação entre criança,
+
+865
+01:33:14,720 --> 01:33:23,200
+infância e tela, esses termos podem modificar. Então, não percamos de vista aquilo que está
+
+866
+01:33:23,200 --> 01:33:31,520
+em jogo que é, fundamentalmente, a saúde mental. Vocês vejam que ele não está apenas preocupado
+
+867
+01:33:31,520 --> 01:33:36,720
+com a capacidade arrumentativa das crianças, o quanto elas vão saber. Porque na minha época de
+
+868
+01:33:36,720 --> 01:33:44,320
+criança, por exemplo, eu sou anterior ao tempo da Xuxa, eu sou do tempo do nacional kid. Então,
+
+869
+01:33:44,320 --> 01:33:48,160
+lá, meus pais me dizem que eu não fiquem ver o nacional kid, porque o nacional kid não ensina
+
+870
+01:33:48,160 --> 01:33:53,280
+nada. Hoje em dia a preocupação é outra, não é assim ensino ou não? É saber se a criança
+
+871
+01:33:53,280 --> 01:33:59,600
+vai virar uma meba, ponto, porque o que está sendo bastante dramático é o que está em jogo.
+
+872
+01:33:59,600 --> 01:34:02,640
+Eu não verei uma meba, acho eu, suponho, eu espero que vocês também não achem que eu
+
+873
+01:34:02,640 --> 01:34:07,440
+verei uma meba, mas a minha filha de 10 anos pode virar uma meba. Bom,
+
+874
+01:34:07,440 --> 01:34:20,080
+então é isso. Fundamentalmente, eu acho que a gente, ou seja, o relação ao
+
+875
+01:34:20,080 --> 01:34:28,480
+Constituto Divino Social, o que seria importante alertar é que é um pouco, assim, uma ilação
+
+876
+01:34:28,480 --> 01:34:34,480
+que a gente pode fazer a partir do REC, assim, assim, tomemos cuidado com essas ideias que são
+
+877
+01:34:34,480 --> 01:34:44,800
+muito difundidas, que passam a ser utilizadas como que verdades estabelecidas gratuitas e que
+
+878
+01:34:44,800 --> 01:34:54,560
+que foram, que são tomadas como autoevidentes. Nada é autoevidente, é isso que eu rego a dizer,
+
+879
+01:34:54,560 --> 01:34:59,920
+nada é autoevidente, tudo tem, falando uma forma bem bobinha, tudo tem uma história e nós temos
+
+880
+01:34:59,920 --> 01:35:03,440
+que tentar entender como é que isso é só, não vai ser, tudo tem uma história, não, é a mesma,
+
+881
+01:35:03,440 --> 01:35:08,320
+se eu me dizer, tudo, é a Constituição Social. A gente está no mesmo nível de bobagem, de
+
+882
+01:35:08,320 --> 01:35:14,800
+superficialidade. Então, vamos tentar entender como é que isso aconteceu, como é que isso acontece.
+
+883
+01:35:14,800 --> 01:35:22,480
+E, claro, vamos, e essa, essa análise histórica para ver como é que essas ideias surgem e
+
+884
+01:35:22,480 --> 01:35:28,400
+passam a ser muito importantes, muito influentes, capazes de mudar o comportamento das pessoas,
+
+885
+01:35:28,800 --> 01:35:35,360
+entre as pessoas. E, portanto, as sociedades, isso tudo pode, deve ser feito, o filósofo tem
+
+886
+01:35:35,360 --> 01:35:41,920
+a contribuir, mas nós não devemos perder de vista aquilo que interessa. Ou seja, o que o REC
+
+887
+01:35:41,920 --> 01:35:47,760
+está aqui me parece dizendo, sem o dizer, e eu vou terminar com essa observação, é que,
+
+888
+01:35:47,760 --> 01:35:52,000
+tal como nós, os filósofos não podem julgar as ciências, não podem dizer aos cientistas como
+
+889
+01:35:52,080 --> 01:35:59,360
+trabalhar, nós não podemos dizer como as sociedades podem, devem se organizar. A filosofia não tem
+
+890
+01:35:59,360 --> 01:36:06,320
+força para isso, talvez nada tenha. Então, ou seja, nós temos que nos colocar como interlocutores
+
+891
+01:36:06,320 --> 01:36:13,520
+num diálogo que é muito amplo, que é muito complexo e que envolve pessoas das mais diferentes
+
+892
+01:36:13,520 --> 01:36:18,400
+proveniências, digamos assim, proveniências aqui para ser bastante genérico. Ou seja, a
+
+893
+01:36:18,400 --> 01:36:23,680
+pessoa não sabe e nem pode querer antecipar quem vai participar do debate. E não pode entrar nesse
+
+894
+01:36:23,680 --> 01:36:29,600
+debate, nesse diálogo, achando que a pessoa que está ali do outro lado é uma besta, não sabe nada,
+
+895
+01:36:29,600 --> 01:36:37,680
+está errada, etc, etc, etc. Então, acho que o nosso esforço e aí a filosofia para ele tem uma
+
+896
+01:36:37,680 --> 01:36:45,840
+utilidade enorme, desde que não tem dita como ele o faz, tem a chance de tornar possível que
+
+897
+01:36:45,840 --> 01:36:54,160
+nós entendemos como foi possível surgir qualquer coisa. Claro, ele está falando de ideias, mas
+
+898
+01:36:54,160 --> 01:36:59,600
+claro, as ideias são importantes, mas o tempo todo estamos trabalhando com ideias, com conceitos,
+
+899
+01:36:59,600 --> 01:37:06,320
+daí é uma universalidade, da ontologia que ele, tal como ele entende, mas nós não podemos
+
+900
+01:37:06,320 --> 01:37:11,760
+prescindir os conceitos, então, que é impossível, por exemplo, da nossa, do nosso mundo, da nossa
+
+901
+01:37:12,000 --> 01:37:19,440
+seguidação, não temos como prescindir. Bom, então era isso, acho que eu não sei, eu vi aqui no chat
+
+902
+01:37:19,440 --> 01:37:26,320
+algumas questões, eu respondo mais tarde, talvez, né? Isso, professora, a gente deixa para depois
+
+903
+01:37:26,320 --> 01:37:32,800
+o intervalo, tá bom? Tá bom. Vamos brigar pela exposição. 15 minutos a gente volta. Isso, obrigado pela
+
+904
+01:37:32,800 --> 01:37:38,240
+exposição, a gente volta, vamos combinar as 10 e 55, pode ser, daí ficar redondado. Perfeito,
+
+905
+01:37:38,240 --> 01:37:42,480
+perfeito, para mim tá ótimo. Muito obrigado, então daqui a pouco eu volto. Olha isso.
+
+906
+01:55:38,240 --> 01:55:54,880
+Olá, estamos de volta para a segunda parte da nossa aula de hoje, da Disciplina Filosofias,
+
+907
+01:55:54,880 --> 01:56:02,000
+da Ciência e da Tecnologia, que conta hoje com a presença e a contribuição do professor
+
+908
+01:56:02,320 --> 01:56:06,400
+Augusto Patos Lideira, quem eu vou chamar permanentemente a partir de agora, de Guto,
+
+909
+01:56:08,160 --> 01:56:16,160
+e tivemos a primeira parte espetacular com uma belíssima apresentação do professor Guto
+
+910
+01:56:16,160 --> 01:56:26,000
+dos, das bases da Filosofia da Ciência e da Tecnologia, e continuamos agora na segunda parte com as
+
+911
+01:56:26,000 --> 01:56:32,320
+perguntas que vocês, alunos da Disciplina, interessaram ao professor, né? Os monitores me
+
+912
+01:56:32,320 --> 01:56:40,080
+passaram aqui já algumas e vocês podem enviar outras aí durante essa parte em que o professor vai
+
+913
+01:56:40,080 --> 01:56:48,720
+respondendo às primeiras questões. Eu vou começar, Guto, com a questão interessada aqui pelo Caetano
+
+914
+01:56:48,720 --> 01:56:56,640
+Guida. Ele fez várias questões numa única e eu acho em todos muito pertinentes para esse
+
+915
+01:56:56,640 --> 01:57:02,480
+começo, assim, porque ele retoma vários pontos da sua exposição. Então, vamos aproveitar que o
+
+916
+01:57:02,480 --> 01:57:12,800
+roteiro que o Caetano nos enviou e trabalhar o início aqui em cima desse conjunto. Não seria
+
+917
+01:57:12,800 --> 01:57:24,080
+realmente esse, é isso mesmo, é essa aí. Então, o Caetano faz aqui três questões. Eu vou fazer
+
+918
+01:57:24,080 --> 01:57:31,360
+uma a uma, ou eu leio todo o conjunto e aí você vai organizando da maneira que achar melhor as
+
+919
+01:57:31,360 --> 01:57:37,280
+respostas, Guto. Primeira questão, então, ao refutar os argumentos principais de outros
+
+920
+01:57:37,360 --> 01:57:45,600
+da ciência, Rackin não estaria discordando a ponto de concordar com o Duda que ele próprio critica.
+
+921
+01:57:45,600 --> 01:57:56,480
+A segunda, haveria em Rackin um empirismo notadamente na obra representar e intervir. Caso sim, no que
+
+922
+01:57:56,480 --> 01:58:04,240
+difere do empirismo lógico do círculo de Viena. E terceiro, crítico às construções sociais, Rackin
+
+923
+01:58:04,240 --> 01:58:11,280
+não estaria defendendo uma ciência neutra. São essas as três questões feitas pelo Caetano.
+
+924
+01:58:13,280 --> 01:58:23,200
+Bom, assim, eu confesso que eu, assim, eu não sei se eu entendi exatamente a primeira pergunta,
+
+925
+01:58:23,200 --> 01:58:34,560
+porque já passo às outras duas. Porque a minha dúvida fica, assim, refutar os argumentos
+
+926
+01:58:34,560 --> 01:58:38,720
+principais de outras ciências, ele faz isso, fundamentalmente na primeira parte, representar e
+
+927
+01:58:38,720 --> 01:58:50,000
+intervir. Isso é uma nenhuma dificuldade em perceber, o ele mesmo diz isso. Mas se isso
+
+928
+01:58:50,000 --> 01:59:00,800
+iria a uma concordância, acho que não, acho que não. Porque, assim, a concordância vai se dar
+
+929
+01:59:00,800 --> 01:59:07,840
+fundamentalmente para ele. Onde é que está a concordância para ele? A concordância está para ele
+
+930
+01:59:07,840 --> 01:59:13,600
+quando nós agimos na mesma direção. É isso que é interessante. Isso é o que estou dizendo isso,
+
+931
+01:59:13,600 --> 01:59:19,200
+como sempre. O Rackin, assim, a impressão que eu tenho ao ler Rackin, só um comentário anterior,
+
+932
+01:59:19,200 --> 01:59:26,160
+eu me sinto como se ele fosse uma marionete nas mãos dele. Ele me manipula, então ele quer
+
+933
+01:59:26,160 --> 01:59:30,080
+que eu levante o braço e eu levante o braço. Ele quer que eu aponte o braço para frente e aponte a
+
+934
+01:59:30,080 --> 01:59:37,440
+ponta. Então, ou seja, ele coloca a palavra na minha boca. É essa a minha sensação. Então,
+
+935
+01:59:37,440 --> 01:59:40,720
+eu te sinto, a concordância se dá quando a gente ajuda da mesma maneira, quando a gente é capaz
+
+936
+01:59:40,720 --> 01:59:46,720
+de se reunir, se vamos fazer essa experiência, vamos fazer aquela outra para obter o tal resultado,
+
+937
+01:59:46,720 --> 01:59:52,560
+quando há um planejamento e esse planejamento vai ser concretizado em busca de um resultado que
+
+938
+01:59:52,560 --> 02:00:00,000
+poderá o nosso concretizar. Agora, por que, inclusive, nós podemos nos reunir para fazer
+
+939
+02:00:00,000 --> 02:00:08,240
+algo que não é necessariamente, não é necessariamente, nós não temos que pensar igual,
+
+940
+02:00:08,240 --> 02:00:18,560
+para nós agirmos na minha direção. É isso que o Rackin está dizendo. Então, eu acho que esse é um
+
+941
+02:00:18,560 --> 02:00:26,960
+ponto importante. Eu não sei se eu respondi o que você está colocando. Ou seja, para o Rackin, a ação
+
+942
+02:00:26,960 --> 02:00:34,560
+acaba sendo mais importante do que a teoria. É claro que a teoria é importante para preparar a ação,
+
+943
+02:00:34,560 --> 02:00:39,040
+para justificar a ação, para corrigir a ação, visando outra ação. Ou seja, de uma certa maneira,
+
+944
+02:00:39,040 --> 02:00:47,680
+em que medida teorizar não é agir também. É claro que aí que talvez é que você está falando,
+
+945
+02:00:47,680 --> 02:00:54,160
+ele está teorizando, mas não está agindo, não está se refutando, uma auto refutação,
+
+946
+02:00:54,160 --> 02:01:02,560
+de uma certa maneira sim. Mas isso é incoerente, talvez não porque ele é irônico, ele brinca
+
+947
+02:01:02,560 --> 02:01:11,840
+o próprio e com outros. Então, não sei. Ou seja, nós não somos autorefutantes muitas vezes? Sim,
+
+948
+02:01:11,840 --> 02:01:17,360
+qual o problema disso? Nós somos incoerentes? Qual o problema disso? Aceitar como nós somos,
+
+949
+02:01:17,360 --> 02:01:25,680
+talvez ele cesse. Bom, a pergunta é boa, se eu bem entendia, sim. A pergunta é boa.
+
+950
+02:01:25,920 --> 02:01:33,440
+Desculpa pelo pegar. Agora, com relação à segunda, sim, eu acho que é um empirista, de uma certa
+
+951
+02:01:33,440 --> 02:01:37,360
+maneira sim. A gente tem que sempre tomar cuidado com essas classificações, elas são inevitáveis,
+
+952
+02:01:37,360 --> 02:01:45,120
+nós estamos utilizadas, mas sim, é uma maneira complicada. Eu acho que empirista sim. O mais
+
+953
+02:01:45,120 --> 02:01:54,080
+interessante é o segundo ponto, em que medida, na segunda parte da pergunta, ou seja,
+
+954
+02:01:54,080 --> 02:02:00,880
+ele difere, difere, porque ele não é pelo meio de uma análise da linguagem que a gente vai
+
+955
+02:02:00,880 --> 02:02:08,640
+chegar a esclarecer o que é que seja. Porque, em tal história, ele está olhando para conceitos. Mas
+
+956
+02:02:08,640 --> 02:02:15,760
+como é que ele chega a analisar os conceitos? Esse que é o ponto. Quais são os elementos que ele
+
+957
+02:02:15,760 --> 02:02:23,360
+utiliza para analisar os conceitos? Ele vai ler obras de época, ele eventualmente pode interagir
+
+958
+02:02:23,360 --> 02:02:29,280
+um arquivista, ele pode ir a biblioteca, ele pode ir a um arquivo, ele pode ir a um laboratório. Então,
+
+959
+02:02:29,280 --> 02:02:38,240
+não é só lendo as obras publicadas que ele vai utilizar. Ou seja, eu acho que a principal
+
+960
+02:02:38,240 --> 02:02:43,600
+diferença que eu diria é que não é uma análise à linguagem que vai defender o empirismo dele,
+
+961
+02:02:43,600 --> 02:02:53,040
+é a ação, são os resultados que os cientistas apresentam em favor ou contra certas, a partir
+
+962
+02:02:53,040 --> 02:02:59,840
+do legamento que eles fizeram. Acho que isso é muito importante para ele. E eu acho que tem
+
+963
+02:02:59,840 --> 02:03:06,240
+outra questão aí que é um pouco o seguinte. O empirismo lógico tinha uma preocupação social
+
+964
+02:03:06,240 --> 02:03:13,440
+e política, muito grande. A gente sabe disso. Ou seja, o empirismo lógico, apesar de ser muitas
+
+965
+02:03:13,440 --> 02:03:19,200
+vezes associada à filosofia analítica, que é uma filosofia que está supostamente não tem
+
+966
+02:03:19,200 --> 02:03:26,000
+mais que o mundo, com a sociedade. Não, o empirismo lógico queria ir para o mundo. Aqueles
+
+967
+02:03:26,000 --> 02:03:32,800
+três que assinaram o manifesto, o HAN, o NOIRA e o CARNA, queriam. E o CARNA depois sentindo
+
+968
+02:03:32,800 --> 02:03:38,000
+uma outra vida no chasino são outros 500. Não se esqueçam, o NOIRA era um ativista. Claro que
+
+969
+02:03:38,000 --> 02:03:43,360
+os graus de ativismo social ali diferiam, era um grupo muito heterogêneo, mas eles queriam mudar
+
+970
+02:03:44,320 --> 02:03:52,560
+E aí, eu acho que eles, e assim, eu acho que de uma certa maneira, aí, por mais que os mecanismos
+
+971
+02:03:52,560 --> 02:03:56,960
+possam ser algo diferente, eles tinham uma preocupação mais ou menos próxima do Reckon.
+
+972
+02:03:56,960 --> 02:04:02,640
+Por meio de uma análise, no caso, para eles, lógica, da linguagem, para o Reckon de como as
+
+973
+02:04:02,640 --> 02:04:07,760
+nossas ideias dominantes chegaram a ser o que são. Então, uma análise histórica, conceitual,
+
+974
+02:04:07,840 --> 02:04:13,440
+histórico e epistemológica, que ele Reckon está propondo, nós vamos compreender
+
+975
+02:04:14,480 --> 02:04:20,640
+melhor o estado atual da nossa situação de hoje, como nós estamos vivendo hoje.
+
+976
+02:04:20,640 --> 02:04:24,800
+Por que que vivemos dessa maneira? Então, aí você vê que é uma certa proximidade.
+
+977
+02:04:26,480 --> 02:04:31,600
+Ou seja, em que medida, repito, a análise conceitual é importante para que nós entendemos
+
+978
+02:04:31,680 --> 02:04:38,000
+o que somos e por que vivemos nesse modo. Eu acho que isso é... Como é que essa análise
+
+979
+02:04:38,000 --> 02:04:44,320
+conceitual vai ser dada? Eu acho que vai ser um pouco diferente. Não é meio de uma distinção entre
+
+980
+02:04:44,960 --> 02:04:48,880
+termos observacionais, termos teóricos, o contexto de observação e o contexto de justificação.
+
+981
+02:04:50,640 --> 02:04:57,040
+Ainda que o Reckon, em alguns momentos, aceitasse isso, essa distinção, principalmente,
+
+982
+02:04:57,040 --> 02:05:02,640
+em contextos cobertos com o contexto da justificação, eu acho que não é uma divisão sacro-santa,
+
+983
+02:05:03,200 --> 02:05:14,960
+como ele, como os outros vão... Fundamentalmente, por que? Porque as identidades de filosóficos
+
+984
+02:05:14,960 --> 02:05:26,320
+científicos não são dadas para sempre, não são tão rígidas e fixas. Alguém que é filósofo pode
+
+985
+02:05:27,200 --> 02:05:34,880
+virar cientista e vice-versa. Ou seja, aí volta a sua primeira pergunta, quer dizer,
+
+986
+02:05:34,880 --> 02:05:40,880
+fazendo outra pergunta, tentando onde está. Em que medida a não-ação também é uma ação?
+
+987
+02:05:42,560 --> 02:05:51,280
+Quer dizer, eu não querer agir pode ser uma ação. Eu acho que é esse... Um outro caminho se abre.
+
+988
+02:05:51,280 --> 02:05:54,320
+Eu acho que é isso que o Reckon está querendo que a gente pense. Então, de uma certa maneira,
+
+989
+02:05:54,320 --> 02:05:58,080
+esse é o justificador das perguntas, que então eu acho que elas estão indo, acho eu,
+
+990
+02:05:58,080 --> 02:06:04,320
+na mesma direção. A não-ação não é uma inação. Temos que fazer algo, mas não fazer pode ser.
+
+991
+02:06:04,320 --> 02:06:11,120
+Não. Eu não vou usar celular. Eu não vou usar WhatsApp. Ou, se eu passar a usar WhatsApp,
+
+992
+02:06:11,120 --> 02:06:18,320
+eu passar a usar WhatsApp por algum motivo forte. Eu sei apontar a razão que me fez mudar de atitude.
+
+993
+02:06:18,960 --> 02:06:24,000
+Então, eu acreditava no Ether e deixo acreditar no Ether. Eu sei a razão pela qual eu estou fazendo
+
+994
+02:06:24,000 --> 02:06:30,560
+isso. Porque isso vai me levar para um outro caminho, vai me levar a outros problemas. Então,
+
+995
+02:06:30,560 --> 02:06:36,400
+eu acho que as duas perguntas têm... Pelo que eu entendi, são bastante interessantes
+
+996
+02:06:37,040 --> 02:06:42,320
+e são bastante próximas, uma da outra, se eu entendi bem exatamente. Finalmente,
+
+997
+02:06:43,760 --> 02:06:49,440
+ele não é crítico às construções sociais. Ele é crítico a achar que o constitutivo social
+
+998
+02:06:49,440 --> 02:06:56,400
+resolve os problemas. Ele não pode ser crítico, assim. Porque a história, a noção de mulher
+
+999
+02:06:56,400 --> 02:07:04,160
+refugiada se dá. O que vai fazer com isso? O que ele pode fazer com isso? Basta sair à rua.
+
+1000
+02:07:04,960 --> 02:07:09,920
+Ele até, em algumas entrevistas, até se lamenta de não ter se envolvido mais algumas questões.
+
+1001
+02:07:10,720 --> 02:07:15,760
+Mas, principalmente assim, do bairro. Então, por exemplo, em algum momento,
+
+1002
+02:07:15,840 --> 02:07:19,840
+em algum entrevista que eu obviamente não vou poder agora executar, ele já puxa vida,
+
+1003
+02:07:19,840 --> 02:07:23,440
+eu podia ter cuidado melhor das flores do meu bairro, dos jardins do meu bairro.
+
+1004
+02:07:25,280 --> 02:07:31,760
+Agora, o que é adianta a gente ficar se colocando contra os costumes da nossa época?
+
+1005
+02:07:32,400 --> 02:07:36,880
+O que é adianta? Eu vou fazer uma confissão aqui. Eu estou velho e tal. Eu tenho uma certa
+
+1006
+02:07:36,880 --> 02:07:43,680
+implicância com esse negócio de todec. Tem uma certa implicância. Geracional, talvez. O que é adianta?
+
+1007
+02:07:43,680 --> 02:07:49,200
+Quando eu escreveu o manifesto e falava em defesa de que quem para mim. Você disse assim,
+
+1008
+02:07:49,200 --> 02:07:54,800
+é boa tarde a todos que estão presentes. Ah, para muitos que são favoritos ao todes,
+
+1009
+02:07:54,800 --> 02:08:00,560
+se eu uso todos, eu estou sendo machista, homofóbico, sei lá o que, sei lá o que. Mas,
+
+1010
+02:08:00,560 --> 02:08:06,800
+se é de xingamentos, o que é adianta me colocar contra isso? E talvez você não soa, não quer dizer.
+
+1011
+02:08:06,800 --> 02:08:11,280
+Mesmo que eu seja racista, homofóbico, que eu seja tudo de queda pior na face da terra,
+
+1012
+02:08:11,280 --> 02:08:17,040
+eu uso todos e não todes. Eu acho que o réquim estaria dizendo assim, vamos tomar cuidado com isso.
+
+1013
+02:08:17,040 --> 02:08:25,840
+Como é que se chegou a isso? Porque é tal história, o termo que as pessoas mais novas usam. Se eu não
+
+1014
+02:08:25,840 --> 02:08:32,640
+uso todes, o que acontece comigo? Ou que pode acontecer? Eu posso ser cancelado. O que que
+
+1015
+02:08:32,640 --> 02:08:40,240
+significa isso? Nas redes sociais, eu posso ser esquartejado, virtualmente esquartejar nas redes
+
+1016
+02:08:40,240 --> 02:08:50,240
+sociais. Então, eu acho que o réquim vem. O que a gente pode fazer contra o todes hoje em dia?
+
+1017
+02:08:50,240 --> 02:08:56,400
+Eu acho que o que ele quer é dizer, olha só, tem gente que não usa todes, isso não quer dizer que
+
+1018
+02:08:56,400 --> 02:09:02,480
+isso seja, que são pessoas ruins, malvadas, mas não. Eu acho que é isso. Como é que se chegou a isso?
+
+1019
+02:09:02,480 --> 02:09:08,880
+Não é um problema de aceitar isso como natural, óbvio, um sentido de que se impõe. Não, não se impõe.
+
+1020
+02:09:09,120 --> 02:09:13,520
+O todes vai desaparecer em algum momento, não sei quando, mas muito mais não vai desaparecer,
+
+1021
+02:09:13,520 --> 02:09:20,480
+não vai ficar. Então, alguma outra coisa vai entrar no lugar, ou algum outro significado vai ser
+
+1022
+02:09:20,480 --> 02:09:27,280
+associado ao todes, as coisas mudam. Cancelamento nem sempre significa isso. Eu vou cancelar a minha
+
+1023
+02:09:27,280 --> 02:09:35,040
+aula de hoje. Ninguém era cancelado como vocês em geral, vocês supondo que vocês são mais novos
+
+1024
+02:09:35,280 --> 02:09:41,280
+que são, que, claro, eu, usam. Então, tem esse ponto. Bom, então assim, eu não acho que ele vai defender
+
+1025
+02:09:41,280 --> 02:09:46,240
+uma ciência neutra, não. Ele está defendendo um espaço onde as diferenças possam conviver,
+
+1026
+02:09:46,240 --> 02:09:53,440
+ao contrário, ele só quer que as diferenças possam ser aceitas umas pelas outras. Só isso.
+
+1027
+02:09:53,440 --> 02:09:58,400
+O que eu acho que ele quer, o que não é, só isso. Bom, é muito difícil dar mais hoje em dia, não é?
+
+1028
+02:09:58,400 --> 02:10:04,320
+A nossa realidade brasileira, então, nos mostra isso com uma clareza impressionante. Então, não é?
+
+1029
+02:10:05,920 --> 02:10:11,280
+Ele só quer o seguinte, se você vem com uma bandeira, com uma ideia, com uma tese, procure saber
+
+1030
+02:10:11,920 --> 02:10:18,480
+como é que você chegou a essa tese. Não é óbvio. Por que tem que ser todes? O que significa isso?
+
+1031
+02:10:18,480 --> 02:10:23,840
+Por que que é? Que papo é esse? É isso que eu estou perguntando. Por que que você é obrigatório?
+
+1032
+02:10:23,920 --> 02:10:29,280
+Quem não usa todes, não é? Não é da minha tribo. Então, é. Bom, permita-se um pouco.
+
+1033
+02:10:31,040 --> 02:10:36,080
+É isso que ele está querendo. Mas ele assiste. Não é neutra, acho que ao contrário. É um espaço
+
+1034
+02:10:36,080 --> 02:10:45,200
+onde as diferenças podem conviver, trocar, dialogar harmoniosamente, assim, sem esse papo de cancelamento.
+
+1035
+02:10:46,160 --> 02:10:48,560
+Você tem mais perguntas?
+
+1036
+02:10:48,560 --> 02:10:57,280
+Tem. Tem uma pergunta aqui que eu acho que pode ser harmonizada com essa discussão, né, que você
+
+1037
+02:10:58,160 --> 02:11:04,720
+levantou, que é sobre a relação entre ciências naturais e ciências humanas. É a pergunta do Bruno.
+
+1038
+02:11:06,720 --> 02:11:13,040
+Então, Bruno pergunta assim, professor, poderia falar melhor por que a divisão ciências humanas como
+
+1039
+02:11:13,040 --> 02:11:18,960
+compreensivas e ciências naturais, como explicativas, não serve a Hacking?
+
+1040
+02:11:21,840 --> 02:11:30,800
+Bom, a pergunta é boa. É, é uma pergunta, eu diria, algo complexo, porque exige, assim,
+
+1041
+02:11:33,360 --> 02:11:42,080
+um certo time que eu talvez não saiba aplicar aqui nessa nossa situação, digamos, remota, né.
+
+1042
+02:11:43,520 --> 02:11:50,480
+Eu diria, fundamentalmente, porque, assim, claro, tocando fundamentalmente, eu estou querendo
+
+1043
+02:11:50,480 --> 02:11:55,920
+chamar atenção para um ponto que não esgota a pergunta, portanto não é a resposta à pergunta,
+
+1044
+02:11:55,920 --> 02:12:03,680
+mas eu diria fundamentalmente, porque o Hacking quer que, assim, claro, eu fiz uma pressação
+
+1045
+02:12:03,680 --> 02:12:08,480
+relativamente parcial para chamar atenção para alguma coisa, quer dizer, lá no início eu avisei,
+
+1046
+02:12:08,560 --> 02:12:13,200
+eu estou chamando atenção para alguns eixos, digamos, temáticos que são importantes para o
+
+1047
+02:12:13,200 --> 02:12:21,040
+Hacking, por exemplo, a classificação. Então, ou seja, o Hacking quer que a gente se preocupe
+
+1048
+02:12:21,040 --> 02:12:24,960
+com as classificações, né, e ele quer que a gente se preocupe como é que os conceitos nos
+
+1049
+02:12:24,960 --> 02:12:32,720
+levam as classificações. De uma certa maneira, classificarei a agir. Então, por que que eu
+
+1050
+02:12:32,800 --> 02:12:36,560
+só mencionei, né, num tipo de condições de apresentar, de uma forma um pouco mais
+
+1051
+02:12:36,560 --> 02:12:43,760
+detalhada, só existe esse artigo Lost in the Forest, que é de agosto de 2013, 10 anos atrás.
+
+1052
+02:12:43,760 --> 02:12:49,520
+Se vocês puderem ler, vale a pena, é um artigo breve, né. Então, por que que ele está, assim,
+
+1053
+02:12:49,520 --> 02:12:56,560
+o que que ele está fazendo aqui, né, de uma certa maneira? Eu acho que o importante aqui,
+
+1054
+02:12:56,560 --> 02:13:00,400
+e é assim que ele termina esse trabalho, é chamar atenção para o fato da classificação,
+
+1055
+02:13:01,360 --> 02:13:05,920
+porque, como eu disse, o problema é se nós tomamos as classificações como aquilo que,
+
+1056
+02:13:05,920 --> 02:13:11,280
+como sendo o mundo, e não são. E as classificações têm uma história, e uma história que envolve
+
+1057
+02:13:11,280 --> 02:13:17,440
+fatores que não são meramente científicos, que não são meramente epistemológicos, né,
+
+1058
+02:13:17,440 --> 02:13:23,040
+fatores das mais diversas naturezas, digamos assim, mais diversas, diferentes ordens. Ou seja,
+
+1059
+02:13:23,040 --> 02:13:30,640
+então, assim, pro REC, as cenas humanas têm uma dimensão, que é, em uma instância, qual?
+
+1060
+02:13:30,640 --> 02:13:36,960
+Que é de mudar o objeto sobre o qual elas estão trabalhando. Ou seja, como se no início, a gente
+
+1061
+02:13:36,960 --> 02:13:42,400
+está trabalhando, se o humano não determina a noção de doença mental, e aí vai trabalhando,
+
+1062
+02:13:42,400 --> 02:13:49,600
+trabalhando, vai agindo, vai agindo, vai agindo, não só compreendendo, e acaba transformando
+
+1063
+02:13:49,680 --> 02:13:56,480
+a noção de doença mental, do caso, enriquecendo, né, porque são inúmeras classificações. Então,
+
+1064
+02:13:57,440 --> 02:14:07,360
+eu acho que tem uma dimensão aí que não é apenas compreender, tem uma gira aí, e que é uma
+
+1065
+02:14:07,360 --> 02:14:15,760
+gira que muitas vezes não é determinada apenas por aquilo que as ciências estão ditando.
+
+1066
+02:14:16,720 --> 02:14:20,400
+Ou seja, em última instância, as classificações ganham uma vida própria.
+
+1067
+02:14:20,400 --> 02:14:25,680
+Isso que é interessante, tal como os experimentam uma vida própria, as classificações têm uma vida
+
+1068
+02:14:25,680 --> 02:14:40,480
+própria. Então, acho que isso, pra ele, é uma, é uma, é uma, é um problema. Porque,
+
+1069
+02:14:40,480 --> 02:14:47,040
+em última instância, de novo, a pergunta nos leva a um certo limite do pensamento Reckon.
+
+1070
+02:14:47,040 --> 02:14:51,520
+Quando diz limite, eu não estou dizendo que ele não tem resposta pra isso. Limite pro Reckon,
+
+1071
+02:14:51,520 --> 02:14:56,640
+é assim, é até onde ele se permite ir falando. Eu acho que o limite pra ele é, justamente,
+
+1072
+02:14:56,640 --> 02:15:01,200
+a partir dali ele vai nos transformar em marionetes, volta mesmo, sentimento que eu
+
+1073
+02:15:01,760 --> 02:15:07,760
+falava quando eu respondi ao Caetano, Bruno. Quer dizer, eu acho que ele vai nos manipular,
+
+1074
+02:15:07,840 --> 02:15:13,520
+ou seja, o que nós vamos dizer? Não somos mais 9, senão, o Reckon, não é você Reckon,
+
+1075
+02:15:13,520 --> 02:15:16,880
+não sou eu Reckon, estou dizendo isso, é você Guuto, é você que está dizendo.
+
+1076
+02:15:17,520 --> 02:15:26,160
+Ou seja, o que está em jogo aqui pra ele? Eu acho que, em última instância,
+
+1077
+02:15:27,120 --> 02:15:33,680
+toda ciência tem uma dimensão da ação. Ou seja, e aí, todo, e aí, diferentemente,
+
+1078
+02:15:34,160 --> 02:15:39,200
+aí voltando à questão do Caetano. Alguns posições lógicas tinham um alunos político,
+
+1079
+02:15:39,200 --> 02:15:44,320
+claro. Tipo, não é errado. Talvez seja o exemplo mais conhecido e dramático
+
+1080
+02:15:44,320 --> 02:15:50,480
+desse compromisso político. É dessa vontade de transformar a sociedade a partir de uma discussão,
+
+1081
+02:15:51,520 --> 02:16:01,440
+a colocar em ótimo. Obrigado aí, gente. A discussão do que é ciência, do que é
+
+1082
+02:16:01,440 --> 02:16:12,800
+filosofia, do que é conhecimento de uma instância. Mas o Reckon seria mais cauteloso,
+
+1083
+02:16:12,800 --> 02:16:18,080
+muito mais cauteloso. Ou seja, desculpe, eu me perdi um pouquinho. O que eu estou querendo
+
+1084
+02:16:18,080 --> 02:16:26,720
+colocar fundamentalmente é que as ciências, elas agem. Elas têm uma dimensão da ação,
+
+1085
+02:16:26,720 --> 02:16:32,240
+elas não são meramente teoria, mesmo as ciências naturais, faltam de qualquer ciência.
+
+1086
+02:16:33,520 --> 02:16:41,680
+E essa passagem do conceito para ação, da teoria para a experiência, muitas vezes ela
+
+1087
+02:16:41,680 --> 02:16:46,480
+é feita de uma forma que não é refletida, que não é cuidada, que não é, talvez assim,
+
+1088
+02:16:46,480 --> 02:16:53,760
+exagerando um pouco, percebida. Então, eu acho que pro Reckon é isso que ele não diria.
+
+1089
+02:16:54,240 --> 02:16:59,120
+Toda a ciência está comprometida com ação. Agora, quando isso se dá,
+
+1090
+02:17:00,080 --> 02:17:09,040
+será que ela continua a ser ciência ou não? Esse que é um ponto. Então, eu acho que é aquela
+
+1091
+02:17:09,040 --> 02:17:14,480
+fronteira que ele percebe que existe, mas que ele não quer, ele não quer ultrapassar um foco
+
+1092
+02:17:14,480 --> 02:17:22,560
+que ultrapassou, por exemplo. Então, porque talvez signifique o quê? Signifique organizar,
+
+1093
+02:17:22,640 --> 02:17:28,800
+tentar organizar as ciências. Talvez permita que certas tese, você já veria esses problemas.
+
+1094
+02:17:28,800 --> 02:17:34,160
+As ciências naturais só fazem sentido, se não for uma rápida, são milhões de formulações,
+
+1095
+02:17:34,160 --> 02:17:38,080
+eu espero que faça o sentido que eu vou levar. As ciências naturais só fazem sentido
+
+1096
+02:17:38,080 --> 02:17:43,120
+se elas forem organizadas pelas ciências humanas. Ou seja, em última instância,
+
+1097
+02:17:44,080 --> 02:17:48,880
+aquilo que dá sentido, por exemplo, de estabilidade à prática científica, de um físico, de um químico,
+
+1098
+02:17:48,880 --> 02:17:54,880
+de um astrônomo, é uma discussão histórica, filosófica. É a história, a filosofia da ciência
+
+1099
+02:17:54,880 --> 02:17:59,040
+que diz o que é a ciência. Não é a própria ciência. Que é o que o Cúntar dizendo.
+
+1100
+02:17:59,840 --> 02:18:04,560
+O que o Cúntar dizem? Exagerando, esse não é um atleta que atravessa, mas eu acho perfeitamente
+
+1101
+02:18:04,560 --> 02:18:10,800
+defensa também. Faz sentido o quê? O Cúntar dizendo, um cientista normal, que é um especialista,
+
+1102
+02:18:10,800 --> 02:18:16,080
+não sabe o que é a ciência. Sabe o que é a sua ciência, sua especialidade, mas não é a ciência.
+
+1103
+02:18:16,800 --> 02:18:21,600
+Quem vai poder dizer isso é o historiador e o filósofo, que tem uma visão mais global,
+
+1104
+02:18:21,600 --> 02:18:28,880
+mais ampla, maior, digamos assim. Agora, vai dizer isso para um físico. E é quando eu digo um físico,
+
+1105
+02:18:28,880 --> 02:18:33,920
+eu não estou querendo ser sexista, não. Eu estou em meus vícios de linguagem de uma pessoa que tem
+
+1106
+02:18:33,920 --> 02:18:42,080
+quase 60 anos. Vai dizer isso para um físico, vai dizer isso para um químico. Vai sair corrido.
+
+1107
+02:18:42,800 --> 02:18:50,240
+Exemplo. Steven Weinberg, físico e teórico americano, ganador do Premio Nobel de 1979,
+
+1108
+02:18:50,240 --> 02:18:55,200
+trabalha em teoria de partículas alimentares, modelo padrão. Ele tem um livro, foi trazido
+
+1109
+02:18:55,200 --> 02:19:00,560
+em Português, lá nos anos 90, do século passado, Sons de Vitoria Final. Ele tem um capítulo em que
+
+1110
+02:19:00,560 --> 02:19:06,800
+ele fala o que é ditado contra a filosofia. O que ele faz ali? Filosofia. Mas, na minha opinião,
+
+1111
+02:19:06,960 --> 02:19:13,520
+mas é filosofia, mas é contra a filosofia. O Weinberg, ele tinha uma seguinte posição, só
+
+1112
+02:19:13,520 --> 02:19:21,200
+para vocês ficarem um pouco mais claros. Ele dizia assim, nos anos 80, os americanos se colocaram
+
+1113
+02:19:21,200 --> 02:19:26,800
+a seguinte que são, devemos continuar a financiar a construção de um super colisor de partículas
+
+1114
+02:19:26,800 --> 02:19:34,400
+no Texas. Os europeus acabaram, estavam construindo um colisor também muito grande, que é o LHC,
+
+1115
+02:19:34,400 --> 02:19:40,400
+onde John C. saiu as provas favoráveis à existência do Bosnian Hicks, se já me entrou
+
+1116
+02:19:40,400 --> 02:19:44,800
+falar nisso, uns 10 anos atrás. Os americanos estavam continuando, uma máquina, digamos assim,
+
+1117
+02:19:44,800 --> 02:19:49,120
+tão gigantesca quanto os europeus. Só que está ficando caro, eles não sabem o quanto
+
+1118
+02:19:49,120 --> 02:19:55,440
+tem que durar, para esse obra brasileira. Não sabemos enquanto vai ficar, quando vai ficar
+
+1119
+02:19:55,440 --> 02:20:00,720
+pronto, e se vai funcionar. Ou seja, os resultados que eles estavam querendo obter, de fato ser
+
+1120
+02:20:01,040 --> 02:20:06,400
+o que eles fazem, como o dinheiro sai do congresso, são os americanos, eles vão organizar
+
+1121
+02:20:06,960 --> 02:20:10,640
+uma sessão para discutir. Então, o que nós chamamos de sessão pública. Então,
+
+1122
+02:20:10,640 --> 02:20:17,760
+chamamos especialistas para, com as diversas maneiras, para conversar sobre isso. Ou seja,
+
+1123
+02:20:17,760 --> 02:20:22,160
+qual o tema, vale a pena continuar não. Então, o Weinberg foi chamado de testemunhar no congresso
+
+1124
+02:20:22,160 --> 02:20:29,280
+americano para, para dizer se o estado, o governo deveria continuar a financiar obra ou não.
+
+1125
+02:20:29,360 --> 02:20:32,800
+A posição dele era como ele era físico. O artículo, sim, deve continuar a
+
+1126
+02:20:34,080 --> 02:20:36,800
+financiar, o que acabou não acontecendo. Mas o que interessa é que o seguinte,
+
+1127
+02:20:36,800 --> 02:20:40,320
+ele vai publicar um artigo na Nature, você também deve saber que a Nature é uma revista
+
+1128
+02:20:40,320 --> 02:20:45,840
+super badalada, chiquinha, todo mundo quer publicar na Nature, desde que tem 12 mil dólares,
+
+1129
+02:20:45,840 --> 02:20:53,280
+além de um resultado interessante. O Weinberg publica um artigo, ele começa o artigo dizendo
+
+1130
+02:20:53,280 --> 02:21:00,000
+o seguinte, a filosofia da ciência é tão importante para os físicos como a ortologia
+
+1131
+02:21:00,000 --> 02:21:05,600
+ou é para os passos. Ou seja, nós fazemos ciência sem ficar pensando em filosofia,
+
+1132
+02:21:05,600 --> 02:21:09,520
+os passos voam sem saber por que eles voam, eles não são obrigados a explicar, eles voam,
+
+1133
+02:21:10,480 --> 02:21:18,800
+ponto. Opa, que coisa, né? Por que isso? O que que te justifica isso? Bom, na hora que você
+
+1134
+02:21:18,800 --> 02:21:25,200
+pergunta isso para o Weinberg, ele vai ter que responder de uma forma não científica,
+
+1135
+02:21:26,880 --> 02:21:35,040
+de uma forma filosófica. E claro, e aí que o Reagan diria, não é apenas epistemologicamente,
+
+1136
+02:21:35,040 --> 02:21:39,760
+que vai funcionar, ou seja, não é apenas, não é uma resposta de tipo epistemológico,
+
+1137
+02:21:39,840 --> 02:21:48,320
+é uma resposta de tipo ontológico. Agora, e aí é de volta, vocês lembram assim, que ontologia é
+
+1138
+02:21:48,320 --> 02:21:54,000
+essa que o Reagan se refere a? Que tipo de ontologia? História do ser, ele mesmo eu não sei falar do ser
+
+1139
+02:21:54,000 --> 02:22:00,080
+em geral, eu só falo do ser específico, se eu só falo do ser específico, eu estou falando da ação.
+
+1140
+02:22:00,880 --> 02:22:05,040
+E essa ação, quando fala do ser específico, muitas vezes você pergunta, qual é o sentido
+
+1141
+02:22:05,040 --> 02:22:12,640
+dessa ação? Então, aí vocês veem onde o Reagan não quer entrar, porque se ele entra por aí,
+
+1142
+02:22:13,440 --> 02:22:18,240
+ele pode ter um, ele pode ter que se ver com muita coisa de complicada, tipo Foucault,
+
+1143
+02:22:18,240 --> 02:22:23,680
+em certos momentos, né? Então ele não quer entrar por aí, então ele para. Então, ou seja,
+
+1144
+02:22:24,320 --> 02:22:31,520
+o Reagan, ele aceita que há uma, de novo, é uma tensão, é um problema, e cada um resolve
+
+1145
+02:22:31,520 --> 02:22:37,920
+a sua maneira. Então, o que eu estou propondo aqui é que, em última instância, essa tensão
+
+1146
+02:22:37,920 --> 02:22:44,080
+não vai funcionar, porque sempre existe uma ação aí, sempre existe, e quando há uma ação,
+
+1147
+02:22:44,080 --> 02:22:50,640
+há uma pretensão ao sentido, que não é meramente linguístico, formal, é um sentido na vida,
+
+1148
+02:22:52,480 --> 02:22:57,440
+é um sentido na vida. Porque quando o Rock, ou homem, eu estou falando sempre com visão,
+
+1149
+02:22:57,520 --> 02:23:02,160
+quando o Imbar, porque o Rock tinha mais ou menos a mesma posição do Rock, do Imbar,
+
+1150
+02:23:02,160 --> 02:23:07,360
+quando o Imbar diz isso, e está dizendo, olha só, nós somos capazes de produzir as nossas próprias
+
+1151
+02:23:07,360 --> 02:23:16,880
+justificativas. Será? Será? Você tem consciência dos pressupostos, que você tem que usar
+
+1152
+02:23:16,880 --> 02:23:23,120
+inconscientemente para dizer isso? Que qual é a noção de mundo que você tem, ou realidade,
+
+1153
+02:23:23,440 --> 02:23:27,440
+chamam como quiser? Qual é a concepção de conhecimento que você tem? Qual é a concepção
+
+1154
+02:23:27,440 --> 02:23:34,240
+de produção de conhecimento que você tem? Você, o Imbar. Então, eu acho que, ou seja,
+
+1155
+02:23:34,240 --> 02:23:39,120
+há uma interpenetração aí, por exemplo, das chamadas ciências humanas e ciências naturais,
+
+1156
+02:23:39,120 --> 02:23:43,040
+da filosofia, de colocando a filosofia como integrante do universo de ciências naturais
+
+1157
+02:23:43,120 --> 02:23:58,400
+humanos, que fica difícil de desmontar. Há um mananhamento para usar um termo dos físicos,
+
+1158
+02:23:58,400 --> 02:24:07,600
+de ótica quântica, que é um termo da moda, é um emanharamento aí muito complicado.
+
+1159
+02:24:08,320 --> 02:24:12,320
+Como é que a gente... E o Reign quer dizer assim, eu quero entender como é que isso aconteceu,
+
+1160
+02:24:12,320 --> 02:24:16,160
+o Reign quer entender como é que se produce um novelo de lã. Só que não é um novelo
+
+1161
+02:24:16,160 --> 02:24:21,600
+que ele compra todo bonitinho, organizadinho, de uma cor só, roças ou não. Tem todas as cores ali,
+
+1162
+02:24:21,600 --> 02:24:27,440
+tem... Como é que se produziu isso? Eu quero tentar ver isso. Por quê? Fundamentalmente,
+
+1163
+02:24:27,440 --> 02:24:31,120
+é isso novo, ele está me manipulando, ele está me usando, porque eu não quero que
+
+1164
+02:24:31,440 --> 02:24:34,880
+pensei que esse novelo é necessário, que é só esse o novelo que existe.
+
+1165
+02:24:35,920 --> 02:24:41,440
+E eu quero... Ou seja, a possibilidade de fazer diferente diz o Reign, de forma irônica,
+
+1166
+02:24:42,320 --> 02:24:49,040
+é pensar como isso, como nós chegamos à situação de hoje. E o que é irônica? É um boco
+
+1167
+02:24:49,040 --> 02:24:55,440
+trágico, na verdade, porque quem é que pode fazer isso? O físico pode fazer, o âmbar pode fazer,
+
+1168
+02:24:55,520 --> 02:25:04,240
+não sei. Bom, vocês têm mais perguntas. Espero dizer isso. A pergunta é boa, complexa e
+
+1169
+02:25:04,960 --> 02:25:10,160
+difícil, né? De responder pelo Reign. Se a gente aceitar ser manipulado, eu acho que vai responder.
+
+1170
+02:25:10,160 --> 02:25:12,560
+Eu não tenho muito problema se é manipulado por ele, não me incomodo.
+
+1171
+02:25:16,560 --> 02:25:22,800
+A pergunta agora, Boto, é no sentido contrário um pouco. Eu acho que a sua resposta foi
+
+1172
+02:25:22,880 --> 02:25:28,800
+mostrar como há muito de ciências humanas nas ciências naturais. Eu acho que agora
+
+1173
+02:25:31,200 --> 02:25:38,560
+as perguntas aqui vão pedir que você faça a contrapartida desse raciocínio. É a pergunta
+
+1174
+02:25:38,560 --> 02:25:43,360
+do Artura, que eu quero ligar com outra pergunta também na mesma direção.
+
+1175
+02:25:45,920 --> 02:25:51,360
+Essa mesmo, que está aqui na nossa tela aqui, né? Pergunta do Artura. Olá, professor. Poderia
+
+1176
+02:25:51,360 --> 02:25:59,360
+comentar um pouco sobre o capítulo, loucura biológica ou construída do livro construção social
+
+1177
+02:25:59,360 --> 02:26:07,200
+do quê? De quê, né? E qual é a outra? Não tem uma segura? A outra é um pouquinho, tava um pouquinho
+
+1178
+02:26:07,200 --> 02:26:14,080
+antes. E ela faz a seguinte observação
+
+1179
+02:26:21,600 --> 02:26:31,760
+que agora eu perdi. É, não, não, vou ficar devendo. Não, foi uma menção só aqui no outro sentido.
+
+1180
+02:26:31,760 --> 02:26:38,000
+Essa é só essa questão, que é nessa, eu achei que havia outra sobre loucura também,
+
+1181
+02:26:38,000 --> 02:26:46,320
+mas é loucura usada aqui de forma figurativa. É assim. Vamos colocar aí a Tatiane só
+
+1182
+02:26:46,320 --> 02:26:53,600
+para então dar um contexto aqui, né? O mal do século foram as redes sociais. Que loucura, né?
+
+1183
+02:26:54,560 --> 02:27:02,800
+Eu acho, é assim. Mas a questão então é do Bruno, tá, gente? Para a tela aqui.
+
+1184
+02:27:04,640 --> 02:27:08,480
+Desculpe. Eu acho assim, é assim.
+
+1185
+02:27:11,920 --> 02:27:15,280
+É um dos grandes capítulos do livro, né? Eu acho que é um dos grandes,
+
+1186
+02:27:16,000 --> 02:27:24,000
+é um dos capítulos mais ricos, sempre que mostra assim, porque de uma certa maneira
+
+1187
+02:27:26,000 --> 02:27:34,640
+eu acho que, dizer, eu diria que esse capítulo, ele de uma certa maneira, ele vai ao encontro,
+
+1188
+02:27:35,520 --> 02:27:44,160
+ou seja, ele reforça aquilo que eu respondi antes, né? A pergunta do Bruno, né? Principalmente a
+
+1189
+02:27:44,240 --> 02:27:50,880
+pergunta do Bruno. E, de uma graça maneira, reforça aquilo que eu disse antes, porque eu procurei
+
+1190
+02:27:50,880 --> 02:27:57,760
+transmitir ao longo da primeira parte do nosso encontro de hoje. Que eu acho que, assim, ele
+
+1191
+02:27:57,760 --> 02:28:07,360
+procura aí, inclusive, é o título da sessão do último, o título da última sessão desse capítulo,
+
+1192
+02:28:08,000 --> 02:28:14,480
+que é em favor do estudo da dinâmica e não da semântica. Eu acho que tem a mesma atitude aí do
+
+1193
+02:28:14,480 --> 02:28:26,000
+récord, que me parece, né? Eu acho que, ele se pergunta, né? Como elaborar uma semântica
+
+1194
+02:28:26,000 --> 02:28:33,680
+plausível para uma classe problemática de termos que referentizativos, né? Clases, né?
+
+1195
+02:28:33,680 --> 02:28:38,400
+Então, eu acho que, ou seja,
+
+1196
+02:28:41,440 --> 02:28:47,600
+em última instância, para eu responder a pergunta, que é loucura? Ou se a loucura é construída ou
+
+1197
+02:28:47,600 --> 02:28:53,600
+biológica, eu tenho que entender como é que nós chegamos a chamar hoje em dia de, isso é louco,
+
+1198
+02:28:53,600 --> 02:29:02,800
+isso é loucura. Então, assim, eu acho que tem um, assim, o que ele nos diria é, tem uma
+
+1199
+02:29:02,880 --> 02:29:06,640
+dimensão que é biológica, mas também tem uma dimensão que é construída. Ou seja,
+
+1200
+02:29:06,640 --> 02:29:13,280
+loucura é biológica e construída. E como é que a gente pode ver isso, por exemplo,
+
+1201
+02:29:13,280 --> 02:29:20,800
+quando a gente toma decisão de retirar as pessoas dos hospícios? Ou seja, o hospício,
+
+1202
+02:29:20,800 --> 02:29:26,000
+como você no local onde as pessoas vão ser confinadas e vão ter que ficar lá dentro e não
+
+1203
+02:29:26,000 --> 02:29:31,600
+vão sair, ou seja, o hospício é pensado como uma instituição que vai eliminar toda
+
+1204
+02:29:31,600 --> 02:29:37,920
+a possibilidade, a menos que seja permitido, um contato entre o chamado louco e o chamado
+
+1205
+02:29:37,920 --> 02:29:47,760
+normal, há uma abertura, como é que se faz isso? Então, acho que é uma distância, assim. Então,
+
+1206
+02:29:47,760 --> 02:29:53,600
+assim, o louco já não é mais pensado como era antigamente, porque não é pensado como alguém
+
+1207
+02:29:53,600 --> 02:29:58,720
+que atrapalha, por exemplo, o funcionamento da sociedade, que causa incômodo, etc., etc., etc.
+
+1208
+02:29:59,680 --> 02:30:05,520
+E é tal história. E aí também vem a questão da classificação. Pensando em esquizofrenia,
+
+1209
+02:30:05,520 --> 02:30:14,080
+a gente sabe a quantidade de tipos diferentes de esquizofrenia que existem. Então, como é que a
+
+1210
+02:30:14,080 --> 02:30:20,800
+gente faz com isso? Então, o que a gente faz com esse conhecimento que a gente adquire? Então,
+
+1211
+02:30:20,800 --> 02:30:26,560
+o Reckin quer que a gente, ou seja, quando o Reckin traça todas as extinções que ele traçou,
+
+1212
+02:30:26,560 --> 02:30:31,600
+ele faz a distinção para dizer assim, toma que o problema é teu para o político. Não,
+
+1213
+02:30:31,600 --> 02:30:36,640
+ele quer que haja um diálogo, quer que haja uma interação. Porque, por meio da interação,
+
+1214
+02:30:36,640 --> 02:30:43,440
+a gente vai conseguir mudar os rumos das coisas. Então, a rigora, assim, de uma forma rápida,
+
+1215
+02:30:43,440 --> 02:30:49,440
+eu me atribui a dizer assim, loucura, ela é biológica e ela é construída. Ela não é apenas
+
+1216
+02:30:49,440 --> 02:30:54,800
+biológica, é apenas construída. Porque, claro, tem o que o Reckin está querendo dizer assim,
+
+1217
+02:30:55,520 --> 02:31:04,400
+o conhecimento, eu posso trabalhar com uma loucura como sendo um historiador. E esse conhecimento,
+
+1218
+02:31:04,400 --> 02:31:12,080
+ele pode ficar confinado nos livros e artigos que eu produzi. Ninguém, não vai ter ninguém.
+
+1219
+02:31:12,080 --> 02:31:16,320
+Agora, pode ser que em algum momento, e eu não saiba qual, alguém foi a biblioteca, pegou
+
+1220
+02:31:16,320 --> 02:31:21,520
+ou foi a livraria, foi um cebo, porque os meus livros acabam no cebo, não nas livrarias.
+
+1221
+02:31:21,600 --> 02:31:27,920
+Vão um cego e vim com o livro, sua história é louca. Aí, por acaso, pega, por acaso pega,
+
+1222
+02:31:29,200 --> 02:31:34,480
+lê, opa, isso aqui, e essa pessoa, sei lá, diretora de um asilo, de um hospício,
+
+1223
+02:31:34,480 --> 02:31:38,000
+um asilo psiquiático, não é outro nome que sabe, de um hospício. E aí, começa a pensar,
+
+1224
+02:31:38,000 --> 02:31:43,600
+Busta, pensa aqui. O que que Levoniza Silveira pensar o que ela pensou, a fazer o que ela fez?
+
+1225
+02:31:45,120 --> 02:31:48,720
+E o que que faz com que a gente veja muitas aquelas produções hoje em dia? Não como
+
+1226
+02:31:48,800 --> 02:31:53,280
+ela terapia, ver como arte. O que que significa isso? Como é que se chega a isso?
+
+1227
+02:31:55,040 --> 02:31:59,840
+É isso que o Reckon quer que a gente pense. Mas pense sem estar a compromissar, que barato
+
+1228
+02:31:59,840 --> 02:32:04,480
+vamos ser todos Nisa Silveira hoje em dia. Não, necessariamente. Talvez não seja o caso.
+
+1229
+02:32:04,480 --> 02:32:14,640
+Ou seja, durante muito tempo, os eletrochoques foram usados e depois de muito tempo, foram combatidos.
+
+1230
+02:32:14,640 --> 02:32:22,000
+Hoje em dia, se sabe que, opa, tudo bem. Eletrochoque é um problema, é complicado,
+
+1231
+02:32:22,000 --> 02:32:27,120
+mas que acalma o cérebro, acalma. Numa crise, como é que ele faz para tirar de uma crise?
+
+1232
+02:32:28,800 --> 02:32:32,320
+E aí, o que que a gente faz? Como é que a gente age mais uma vez?
+
+1233
+02:32:34,000 --> 02:32:38,880
+Então, assim, a gente joga fora um conhecimento, como, quer dizer, um conhecimento ou algo que
+
+1234
+02:32:38,960 --> 02:32:44,000
+a gente, uma ação que talvez não fosse bem explicada. Então, o eletrochoque,
+
+1235
+02:32:45,280 --> 02:32:52,000
+quer dizer, transformar uma pessoa numa meba, já que usei o termo, nada elegante, o cérebro
+
+1236
+02:32:52,000 --> 02:32:56,000
+reconhece. Mas e agora, faz o que? Quando está numa crise, como é que ele tira?
+
+1237
+02:32:56,880 --> 02:33:01,680
+Como é que a gente faz isso? Se a pessoa, por exemplo, tem uma autoconsciência,
+
+1238
+02:33:02,000 --> 02:33:09,040
+também não usando de forma técnica, que vai, assim, eu estou entrando numa situação de
+
+1239
+02:33:10,160 --> 02:33:17,280
+paranoia. Se ela tensa e ela age de acordo com isso, mas se não tem, como é que faz?
+
+1240
+02:33:18,560 --> 02:33:22,960
+Como é que faz? Eu já tive uma vez um aluno de schizophrenia que saiu de aula,
+
+1241
+02:33:22,960 --> 02:33:24,320
+que eu não sabia que era de schizophrenia.
+
+1242
+02:33:24,960 --> 02:33:34,240
+Ele era uma pessoa que fazia perguntas o tempo todo. Era o único estudante que lia todos os textos
+
+1243
+02:33:34,240 --> 02:33:43,600
+e fazia perguntas. E as perguntas eram assim, até um certo momento, elas faziam muito sentido,
+
+1244
+02:33:43,600 --> 02:33:50,800
+eram interessantes. A partir de um, sei lá, 50, 60% depois já não entendia o que ele
+
+1245
+02:33:50,800 --> 02:33:55,120
+queria dizer, era uma dificuldade. E eu procurava responder, porque eu não achava que ele era
+
+1246
+02:33:55,120 --> 02:34:00,480
+de schizophrenia. Eu não sabia que era de schizophrenia, eu só vencei a ver muito tempo depois.
+
+1247
+02:34:01,680 --> 02:34:06,160
+Eu acabei me tornando amigo dele, inclusive. Eu pensava que ele era um senti que sofreu
+
+1248
+02:34:06,160 --> 02:34:09,920
+do quê? De alcoholismo, ou que usasse uma droga ilícita.
+
+1249
+02:34:12,960 --> 02:34:18,480
+Então era muito difícil. E eu realmente não me passou pela cabeça em nenhum momento que
+
+1250
+02:34:18,480 --> 02:34:25,520
+ele era de schizophrenia. Por exemplo, esse cara tem um problema. Ou é o cólopro, fuma, cheira,
+
+1251
+02:34:25,520 --> 02:34:31,920
+não sei. Cheirar não achava que não era uma... Mas era agora. O que a gente faz com isso?
+
+1252
+02:34:33,360 --> 02:34:39,200
+Como é que a gente acha? Faltam conhecimento. Ninguém avisou. Ele também não tinha que avisar
+
+1253
+02:34:39,200 --> 02:34:44,480
+ninguém. Hoje em dia a gente até pode ser avisado. Tem alunos especiais, entre aspas,
+
+1254
+02:34:44,480 --> 02:34:48,080
+porque eles vão assistir a aula. Eu tenho um outro aluno especial, eu tenho outra condição agora.
+
+1255
+02:34:48,800 --> 02:34:54,160
+O que a gente faz? Como é que a gente acha? Como é que a gente avalia? Tem que dar uma avaliação,
+
+1256
+02:34:54,160 --> 02:34:59,280
+tem que dar uma nota, tem que tratar de forma e come. Então como é que a gente faz isso?
+
+1257
+02:34:59,920 --> 02:35:05,040
+Eu acho que assim, eu acho que... Então, por exemplo, como é que se chegou essa situação?
+
+1258
+02:35:08,400 --> 02:35:14,080
+E é dinâmico, porque eu posso me perguntar em que medida nós estamos sendo verdadeiramente
+
+1259
+02:35:14,080 --> 02:35:23,200
+inclusivos quando colocam os alunos especiais dentro de sala de aula sem nos avisar.
+
+1260
+02:35:24,560 --> 02:35:29,600
+Como é que é? Como é que fica? Eu já também tive um outro aluno que tinha uma...
+
+1261
+02:35:29,600 --> 02:35:34,240
+Ele tinha, infelizmente, uma doença muscular que ele não conseguia mais falar, praticamente.
+
+1262
+02:35:34,240 --> 02:35:40,080
+Ele emitia sons e estava lá na sala de aula e a gente... Bom, esse cara até... Ele fez
+
+1263
+02:35:40,160 --> 02:35:44,080
+uns forços, tem uns forços enormes para dar aqui. Então eu vou respeitar, vou tentar entender
+
+1264
+02:35:44,720 --> 02:35:50,080
+o que ele está querendo perguntar. Mas eu preciso ouvir, entender o que ele está dizendo.
+
+1265
+02:35:50,080 --> 02:35:54,880
+E não consigo muito adivinhar. Como é que a gente faz? Faz o quê?
+
+1266
+02:35:56,800 --> 02:36:00,240
+Aí sim, vai sair de lá e vai reclamar com chefe de departamento, já todo instituto,
+
+1267
+02:36:00,240 --> 02:36:06,640
+correito da universidade. Adianta alguma coisa? Não sei. Então assim, tudo isso começa um pouco assim.
+
+1268
+02:36:06,720 --> 02:36:12,080
+Eu acho que a gente... O que o Reckem diria é, antes de tomar uma decisão, de sair escrevendo
+
+1269
+02:36:12,080 --> 02:36:18,800
+uma carta contra, reclamando, perturbando, o que que torna possível com que tenha chegado a isso?
+
+1270
+02:36:18,800 --> 02:36:23,360
+Porque ao final ele também vai dizer uma coisa muito interessante. Eu gosto... O Reckem é um autor
+
+1271
+02:36:23,360 --> 02:36:27,280
+que muitas vezes a gente... A gente tem que ler a outra frase que ele diz. Como eu fiz com vocês,
+
+1272
+02:36:27,280 --> 02:36:30,240
+que eu li as últimas frases de um representar intervino,
+
+1273
+02:36:30,960 --> 02:36:39,520
+que ele diz assim... Como é que ele termina esse capítulo? O loop em classificatório
+
+1274
+02:36:39,520 --> 02:36:50,240
+continuará enquanto ele... Enquanto ele durar. Talvez até quando um dos dois se transforme
+
+1275
+02:36:50,240 --> 02:36:53,360
+em um... Num mundo que ninguém pode prever.
+
+1276
+02:36:53,360 --> 02:37:03,760
+Ou seja, será que algum dia nós vamos ter uma resposta conclusiva pra biológica ou é construída?
+
+1277
+02:37:04,640 --> 02:37:09,600
+Quem pode prever? Volta ao ponto. Ele não escreve pro longo prazo. Ele não tá querendo
+
+1278
+02:37:09,600 --> 02:37:15,840
+fazer previsão. Tipo, Alvin Toffler. Você já ouviu falar de Alvin Toffler? Que ficou ricos
+
+1279
+02:37:15,840 --> 02:37:20,800
+querendo livros lá nos anos 70, 70. Como será um ano, um mundo no ano 2000?
+
+1280
+02:37:21,760 --> 02:37:26,560
+Desculpa, ele faz uma futurologia. Ele não quer fazer isso.
+
+1281
+02:37:28,320 --> 02:37:34,320
+O que a gente tem que falar do mundo pros meus bisnetos? Eu nem netos tenho. Eu tenho dois
+
+1282
+02:37:34,320 --> 02:37:40,800
+filhos homens já que podiam ter dado os netos, não me deram. Nem netos tenho. O que eu vou ficar
+
+1283
+02:37:40,800 --> 02:37:47,360
+falando dos meus bisnetos? Então eu acho que o Reckem diz assim... Então isso inclusive...
+
+1284
+02:37:48,320 --> 02:37:52,480
+Ah, então não fala o nada, não. O contrário. Fala sobre o seu tempo.
+
+1285
+02:37:54,800 --> 02:37:59,520
+Ou seja, aí você vê como tem um... Assim, na minha opinião que o Reckem tá dizendo,
+
+1286
+02:37:59,520 --> 02:38:03,600
+ele se apresenta com um certo cético, ele diz assim... Não, eu tô dizendo... Eu vou agir no meu
+
+1287
+02:38:03,600 --> 02:38:10,080
+tempo. É aqui que eu tenho que agir. É agora que eu tenho que agir. A pergunta é, quais são as
+
+1288
+02:38:10,080 --> 02:38:15,200
+bases a partir de onde eu acho? Como eu acho? O que que me permite tomar uma decisão?
+
+1289
+02:38:15,680 --> 02:38:21,120
+Podemos responder essa pergunta. Hoje em dia, a pergunta é nossa, é o Arthur tá colocando.
+
+1290
+02:38:23,280 --> 02:38:28,800
+Eu acho que o que ele diria é como é que nós chegamos a essa pergunta? Nós chegamos a essa
+
+1291
+02:38:28,800 --> 02:38:35,920
+situação supostamente dicotômica ou supostamente conjuntiva. É biológico e conjuntivo. E o que
+
+1292
+02:38:35,920 --> 02:38:43,440
+significa isso? Você tá se perguntando o que significa isso? Bom, não sei se eu respondi,
+
+1293
+02:38:43,440 --> 02:38:49,920
+mas se eu respondi de novo, assim, acho que quanto a mim trazendo os elementos,
+
+1294
+02:38:49,920 --> 02:38:55,840
+me parecem os mais significativos daquilo que o Reckem tenha nos oferecer.
+
+1295
+02:38:58,000 --> 02:39:05,520
+Então tem duas outras questões que ficaram lá no início. Boto que tem a ver com a resposta
+
+1296
+02:39:05,520 --> 02:39:12,080
+que você deu. Uma fala do looping effect. E aí pede então o que você explica e melhora. É a
+
+1297
+02:39:12,080 --> 02:39:17,520
+pergunta de Josiane. Então Josiane, eu acho que assim eu procurei. Como ler aqui primeiro,
+
+1298
+02:39:17,520 --> 02:39:24,800
+ela diz assim, Reckem é conhecido por seu estilo de escrita claro e acessível, o que torna suas ideias
+
+1299
+02:39:24,800 --> 02:39:30,640
+e contribuições filosóficas amplamente acessíveis a um público mais amplo. Ele também escreveu
+
+1300
+02:39:30,640 --> 02:39:38,400
+sobre diversas áreas. Sobre o termo looping effect, poderia nos explicar? Então eu acho que o que
+
+1301
+02:39:38,480 --> 02:39:44,320
+foi que eu, de uma forma muito breve, acho que esse efeito looping retroativo é, as classificações
+
+1302
+02:39:44,320 --> 02:39:52,240
+agem sobre os objetos, as quais elas se aplicam, ou seja, os objetos mudam as suas naturezas a partir
+
+1303
+02:39:52,240 --> 02:39:58,720
+daquela classificação. Então eu falei da mulher afegan, uma mulher afegan no seu país de origem
+
+1304
+02:39:58,720 --> 02:40:04,480
+já não é refugiada. Ela também poderia ir pro caradá sem ser refugiada. Então pra ir pra ela
+
+1305
+02:40:04,560 --> 02:40:12,160
+ter, porque ela tem que ser refugiada? Ela pode entrar, então talvez ela tenha um visto especial,
+
+1306
+02:40:13,280 --> 02:40:19,200
+ela vá talvez para um lugar especial, ela talvez vai interagir de uma maneira diferente com aquela
+
+1307
+02:40:19,200 --> 02:40:23,760
+sociedade que ela recebe, ela talvez seja, então assim, tudo isso faz com que seja diferente,
+
+1308
+02:40:24,400 --> 02:40:31,840
+não necessariamente, nem melhor nem pior, não é uma fugida, não é uma combinada,
+
+1309
+02:40:31,840 --> 02:40:36,640
+ela poderia assim, e isso pode me fazer da sua classe social, uma professora,
+
+1310
+02:40:37,760 --> 02:40:42,560
+por exemplo, afegan de filosofia, digamos, um ponto que se exige, não sei se exige,
+
+1311
+02:40:42,560 --> 02:40:46,240
+mas lá, eu estou dizendo assim, eu gosto de contar historinhas, uma professora de filosofia,
+
+1312
+02:40:47,680 --> 02:40:52,000
+na universidade do Afeganista pode ser convidada, ela pode receber uma cátedra
+
+1313
+02:40:52,080 --> 02:41:01,680
+em Vancouver, onde o Reckin nasceu, estudou, então, e aí, é outro papo,
+
+1314
+02:41:03,120 --> 02:41:07,360
+ela vai ser tratada de outra forma diferente, o que é uma mulher que é refugiada ou que é
+
+1315
+02:41:07,360 --> 02:41:13,440
+fugida, é uma história, se a mulher é fugida, ela pode nem ter, ela pode ser expulsa do
+
+1316
+02:41:14,000 --> 02:41:26,080
+do caralho da, o que está acontecendo lá, eu falei dele de Lampedusa, mas pensa o que está
+
+1317
+02:41:26,080 --> 02:41:30,560
+pensando, então assim, na fronteira do Antemócio das Unidades, ou seja, as classificações, elas
+
+1318
+02:41:30,560 --> 02:41:36,880
+podem mudar e, em geral, mudam a natureza do objeto sobre o qual elas estão sendo aplicadas,
+
+1319
+02:41:37,600 --> 02:41:43,360
+porque o problema depois é como é que se sai dessa noção de mulher refugiada,
+
+1320
+02:41:43,360 --> 02:41:49,440
+como é que se deixa de ser refugiada? Esse que é o ponto,
+
+1321
+02:41:49,440 --> 02:41:56,560
+ou seja, então, de uma instância, o efeito retrativo, esse looping effect, diz respeito ao
+
+1322
+02:41:56,560 --> 02:42:02,240
+fato de que as classificações modificam o comportamento das pessoas, sobre o quais elas
+
+1323
+02:42:02,240 --> 02:42:08,640
+estão sendo aplicadas. O elétron, aparentemente, continua a ser o elétron, o que a oportunidade
+
+1324
+02:42:08,640 --> 02:42:13,680
+que ele continua sendo, o elétron tem as mesmas propriedades que ele tem, desde que ele foi,
+
+1325
+02:42:13,680 --> 02:42:23,600
+acho que a gente coberta, é isso que o Reagan está querendo dizer. Mas tinha, é isso,
+
+1326
+02:42:23,600 --> 02:42:29,920
+não sei se eu respondi, mas é fundamentalmente isso. Sim, e outro que tinha a ver com aquela
+
+1327
+02:42:29,920 --> 02:42:36,480
+primeira, com a resposta anterior não a essa da Josiane, que era das questões da psicologia,
+
+1328
+02:42:36,480 --> 02:42:45,120
+é uma pergunta do Caio. A segunda pergunta é essa mesmo. Ele quer saber, assim, pergunta ele,
+
+1329
+02:42:46,000 --> 02:42:51,440
+professor Hacking toca, de alguma forma, a questão das determinações ou influências,
+
+1330
+02:42:51,440 --> 02:42:57,680
+sejam ambientais, socioeconômicas ou biológicas, que impactaram o indivíduo para o cometimento
+
+1331
+02:42:57,680 --> 02:43:08,720
+de crime. Eu estou um pouco confuso, eu não sei dizer se ele discutiu isso. Eu tenho impressão
+
+1332
+02:43:08,720 --> 02:43:16,880
+que ele comenta isso, mas agora eu não saberia de responder, com certeza, se ele analisou isso
+
+1333
+02:43:16,880 --> 02:43:23,840
+que você está mencionando, Caio. Eu vou fazer uma resposta, portanto que eu não vou recorrer
+
+1334
+02:43:23,840 --> 02:43:30,960
+a nenhum texto, a nenhuma obra dele, que agora eu posso fazer confusão, então eu não,
+
+1335
+02:43:30,960 --> 02:43:35,120
+para dizer, ó, tem lá no capítulo tal, do livro tal, não, eu não vou dizer isso. Eu acho que
+
+1336
+02:43:36,240 --> 02:43:43,280
+vamos pensar a questão do determinismo, assim, de uma forma geral, ou seja, o que a gente fala
+
+1337
+02:43:43,280 --> 02:43:47,520
+do determinismo ambiental, social, biológico, racial, esse de qualquer tipo de determinismo,
+
+1338
+02:43:48,480 --> 02:43:53,520
+que é uma categoria, justamente, é uma categoria ambígua, porque ela pode ser
+
+1339
+02:43:54,160 --> 02:43:58,720
+da filosofia da física, ela pode ser da física, ela pode ser da biologia,
+
+1340
+02:43:58,720 --> 02:44:03,360
+ela pode ser da sociologia, da psicologia, ou seja, é uma categoria que é transversal,
+
+1341
+02:44:04,320 --> 02:44:13,200
+ela passa por várias áreas do conhecimento humano. Então, aí que está, de novo, eu acho que
+
+1342
+02:44:14,080 --> 02:44:22,000
+a tua pergunta, ela me permite responder de duas maneiras. O Reckin, o que que ele disse sobre isso,
+
+1343
+02:44:24,160 --> 02:44:31,600
+se, por exemplo, um criminoso seria determinado biologicamente, haveria como que um,
+
+1344
+02:44:33,680 --> 02:44:37,920
+uma estrutura biológica mais favorável a cometer químicos do que outra, ou do que outras,
+
+1345
+02:44:38,880 --> 02:44:44,320
+ou o que que ele diria enquanto uma pessoa, se ele fosse entrevistado, uma coisa é eles
+
+1346
+02:44:44,320 --> 02:44:48,880
+colocar perguntas e responder por meio de um artigo acadêmico, ou de um capítulo de livro
+
+1347
+02:44:48,880 --> 02:44:53,760
+acadêmico. Outra coisa, ele de uma entrevista, ele responder por seus interlocutores, são duas
+
+1348
+02:44:54,320 --> 02:44:59,120
+formas diferentes. Eu suponho que você esteja mais interessado na primeira forma,
+
+1349
+02:44:59,120 --> 02:45:03,520
+que é o que eu digo, eu não estou lembrado agora, eu não tenho certeza, eu tenho impressão com
+
+1350
+02:45:03,520 --> 02:45:10,080
+isso, mas eu estou um pouco confuso agora. Então, eu não vou responder, eu vou responder
+
+1351
+02:45:10,080 --> 02:45:15,760
+sobre, de novo, a segunda maneira. Eu acho que a segunda maneira, que eu sei que eu estou me
+
+1352
+02:45:15,760 --> 02:45:20,400
+repetindo aqui, mas de propósito, é eu digo seguinte, como é que a gente chegou a pensar isso?
+
+1353
+02:45:21,680 --> 02:45:27,280
+Como é que a gente chegou a pensar que uma pessoa pode cometer crimes porque ela viveu
+
+1354
+02:45:27,440 --> 02:45:36,240
+num lugar carente, ou porque ela tem uma estrutura biológica que permita isso, ou porque, sei lá,
+
+1355
+02:45:36,240 --> 02:45:42,560
+por algum motivo. Que é interno ou externo, um interior ambiental, sócio-econômico, é externo
+
+1356
+02:45:42,560 --> 02:45:47,760
+a pessoa, ainda que a sinalidade será diferente, e biológica interna da constituição da pessoa.
+
+1357
+02:45:49,040 --> 02:45:55,360
+Já vai repetir por genes, para uma estrutura genética, genômica. Bom, então, na verdade,
+
+1358
+02:45:55,920 --> 02:46:03,040
+eu diria que ele, mais uma vez, não diria assim, vamos tentar entender, portanto, vamos fazer uma
+
+1359
+02:46:03,040 --> 02:46:10,160
+análise, um nominalismo dinâmico, vamos recorrer a história para tentar entender como é que nós
+
+1360
+02:46:10,160 --> 02:46:29,360
+chegamos a pensar isso. Eu tenderia dizer que o Reckin vai, porque de uma certa maneira,
+
+1361
+02:46:31,040 --> 02:46:35,120
+ampliando um pouco a sua pergunta, em que medida nós não somos determinados pelas
+
+1362
+02:46:35,120 --> 02:46:42,800
+histórias que nós contamos hoje em dia. Então, esse que é o que ele quer, eu provavelmente,
+
+1363
+02:46:42,800 --> 02:46:47,120
+com a minha filha de 10 anos, com a Clara, eu daqui a algum tempo já começo a ter isso,
+
+1364
+02:46:47,120 --> 02:46:51,760
+mas está com 10 anos ainda e tal, a coisa que é, mas, talvez, já o ano ano que vem,
+
+1365
+02:46:52,800 --> 02:47:01,280
+ela já vem a dizer, mas, pai, que papo é esse de uns atores? Você é, sei lá, reacionar
+
+1366
+02:47:01,360 --> 02:47:09,120
+adequado, velho, sei lá, coisa como é que ela vai me classificar. Então, eu acho que
+
+1367
+02:47:11,120 --> 02:47:19,200
+a pergunta é, se você sabe, nem sempre foi assim, não é suficiente. Por quê? Porque o todo está
+
+1368
+02:47:19,200 --> 02:47:23,840
+sendo utilizado hoje em dia para resolver um suposto problema. Então, o que o Reckin quer,
+
+1369
+02:47:23,840 --> 02:47:27,840
+é que a gente também se perunte, é que problema é esse, como é que ele chegou,
+
+1370
+02:47:27,920 --> 02:47:30,720
+ele sempre foi um problema, ele sempre teve essa cara,
+
+1371
+02:47:33,760 --> 02:47:38,000
+e quando a gente privilegia esse problema, estamos deixando em privilegiar outros problemas,
+
+1372
+02:47:38,000 --> 02:47:44,880
+então eu acho que, de uma certa maneira, há uma aspas de utilidade aí, nesse tipo de preocupação
+
+1373
+02:47:44,880 --> 02:47:51,680
+que o Reckin está querendo trazer. Ou seja, o Reckin, de uma certa maneira, eu diria,
+
+1374
+02:47:51,760 --> 02:47:56,960
+isso é o que estou dizendo, que é, antes de agir, vamos tentar entender,
+
+1375
+02:47:56,960 --> 02:48:02,320
+antes de julgar, vamos tentar entender, antes de condenar, vamos tentar entender.
+
+1376
+02:48:04,480 --> 02:48:07,040
+Tem um momento numa entrevista, que também agora não vou saber qual,
+
+1377
+02:48:08,720 --> 02:48:16,240
+mas em que ele disse que ele se apresenta como um homem, digamos assim, rapidamente,
+
+1378
+02:48:16,960 --> 02:48:23,280
+que ainda acredita nos ideais do iluminismo francês, do iluminismo francês,
+
+1379
+02:48:23,280 --> 02:48:30,960
+porque eu não estou escrevendo clã antes, mas é de uma certa maneira que vê naquele ideário
+
+1380
+02:48:30,960 --> 02:48:36,720
+da revolução francesa elementos positivos. Isso não é dizer pouco nos regiores,
+
+1381
+02:48:37,760 --> 02:48:41,840
+isso não é dizer pouco, ao contrário.
+
+1382
+02:48:41,840 --> 02:48:47,920
+Ou seja, o Reckin, por exemplo, teria, porque se vocês pensarem,
+
+1383
+02:48:47,920 --> 02:48:52,880
+quando ele publica, por exemplo, a representar, ele tem o Viro 83,
+
+1384
+02:48:52,880 --> 02:48:56,480
+poucos anos antes, no momento em que ele está escrevendo o livro,
+
+1385
+02:48:56,480 --> 02:48:59,360
+o que ele está dando nos as aulas, a gente tem livros assim que,
+
+1386
+02:48:59,360 --> 02:49:04,480
+para mim, que eu li um pouco depois, saindo da adolescência, entrando na faculdade,
+
+1387
+02:49:04,480 --> 02:49:07,520
+eu entendo na faculdade, não sei se os 82, não sei se vocês sabem o que é isso,
+
+1388
+02:49:07,680 --> 02:49:12,240
+é muito tempo atrás, mas assim, eu não me lembro, não sei,
+
+1389
+02:49:12,240 --> 02:49:17,040
+talvez o Eduardo se lembra assim, eu li a condição pós-moderno do Lyotard nessa altura,
+
+1390
+02:49:18,400 --> 02:49:26,640
+eu li castoriades nesse momento, ou seja, autores podriar outros, pós-modernos,
+
+1391
+02:49:27,600 --> 02:49:30,640
+ou seja, a via, nós estávamos terminando a modernidade,
+
+1392
+02:49:31,600 --> 02:49:38,400
+o Reckin está sempre querendo, como é que é isso, que história é essa,
+
+1393
+02:49:38,400 --> 02:49:45,200
+porque no fundo a pergunta é, o que torna possível podriar ao Lyotard, ao castoriado,
+
+1394
+02:49:45,200 --> 02:49:51,120
+entre muitos outros, afirmarem que nós estamos ingressando numa nova era,
+
+1395
+02:49:51,120 --> 02:49:56,000
+da história, das sociedades ocidentais contemporâneas, que é o papai esse,
+
+1396
+02:49:56,960 --> 02:50:00,720
+então ele não quer que a gente fique refém das nossas próprias classificações,
+
+1397
+02:50:00,720 --> 02:50:05,760
+e eu acho que aí, ou seja, se ele é, se a gente vai ensinar ele se considera um herdeiro do século XVIII,
+
+1398
+02:50:05,760 --> 02:50:11,200
+só as são minhas, mas não a vejo, ele vai ter que respeitar e vai ter que
+
+1399
+02:50:11,200 --> 02:50:15,760
+mostrar positividade daquilo que eu falei na primeira parte do nosso encontro,
+
+1400
+02:50:15,760 --> 02:50:18,480
+que a gente não sabe muito como é que é o intelectual, o que é o intelectual,
+
+1401
+02:50:18,480 --> 02:50:22,000
+é o cara que é capaz de fazer esses exercícios, essas análises que ele propõe,
+
+1402
+02:50:22,960 --> 02:50:28,000
+talvez o Reckens se coloca como filósofo, porque ele não quer se colocar como intelectual,
+
+1403
+02:50:28,000 --> 02:50:32,480
+porque? Boa pergunta, mas já que nós estamos falando de Foucault também,
+
+1404
+02:50:32,480 --> 02:50:37,040
+de uma certa maneira, muito indiretamente, vocês sabem que o Foucault criou uma denominação
+
+1405
+02:50:37,040 --> 02:50:41,120
+específica para ser referido a um intelectual do seu tempo, que é intelectual específica,
+
+1406
+02:50:42,320 --> 02:50:47,280
+porque hoje em dia, e nós estamos vivendo uma situação como essa,
+
+1407
+02:50:47,280 --> 02:50:51,760
+eu não sei se o Eduardo teve que se ver com isso lá na FPR,
+
+1408
+02:50:51,760 --> 02:50:54,880
+e eu ainda não tive que ver aqui no livro ainda bem, que é assim,
+
+1409
+02:50:54,880 --> 02:50:58,240
+vocês sabem que recentemente foi lançado um livro por um casal,
+
+1410
+02:50:58,240 --> 02:51:02,720
+não apenas porque tem uma pessoa, classificações antigas,
+
+1411
+02:51:02,720 --> 02:51:05,280
+um gênero feminino, uma pessoa do gênero masculino,
+
+1412
+02:51:05,280 --> 02:51:08,640
+mas porque elas não são casados também, vivem maritalmente,
+
+1413
+02:51:08,640 --> 02:51:13,600
+junto, vem junto, que a gente está gerando uma certa confusão por aí,
+
+1414
+02:51:13,600 --> 02:51:20,320
+então talvez esse casal seja o exemplo de intelectual específico,
+
+1415
+02:51:20,320 --> 02:51:24,000
+ou seja, uma pessoa tem um certo conhecimento,
+
+1416
+02:51:24,000 --> 02:51:27,760
+numa certa área, é uma especialista numa área,
+
+1417
+02:51:27,760 --> 02:51:31,680
+e acha que pode falar sobre outras áreas, por quê?
+
+1418
+02:51:31,680 --> 02:51:36,160
+Essa é a pergunta que eu reconhecerei, mas por que essa pessoa,
+
+1419
+02:51:36,160 --> 02:51:42,320
+no caso representante do chamado gênero feminino, pode falar sobre isso aqui?
+
+1420
+02:51:42,400 --> 02:51:47,120
+Ela não é formada nisso, ela não tem nenhum trabalho sobre isso,
+
+1421
+02:51:47,120 --> 02:51:52,000
+não se conhece nada anterior a ela sobre isso, por que ela pode?
+
+1422
+02:51:52,000 --> 02:51:54,560
+É isso que eu requei aqui a gente, opa, por quê?
+
+1423
+02:51:54,560 --> 02:51:57,600
+Deixa a vida, dizem umas coisas complicadas,
+
+1424
+02:51:57,600 --> 02:52:00,720
+que coisa estranha, não está, entendeu?
+
+1425
+02:52:00,720 --> 02:52:04,160
+Não vou polêmizar aqui, não quero ser desacredável com o Eduardo,
+
+1426
+02:52:04,160 --> 02:52:08,880
+com o curso Curso é Muito Legal, não quero que haja problemas para ele,
+
+1427
+02:52:08,880 --> 02:52:11,920
+mas é difícil, então sim.
+
+1428
+02:52:12,080 --> 02:52:15,520
+De novo, quem é que vai analisar?
+
+1429
+02:52:15,520 --> 02:52:18,240
+Tem que ter alguém que analisa, é claro.
+
+1430
+02:52:18,240 --> 02:52:21,200
+Aí o reque também está se colocando com outras ideias que estão sendo postas.
+
+1431
+02:52:21,200 --> 02:52:29,200
+Ou seja, voltando à pergunta, acho que o reque é uma pessoa que vai sempre ser...
+
+1432
+02:52:29,200 --> 02:52:33,760
+Ele vai sempre pedir para a gente fazer esse tipo de análise.
+
+1433
+02:52:33,760 --> 02:52:39,760
+Quando eu sugeri isso como sendo um elemento que, de uma certa maneira,
+
+1434
+02:52:39,840 --> 02:52:45,920
+mostra uma certa continuidade, um mesmo reque,
+
+1435
+02:52:45,920 --> 02:52:48,400
+eu não estou de nenhuma maneira propondo uma sistematização,
+
+1436
+02:52:48,400 --> 02:52:52,000
+não pensamos muito nele, não acho que seja o bacana isso.
+
+1437
+02:52:52,000 --> 02:52:57,200
+É o que eu quero dizer, com isso aqui,
+
+1438
+02:52:57,200 --> 02:53:00,240
+na segunda parte do livro, do representar a entrevista, por exemplo,
+
+1439
+02:53:00,240 --> 02:53:05,200
+ele ainda me diz, eu estou falando de histórias, eu conto histórias,
+
+1440
+02:53:05,200 --> 02:53:09,600
+e muda o tom, muda o estilo de apresentação das ideias, inclusive.
+
+1441
+02:53:09,600 --> 02:53:17,440
+Desculpa, é muito saboroso, é muito saboroso, é muito saboroso.
+
+1442
+02:53:17,440 --> 02:53:23,200
+Então acho que o reque está querendo, ou seja, que a gente não perceba isso.
+
+1443
+02:53:23,200 --> 02:53:24,000
+O quê?
+
+1444
+02:53:24,000 --> 02:53:29,360
+Que quando a gente se comporta em favor de uma tese,
+
+1445
+02:53:29,360 --> 02:53:33,200
+não é o mesmo comportamento, não é a mesma atitude
+
+1446
+02:53:33,200 --> 02:53:36,640
+quando a gente se comporta de forma destrutiva, negativa.
+
+1447
+02:53:40,560 --> 02:53:42,560
+Então acho que esse é um ponto importante,
+
+1448
+02:53:42,560 --> 02:53:46,480
+que a gente deve também ter em mente, porque isso mostra que
+
+1449
+02:53:49,760 --> 02:53:57,200
+a dimensão analítica conceitual, que em geral é feita em ambientes mal-morados,
+
+1450
+02:53:57,200 --> 02:54:00,800
+nada contra o setor de filosofia, quem sou eu pode dizer isso, ou vivo num,
+
+1451
+02:54:00,800 --> 02:54:04,720
+mas não tem o mesmo, talvez não tem o mesmo espírito.
+
+1452
+02:54:04,960 --> 02:54:10,400
+Não seja a mesma coisa, exatamente, quando a gente vê um cientista falar,
+
+1453
+02:54:10,400 --> 02:54:16,160
+seja ele sociólogo, psicólogo, pedão químico, o astrônomo, biólogo, que for.
+
+1454
+02:54:18,800 --> 02:54:27,840
+Então acho que a ideia do filósofo carrancudo não é completamente absurda,
+
+1455
+02:54:27,840 --> 02:54:30,800
+e o reque está querendo quebrar um pouco com isso, eu acho também.
+
+1456
+02:54:32,240 --> 02:54:33,760
+E como é que ele faz isso?
+
+1457
+02:54:33,840 --> 02:54:36,480
+Ele faz isso assim, acho que de novo sou eu que estou dizendo,
+
+1458
+02:54:36,480 --> 02:54:42,240
+ele que está querendo que eu diga isso, que todo mundo pode
+
+1459
+02:54:44,960 --> 02:54:51,280
+falar, comentar, se posicionar, desde que estude, desde que trabalha.
+
+1460
+02:54:51,280 --> 02:54:59,680
+Ou seja, é isso que talvez seja o grande problema do projeto sociopolítico
+
+1461
+02:55:00,640 --> 02:55:09,200
+lá no iluminismo, é que todo cidadão teria que ser, sendo rápido, um cientista filósofo,
+
+1462
+02:55:09,200 --> 02:55:10,640
+e isso não aconteceu.
+
+1463
+02:55:12,160 --> 02:55:20,400
+Ou seja, essa fusão, ou seja, todo cidadão teria que conhecer, querer conhecer,
+
+1464
+02:55:20,400 --> 02:55:24,160
+e gostar de conhecer, e isso aparentemente não aconteceu.
+
+1465
+02:55:25,120 --> 02:55:28,080
+Aparentemente que é retórito, não me parece acontecido.
+
+1466
+02:55:29,360 --> 02:55:33,840
+Então o reque, agora ele não quer ficar se lamentando, ele não quer,
+
+1467
+02:55:34,960 --> 02:55:39,040
+não dá para ficar se lamentando, não dá para ficar chorando sobre lei derramado.
+
+1468
+02:55:41,120 --> 02:55:44,160
+Bom, é isso, não sei se eu respondi.
+
+1469
+02:55:44,160 --> 02:55:46,160
+Maravilha, Goto, maravilha.
+
+1470
+02:55:46,720 --> 02:55:51,120
+Esse curso é uma insistência, então, nesse projeto iluminista,
+
+1471
+02:55:52,080 --> 02:55:55,920
+de formar cientistas filósofos.
+
+1472
+02:55:57,200 --> 02:56:05,680
+Então estamos no clima dessa nostalgia do reque com a Revolução Francesa,
+
+1473
+02:56:05,680 --> 02:56:10,960
+e o iluminismo como um movimento de ideias que expirou esse movimento.
+
+1474
+02:56:11,520 --> 02:56:18,400
+Goto, muito obrigado pela sua aula, pelas suas provocações, e é muito o seu estilo.
+
+1475
+02:56:18,480 --> 02:56:20,720
+Então aqui você não cria nenhum problema para a gente,
+
+1476
+02:56:20,720 --> 02:56:23,600
+você cria problema se você não trouxer nenhum problema para a gente.
+
+1477
+02:56:23,600 --> 02:56:28,080
+Então os problemas já estavam na sua conta, e não são problemas nenhum,
+
+1478
+02:56:28,080 --> 02:56:34,000
+ao contrário, é muito bem-vindo, é muito agradável te ouvir, ouvir a sua discussão,
+
+1479
+02:56:34,000 --> 02:56:36,640
+a maneira pessoal como você faz a sua discussão,
+
+1480
+02:56:37,360 --> 02:56:45,600
+essa forma muito própria de se afastar dessa imagem do filósofo Carrancudo,
+
+1481
+02:56:45,600 --> 02:56:47,520
+que você faz muito bem.
+
+1482
+02:56:48,400 --> 02:56:56,320
+Então, mais uma vez, obrigado, seja sempre bem-vindo aqui ao FPR, a nossa disciplina.
+
+1483
+02:56:57,040 --> 02:57:01,360
+Logo vocês terão, vocês alunos aqui, terão a oportunidade de
+
+1484
+02:57:02,000 --> 02:57:05,040
+tomar novamente contato com o professor Goto,
+
+1485
+02:57:05,040 --> 02:57:08,240
+porque ele vai escrever também no livro que nós estamos preparando
+
+1486
+02:57:08,240 --> 02:57:12,240
+para ser o livro comemorativo aí dos cinco anos dessa disciplina.
+
+1487
+02:57:12,960 --> 02:57:16,400
+Então nós ficamos por aqui, eu passo a palavra ao Marlon aqui
+
+1488
+02:57:16,400 --> 02:57:21,440
+para encerrar os nossos trabalhos e digo a vocês que na semana que vem
+
+1489
+02:57:21,440 --> 02:57:26,320
+nós iniciaremos a segunda parte do curso que é dedicada a filosofia da tecnologia,
+
+1490
+02:57:27,440 --> 02:57:33,120
+e também faremos aí nesse período a avaliação desse primeiro bloco.
+
+1491
+02:57:33,120 --> 02:57:39,280
+O Marlon e os demais monitores vão dar depois instruções a vocês como fazer esse trabalho.
+
+1492
+02:57:40,240 --> 02:57:45,760
+Então, um grande abraço a todos, uma ótima semana aí para todos vocês.
+
+1493
+02:57:45,760 --> 02:57:47,920
+Obrigado gente, um grande abraço, tudo de bom.
+
+1494
+02:57:49,200 --> 02:57:52,880
+Obrigado professores, então só retomando que o professor Barra disse,
+
+1495
+02:57:52,880 --> 02:57:58,240
+fiquem atentos alunos aos e-mails que a gente vai enviar um aviso a respeito da avaliação,
+
+1496
+02:57:58,240 --> 02:58:00,960
+tanto no e-mail como lá no Moodle ou na aba dos avisos.
+
+1497
+02:58:01,840 --> 02:58:05,360
+Também queria deixar os nossos agradecimentos ao professor Antônio Augusto,
+
+1498
+02:58:05,360 --> 02:58:10,960
+em nome da equipe das disciplinas transversais, nosso muito obrigado pela exposição da aula
+
+1499
+02:58:10,960 --> 02:58:15,760
+e pelas respostas. Também agradecer aos nossos alunos pelas perguntas,
+
+1500
+02:58:16,800 --> 02:58:21,040
+estimulando que tragam mais questionamentos lá no chat para que a gente possa enriquecer
+
+1501
+02:58:21,040 --> 02:58:26,880
+as nossas aulas. Então, nosso muito obrigado, finalizo agradecendo toda a equipe técnica,
+
+1502
+02:58:26,880 --> 02:58:31,520
+que faz com que isso seja possível. Até semana que vem. Até.
+
+1503
+03:00:05,360 --> 03:00:07,680
+Legendas pela comunidade de Amara.org
+
