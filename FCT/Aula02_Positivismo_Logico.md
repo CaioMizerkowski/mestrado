@@ -21,7 +21,7 @@ O grupo não defendia teses específicas, mas uma atitude geral de como lidar co
 
 ## O que é a concepção cientifica do mundo?
 
-A ideia é ligar e harmonizar os resultados obtidos pelos pesquisadores de diferentes áreas do conhecimento. Com enfase no trabalho coletivo.
+A ideia é ligar e harmonizar os resultados obtidos pelos pesquisadores de diferentes áreas do conhecimento. Com enfase no trabalho coletivo. Não é criar uma ciência única e sim uma ciência unificada, em que sabendo das limitações, produzimos uma conexão entre os difentes ramos da ciência.
 
 Se busca para isso um sistema de fórmulas neutro, liberto das impurezas das linguagens históricas. Foco na clareza e distância do obscurantismo e do insondável. "Não há profundezas na ciência, tudo é superficie".
 

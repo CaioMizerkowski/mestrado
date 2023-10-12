@@ -49,7 +49,7 @@ Não é uma redução do social ao biológico, mas sim uma analogia ou metáfora
 
 Pensar na ciência como algo que tem uma dinamica e essa dinamica tem uma evolução durante a história.
 
-### A languagem como articuladora das ideias e ações científicas
+### A linguagem como articuladora das ideias e ações científicas
 
 "Na estrutura da linguagem reside uma filosofia imperioso da comunidade, já numa única palavra se encontram teorias emaranhadas. A quem pertencem essas filosofias, aquem pertencem essas teorias?" - Fleck
 

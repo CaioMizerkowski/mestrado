@@ -24,7 +24,7 @@ Existem obstaculos, que estão em nós, e impedem de abstrair o conhecimento.
 
 ## A filosoia do não
 
-O não Bachalardiano deriva das geometrias não-euclidianas, não é o "não" da negação. É o "não" que deixa de lado elementos do passado, mas a absorção de  pedaços disso, outro exemplo é a física não-newtoniana.
+O não Bachalardiano deriva das geometrias não-euclidianas, não é o "não" da negação. É o "não" que deixa de lado elementos do passado, mas a absorção de pedaços disso, outro exemplo é a física não-newtoniana.
 
 A dialética para Bachelard não é a Hegeliana, mas sim a retificaão dos conceitos.
 
@@ -96,3 +96,7 @@ As imagens que nos formamos, constituem obstáculos epistemológicos. Por exempl
 Necessário romper com essa primeira ideia, esse primeiro pensamento, refutarmos essa primeira imagem. O pensamento objetivo deve ironizar, ser contrário ao que é inicial, deve ser um pensamento de ruptura. Só assim para sermos objetivos, indo contra estes instintos iniciais.
 
 Na poesia é o contrário, não é necessária essa fuga da imagem inicial.
+
+## Perfil Epistemológico
+
+Cada um de nós possui um perfil epistemológico, que é a forma como nós pensamos, como nós abstraímos, como nós pensamos o mundo, que vai evoluindo com a idade. Devemos ir superando os obstáculos epistemológicos durante os estudos e ir melhorando o perfil epistemológico.
