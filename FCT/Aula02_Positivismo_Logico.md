@@ -23,7 +23,7 @@ O grupo não defendia teses específicas, mas uma atitude geral de como lidar co
 
 A ideia é ligar e harmonizar os resultados obtidos pelos pesquisadores de diferentes áreas do conhecimento. Com enfase no trabalho coletivo.
 
-Se busca para isso um sistema de fórmulas neutro, liberto das impurezas das linguagens históricas. Foco na clareza e distância do obsurantismo e do insondável. "Não já profundezas na ciência, tudo é superficie".
+Se busca para isso um sistema de fórmulas neutro, liberto das impurezas das linguagens históricas. Foco na clareza e distância do obscurantismo e do insondável. "Não há profundezas na ciência, tudo é superficie".
 
 A concepção cientifica do mundo desconhece enigmas insolúveis. Devendo-se desmarcarar os problemas filosóficos e separar eles no que são pseudoprobemas e no que são problemas empiricos, que podem ser resolvidos pela razão.
 
@@ -31,7 +31,7 @@ A concepção cientifica do mundo desconhece enigmas insolúveis. Devendo-se des
 - Não se aceita obscuridade "por princípio"
 - rejeitam-se os enigmas insolúveis
 - podemos resolver nossos problemas por meio dos nossos esforços coletivos
-- com as ferramentas da lófica moderna, é possível mostrar isso
+- com as ferramentas da lógica moderna, é possível mostrar isso
 - todos os ramos da ciência se conectam a experiência
 - ciência unificada por todos se remeterem direta ou indiretamente aos objetos da experiência a nossa volta
 
@@ -77,7 +77,7 @@ Com o tempo, as lógicas e métodos que não sejam úteis em um campo de estudo,
 
 ## Crítica à Metafísica
 
-O que fira de fora? Aquilo que é obscuro por princípio, que não pode ser verificado, que não pode ser observado. Exemplo: "o nada nadifica" de Heidegger.
+O que fica de fora? Aquilo que é obscuro por princípio, que não pode ser verificado, que não pode ser observado. Exemplo: "o nada nadifica" de Heidegger.
 
 É uma frase vazia, sem significado baseado na realidade cotidiana. Não é possível verificar se o nada nadifica ou se o nada não nadifica, não existe como fazer a observação.
 
