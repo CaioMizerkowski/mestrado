@@ -11,6 +11,8 @@ Ao ler a obra aristotélica, tem uma epifania, e percebe que o Aristotéles não
 
 Ele então começa a trabalhar com a história da ciência e publica "a estrutura das revoluções científicas". Nos dez anos seguintes ele busca responder uma série de críticas a sua obra.
 
+Embora ele trabalhe tanto com história da ciência, como com filosofia, ele acha importante haver uma certa distância, estes dois campos devem dialogar, mas não podem ser o mesmo campo.
+
 No final ele começa a desenvolver ideias sobre incomensurabilidade, mais voltado a filosofia da linguagem.
 
 ## A estrutura das revoluções científicas
@@ -57,7 +59,7 @@ O paradigma trás consigo uma metafísica, um aparato matemático, uma linguagem
 
 Se um problema se parece com um problema anterior, ele vai buscar uma forma de resolver similar ao que foi feito anteriormente. Como se fosse uma fonte de analogias.
 
-Desenvolvimento quase ciclico da ciência:
+Desenvolvimento quase ciclico da ciência, é um padrão recorrente, mas não uma necessidade lógica:
 Ciência normal -> Crise -> Ciência extraordinária -> Revolução cientifica -> Nova ciência normal
 
 Ciência normal: A ciência que é feita dentro de um paradigma, em que o paradigma é refinado e a ciência pode ser vista como algo incremental.
@@ -69,6 +71,8 @@ Ciência extraordinária: Quando os cientistas começam a buscar novas formas de
 Revolução cientifica: Quando um novo paradigma é aceito e a ciência volta a ser normal.
 
 Nova ciência normal: A ciência que é feita dentro de um novo paradigma.
+
+As vezes a ciência se especialista, sem existir necessariamente uma revolução, com um novo campo da ciência sendo criado para estudar aquele problema.
 
 ## A função do dogma
 
