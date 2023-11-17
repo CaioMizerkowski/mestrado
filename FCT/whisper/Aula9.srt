@@ -1,0 +1,2896 @@
+1
+00:00:00,000 --> 00:00:30,000
+O que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é
+
+2
+00:00:30,000 --> 00:00:42,800
+que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é
+
+3
+00:00:42,800 --> 00:00:47,360
+que é que é que é e e que e
+
+4
+00:00:47,360 --> 00:01:09,120
+Bom dia, sejam muito bem-vindos e bem-vindas à disciplina de filosofias da ciência e
+
+5
+00:01:09,120 --> 00:01:16,500
+da tecnologia, e hoje nós abrimos um novo bloco, né, a gente terminou o bloco da filosofia
+
+6
+00:01:16,500 --> 00:01:23,900
+da ciência e hoje iniciamos o bloco da filosofia da tecnologia, e não poderíamos começar de
+
+7
+00:01:23,900 --> 00:01:29,460
+uma maneira melhor, porque temos a grande honra e a satisfação de receber o professor
+
+8
+00:01:29,460 --> 00:01:38,540
+Alberto Coupani hoje para iniciar esse bloco, eu vou apresentar rapidamente o professor
+
+9
+00:01:38,540 --> 00:01:44,820
+Pevere Coupani, o professor Coupani ele tem licenciatura e doutorado em filosofia pela
+
+10
+00:01:44,820 --> 00:01:54,140
+Universidade Nacional de Córdoba, pós-doutorado pela Parisete, foi professor titular da Universidade
+
+11
+00:01:54,140 --> 00:02:04,660
+Federal de Santa Catarina, já aposentado, né, e mantendo o vínculo com a universidade.
+
+12
+00:02:04,660 --> 00:02:09,620
+As áreas de atuação do professor Alberto Coupani são tanto na filosofia da ciência
+
+13
+00:02:09,620 --> 00:02:15,700
+quanto na filosofia da tecnologia, com ênfase em algumas questões como ciência e valores,
+
+14
+00:02:15,700 --> 00:02:25,380
+racionalidade e objetividade na ciência, ciência e controle da natureza, mas esse pequeno relato,
+
+15
+00:02:25,380 --> 00:02:35,420
+esse pequeno currículo, ele não dá conta de apresentar a grande importância do professor
+
+16
+00:02:35,420 --> 00:02:41,780
+Alberto Coupani para as discussões no Brasil em Filosofia da Ciência, em especial em Filosofia
+
+17
+00:02:41,780 --> 00:02:48,980
+da Tecnologia, porque nós podemos dizer que o professor Alberto Coupani é a primeira geração
+
+18
+00:02:48,980 --> 00:02:57,180
+na Filosofia da Tecnologia aqui no Brasil. Então para nós é realmente uma grande honra as
+
+19
+00:02:57,180 --> 00:03:05,100
+pesquisas em Filosofia da Tecnologia no Brasil devem muito ao professor Coupani, então ficamos
+
+20
+00:03:05,100 --> 00:03:13,900
+felizes em ter essa presença tão importante conosco. Então, professor, muito obrigada pela sua
+
+21
+00:03:13,900 --> 00:03:21,780
+disponibilidade, sempre muito gentil em nos atender e a palavra está com o senhor.
+
+22
+00:03:22,780 --> 00:03:30,500
+É muito verólica a sua apresentação, sua identidade, para mim também é um grande prazer
+
+23
+00:03:30,500 --> 00:03:41,780
+aceitar algo a forzar ao seu convite e eu espero apresentar de modo útil aos assistentes,
+
+24
+00:03:41,780 --> 00:03:49,060
+as minhas ideias sobre Filosofia da Tecnologia e em particular o autor de minha cóbica me comentar
+
+25
+00:03:49,060 --> 00:04:01,180
+que é o Mario Bungue. Podemos comentar a qualquer hora. A Filosofia da Tecnologia é uma disciplina
+
+26
+00:04:01,180 --> 00:04:10,260
+recente apenas 50 anos atrás, ou que para a história da Filosofia é pouca coisa, os filósofos
+
+27
+00:04:10,260 --> 00:04:16,700
+começaram, mas os filósofos que eu comentarei hoje, o Mario Bungue, começaram a declamar que a
+
+28
+00:04:16,700 --> 00:04:24,860
+academia não ocupava rapidamente da tecnologia, ao dizer academia eu quero dizer em particular a
+
+29
+00:04:24,860 --> 00:04:33,620
+Filosofia, que ignorava os problemas de todos os tipos epistemológicos, ontológicos, éticos,
+
+30
+00:04:33,620 --> 00:04:42,340
+políticos e a tecnologia envolve um íntimo. A partir dali, felizmente, uma diversidade de
+
+31
+00:04:42,340 --> 00:04:50,980
+autores pelo mundo afora começaram a focar na tecnologia, elaborando diversos tópicos e
+
+32
+00:04:50,980 --> 00:04:57,940
+publicando diversos livros a respeito. Eu vou me referir, então, inicialmente a essa disciplina,
+
+33
+00:04:57,940 --> 00:05:04,940
+essa característica, para depois continuar falando em particular as ideias de Mario Bungue.
+
+34
+00:05:04,940 --> 00:05:15,180
+O nosso mundo é tecnológico, qualquer fotografia como essa que eu apresento aqui de uma cidade
+
+35
+00:05:15,180 --> 00:05:24,060
+contemporânea mostra evidentemente que tudo quanto ela acontece depende de algum modo da tecnologia.
+
+36
+00:05:24,060 --> 00:05:34,540
+Na filosofia, a tecnologia, como já diante, uma preocupação recente.
+
+37
+00:05:39,420 --> 00:05:46,300
+Vamos a algumas definições de tecnologia, fabricação e uso de artefatos, de Carl Nietzsche,
+
+38
+00:05:46,300 --> 00:05:53,500
+uma forma de conhecimento endereçada a criar uma realidade com formas nossos propósitos,
+
+39
+00:05:54,460 --> 00:06:01,900
+conhecimento que funciona ou sabe como, implementações práticas da inteligência,
+
+40
+00:06:03,260 --> 00:06:07,740
+a humanidade trabalhando a te works em inglês original,
+
+41
+00:06:11,340 --> 00:06:19,340
+um modo de vida própria da modernidade, a totalidade dos métodos para que se chega
+
+42
+00:06:19,340 --> 00:06:26,460
+racionalmente e que tenha uma eficiência absoluta para um dado estágio do desenvolvimento
+
+43
+00:06:26,460 --> 00:06:36,860
+em todo campo de vida humana, a estrutura material da modernidade ou então a colocação da natureza
+
+44
+00:06:36,860 --> 00:06:45,260
+a disposição do homem como recurso. Não tem essa diversidade de caracterizações que por momentos
+
+45
+00:06:45,260 --> 00:06:54,380
+parece que se referissem a coisas absolutamente diversas, isso é que este muño dá complexidade
+
+46
+00:06:54,380 --> 00:06:58,140
+dos enómenos que denominamos tecnologia de maneira genérica.
+
+47
+00:07:03,020 --> 00:07:08,780
+As possíveis razões dessa diversidade é que nós vivemos da dinatecnologia,
+
+48
+00:07:09,500 --> 00:07:17,260
+estamos inmersos nela, geralmente apreciamos da mesma apenas alguma feto, alguma dimensão
+
+49
+00:07:17,260 --> 00:07:23,820
+e, sobretudo, por ter tecnologia, como acabei de dizer, é uma realidade complexa.
+
+50
+00:07:29,420 --> 00:07:36,060
+Todo mundo sabe, por exemplo, que um aparelho comum, um aparelho que aparece na imagem à esquerda,
+
+51
+00:07:36,140 --> 00:07:44,060
+é uma tecnologia, uma definição de tecnologia, mas poucos reparam em que simples óculos são já uma
+
+52
+00:07:44,060 --> 00:07:52,380
+manifestação da tecnologia porque não existiriam senhores estudos de óptica que permitem fabricar
+
+53
+00:07:52,380 --> 00:08:00,620
+as lentes nem a produção mesma da almação que é feita industrialmente, isso é mediante aparelhos
+
+54
+00:08:00,700 --> 00:08:10,860
+que são uma concretização da tecnologia até uma simples agulha, um elemento tecnológico,
+
+55
+00:08:11,420 --> 00:08:19,180
+isso é dificilmente nosso mundo atual existe alguma coisa que não tenha sido produzida tecnologicamente.
+
+56
+00:08:22,540 --> 00:08:30,220
+Nós dependemos da tecnologia, não apenas os militares, como ilustra a primeira imagem,
+
+57
+00:08:30,220 --> 00:08:40,780
+mas também os médicos, os engenheiros, os artistas pensam que o desenvolvimento, por exemplo,
+
+58
+00:08:40,780 --> 00:08:48,780
+da pintura impressionista, foi possível, graças à invenção das pintas produzidas industrialmente
+
+59
+00:08:48,780 --> 00:08:56,780
+que permitiram os pintores ir a pintar fora dos estudos, levando consigo as linhas com pintura
+
+60
+00:08:57,500 --> 00:09:06,700
+artificial. Também os religiosos, os cultos religiosos e bem impossíveis hoje em dia sem elementos
+
+61
+00:09:06,700 --> 00:09:14,460
+básicos como a iluminação elétrica e o microfone, para não dizer nada da vida política em que
+
+62
+00:09:14,460 --> 00:09:21,580
+o nosso país em particular onde votamos mediante a urna eletrônica toma se patente ou quanto
+
+63
+00:09:21,580 --> 00:09:34,140
+o sistema político depende da tecnologia. A tecnologia prolonga a técnica, a técnica é uma
+
+64
+00:09:34,140 --> 00:09:44,300
+dimensão básica da vida humana que sem querer nós fomos em prática quase continuamente pensam,
+
+65
+00:09:44,300 --> 00:09:51,180
+por exemplo, que habilidades básicas como falar e andar em dois pés são técnicas que
+
+66
+00:09:51,180 --> 00:09:59,420
+atiremos ajudados por nossos pais e nos condenados, por isso que se o ser humano não era auxiliado na
+
+67
+00:09:59,420 --> 00:10:07,020
+tal vez de começar a falar e de começar a caminhar, ele nunca atirirá por si mesmo essas habilidades,
+
+68
+00:10:07,740 --> 00:10:15,740
+então fabricaram um pão casero e uma única, tocar um instrumento implica uma técnica, falar como
+
+69
+00:10:15,740 --> 00:10:23,500
+acabei de dizer, implica em usar uma técnica, em outras palavras a técnica antes que a tecnologia,
+
+70
+00:10:23,500 --> 00:10:30,940
+que um recurso, uma dimensão da vida humana, alimentasse a qual nós seríamos humanos propriamente,
+
+71
+00:10:31,900 --> 00:10:38,860
+entendendo por técnica uma forma codificada e que, portanto, pode ser transmitida, atendida,
+
+72
+00:10:39,500 --> 00:10:47,500
+de realizar uma tarefa de mais de modo organizado, de alguma maneira garantindo resultado.
+
+73
+00:10:50,940 --> 00:10:56,940
+De todo modo, a tecnologia não é a mesma coisa que a técnica. Vejam de cima para baixo a
+
+74
+00:10:56,940 --> 00:11:05,500
+comparação das figuras, transportar uma carga em um caminho de voz, e não é a mesma coisa que
+
+75
+00:11:05,500 --> 00:11:12,860
+transportar em uma caminhaneta. A caminhaneta tem mais potência, a caminhaneta pode andar mais
+
+76
+00:11:13,900 --> 00:11:21,660
+longe e por terrenos mais acidentados. Então, se trata em ambos os casos de quase a mesma coisa.
+
+77
+00:11:22,380 --> 00:11:29,340
+Em segundo slide, você vê, ou a pessoa escrevendo mediante um lápis, ou então,
+
+78
+00:11:29,340 --> 00:11:36,700
+mediante um computador, cambia aqui os resultados, segundo o que éramos, destacar o qual aspecto,
+
+79
+00:11:36,700 --> 00:11:45,980
+e não é a mesma coisa. Até porque já foi escutado que os movimentos cerebrais que presidem
+
+80
+00:11:45,980 --> 00:11:52,700
+ou movimentos da mão que escrevem não são os mesmos, que é o movimento dos dedos quando teclamos
+
+81
+00:11:52,700 --> 00:12:01,260
+no computador. E, por fim, na terceira e última imagem, ou imagens de imaginário da página,
+
+82
+00:12:01,260 --> 00:12:10,060
+nós vemos uma pessoa agredindo ou descendendo-se mediante uma faca ou mediante uma arma que
+
+83
+00:12:10,060 --> 00:12:16,620
+tem um visor para atacar a distância. Então, atacar ou descender-se, corpo a corpo,
+
+84
+00:12:16,620 --> 00:12:22,940
+e a distância não são a metropolitana, são e não são. É uma mesma atividade modificada
+
+85
+00:12:22,940 --> 00:12:36,060
+que a evolução da tecnologia. Bom, a tecnologia se diferencia da técnica porque ela é possível
+
+86
+00:12:36,060 --> 00:12:42,940
+entre a intervenção da ciência ou, mais amplamente, da inteligência teórica, entendendo
+
+87
+00:12:42,940 --> 00:12:50,220
+por inteligência teórica a capacidade de considerar, em abstrato, uma situação e tirar
+
+88
+00:12:50,220 --> 00:13:01,420
+dela consequências que possam modificar nossa prática. Por que? Eu quero voltar um pouquinho
+
+89
+00:13:01,420 --> 00:13:10,140
+antes, senão se reduzimos a tecnologia ao uso da ciência em sentido moderno, não teríamos como
+
+90
+00:13:10,140 --> 00:13:18,060
+explicar grandes realizações de jogos antigos, como os maias, os romanos, ou então as categorias
+
+91
+00:13:18,060 --> 00:13:26,140
+medievais que foram elevadas quando aí não existia ciência em sentido moderno. Ao passo que se
+
+92
+00:13:26,140 --> 00:13:32,220
+falamos de que a tecnologia é possível como implementação da inteligência teórica,
+
+93
+00:13:32,220 --> 00:13:40,380
+isso é a capacidade de extraer os elementos essenciais de um problema e programar uma solução
+
+94
+00:13:40,380 --> 00:13:47,500
+prática que funciona. Nesse caso, nós entendemos que também as construções artigas foram
+
+95
+00:13:47,500 --> 00:13:58,220
+produtos tecnológicos. Bom, a técnica da tecnologia ambas dizem respeito a um certo âmbito
+
+96
+00:13:58,220 --> 00:14:06,940
+da vida humana, o âmbito do fazer ou produzir, que é diferente do âmbito do agir ou conduzir a vida.
+
+97
+00:14:07,900 --> 00:14:15,420
+Este segundo âmbito, que foi diferenciado pelos cirósofos a partir da distância,
+
+98
+00:14:16,220 --> 00:14:21,900
+consiste em que nesse sentido ou que fazemos a vida pode ser moralmente,
+
+99
+00:14:22,940 --> 00:14:30,140
+termo a maior connotação moral positiva ou negativa, por exemplo. A técnica da tecnologia são
+
+100
+00:14:30,140 --> 00:14:41,740
+atividades ordenadas a inventar e a usar artefatos. Por sua vez, artefatos notem por favor a etimologia,
+
+101
+00:14:41,740 --> 00:14:48,940
+a palavra arte e a versão latina da palavra grega técnica, de onde vem técnica justamente,
+
+102
+00:14:49,660 --> 00:14:57,980
+e produzem um fato, algo que não existia, em forma de usar uma arte, ou seja, usando uma técnica
+
+103
+00:14:57,980 --> 00:15:05,660
+implica produzir algo conforme regras. E a técnica, como era chamada na antiguidade,
+
+104
+00:15:06,300 --> 00:15:14,460
+supõe certo saber e certas habilidades. Não é qualquer um que produz algo técnicamente,
+
+105
+00:15:14,460 --> 00:15:20,940
+mas alguém que domina uma certa forma de trabalhar, de uma história que conhece ou
+
+106
+00:15:20,940 --> 00:15:25,100
+mentir e conhece a tarefa a ser desenvolvida.
+
+107
+00:15:25,100 --> 00:15:35,260
+Bom, a tecnologia pode ser positiva ou negativa, todos nós, intuitivamente,
+
+108
+00:15:35,260 --> 00:15:42,220
+classificamos os resultados da tecnologia. Existem casos claramente afirmativos, como,
+
+109
+00:15:42,220 --> 00:15:50,380
+por exemplo, utilizar vacinas para combater uma doença, casos que quase inanimamente
+
+110
+00:15:50,380 --> 00:15:58,780
+caracterizaríamos como negativa, como uma explotação nuclear, e casos antigos ou dubidosos,
+
+111
+00:15:58,780 --> 00:16:07,260
+como, por exemplo, a utilizar um lugar condicionado. É melhor utilizar um lugar condicionado ou construir
+
+112
+00:16:07,260 --> 00:16:15,500
+de modo que os edificios, as moradias humanas, tenham condições que os tornam naturalmente mais frescos.
+
+113
+00:16:16,460 --> 00:16:24,780
+Ou então, por exemplo, a produção de alimentos ou a comunicação entre pessoas e países pode
+
+114
+00:16:24,780 --> 00:16:31,340
+também ser algo que eventualmente tenha connotações negativistas. A produção de alimentos,
+
+115
+00:16:31,340 --> 00:16:38,380
+certamente, a princípio, consideramos algo positivo. A comunicação também. Mas veja
+
+116
+00:16:38,460 --> 00:16:45,180
+em uma foto do meio onde está ilustrada a poluição ambiental. Então, aí temos que,
+
+117
+00:16:45,180 --> 00:16:52,300
+a tecnologia tem também características de algo que pode ser negativo.
+
+118
+00:16:59,420 --> 00:17:05,420
+Assim, a tecnologia oferece diversos aspectos filosóficos. Por exemplo,
+
+119
+00:17:05,420 --> 00:17:13,020
+questões ontológicas, como chamamos em filosofia, as questões que dizem respeito a certas coisas.
+
+120
+00:17:14,380 --> 00:17:20,540
+Ou questões epistemológicas, isto é, aquelas que se refletem ao conhecimento do mundo.
+
+121
+00:17:21,180 --> 00:17:27,580
+Por enfim, questões axiológicas. A palavra axiológica vem de uma palavra grega que
+
+122
+00:17:27,580 --> 00:17:34,220
+significa algo valioso. Questões axiológicas são questões referidas ao valor depois,
+
+123
+00:17:34,700 --> 00:17:39,420
+valores éticos, valores estéticos, valores políticos.
+
+124
+00:17:44,380 --> 00:17:51,340
+Vamos a alguns exemplos. Questões ontológicas respondem a pergunta, qual é o ser de? Por exemplo,
+
+125
+00:17:51,340 --> 00:17:58,140
+qual é o ser de uma máquina? Ou qual é o ser de um robô? Ou qual é o ser de um ciborgo?
+
+126
+00:17:58,140 --> 00:18:04,140
+Ou ciborgo, isto é, uma pessoa, por exemplo, que tem alguma parte de seu corpo
+
+127
+00:18:04,140 --> 00:18:12,300
+substituída por uma tecnologia. Lembro ainda que todos nós estamos calarecendo mais ciborgos,
+
+128
+00:18:12,860 --> 00:18:19,660
+porque a frequência com que as pessoas têm, como é meu caso, por exemplo, algum dente implantado,
+
+129
+00:18:19,660 --> 00:18:25,500
+já faz com que a pessoa não seja puramente natural, mas que tenha uma modificação tecnológica.
+
+130
+00:18:26,460 --> 00:18:36,460
+Na última ilustração, vocês veem uma imagem da produção de animais por plonação. Então nos quatro
+
+131
+00:18:36,460 --> 00:18:42,300
+casos nos perguntamos qual é o ser de algo que não é puramente natural,
+
+132
+00:18:42,300 --> 00:18:49,420
+senão que resulta da ação tecnológica. Então questões epistemológicas,
+
+133
+00:18:50,300 --> 00:18:58,780
+na tecnologia, predomina ou que se usam ou saberem como diferenciar outros, saber que. Por exemplo,
+
+134
+00:18:58,780 --> 00:19:07,020
+nós sabemos como andar de bicicleta, a diferença de sabermos que hoje é tal dia das semanas de cada ano.
+
+135
+00:19:09,820 --> 00:19:16,940
+Em uma segunda questão, a tecnologia apenas ciência aplicada por diversos motivos
+
+136
+00:19:16,940 --> 00:19:24,540
+devemos responder negativamente a isso, embora na imensa maioria dos casos a tecnologia resulte da
+
+137
+00:19:24,540 --> 00:19:31,100
+aplicação de conhecimento científico. E outros podem ser o resultado de conhecimentos
+
+138
+00:19:31,100 --> 00:19:37,980
+científicos que foram suficientemente sofisticados ou tornados abstractos e em tom aplicados.
+
+139
+00:19:38,860 --> 00:19:45,660
+Em todo caso, os tecnólogos utilizam também conhecimentos vulgares, não apenas conhecimentos científicos.
+
+140
+00:19:47,420 --> 00:19:54,220
+Outra pergunta pertinente ao âmbito da epistemologia é se existem leis tecnológicas,
+
+141
+00:19:54,220 --> 00:20:02,540
+leis que governam, entre aspas, a existência dos objetos tecnológicos e não apenas os objetos
+
+142
+00:20:02,540 --> 00:20:11,260
+naturais. Outra pergunta desse âmbito é se existem teorias tecnológicas. Filósofos como a Teneke
+
+143
+00:20:11,260 --> 00:20:17,740
+me cabe a apresentar hoje o Mario Gunghe destacaram que esses que são teorias referentes
+
+144
+00:20:17,740 --> 00:20:25,180
+justamente aos objetos artificiais tecnológicos e que se diferenciam das teorias que aplicam
+
+145
+00:20:25,180 --> 00:20:33,420
+no mundo natural. E por fim, o ponto inicial de qualquer projeto tecnológico ou design
+
+146
+00:20:34,460 --> 00:20:40,780
+é um conhecimento de aquilo que é possível. A diferença do conhecimento do sentido
+
+147
+00:20:40,780 --> 00:20:48,460
+de toda a palavra que se referia a uma crença objetiva edificada com relação ao que já existe
+
+148
+00:20:48,460 --> 00:20:54,540
+no mundo. O conhecimento por design é um conhecimento de aquilo que virá a ser,
+
+149
+00:20:55,260 --> 00:21:04,380
+do que ainda não é, mas queremos que seja. Bom, e finalmente questões arteológicas,
+
+150
+00:21:05,100 --> 00:21:12,380
+como já viantei, ou seja, questões relativas a valores. Temos, por exemplo, questões estéticas,
+
+151
+00:21:12,940 --> 00:21:17,900
+isto é, as referentes, ou o que se chama de filosofia, a beleza funcional,
+
+152
+00:21:18,540 --> 00:21:25,900
+beleza dos artefatos. Diferentemente da beleza natural, isto é, da beleza, por exemplo, de uma pessoa
+
+153
+00:21:25,900 --> 00:21:32,540
+ou de uma paisagem, ou da beleza artística, a beleza de quadros, de espátulas, de música.
+
+154
+00:21:33,260 --> 00:21:40,300
+Diferentemente delas, uma nave, como no caso da ilustração à esquerda ou um par de sapatos,
+
+155
+00:21:40,300 --> 00:21:47,260
+tem um tipo de beleza próprio delas, ao que se chama, insisto, beleza funcional,
+
+156
+00:21:47,260 --> 00:21:53,500
+beleza de um objeto que cumpre uma função. Questões éticas, como, por exemplo,
+
+157
+00:21:53,500 --> 00:22:00,380
+é lícito experimentar com animais? Ou então, como fica nossa privacidade na internet?
+
+158
+00:22:02,620 --> 00:22:08,940
+E, por fim, exemplos de questões políticas, de valores políticos. Armas de polícia imensas,
+
+159
+00:22:09,500 --> 00:22:16,700
+ou automação que gera esse emprego, merecem uma avaliação de tipo moral e político.
+
+160
+00:22:20,380 --> 00:22:28,300
+Bem, vamos agora às dimensões ou aspectos da tecnologia. Dimensões essas que foram destacadas
+
+161
+00:22:29,020 --> 00:22:36,060
+por primeira vez por um dos maiores filósofes da tecnologia, ou norte-americano Carlos Nietzsche.
+
+162
+00:22:36,940 --> 00:22:45,580
+Ele diferencia entre objetos e sistemas de objetos. Vejam, por exemplo, a esquerda a foto de um misturir,
+
+163
+00:22:46,140 --> 00:22:52,860
+ele funciona apenas dentro de um conjunto de outros, de um sistema de outros artefatos que
+
+164
+00:22:52,860 --> 00:23:01,580
+constituem a sala de cirurgia, ilustrada à direita. Um segundo, uma segunda dimensão,
+
+165
+00:23:01,580 --> 00:23:10,300
+da tecnologia é possuir ou implicar conhecimentos específicos. Conhecimentos tecnológicos não
+
+166
+00:23:10,300 --> 00:23:18,300
+são apenas os conhecimentos científicos que eventualmente o tecnólogo utiliza. Existem elementos
+
+167
+00:23:18,300 --> 00:23:27,340
+de conhecimento que são específicos da tecnologia, inclusive ações específicas como ação de inventar.
+
+168
+00:23:28,860 --> 00:23:36,940
+Agora, atividades específicas, eu me aviantei no slide anterior a falar de ações específicas, mas
+
+169
+00:23:36,940 --> 00:23:46,220
+a tecnologia se concretiza e a atividade está como projetar, ilustrada lá em cima, montar artefatos,
+
+170
+00:23:46,940 --> 00:23:54,540
+consertar ou reparar e, finalmente, usar que a atividade que a maior parte de nós executa diariamente.
+
+171
+00:23:57,260 --> 00:24:04,300
+E, por fim, a tecnologia tem a ver, como diz respeito, a uma certa atitude perante a realidade
+
+172
+00:24:04,300 --> 00:24:12,620
+diferente de outras, como a religiosa ou artística. O primeiro, a primeira imagem à esquerda,
+
+173
+00:24:12,700 --> 00:24:20,300
+rebota ou pretende distribuir a atitude tecnológica. Aqui era do meio uma atitude de referência,
+
+174
+00:24:20,300 --> 00:24:27,740
+de reverência diante da natureza, como, por exemplo, a contemplação religiosa do mundo, ou, então,
+
+175
+00:24:29,660 --> 00:24:37,180
+a terceira ilustração, uma missão artística da natureza. Então, a tecnologia encara, por assim dizer,
+
+176
+00:24:37,180 --> 00:24:42,220
+um mundo de maneira diferente, que a ciência, a filosofia ou arte.
+
+177
+00:24:45,660 --> 00:24:50,700
+Porque a tecnologia, e aqui estamos caracterizando a mais específicamente,
+
+178
+00:24:51,340 --> 00:24:59,500
+visa ou controle da realidade. Segundo o filósofo Hugo Leicy, nós exercemos o controle sobre objetos
+
+179
+00:25:00,140 --> 00:25:07,420
+quando deliberadamente, com sucesso e informados pelas nossas crenças a ser respeito,
+
+180
+00:25:08,140 --> 00:25:18,140
+os submetemos a nosso poder e os usamos como meios para nossos fins. Aí vejam na ilustração da
+
+181
+00:25:18,140 --> 00:25:26,220
+esquerda as vacas confinadas para a extração industrial do leite, ou à direita, como exemplo de
+
+182
+00:25:26,220 --> 00:25:32,940
+controle das sociedades, os meios de comunicação massiva, que a partir do rádio da televisão permitiram
+
+183
+00:25:34,860 --> 00:25:45,340
+os conductores, os líderes políticos, os venderores de objetos influenciar atitudes
+
+184
+00:25:45,340 --> 00:25:50,700
+dos que assistem ou usam os aparelhos de difusão.
+
+185
+00:25:54,540 --> 00:26:01,500
+Besamos agora correntes filosóficas em filosofia da tecnologia, como toda área da filosofia,
+
+186
+00:26:01,500 --> 00:26:10,140
+que entende alguma familiaridade, como a filosofia usabe, não existe apenas uma visão filosófica do assunto,
+
+187
+00:26:10,220 --> 00:26:18,140
+neste caso da tecnologia, mas diferentes folhares, diferentes doutrinas, diferentes formas
+
+188
+00:26:18,140 --> 00:26:27,740
+de perguntar e responder as questões filosóficas gerais. Por exemplo, existe a abordagem analítica,
+
+189
+00:26:27,740 --> 00:26:34,700
+da qual o filósofo que vou apresentar é, depois, Mário Pungue, um exemplo bem claro, que consiste
+
+190
+00:26:34,700 --> 00:26:41,660
+em esclarecer conceitualmente a tecnologia e suas manifestações. Por exemplo, responder a perguntas
+
+191
+00:26:41,660 --> 00:26:50,860
+o que é tecnologia, em que consiste o conhecimento tecnológico, o que é um objeto tecnológico, etc.
+
+192
+00:26:52,140 --> 00:26:55,660
+Essas são perguntas típicas de uma abordagem analítica.
+
+193
+00:26:55,660 --> 00:27:06,860
+É, se trata de uma absorção objetivista, porque a tecnologia é abordada como um aspecto
+
+194
+00:27:06,860 --> 00:27:14,540
+do mundo que pode ser explicado como qualquer outro. É uma abordagem dentro de si diversificada,
+
+195
+00:27:14,540 --> 00:27:24,300
+o que existem autores realistas e outros pragmatistas, etc. Estou invocando rótulos
+
+196
+00:27:24,780 --> 00:27:30,460
+que caracterizam a atitude filosófica que já quererem vocês que tenham por ventura alguma
+
+197
+00:27:30,460 --> 00:27:36,860
+familiaridade como a filosofia reconhece. Uma autor realista, por exemplo, é uma autor que admite
+
+198
+00:27:37,660 --> 00:27:45,580
+como coisa básica a existência do mundo exterior e de que nossas teorias e nossas especulações
+
+199
+00:27:45,580 --> 00:27:53,980
+tratam de reproduzir como ele é, em verdade, em verdade. Ou os autores pragmatistas que vinculam
+
+200
+00:27:54,060 --> 00:28:00,940
+a ciência filosófica com a ação no mundo. Então, é uma abordagem diversificada,
+
+201
+00:28:01,500 --> 00:28:09,020
+essa abordagem analítica, porque dentro delas cabem ainda noanças ou versões diferentes,
+
+202
+00:28:09,020 --> 00:28:15,740
+segundo a posição filosófica de cada autor. A grande maioria dos estudos filosóficos
+
+203
+00:28:15,740 --> 00:28:22,780
+da tecnologia corresponde a, por exemplo, numéricamente, são mais, mais numerosos, mais
+
+204
+00:28:22,780 --> 00:28:31,820
+frequentes. E, como exemplo, cito Carl Nietzsche, Herbert Simon, Joseph Pipps e Mario Mundi,
+
+205
+00:28:31,820 --> 00:28:36,780
+que é o autor que eu apresentarei hoje, que ilustra de maneira bem clara essa abordagem que
+
+206
+00:28:36,780 --> 00:28:44,700
+estou chamando de analista. Bom, uma segunda abordagem, tomando assim a filosofia,
+
+207
+00:28:44,780 --> 00:28:51,660
+em sentido amplo, é a exploração, a abordagem fenomenológica, que explora a experiência da
+
+208
+00:28:51,660 --> 00:28:58,460
+tecnologia e do que ela significa na vida humana individual e coletiva. Por exemplo, como
+
+209
+00:28:58,460 --> 00:29:05,740
+modificar nossa experiência do mundo, andar em uma autorecorrida, ou utilizar os óculos,
+
+210
+00:29:06,700 --> 00:29:13,420
+sejam óculos comuns, ou óculos da chamada realidade aumentada, ou realidade virtuosa. Então,
+
+211
+00:29:13,420 --> 00:29:23,420
+filósofos como Don Hyde e Albert Wortmann e Herbert Grafus são autores que utilizam expressamente
+
+212
+00:29:23,420 --> 00:29:30,620
+uma abordagem fenomenológica. Para quem não lembra, a fenomenologia é uma abordagem filosófica que
+
+213
+00:29:31,500 --> 00:29:39,580
+faz questão de analisar o assunto que for, neste caso, a tecnologia, centrando-se na maneira como
+
+214
+00:29:39,580 --> 00:29:47,500
+seres humanos vivenciamos esse fenómeno, neste caso, o fenómeno da tecnologia. Não consideram
+
+215
+00:29:47,500 --> 00:29:54,780
+em abstrato, de maneira puramente analítica, os objetos de reflexão filosófica, mas sempre
+
+216
+00:29:54,780 --> 00:30:03,260
+tentam colocar-os dentro da experiência humana concreta. E, finalmente, existe uma abordagem que
+
+217
+00:30:03,340 --> 00:30:12,140
+se autodenomem em crítica, porque foca a tecnologia enquanto ele engana a relações de poder. E, portanto,
+
+218
+00:30:13,180 --> 00:30:20,460
+se enfatiza o caráter político, os objetos e sistemas tecnológicos. Filósofos como Herbert
+
+219
+00:30:20,460 --> 00:30:29,100
+Marcusi, Habermas, Enfimbert, mais próximos de nós, são autores que utilizaram este caráter político
+
+220
+00:30:29,180 --> 00:30:37,820
+de qualquer objeto tecnológico, por mais que pareça afastado das realidades políticas,
+
+221
+00:30:38,380 --> 00:30:43,820
+até ou funcionamento do computador que haver com determinada política e tem consequência
+
+222
+00:30:43,820 --> 00:30:51,340
+política. A ilustração à direita reproduz a famosa cena do filme Tempos Modernos, em que Charlie
+
+223
+00:30:51,340 --> 00:31:00,060
+Chaplin se encontra literalmente atrapado dentro das rodas do sistema de produção capitalista.
+
+224
+00:31:02,140 --> 00:31:07,980
+Como observação, colocaria que não somente são críticos os que se autodenomem em crítica,
+
+225
+00:31:08,540 --> 00:31:15,820
+porque outros autores da filosofia da tecnologia como Borgman, Elgini, Heidegger e Winder
+
+226
+00:31:15,820 --> 00:31:21,260
+são críticos tocando de uma forma ou outra a dimensão política da tecnologia.
+
+227
+00:31:24,780 --> 00:31:31,980
+Bom, agora vamos para essa contribuição de Mario Bunghe, que constituiu um enfoque analítico. Bunghe
+
+228
+00:31:31,980 --> 00:31:41,420
+morreu em 2020, isso é, viveu mais de 100 anos. Os filósofos às vezes ultrapassam essa
+
+229
+00:31:42,380 --> 00:31:48,940
+dimensão da vida humana de 100 anos, porque não é certamente nenhuma prova de que a atividade
+
+230
+00:31:48,940 --> 00:31:55,260
+filosófica seja uma garantia de longevidade. Mas, no caso de Bunghe, isso garantia que até o
+
+231
+00:31:55,260 --> 00:32:02,780
+último momento de sua vida estivesse produzindo de maneira inteligente contribuições
+
+232
+00:32:02,780 --> 00:32:10,620
+para sobre tudo as filosofias da ciência e da tecnologia. Os méritos da análise
+
+233
+00:32:10,620 --> 00:32:17,900
+a que Bunghe sujeita a tecnologia são vários. Eu destaco para começar a clareza
+
+234
+00:32:18,460 --> 00:32:26,460
+e a precisão dos conceitos que usam. Em segundo lugar, a argumentação rigorosa que continuamente
+
+235
+00:32:27,420 --> 00:32:35,500
+utiliza é destacar que Bunghe era de formação física, era um físico de origem, de maneira que
+
+236
+00:32:35,500 --> 00:32:43,100
+isso também explica a sua inclinação a procurar sempre dar uma expressão muito clara e vigorosa do que
+
+237
+00:32:43,740 --> 00:32:52,540
+pensava transmitir para seus leitores e ouvintes. A sistematicidade foi a apresentação dos
+
+238
+00:32:52,540 --> 00:33:00,380
+assuntos, não como menos agregados e tópicos, mas como questões que se interligam e a abrangência
+
+239
+00:33:01,100 --> 00:33:08,460
+e as moças a capacidade de Bunghe de examinar filosóficamente
+
+240
+00:33:09,100 --> 00:33:15,500
+das mais diversos assuntos. Eu creio que apenas as questões estéticas fugiram da sua interesse,
+
+241
+00:33:15,500 --> 00:33:24,140
+mas as outras todas as questões ontológicas, epistemológicas, éticas e políticas mereceram de
+
+242
+00:33:24,140 --> 00:33:33,020
+alguma maneira a sua atenção. Há algumas premissas da maneira como Bunghe analisou a tecnologia.
+
+243
+00:33:33,020 --> 00:33:40,780
+Primeiro, a sua convicção de que a ciência é, cito, o mais recente, o mais universal e o mais
+
+244
+00:33:40,780 --> 00:33:48,780
+proveitoso de todos os estilos de pensamento e assalto. Isso faz de Bunghe um descensor que se
+
+245
+00:33:48,780 --> 00:33:57,020
+constrói mais geralmente a cientificismo, isto é, a ênfase e talvez excessiva nos méritos da
+
+246
+00:33:57,020 --> 00:34:06,620
+ciência como instrumento para compreender o mundo. Brajir o mundo como tal, isto é, como mais recente,
+
+247
+00:34:06,620 --> 00:34:14,620
+mais universal, etc., era a ciência superior a outros modos de pretenso ou real conhecimento.
+
+248
+00:34:15,100 --> 00:34:22,940
+Isso significa que a ciência para Bunghe era superior não apenas ao saber rural, mas também, por exemplo,
+
+249
+00:34:22,940 --> 00:34:33,340
+ao saber pretensamente superior que as reunições defendem com relação ao mundo ou ao que alguns autores
+
+250
+00:34:33,340 --> 00:34:40,300
+chamam o conhecimento artístico do mundo. Para Bunghe nada era superior à ciência como instrumento
+
+251
+00:34:40,300 --> 00:34:47,980
+para sabermos em que consiste o mundo natural e social. Ele distinguia, como outros autores,
+
+252
+00:34:47,980 --> 00:34:55,500
+entre ciência pura, ou seja, aquela pesquisa básica orientada a aumentar o saber por mais que não
+
+253
+00:34:55,500 --> 00:35:03,740
+se saiba de momento a que pode ser aplicada. A ciência aplicada, isto é, aquela que visa já
+
+254
+00:35:03,740 --> 00:35:11,660
+de início uma produção de algo que seja eficaz, por exemplo, produzir uma vacina, e a tecnologia,
+
+255
+00:35:12,460 --> 00:35:19,820
+ou seja, a utilização de conhecimentos científicos com as reservas que já quis para a produção de
+
+256
+00:35:19,820 --> 00:35:27,100
+artefatos. Se aqui eu coloco e os trações, por exemplo, à astronomia, seria, em sua grande medida,
+
+257
+00:35:27,100 --> 00:35:34,060
+um exemplo de ciência pura a óptica dos telescopios de ciência aplicada e ou aprimoramento
+
+258
+00:35:34,060 --> 00:35:43,340
+dos telescopios, um exemplo de tecnologia. Para Bunghe algumas pretensas, ciências seriam algo que
+
+259
+00:35:43,340 --> 00:35:52,700
+não se justifica como ciência propriamente evita, ou seja, seria uma pseudosciência. Para ele, ao
+
+260
+00:35:52,700 --> 00:36:00,220
+criacionismo, ou seja, a ideia de que houve no início da evolução do universo alguém que deu
+
+261
+00:36:00,780 --> 00:36:08,540
+essa ponta de inicial, etc., não seria algo científico, sino produto de uma especulação
+
+262
+00:36:08,540 --> 00:36:16,140
+influenciada pela religião. Também foi desde o início um crítico muito forte da psicanálisia, insistindo
+
+263
+00:36:16,220 --> 00:36:24,700
+em Gela, não correspondia aos requisitos de uma atividade científica. E também a pseudotecnologia,
+
+264
+00:36:25,260 --> 00:36:31,180
+que ele colocava como exemplo o monetarismo e a tomância, para que não se lembra a tomância
+
+265
+00:36:31,900 --> 00:36:39,500
+uma técnica que consiste em localizar fontes de água mediante a utilização de serpas ramas,
+
+266
+00:36:39,500 --> 00:36:52,060
+certos vadinhas que supostamente permitiriam ao que intenso ou onde localizar fontes de água,
+
+267
+00:36:52,060 --> 00:36:57,100
+saber em que lugar de um determinado terreno que pode acabar e encontrar água.
+
+268
+00:36:57,980 --> 00:37:04,860
+Muito possível. Finalmente, é importante destacar que para Bunghe era possível reformular
+
+269
+00:37:04,940 --> 00:37:11,660
+de uma maneira exata e solúvel as questões tradicionais da filosófica. Aí, Soeli chamava
+
+270
+00:37:11,660 --> 00:37:19,180
+uma filosofia científica que foi exposta em um chamador tratado de filosofia mágica que ele
+
+271
+00:37:19,180 --> 00:37:29,500
+publicou entre os anos 1974 e 1989. Aí ele tentou mostrar que questões eontológicas,
+
+272
+00:37:29,500 --> 00:37:37,820
+epistemológicas e axiológicas podem ser reformuladas utilizando o vocobulario, um modo de
+
+273
+00:37:37,820 --> 00:37:45,980
+expressão e os conhecimentos científicos mais avançados, de modo a dar-lhes soluções que serão
+
+274
+00:37:45,980 --> 00:37:52,780
+tão provisórias quanto são soluções científicas, mais que, segundo ele, seriam preferidas
+
+275
+00:37:52,780 --> 00:38:02,300
+às especulações dos filósofos especializadas. Bom, nós vamos agora ter questões básicas que
+
+276
+00:38:02,300 --> 00:38:10,140
+o Bunghe faz. Entende por tecnologia ou campo de conhecimento relativo ao desenho de artefatos
+
+277
+00:38:10,780 --> 00:38:20,860
+e à planificação de sua realização, operação, ajustamento, manutenção e monitoramento.
+
+278
+00:38:20,940 --> 00:38:27,500
+Dizem que esse trata de uma definição que é antes uma descrição para não deixar escapar nenhum
+
+279
+00:38:27,500 --> 00:38:35,340
+aspecto dos momentos em que se concretiza a tecnologia. Continua, Bunghe, dizendo que a
+
+280
+00:38:35,340 --> 00:38:42,700
+diferença da ciência que se da técnica, que se serve dos alvergudar, a tecnologia está
+
+281
+00:38:43,020 --> 00:38:53,580
+em uma indagação teórica dos fundamentos do artefato. Define artefato como toda coisa,
+
+282
+00:38:53,580 --> 00:39:01,580
+todo estado, todo processo controlado ou seito deliberadamente como auxílio de conhecimento
+
+283
+00:39:01,580 --> 00:39:08,220
+aprendido e que é utilizado por outros seres humanos. Essa é a definição de artefato.
+
+284
+00:39:09,180 --> 00:39:15,740
+E, segundo ele, a tecnologia e a técnica são campos de conhecimento porque implicam um saber
+
+285
+00:39:16,380 --> 00:39:25,980
+que pode ser examinado e aprimorado. Agora escolha a razão da tecnologia como a
+
+286
+00:39:25,980 --> 00:39:33,900
+racionalidade. Rato à técnica como a tecnologia supõe, segundo Bunghe, planificação, que é uma
+
+287
+00:39:33,900 --> 00:39:41,500
+manifestação de nossa capacidade racional. Ambas enfocam o mundo como fontes de recursos
+
+288
+00:39:42,220 --> 00:39:49,420
+para se obter um produto desejado. Isto ilustra também um segundo ou quarto aspecto da tecnologia
+
+289
+00:39:49,420 --> 00:39:55,420
+que eu apresentei seguindo a Mitja, que é a tecnologia como uma certa atitude durante o mundo.
+
+290
+00:39:56,060 --> 00:40:02,780
+Ao olhar tecnológico um mundo antes de mais nada, fontes de recursos para obtermos um determinado
+
+291
+00:40:02,780 --> 00:40:12,700
+produto. Ambas, técnica e tecnologia, implicam em regras que são definidas por Bunghe como instruções
+
+292
+00:40:12,700 --> 00:40:19,180
+para realizar um número, um número sininho de atos e não mais ordenada e com um objetivo
+
+293
+00:40:19,180 --> 00:40:26,940
+também dado. Note, por favor, também aqui a clareza seguramente proveniente de sua formação
+
+294
+00:40:26,940 --> 00:40:36,300
+científica para definir o que é uma regra de uma maneira exata. Depois dá um esquema geral
+
+295
+00:40:36,300 --> 00:40:43,820
+da ação técnica. Se se deve conseguir Y em um momento T prima com probabilidade de T,
+
+296
+00:40:44,460 --> 00:40:52,060
+então se deve fazer X no momento T, outra manifestação de uma artidão científica
+
+297
+00:40:52,140 --> 00:40:58,540
+em um filósofo que pretendia filososar científicamente. Por fim, a ação técnica ou
+
+298
+00:40:58,540 --> 00:41:05,660
+tecnológica está orientada a garantir seu próprio sucesso e é por isso a ação maximamente
+
+299
+00:41:05,660 --> 00:41:12,140
+racional. Para um filósofo como Bunghe então, agir tecnologicamente é agir da maneira
+
+300
+00:41:12,780 --> 00:41:20,780
+mais racional de que somos capazes. Preferir uma ação tecnológica a uma ação puramente
+
+301
+00:41:20,780 --> 00:41:26,540
+técnica é também uma manifestação de tecnologia de racionalidade em seu grau máximo.
+
+302
+00:41:29,420 --> 00:41:36,700
+Alguns agradecimentos. Um artefato é algo feito mediante uma técnica, já mencionei antes,
+
+303
+00:41:37,260 --> 00:41:44,780
+técnica vindo grego-tecne traduzida ou latim por arte. Não necessariamente uma coisa,
+
+304
+00:41:44,780 --> 00:41:50,540
+um sistema concreto como uma bicicleta ou um remédio. Esses são os crescimentos de
+
+305
+00:41:50,540 --> 00:41:57,340
+Bunghe. Produzir um artefato não é necessariamente produzir uma coisa, porque pode tratar-se também
+
+306
+00:41:57,340 --> 00:42:05,420
+da modificação de um sistema, por exemplo, quando repressamos um rio, transformamos o estado
+
+307
+00:42:05,420 --> 00:42:11,900
+natural do rio em um estado artificial. Também pode ser a transformação de um sistema humano,
+
+308
+00:42:11,980 --> 00:42:20,220
+por exemplo, quando ensina alguém a ler. Segundo Bunghe, deveríamos ler, apesar de eu ler
+
+309
+00:42:20,220 --> 00:42:26,700
+um artefato. Por quê? Porque foi um produto da ação de outro ser humano utilizando uma técnica.
+
+310
+00:42:27,980 --> 00:42:34,860
+A ação técnica usa recursos naturais, como por exemplo plantas para fabricar uma cabana,
+
+311
+00:42:34,940 --> 00:42:42,780
+o próprio cérebro para resolver metodicamente um problema. Reune esses recursos naturais, por
+
+312
+00:42:42,780 --> 00:42:50,860
+exemplo, a um sintetizar moléculas ou organizar pessoas em um time de futebol, ou então transformando
+
+313
+00:42:50,860 --> 00:42:57,980
+os recursos naturais, por exemplo, a um produzir pecidos com base no linho ou ao domesticar animais.
+
+314
+00:42:58,060 --> 00:43:04,620
+Notem como o olhar de Bunghe sobre o que é esse artefato é muito amplo. Domesticar um animais
+
+315
+00:43:04,620 --> 00:43:11,820
+e também uma manifestação de uma técnica humana. É claro que o anterior pode ser realizado
+
+316
+00:43:11,820 --> 00:43:18,540
+com alimentos que já sejam artificiales. Então, por exemplo, quando usamos que já foi produzido
+
+317
+00:43:18,540 --> 00:43:25,740
+artificialmente ou quando usamos tijolos para construir, estamos usando recursos que já foram
+
+318
+00:43:25,740 --> 00:43:32,860
+artificializados anteriormente. Podem ser artefatos algo social como um exercício,
+
+319
+00:43:33,500 --> 00:43:39,980
+ou resultados de um serviço ou de uma operação, por exemplo, pacientes cuidados ou mortos em guerra,
+
+320
+00:43:40,540 --> 00:43:45,900
+também são para Bunghe artefatos, ou também alguns lugares negativos como as armas.
+
+321
+00:43:45,900 --> 00:43:58,700
+Agora vamos ao outro inicial de qualquer produção técnica e tecnológica que o design. Os objetos
+
+322
+00:43:58,700 --> 00:44:07,340
+técnicos são às vezes planejados. Os objetos tecnológicos sempre. Para produzir um objeto
+
+323
+00:44:07,340 --> 00:44:15,260
+técnico ou a tensão imagina como ele deveria ser. Isso é de algum modo planejado, mas os
+
+324
+00:44:15,340 --> 00:44:24,140
+tecnológicos são objetos de uma planificação detalhada de um projeto que tem todos os detalhes
+
+325
+00:44:24,140 --> 00:44:33,340
+concretizados antes mesmo de começar a produzir. O projeto tecnológico de Bunghe é a representação
+
+326
+00:44:33,340 --> 00:44:41,100
+anticipada de um artefato como auxílio de algum conhecimento científico. A representação
+
+327
+00:44:41,100 --> 00:44:48,540
+de um objeto anticipado pode ser icônica ou se transforma em uma coisa que pode ser vista como
+
+328
+00:44:48,540 --> 00:44:55,900
+uma marqueta, ou também pode ser abstracta como quando você faça um fluxo grama para graficar
+
+329
+00:44:55,900 --> 00:45:04,620
+a maneira como em diversos passos vai se chegar a produzir um objeto tecnológico. O propósito
+
+330
+00:45:04,620 --> 00:45:13,740
+da representação é criar sistemas funcionários que desempenham efetiva e eficientemente certas funções
+
+331
+00:45:13,740 --> 00:45:23,740
+para determinadas pessoas. O projeto conduz a planificação porque articula uma sequência
+
+332
+00:45:23,740 --> 00:45:32,540
+de tarefas chamadas no Jardim do Design, subroutinas destinadas ao alcançar o objetivo. Não tem aqui
+
+333
+00:45:32,540 --> 00:45:40,540
+também a minúcia com que ele vai descrevendo os passos e conduz a produzir um projeto tecnológico
+
+334
+00:45:40,540 --> 00:45:49,180
+ou técnico mais publicamente. A distinção entre leis e regras é também uma clarificação
+
+335
+00:45:49,180 --> 00:45:56,220
+a que Bunghe se dedica de maneira expressa. Uma lei científica que são chamadas por Bunghe
+
+336
+00:45:56,220 --> 00:46:04,940
+técnicamente um enunciado nomológico, nomos em grego significa lei, é uma hipótese científica
+
+337
+00:46:04,940 --> 00:46:13,820
+confirmada que afirma uma relação constante entre duas ou mais variáveis, cada uma das quais
+
+338
+00:46:13,820 --> 00:46:22,060
+representa ao menos parcial e imediatamente uma propriedade de sistemas concretos, por exemplo
+
+339
+00:46:22,060 --> 00:46:31,020
+a água serve a 100 graus centígrados. Para ser júteis na tecnologia as leis devem ser transformadas
+
+340
+00:46:31,020 --> 00:46:38,700
+em o que Bunghe chama enunciados nomopragmáticos, enunciados de lei que podem ser aplicados na prática
+
+341
+00:46:39,340 --> 00:46:49,740
+ou esquema de Cisis em tamoípsia ou se se tem A se produz B. Exemplo, se a água for elevada a 100 graus
+
+342
+00:46:49,740 --> 00:46:57,980
+centígrados, ela irá gerver. E por sua vez, essas regras, esses enunciados nomopragmáticos
+
+343
+00:46:57,980 --> 00:47:07,740
+fundamentam regras práticas. Em síntese, para fazer Cis, para fazer Y temos que fazer Cis,
+
+344
+00:47:08,460 --> 00:47:14,220
+para fazer com que a água perva deve elevar-se a sua temperatura a 100 graus centígrados.
+
+345
+00:47:14,860 --> 00:47:22,300
+Notem também aqui como ele busca determinar de maneira exata, clara e exata a vinculação entre
+
+346
+00:47:22,300 --> 00:47:27,660
+o que se constata como lei científica e o que se pode aplicar como regra tecnológica.
+
+347
+00:47:31,580 --> 00:47:39,500
+Mas continua Bunghe a tecnologia, não é mera ciência aplicada, citação. Em qualquer processo
+
+348
+00:47:39,500 --> 00:47:47,260
+tecnológico de alto nível, como o observado numa retinalia de petróleo, em um hospital moderno ou
+
+349
+00:47:47,260 --> 00:47:56,620
+em um exercício, tanto os pesquisadores tecnológicos, nem tanto os assinos técnicos, como os administradores
+
+350
+00:47:56,620 --> 00:48:04,460
+ou dividendos, utilizam numerosas ferramentas conceituais, tais como a química orgânica ou
+
+351
+00:48:04,460 --> 00:48:12,380
+o letromagnetismo, a teoria das filas de espera ou a teoria das decisões. No caso de ser
+
+352
+00:48:12,380 --> 00:48:20,620
+em innovadores ou criativos, os pesquisadores e os que decidem ensinaram ou inventaram novas teorias
+
+353
+00:48:20,620 --> 00:48:28,140
+ou novos procedimentos. Em suma, a tecnologia não está separada da teoria, nem a mera aplicação
+
+354
+00:48:28,140 --> 00:48:36,540
+da ciência pura. Ela tem um componente criativo, particularmente manifestado na pesquisa tecnológica
+
+355
+00:48:36,540 --> 00:48:39,660
+e na clandestinação de políticas tecnológicas.
+
+356
+00:48:45,100 --> 00:48:51,500
+Vávamos as teorias tecnológicas mencionadas por Bunghe no slide anterior. Elas existem,
+
+357
+00:48:51,500 --> 00:48:58,940
+como o Bunghe e por exemplo, dois tipos. Substantivas ou operativas. As sustantivas
+
+358
+00:48:58,940 --> 00:49:06,380
+formam conhecimentos sobre os objetos de uma ação. Por exemplo, uma teoria levou dos artefatos.
+
+359
+00:49:07,100 --> 00:49:13,660
+Isto é sobre como voar, por exemplo, o Oelicóptero, que deriva a teoria científica da dinâmica dos fluidos.
+
+360
+00:49:14,620 --> 00:49:23,740
+Ou então teorias operativas, isto é, referentes a as ações de que depende o funcionamento de artefatos,
+
+361
+00:49:23,740 --> 00:49:32,780
+como teoria das decisões óptimas sobre a distribuição do trânsito aéreo em uma região aplicando a teoria da decisão.
+
+362
+00:49:32,780 --> 00:49:46,700
+Agora, classes de tecnologias sempre segundo Bunghe. Existem tecnologias de tipo geral,
+
+363
+00:49:46,700 --> 00:49:53,740
+como por exemplo, a teoria dos sistemas, a teoria da decisão, a sua mala engenharia social,
+
+364
+00:49:54,700 --> 00:50:03,180
+e depois as diversas e numerosas tecnologias especiais, tecnologias físicas, como diversos ramos das
+
+365
+00:50:03,180 --> 00:50:10,700
+engenharias ou arquiteturas. Tecnologias químicas, como ações industrialas, a engenharia química.
+
+366
+00:50:10,700 --> 00:50:18,860
+Tecnologias biológicas, como a agronomia, a veterinária, a medicina, a farmacologia, a odontologia.
+
+367
+00:50:19,820 --> 00:50:27,820
+Tecnologias psíquicas, como a psicologia clínica, a psiquiatria, a psicologia industrial, a pedagogia,
+
+368
+00:50:27,820 --> 00:50:34,220
+e tecnologias sociais, como a administração e a jurisprudência.
+
+369
+00:50:34,220 --> 00:50:42,220
+Temos que observar também que a pedagogia, a medicina, a imagem, a arquitetura, segundo Bunghe,
+
+370
+00:50:42,540 --> 00:50:50,540
+não extrude o aspecto artístico. Um bom arquiteto, ou um bom enfermero, um bom médico,
+
+371
+00:50:50,540 --> 00:50:56,620
+não se forma apenas os conhecimentos e habilidades que ele ative durante a formação.
+
+372
+00:50:59,100 --> 00:51:08,380
+Importante também que ele tenha certa dimensão artística no sentido de capacidade de focar cada caso
+
+373
+00:51:08,380 --> 00:51:15,180
+como um caso específico, de acumular experiência que lhe permite tomar decisões quando elas não são claras,
+
+374
+00:51:15,180 --> 00:51:22,860
+de acordo com os conhecimentos disponíveis, etc. Em esse sentido que não exclui o aspecto artístico.
+
+375
+00:51:23,980 --> 00:51:30,540
+Bom, as tecnologias de formação levam Bunghe a fazer mais crítica da inteligência artificial,
+
+376
+00:51:30,540 --> 00:51:39,420
+porque o computador em rigor nada sabe e não pode criar. A inteligência artificial que,
+
+377
+00:51:39,420 --> 00:51:46,300
+segundo ele lembra, é uma tecnologia e não ciência, está mal encaminhada ao fundamentar-se no
+
+378
+00:51:46,300 --> 00:51:52,940
+vírgio de oirismo e no intuitivismo. Para quem não se lembra do vírgio de oirismo e a teoria psicológica,
+
+379
+00:51:52,940 --> 00:51:59,980
+segundo a qual um ser humano deve ser estudado a função de seu comportamento como
+
+380
+00:51:59,980 --> 00:52:08,700
+reazão a estímulos. E o intuitivismo consiste na posição que a teoria que tem de legia as conclusões
+
+381
+00:52:08,700 --> 00:52:17,820
+tiradas da um número suficientemente elevado de casos semelhantes, nos quais se deduz a conclusão de
+
+382
+00:52:17,820 --> 00:52:26,060
+que todos os casos do mesmo tipo têm apropriado o siso y. Segundo Bunghe os dois recursos de
+
+383
+00:52:26,060 --> 00:52:34,220
+que o oirismo e o intuitivismo não são serramentas adequadas para resolver o problema enfocado pela
+
+384
+00:52:34,220 --> 00:52:40,380
+inteligência artificial. E sobretudo porque, segundo ele, o cérebro não pode ser conhecido a partir do
+
+385
+00:52:40,380 --> 00:52:47,500
+comportamento das máquinas. Bunghe depositava muito mais consciência na evolução da neurociência,
+
+386
+00:52:47,500 --> 00:52:53,100
+do que na comparação do cérebro humano com máquinas para entender como ele funciona.
+
+387
+00:52:53,100 --> 00:53:01,220
+Bom, a tecnologia suscita questões psilosóficas, por exemplo, equistemológicas ou relativas ao
+
+388
+00:53:01,220 --> 00:53:08,500
+conhecimento, exemplo de Bunghe. Como poderia tornar-se exato o efeito do conhecimento de um
+
+389
+00:53:08,500 --> 00:53:17,260
+prognóstico tecnológico sobre o curso dos eventos? Questões ontológicas, ou seja, relativas aos certas
+
+390
+00:53:17,260 --> 00:53:24,260
+coisas, pertencem aos compostos homem-máquina, ou seja, os síporis, a um nível da realidade
+
+391
+00:53:24,260 --> 00:53:31,260
+do universo dos outros níveis. Ou então questões axiológicas, qual é dizer relativas a valores?
+
+392
+00:53:31,260 --> 00:53:37,980
+Que trases de valores manipulam o tecnólogo? Somos valores que já conhecemos da vida portuguesa,
+
+393
+00:53:37,980 --> 00:53:43,420
+ou tem valores especiais que suscentam e não utilizam a saúde tecnológica.
+
+394
+00:53:43,420 --> 00:53:49,860
+Sobre a relação de tecnologia e básica e da idética, Bunghe se pronuncia de
+
+395
+00:53:49,860 --> 00:53:56,620
+seguinte maneira. A ciência básica é neutra, já que está volventada a aumentar o conhecimento.
+
+396
+00:53:56,620 --> 00:54:02,060
+A ciência aplicada e a tecnologia não são, porque elas visam, de antemão,
+
+397
+00:54:02,060 --> 00:54:10,060
+a resultados práticos que têm quando elas são boas ou ruins. É, sinto, é perverso
+
+398
+00:54:10,060 --> 00:54:16,900
+realizar pesquisas sobre a desboleação de bosques, sobre o envenenamento de reservatórios de água,
+
+399
+00:54:16,900 --> 00:54:24,020
+sobre a mutilação de silícias, sobre a tortura de presos, sobre a manipulação de consumidores
+
+400
+00:54:24,020 --> 00:54:30,140
+ou eleitores e coisas similares. Uma vez que o conhecimento é definido em pesquisas e esse tipo,
+
+401
+00:54:30,140 --> 00:54:37,820
+será utilizado provavelmente somente para insfinidosos. Esquisas é a tortura para torturar mais
+
+402
+00:54:37,820 --> 00:54:44,620
+entitamente. Manipulas e consumidores para poder explorar-los de maneira mais profunda e assim por diante.
+
+403
+00:54:44,620 --> 00:54:52,540
+Não se trata de mau uso entrevisto de um sertão de conhecimento neutro, como seria o mau uso de uma
+
+404
+00:54:52,540 --> 00:55:02,540
+terrora ou de um fósforo. E, a relação da tecnologia e da sociedade, a tecnologia produz
+
+405
+00:55:02,540 --> 00:55:09,900
+melhor, está em uma condição humana, mas também males, como acenais atômicos, a degradação do
+
+406
+00:55:09,900 --> 00:55:18,060
+meio ambiente, a desocupação, a superpopulação. Segundo Bungue, não se deve culpar a tecnologia,
+
+407
+00:55:18,060 --> 00:55:25,260
+porque ela é um instrumento humano sem vida autônoma. Mãos efeitos derivam, entre outros atores,
+
+408
+00:55:25,260 --> 00:55:32,460
+do excesso de tecnologias físicas e biológicas, com insuficiência de tecnologias sociais,
+
+409
+00:55:32,460 --> 00:55:40,780
+ou seja, modos de venir, ou as consequências negativas, de influenciar o curso dos eventos humanos
+
+410
+00:55:41,180 --> 00:55:49,100
+para evitar essas consequências negativas. O controle da tecnologia consistiria em uma nova área
+
+411
+00:55:49,100 --> 00:55:55,500
+da filosofia, que é o Bungue, que é um denominador de tecnopraxiologia destinado a estudar
+
+412
+00:55:56,380 --> 00:56:04,460
+sistematicamente a ação racional guiada ou desencaminhada pela tecnologia. Exemplos que
+
+413
+00:56:04,540 --> 00:56:11,660
+custam as tecnopraxiológicas seriam. Existe uma maneira geral de conceber planos flexíveis,
+
+414
+00:56:12,220 --> 00:56:19,260
+passíveis de ajustes ao longo de sua massa? Ou então, é possível e desejável combinar a
+
+415
+00:56:19,260 --> 00:56:29,180
+tecnologia como a democracia? Bom, como dinografia é subsumido, um capítulo de meu livro Filosofia
+
+416
+00:56:29,180 --> 00:56:36,220
+da Tecnologia em Convite, ou então o artigo que eu publiquei na revista Manus Fintos da Unicante
+
+417
+00:56:36,220 --> 00:56:42,780
+de Jonson, noventa e um sobre a filosofia da ciência de Mario Bungue e a questão do positivo.
+
+418
+00:56:43,980 --> 00:56:52,220
+Bom pessoal, agradeço a atenção de vocês aqui, peço a desculpa pelo meu final,
+
+419
+00:56:52,220 --> 00:56:59,180
+e, infelizmente, embora eu more a muitos da nossa Brasil, ou, como costumo dizer,
+
+420
+00:56:59,180 --> 00:57:05,420
+por sorte que mora comigo, por sorte que os perfeitos aceitam a sua felicidade. Então,
+
+421
+00:57:05,420 --> 00:57:11,180
+vocês foram muito indulgentes em acompanhar essa exposição até aqui, de acordo com as
+
+422
+00:57:11,180 --> 00:57:15,900
+indicações dos organizadores, agora seguir uma pausa de 15 minutos.
+
+423
+00:57:15,900 --> 00:57:23,980
+Certo, então, professor, muito obrigado pela exposição. Nós vamos fazer o intervalo, então,
+
+424
+00:57:23,980 --> 00:57:31,740
+de 15 minutos, voltamos então 10 e 15, certo? Para a segunda parte da aula com as perguntas,
+
+425
+00:57:31,740 --> 00:57:43,580
+tá bom? Tá bom.
+
+426
+01:16:01,740 --> 01:16:18,700
+Então, estamos de volta aqui para o nosso segundo bloco, bloco das questões. Antes de
+
+427
+01:16:18,700 --> 01:16:24,620
+começar as questões, professor, como nós combinamos no início, vamos falar sobre os
+
+428
+01:16:24,620 --> 01:16:33,980
+livros do professor Coupani. Eu gostaria de destacar aqui dois livros. O primeiro é filosofia da
+
+429
+01:16:33,980 --> 01:16:45,100
+tecnologia. Um convite para os nossos estudantes que estão nos assistindo. É muito frequente que
+
+430
+01:16:45,100 --> 01:16:50,300
+as pessoas perguntem, ah, eu me interessei por filosofia da tecnologia. Por onde eu posso começar?
+
+431
+01:16:50,620 --> 01:16:58,700
+Que livros, que leituras podem indicar? Esse livro do professor Albert Coupani é uma excelente
+
+432
+01:16:58,700 --> 01:17:05,260
+porta de entrada, acho que o título já diz tudo, né? Um convite para começar a se apropriar dos
+
+433
+01:17:05,260 --> 01:17:13,740
+concleites, para entender o panorama e, então, fica realmente o convite para vocês que se
+
+434
+01:17:13,740 --> 01:17:20,220
+aprofundem, que querem se aprofundar nesse assunto que procurem esse livro. Eu vou falar
+
+435
+01:17:20,220 --> 01:17:35,260
+sobre um, já é, da parte de filosofia da ciência. O professor não está me ouvindo bem, é isso? Agora sim,
+
+436
+01:17:35,260 --> 01:17:44,300
+agora sim. Pessoal, os monitores podem confirmar se eu tenho que repetir o que eu falei antes? Ou se...
+
+437
+01:17:44,700 --> 01:17:52,060
+Professora, a gente conseguiu te ouvir bem. Ah, então tá bom. Então vamos continuar. O Livro
+
+438
+01:17:52,060 --> 01:18:00,220
+Sobre a Ciência, Estudos de Filosofia da Ciência. Esses dois livros são da editora da Universidade
+
+439
+01:18:00,220 --> 01:18:08,460
+Federal de Santa Catarina. Então, o jeito mais fácil de adquirir esses livros seria através do
+
+440
+01:18:08,460 --> 01:18:20,540
+próprio site da editora, né? O site, na verdade, é livraria.ufsc.br. E eu gostaria de destacar
+
+441
+01:18:20,540 --> 01:18:25,820
+outros dois livros que têm a participação do professor Alberto Copane, porque hoje, como nós
+
+442
+01:18:25,820 --> 01:18:31,500
+estamos na primeira aula de Filosofia da Tecnologia, eu acho interessante. Esses aqui eu vou falar
+
+443
+01:18:31,500 --> 01:18:40,220
+ainda outras vezes, nós temos um livro que foi organizado pelo GT, Dump Off The Philosophy
+
+444
+01:18:40,220 --> 01:18:48,460
+da Técnica, né? Então, no primeiro volume, o livro é Filosofia da Tecnologia, Seus Altores
+
+445
+01:18:48,460 --> 01:18:54,380
+e Seus Problemas. No primeiro volume, nós temos um capítulo sobre o Mário Bungue, que é de
+
+446
+01:18:54,380 --> 01:19:00,860
+Autoria do Professoro Alberto Copane. É um livro bastante interessante porque tem um capítulo
+
+447
+01:19:00,860 --> 01:19:07,260
+muito para cada autora, então também é um panorama, mas de outro modo, né? E no volume 2,
+
+448
+01:19:07,260 --> 01:19:13,820
+seguem os autores e nós temos o prefácio do professor Alberto Copane. Então, estão aqui
+
+449
+01:19:13,820 --> 01:19:22,940
+alguns, apenas algumas das produções do professor Copane. Se o professor quiser complementar essa
+
+450
+01:19:23,020 --> 01:19:30,220
+lista e falar sobre mais algum livro, fique a vontade, professor.
+
+451
+01:19:30,220 --> 01:19:37,180
+Não, não, não, isso já é suficiente, agradeço muito ao marketing, veronica. Saber que eu queria
+
+452
+01:19:37,180 --> 01:19:44,220
+acrescentar que no segundo volume, produzido pelo nosso GT, eu contribui com um capítulo
+
+453
+01:19:44,220 --> 01:19:46,940
+sobre Marshall Matruja. Ah, sim, sim.
+
+454
+01:19:47,660 --> 01:19:52,860
+Acerto, está bom. Mas foi suficiente, agradeço muito à divulgação.
+
+455
+01:19:52,860 --> 01:19:59,420
+A edição da Universidade Federal de Santa Catarina é, por decimição, uma editora sem fins
+
+456
+01:19:59,420 --> 01:20:06,300
+lucrativos. Então, ela até não há muito tempo, não tinha autorização para comercializar
+
+457
+01:20:06,300 --> 01:20:10,780
+mediante as librarias, seus livros. Por isso eu agradeço a recomendação de,
+
+458
+01:20:11,500 --> 01:20:16,380
+em caso de interesse de comprar meus livros ou qualquer outro livro da editora,
+
+459
+01:20:16,380 --> 01:20:21,900
+é melhor entrar em contato diretamente com ela, porque talvez esses livros não se encontrem nas
+
+460
+01:20:21,900 --> 01:20:30,380
+librarias habituales. Perfeito, professor, obrigada. Então, vamos passar as questões.
+
+461
+01:20:30,380 --> 01:20:38,780
+Nós temos aqui algumas perguntas do Caetano Almeida. Professor, isso, será colocado aqui
+
+462
+01:20:38,780 --> 01:20:45,180
+para facilitar a nossa leitura. Então, a primeira pergunta. Para Bung, haveria
+
+463
+01:20:45,180 --> 01:20:53,980
+falibilidade da ciência ou da tecnologia? Segunda, Bung seria positivista. E a terceira,
+
+464
+01:20:53,980 --> 01:21:00,780
+a partir da dimensão axiológica da tecnologia trazida por Bung, o estudo de problemáticas,
+
+465
+01:21:00,780 --> 01:21:06,780
+tais como o exemplo do envenenamento de reservatórios de água, não seria justamente
+
+466
+01:21:06,780 --> 01:21:14,220
+o fomentador da busca por subplantes tecnológicas, com o incluído de um pedaço e de um pedaço.
+
+467
+01:21:14,220 --> 01:21:23,260
+Então, são essas nossas primeiras questões. Então, eu vou responder simplificando. A resposta
+
+468
+01:21:23,260 --> 01:21:31,020
+para as perguntas 1 e 3 é positiva. Para Bung, a ciência, as tecnologias são
+
+469
+01:21:31,020 --> 01:21:40,380
+falíveis. Então, não teria como imaginar que a ciência seja, produza resultados definitivos
+
+470
+01:21:40,380 --> 01:21:47,900
+ou a tecnologia também. E também a terceira pergunta, que a partir da dimensão axiológica
+
+471
+01:21:47,900 --> 01:21:54,300
+da tecnologia trazida por Bung, o estudo de problemáticas tais como o exemplo do envenenamento
+
+472
+01:21:54,300 --> 01:22:01,260
+de reservatórios de água, etc. Também a resposta seria positiva. Então, é claro que sim, seria um
+
+473
+01:22:01,260 --> 01:22:09,420
+caso de um artefato ou o envenenamento de reservatórios, um artefato negativo, considerado negativo
+
+474
+01:22:09,420 --> 01:22:16,860
+do ponto de vista moral e ponto de partida para superar esses problemas também. Agora, a segunda
+
+475
+01:22:16,860 --> 01:22:23,740
+questão, se Bung seria positivista, para quem está familiarizado com a filosofia, a história
+
+476
+01:22:23,740 --> 01:22:31,580
+da filosofia, a resposta não deveria ser difícil, mas como nem todos os que me ouvem estão familiarizados
+
+477
+01:22:31,580 --> 01:22:38,940
+com essa história, eu queria explicar o seguinte. O positivismo teve duas etapas. A primeira, representada
+
+478
+01:22:38,940 --> 01:22:45,980
+principalmente por Augusto Comte na século 19, acreditava, entre outras coisas, que a história
+
+479
+01:22:46,060 --> 01:22:53,900
+da humanidade passava por três grandes etapas, a etapa mitológica, a etapa metafísica e a etapa
+
+480
+01:22:53,900 --> 01:23:01,420
+religiosa e científica, em função das quais ele defendia que a ciência deveria ser a condutora
+
+481
+01:23:01,420 --> 01:23:12,380
+da humanidade. Bung considerava que essa influia dos positivistas, respecto ao 19, era apenas uma
+
+482
+01:23:12,380 --> 01:23:18,780
+conceitura metafísica que não poderia ser sufertada, então já por isso não seria igual ao
+
+483
+01:23:18,780 --> 01:23:26,700
+positivista. Mas a questão se agrada porque no século 20, no início do século 20 surgiu o chamado
+
+484
+01:23:26,700 --> 01:23:36,940
+neo-positivismo, consistente em que afirmar que as questões metafísicas eram questões carentes de
+
+485
+01:23:36,940 --> 01:23:45,020
+significado, porque os termos metafísicos não teriam uma correspondência em experiências possíveis
+
+486
+01:23:45,020 --> 01:23:52,700
+por parte dos seres humanos. Então, nesse sentido, Bung não endozava por si ser um neo-positivista,
+
+487
+01:23:52,700 --> 01:23:59,100
+porque acreditava que muitas questões tradicionais da história da metafísica podiam sim ser
+
+488
+01:23:59,100 --> 01:24:07,100
+repensadas e formuladas científicamente. Então, resumindo, Bung era, foi exatamente um
+
+489
+01:24:07,100 --> 01:24:15,260
+cientificista, se por cientificista queremos dizer um filósofo que colocava a ciência como a máxima
+
+490
+01:24:15,260 --> 01:24:21,660
+expressão da racionalidade humana e a maneira mais confiável de conhecer o mundo, mas não um positivista
+
+491
+01:24:21,660 --> 01:24:28,940
+é um sentido literal da palavra. O artigo que eu mencionei ou indicar possíveis bibliografias
+
+492
+01:24:28,940 --> 01:24:35,820
+trata de desfazer essa confusão. Aliás, uma confusão que atingiu outros autores ou
+
+493
+01:24:35,820 --> 01:24:42,780
+o apertamento foi considerado positivista por defender a importância da ciência na vida humana.
+
+494
+01:24:42,780 --> 01:24:49,180
+Essa defesa não deveria bastar para entender um autor como positivista. E por isso,
+
+495
+01:24:49,260 --> 01:24:54,700
+em meus inscritos, quando me refiro ao positivismo, querendo lhe ser cientificismo,
+
+496
+01:24:54,700 --> 01:25:01,020
+geralmente coloco aspas na palavra positivista para que as pessoas se tenham contado que não é um
+
+497
+01:25:01,020 --> 01:25:08,540
+positivismo ao sentido literal. Espero ser satisfeito à inquietação do que informou esta questão.
+
+498
+01:25:08,540 --> 01:25:18,140
+Eu imagino que sim, professor. Vamos então para a questão da Marta, que também é dividida em duas
+
+499
+01:25:18,140 --> 01:25:30,620
+vezes. A Marta pergunta assim. Primeiro, quais as contas... Não, gente, da Marta primeiro. Eu não tinha
+
+500
+01:25:30,620 --> 01:25:39,500
+visto essa do Arthur, mas tudo bem. Se vocês quiserem inverter, sovrem. Eu já vou colocar o da Marta aqui.
+
+501
+01:25:39,500 --> 01:25:44,300
+Ah, tá bom. Não, mas eu posso ler o Arthur primeiro, se já tá mais fácil. Não tem problema.
+
+502
+01:25:44,780 --> 01:25:55,420
+Vamos ver. Bom, eu vou adiantando a da Marta. A Marta pergunta. Quais as contribuições de
+
+503
+01:25:55,420 --> 01:26:03,500
+Mario Bungue para o ensino de ciências? E aí, em seguida, poderia falar mais sobre o posicionamento
+
+504
+01:26:03,500 --> 01:26:11,260
+de Bungue sobre as pseudociências? Eu publiquei há muitos anos um artigo sobre, justamente,
+
+505
+01:26:11,500 --> 01:26:17,020
+com outro colega meu aqui da Universidade Federal de Santa Catarina, publiquei um artigo sobre
+
+506
+01:26:17,020 --> 01:26:23,020
+justamente as contribuições de Bungue para o ensino de ciências. E, se não me lembro bem, me
+
+507
+01:26:23,020 --> 01:26:30,300
+desculpem que aí dá, nesse sentido, logo a minha contra. Às vezes, não lembro bem do conteúdo
+
+508
+01:26:30,300 --> 01:26:37,340
+dos meus próprios artigos, mas creio que resaltava a importância da formulação exato das questões
+
+509
+01:26:37,420 --> 01:26:43,820
+para ensinar a ciência. E dá lembrança de que o vocabulário do cientista não é mesmo,
+
+510
+01:26:44,540 --> 01:26:51,020
+ou não é o mesmo que o vocabulário do mestre. Não se deve confundir. Todos nós,
+
+511
+01:26:51,020 --> 01:26:57,020
+em algumas oportunidades, tivemos oportunidades de assistir a uma palestra de alguém que era totalmente
+
+512
+01:26:57,020 --> 01:27:02,940
+perito numa especialidade científica, sobretudo, mas que não era capaz de transmitir de forma
+
+513
+01:27:02,940 --> 01:27:09,900
+acessível os seus conhecimentos para quem não tem a devida iniciação. Então, a todos os esforços
+
+514
+01:27:09,900 --> 01:27:19,340
+de Bungue foi nesse sentido de favorecer uma tradução, claro que se invirtuaram conteúdo, dá dois
+
+515
+01:27:19,980 --> 01:27:26,300
+conceitos e teorias científicas para quem está se formando. E com a maior razão para quem
+
+516
+01:27:26,300 --> 01:27:31,660
+não está ainda em uma carreira universitária, em um pulso universitário, para quem está, por exemplo,
+
+517
+01:27:31,660 --> 01:27:43,980
+no ensino médio. E a outra era sobre, a pergunta era sobre ciências. Não deve ser esquecido que Bungue
+
+518
+01:27:43,980 --> 01:27:50,540
+era um físico de formação. Os físicos de formação via de regra costumam ser muito
+
+519
+01:27:51,260 --> 01:27:58,620
+reacias a admitirem a certas práticas e não consideradas não científicas como sendo
+
+520
+01:27:58,620 --> 01:28:06,780
+equivalentes a ciências. E isso não vale a pena para as produções como a psicanálise. Vale também
+
+521
+01:28:06,780 --> 01:28:14,700
+para ciências humanas. História, a sociologia, psicologia, para muitos cientistas naturais não
+
+522
+01:28:14,700 --> 01:28:21,580
+são, ou não são ainda, ciências em sentido próprio da palavra, porque eles parecem que falta
+
+523
+01:28:21,580 --> 01:28:29,580
+essa adquidão nas definições, métodos suficientemente rigorosos para testar hipóteses, etc. Então,
+
+524
+01:28:29,580 --> 01:28:37,580
+a crítica à neurociência por parte do mundo, e sobretudo a psicanálise, deve haver justamente
+
+525
+01:28:37,580 --> 01:28:44,140
+com esse conceito demasiado forte da diferença entre ciências naturais e ciências humanas.
+
+526
+01:28:44,860 --> 01:28:52,940
+Digo desde já que eu não compartilho essa posição de Bungue por diversos motivos. Primeiro porque a filosofia
+
+527
+01:28:52,940 --> 01:28:59,180
+está suficientemente próxima das ciências humanas como para compreender que como molde
+
+528
+01:28:59,180 --> 01:29:05,100
+as ciências naturais possivelmente é demasiado forte para querer ser aplicado sem mais ou menos
+
+529
+01:29:05,100 --> 01:29:11,740
+as ciências humanas. E portanto que devemos admitir-se uma cientificidade em disciplinas como
+
+530
+01:29:11,740 --> 01:29:18,300
+sociologia, psicologia ou história que não necessariamente respondem a todos os padrões das
+
+531
+01:29:18,300 --> 01:29:26,300
+ciências naturais. E por isso mesmo eu também creio que desenhar uma atividade como a psicanálise
+
+532
+01:29:26,300 --> 01:29:35,500
+por não ser científica é uma forma demasiado violenta de rejeitar práticas. Lembro também que
+
+533
+01:29:35,500 --> 01:29:41,180
+certo os psicanalistas nem sempre reivindicam o carácter científico para sua atividade.
+
+534
+01:29:41,740 --> 01:29:47,980
+Eles às vezes dizem que se trata de uma terapia que dá resultados e que não necessariamente
+
+535
+01:29:47,980 --> 01:29:55,100
+deve ser considerada como científica. Mas em todo caso eu não sou para nada partidário do cientificismo.
+
+536
+01:29:56,620 --> 01:30:02,940
+Quero lembrar a vocês que vem da filosofia já sabem que a filosofia se diz também de múltiplas
+
+537
+01:30:02,940 --> 01:30:09,660
+maneiras, não apenas sucesso. Então não filosofou cientificamente, por exemplo, nem Kirchhoff,
+
+538
+01:30:09,660 --> 01:30:21,580
+nem Nietzsche, por mais que outros autores como Aristóteles ou Limes tenham filosofado de uma maneira
+
+539
+01:30:21,580 --> 01:30:28,780
+que hoje chamaríamos de científica. Então eu creio que falta na posição de bundes certas sensibilidades
+
+540
+01:30:28,860 --> 01:30:37,100
+para a multiplicidade de aspectos que a filosofia, em sua concretação, oferece. Isso foi objeto de
+
+541
+01:30:37,100 --> 01:30:45,100
+uma certa polêmica que eu trabalhei com bundes em dois ou três arquivos uns 20 anos atrás sobre
+
+542
+01:30:45,100 --> 01:30:53,180
+essa posição dele, demasiadamente rígida. E ele não abriu mais um desoposicionamento. Eu fiquei na
+
+543
+01:30:53,180 --> 01:31:00,460
+minha também, mas quero registrar aqui que eu, de maneira alguma, me identifico como cientificismo
+
+544
+01:31:01,740 --> 01:31:12,620
+e como uma posição filosófica que comende como eles. Que legal, professor. Segue aí abaixo o link
+
+545
+01:31:12,620 --> 01:31:17,820
+para o artigo que o professor mencionou. O título é a relevância da epistemologia de Mario Bung
+
+546
+01:31:17,820 --> 01:31:29,500
+para o ensino de ciências. Então o link está aí. Então tinha uma pergunta do Artur que apareceu
+
+547
+01:31:29,500 --> 01:31:43,900
+na tela para mim? Ah, era um comentário, eu não cheguei a ler. É, endosso, endosso.
+
+548
+01:31:43,900 --> 01:31:53,580
+A pergunta, certamente, essa série de posições ganharia muito. O processor Newton da Costa para
+
+549
+01:31:53,580 --> 01:32:01,660
+contribuir a nossas discussões. Certamente. Esquei a comentar, professora. A pergunta do Artur era um
+
+550
+01:32:01,660 --> 01:32:07,340
+banheiro antigo, mas aí tinha esse comentário do Caetano sobre o Newton Costa. Ah, tá bom.
+
+551
+01:32:07,740 --> 01:32:14,780
+Tá bom, porque eu não cheguei a ler a pergunta, então fiquei na dúvida. Professor, enquanto chegam
+
+552
+01:32:14,780 --> 01:32:20,940
+outras questões, gostaria de exortar os estudantes a fazer questões. Vamos aproveitar a presença
+
+553
+01:32:20,940 --> 01:32:29,260
+do professor Coupani aqui conosco. Enquanto chegam outras questões, eu gostaria de fazer uma pergunta
+
+554
+01:32:29,260 --> 01:32:41,740
+sobre a filosofia da tecnologia do Mario Bung. Pelo seguinte, não é incomum a gente ter acesso
+
+555
+01:32:41,740 --> 01:32:50,860
+a materiais sobre introdução a engenharia, ou teoria da engenharia, que reduz a engenharia a uma
+
+556
+01:32:50,940 --> 01:32:59,340
+aplicação da ciência. Como se a tecnologia não se constituísse como propriamente conhecimento.
+
+557
+01:32:59,900 --> 01:33:05,660
+Ela fosse uma mera aplicação, uma aplicação direta. E aí a gente vê mesmo em um filósofo
+
+558
+01:33:07,660 --> 01:33:13,500
+relativamente conservador, como o Mario Bung ia pegar a ciência,
+
+559
+01:33:14,300 --> 01:33:22,620
+ele reconhecer uma autonomia epistemológica da tecnologia, colocando como propriamente
+
+560
+01:33:22,620 --> 01:33:31,580
+um conhecimento, ainda que prático, ainda que com um télus prático, mas propriamente como
+
+561
+01:33:31,580 --> 01:33:40,060
+um conhecimento. Então, eu gostaria que você comentasse essa tendência que eu, francamente,
+
+562
+01:33:40,140 --> 01:33:47,820
+não consigo ainda mapear essa tendência, mas não é incomum mesmo em livros, sobre a engenharia,
+
+563
+01:33:47,820 --> 01:33:55,420
+essa tendência a limitar a tecnologia a uma mera aplicação da ciência e como a gente pode
+
+564
+01:33:55,420 --> 01:34:03,020
+explorar esse tema de uma forma, essa epistemologia da tecnologia, de uma forma interessante no Mario
+
+565
+01:34:03,020 --> 01:34:13,420
+Bung. Bom, o Bung publicou na década de 80, mas o original era já de 70 e poucos, um livro
+
+566
+01:34:13,420 --> 01:34:20,780
+em português chamado epistemologia, um de cujos capítulos diz assim, tecnologia e filosofia,
+
+567
+01:34:20,780 --> 01:34:28,140
+dois vizinhos que se dispõe a ser. Onde ele chamava a atenção, foi um dos pioneiros nesse sentido,
+
+568
+01:34:28,220 --> 01:34:34,780
+sobre a falta de consciência por parte dos filósofos, da importância da tecnologia no mundo
+
+569
+01:34:34,780 --> 01:34:42,620
+contemporâneo e falta de consciência de parte dos engenheiros, das questões filosóficas
+
+570
+01:34:42,620 --> 01:34:49,260
+encerradas pela tecnologia. Não muito de surpreender por todos os engenheiros, não sei se
+
+571
+01:34:49,260 --> 01:34:55,100
+atualmente mudou a formação deles, não necessariamente passavam de la filosofia para
+
+572
+01:34:55,100 --> 01:35:01,260
+se tornar um engenheiro. Então, mal podiam ter consciência de questões filosóficas,
+
+573
+01:35:01,820 --> 01:35:08,940
+por exemplo, as epistemológicas, otológicas, o que for, insitas ou implícitas na prática tecnológica
+
+574
+01:35:08,940 --> 01:35:15,020
+dele. Então, aí, em um capítulo de meu livro, Silosofia da Tecnologia, está justamente
+
+575
+01:35:15,020 --> 01:35:23,740
+dedicado ao conhecimento tecnológico. E eu acho que, justamente porque era um
+
+576
+01:35:23,740 --> 01:35:30,140
+indivíduo com um enorme conhecimento da história da filosofia, nesse sentido, um mais raro
+
+577
+01:35:30,140 --> 01:35:40,380
+hábis no mundo dos físicos, um geralmente, ele conseguiu dar-se conta de que havia sim questões,
+
+578
+01:35:40,380 --> 01:35:48,060
+entre outras epistemológicas implícitas na tecnologia e que ainda os filósofos e meninos
+
+579
+01:35:48,060 --> 01:35:54,780
+engenheiros, naturalmente, tinham percebido o quanto elas existiam e eram importantes.
+
+580
+01:35:54,780 --> 01:36:01,340
+Eu pensei que quando a gente detecta conhecimentos específicos no campo tecnológico, que não
+
+581
+01:36:01,340 --> 01:36:08,380
+necessariamente coincidem como científicos, como já mencionei, coisas como regras tecnológicas,
+
+582
+01:36:08,380 --> 01:36:14,220
+membros que derivadas de teorias científicas, mais diferentes de teorias tecnológicas,
+
+583
+01:36:14,220 --> 01:36:22,220
+próprias repetidas, etc., a gente se conta de que esse universo epistemológico tem também,
+
+584
+01:36:22,220 --> 01:36:28,380
+segundo outros interrogantes mais preocupantes. Isso é a legitimação moral, por exemplo,
+
+585
+01:36:28,380 --> 01:36:35,500
+política de conhecimento tecnológico. Se eles não são apenas conhecimentos científicos aplicados,
+
+586
+01:36:36,220 --> 01:36:43,260
+como se justificam, moral e politicamente, a sociedade a os serem aplicados? Já que não
+
+587
+01:36:43,260 --> 01:36:50,220
+se pode dizer que os tecnólogos são apenas um aplicador do que o cientista formulou e, portanto,
+
+588
+01:36:50,220 --> 01:36:58,700
+culpar apenas aos cientistas pelas eventuais problemas trácidos pela tecnologia. Então,
+
+589
+01:36:58,700 --> 01:37:05,020
+eu acho que o esforço de Bungue não foi ele o único, mas ele foi um dos cioneros nesse sentido
+
+590
+01:37:05,020 --> 01:37:12,140
+por chamar a atenção sobre questões filosóficas e na tecnologia, e, em particular, questões epistemológicas,
+
+591
+01:37:12,140 --> 01:37:21,260
+mudou muito o panorama de reflexão sobre ela e não raramente é uma das razões pelas quais
+
+592
+01:37:21,260 --> 01:37:28,060
+poder se desenvolver na filosofia da tecnologia. Porque outras questões, como questões éticas ou
+
+593
+01:37:28,060 --> 01:37:35,500
+políticas da tecnologia, podem até ser mais facilmente perceptíveis pelo grande público,
+
+594
+01:37:35,500 --> 01:37:42,220
+mas estudiosos. As questões epistemológicas ou ontológicas precisam que alguém já tenha atenção
+
+595
+01:37:42,220 --> 01:37:49,740
+para elas para que sejam trabalhadas. Então, eu acho que foi uma grande sorte que um autor como
+
+596
+01:37:49,740 --> 01:37:57,500
+Bungue, e não apenas ele, e repito, fosse suficientemente lucido como para chamar a atenção sobre elas
+
+597
+01:37:57,500 --> 01:38:06,380
+e começar a cultivar. Que legal, professor, muito obrigada. Essas questões, eu penso que
+
+598
+01:38:09,100 --> 01:38:14,700
+isso que o senhor aponta de que nem sempre o engenheiro passou por uma formação em filosofia.
+
+599
+01:38:16,060 --> 01:38:21,660
+O inverso também é verdadeiro para nossos filósofos. Muitas vezes o conhecimento tecnológico
+
+600
+01:38:21,660 --> 01:38:30,220
+passa longe da nossa formação, e isso dificulta bastante a conversa, o mínimo de vocabulário comum.
+
+601
+01:38:32,220 --> 01:38:38,860
+Para começar, o verônico é porque se você faz de algum tipo de filosofia, vamos chamar a
+
+602
+01:38:38,860 --> 01:38:46,620
+brincada filosofia da tecnologia ou filosofia da arte ou filosofia da religião, se você não tem
+
+603
+01:38:46,620 --> 01:38:53,900
+familiaridade, até um certo ponto pelo menos, com essas áreas, o que você poderá elaborar filosóficamente
+
+604
+01:38:53,900 --> 01:39:01,420
+que não seja um castelo no ar? Não tem sentido. Então, é muito mais difícil, claro, familiarizar-se
+
+605
+01:39:01,420 --> 01:39:08,540
+com a tecnologia, com qualquer área da engenharia, em particular, do que fazê-lo com, suponhamos,
+
+606
+01:39:08,540 --> 01:39:16,380
+credos religiosos ou manifestações artísticas. Mas não é menos necessário e imprescindível fazer
+
+607
+01:39:17,260 --> 01:39:24,940
+isso. Então, que às vezes, e isso se pode te culpar, filósofos também, não repararam em que não
+
+608
+01:39:24,940 --> 01:39:32,380
+basta não ser o descenso comum sobre uma determinada área para ser filosófico em cima disso. Parte do
+
+609
+01:39:32,380 --> 01:39:39,340
+descrédito da filosofia como algo que não tem consistência provém de filósofos ou
+
+610
+01:39:40,300 --> 01:39:47,500
+candidatos a filosofos que refletiram e se manifestaram sem suficiente conhecimento da área
+
+611
+01:39:47,500 --> 01:39:53,580
+correspondendo. Totalmente a favor de que quem se tenha dedicado a uma filosofia, como se chama
+
+612
+01:39:53,580 --> 01:39:59,820
+aplicada uma vez mais, comece por se familiarizar até um certo ponto pelo menos com o campo
+
+613
+01:40:01,500 --> 01:40:08,620
+de reflexão que o pretende abordar. Claro, na UTFPR, por exemplo, nós temos a disciplina
+
+614
+01:40:08,700 --> 01:40:17,180
+de filosofia da ciência e da tecnologia, mas nós tentamos utilizar uma abordagem em que haja
+
+615
+01:40:18,780 --> 01:40:24,460
+o diálogo com os estudantes, que são aqueles que dominam o conhecimento técnico,
+
+616
+01:40:24,460 --> 01:40:33,340
+de modo que a filosofia não seja um movimento quase que catequético, em que aquele professor
+
+617
+01:40:33,340 --> 01:40:41,740
+das humanidades chega para formar um tal senso crítico nos alunos, algo que vem
+
+618
+01:40:42,940 --> 01:40:52,060
+como disse o senhor, um conceito de tecnologia que se faz no nada. Então, nesse sentido, o Simondon,
+
+619
+01:40:52,060 --> 01:41:00,380
+por exemplo, é um autor que nós utilizamos bastante porque ele, digamos, abre a caixa preta.
+
+620
+01:41:00,380 --> 01:41:09,260
+Ele fala dos objetos técnicos não como um conceito no ar, mas a partir da própria
+
+621
+01:41:10,140 --> 01:41:15,580
+prática, digamos assim, do engenheiro. Claro, justamente ele tinha uma condição excepcional
+
+622
+01:41:15,580 --> 01:41:21,740
+para isso, porque o que eu sou pregando é a necessidade da recíproca. Quem está na filosofia
+
+623
+01:41:21,740 --> 01:41:30,060
+quer se interessar em detectar e argumentar sobre questões autológicas, por exemplo,
+
+624
+01:41:30,060 --> 01:41:36,860
+por disteemológicas dentro da tecnologia, ou de uma área especial, como falamos na engenharia,
+
+625
+01:41:36,860 --> 01:41:43,500
+dentro dessa comunicação. Não adianta querer filosofar apenas com o nosso exercício comum.
+
+626
+01:41:44,300 --> 01:41:51,020
+Claro, e na prática, é como nós não tivemos na nossa formação, eu peço que essa familiaridade,
+
+627
+01:41:51,020 --> 01:41:58,060
+ela pode vir justamente no diálogo com os estudantes, porque eles têm o conhecimento
+
+628
+01:41:58,060 --> 01:42:05,660
+técnico, mas não o filosófico. É nesse encontro que a gente consegue minimamente
+
+629
+01:42:06,460 --> 01:42:15,100
+superar as ausências nos seus respectivos campos. Porque é algo que, como não vem da formação,
+
+630
+01:42:15,180 --> 01:42:23,020
+precisa ser construído em algum outro momento. Deixe-me atualizar aqui, eu acho que nós
+
+631
+01:42:23,020 --> 01:42:29,820
+não temos outras questões dos estudantes, mas eu estou esperando uma outra questão aqui.
+
+632
+01:42:32,140 --> 01:42:40,860
+Infelizmente, ela não está escrita aqui, eu vou ler, professora. É uma pergunta do Alex,
+
+633
+01:42:40,940 --> 01:42:49,820
+o professor Alex Kalasantz. É o seguinte, primeiramente agradeço imensamente a aula,
+
+634
+01:42:49,820 --> 01:42:54,140
+ao mesmo tempo profunda e acessível que o professor Coupani nos proporcionou hoje,
+
+635
+01:42:54,860 --> 01:43:04,380
+que aula maravilha. Aí as questões. Como o Mario Bung pensa o tema do realismo na ciência
+
+636
+01:43:04,380 --> 01:43:12,460
+e na tecnologia, há diferenças. Ou seja, um tecnólogo necessita pensar a construção
+
+637
+01:43:12,460 --> 01:43:18,620
+da tecnologia, assumindo como reais as entidades científicas ali envolvidas,
+
+638
+01:43:19,260 --> 01:43:24,460
+ou é possível ao tecnólogo ter somente uma visão instrumentalista da ciência?
+
+639
+01:43:25,180 --> 01:43:33,180
+Bom, para começar, agradeço muito a Alex, a gentileza da forma de caracterizar a minha participação
+
+640
+01:43:33,180 --> 01:43:46,140
+nesta, este, bloco, nesta curso. Veja, o Bung era marcadamente realista enquanto a filosofia da ciência.
+
+641
+01:43:47,020 --> 01:43:54,060
+Isto é para ele, se você subtrae a pretensão realista, no sentido ontológico de que um mundo
+
+642
+01:43:54,060 --> 01:43:59,900
+existe independente de nós, e no sentido epistemológico de que nossas teorias, quando
+
+643
+01:43:59,900 --> 01:44:07,180
+suficientemente dentes estados são provisoriamente verdadeiras, você desqualifica a atividade
+
+644
+01:44:07,180 --> 01:44:12,380
+científica. Para ele, as formas várias de pragmatismo, por exemplo, estavam erradas.
+
+645
+01:44:12,940 --> 01:44:19,020
+Agora, já diferente no caso da tecnologia, porque na tecnologia, o tecnólogo não precisa estar
+
+646
+01:44:19,020 --> 01:44:26,380
+comprometido com que a teoria que está utilizando seja verdadeira. A prova é que utilizamos
+
+647
+01:44:26,380 --> 01:44:33,020
+a física de Newton e Noah de Einstein para a maior parte da ficação tecnológica. Apesar de
+
+648
+01:44:33,020 --> 01:44:39,340
+sabermos que a física de Newton está recuperada pela física de Einstein, então para o Bung
+
+649
+01:44:39,340 --> 01:44:49,260
+não era tão necessário para o tecnólogo, que era ter uma confiança em que sua visão
+
+650
+01:44:49,900 --> 01:44:56,860
+tecnológica do mundo, falando do conhecimento tecnológico, fosse verdadeira. Bastava com
+
+651
+01:44:57,420 --> 01:45:04,860
+a utilidade, bastava com a aplicabilidade dele. Sim, além disso, era um conhecimento verdadeiro,
+
+652
+01:45:04,860 --> 01:45:11,820
+tanto melhor, naturalmente. Mas a possibilidade de usar teorias, usar superadas científicamente,
+
+653
+01:45:11,820 --> 01:45:19,820
+como úteis na prática tecnológica, era para ele suficiente indício de que não era imprescindível
+
+654
+01:45:19,820 --> 01:45:26,300
+o realismo em matéria tecnológica. O realismo voltou a dizer que é tecnológico, porque realizam
+
+655
+01:45:26,300 --> 01:45:32,700
+poltológicos, a existência do mundo, independentemente de nós, com propriedades de um ser humano
+
+656
+01:45:32,700 --> 01:45:40,060
+e um pouco a pouco de fugrindo e não inventando, para ele constituiu uma, digamos, um presuposto
+
+657
+01:45:40,060 --> 01:45:48,060
+de qualquer ação tecnológica também. Vou me corrigir um pouquinho. A confiança do tecnólogo é que o mundo
+
+658
+01:45:48,060 --> 01:45:56,540
+tem determinado o ordenamento que as leis científicas traduzem, mas a ação humana, a ação tecnológica
+
+659
+01:45:56,540 --> 01:46:05,660
+modifica esse mundo e, de tal modo que pode introduzir, claro, características novas que o mundo
+
+660
+01:46:05,660 --> 01:46:12,300
+não tinha. Ser introductor de nova ordem no mundo é característico do ser humano. Então,
+
+661
+01:46:12,300 --> 01:46:18,620
+não apenas o mundo, senão qualquer outro filósofo da tecnologia dá por algo que não tem discussão,
+
+662
+01:46:18,700 --> 01:46:19,740
+é acimeto.
+
+663
+01:46:23,740 --> 01:46:33,180
+Que bem, professor, muito obrigada. Eu vou ler a questão, ah, tem um comentário aqui da
+
+664
+01:46:33,180 --> 01:46:41,740
+Stefânia, aula maravilhosa, calma e com muita clareza, e em seguida a questão do Cândido,
+
+665
+01:46:41,740 --> 01:46:47,420
+que eu diz o seguinte, eu gostaria que o professor discorresse um pouco mais sobre a diferença entre
+
+666
+01:46:47,420 --> 01:46:55,180
+ser cientificista e ser positivista, no caso citado do POPER, embora a aula seja sobre BUNCH.
+
+667
+01:46:55,180 --> 01:47:04,140
+Certamente, porque POPER, para começar, POPER era um tanto mais favorável a teorias não científicas,
+
+668
+01:47:04,140 --> 01:47:12,460
+porque, citando casos como articanálise e idiomaxismo, que ele não considerava propriamente científicos ainda,
+
+669
+01:47:13,100 --> 01:47:19,180
+não descartava que no futuro pudessem ser reformuladas essas teorias de modo a ser
+
+670
+01:47:19,180 --> 01:47:26,460
+entestadas e, desse modo, entrar em não há muito científico. Então, a testabilidade, como você
+
+671
+01:47:26,460 --> 01:47:32,700
+deve saber, era o preferido básico segundo POPER para se falar de uma teoria científica,
+
+672
+01:47:32,700 --> 01:47:42,540
+e não uma speculação. O BUNCH se mostra sempre muito mais reácido, muito mais contrário
+
+673
+01:47:42,540 --> 01:47:49,020
+a esse tipo de concessões, e eu acho que, francamente, era de considerar o mais rígido,
+
+674
+01:47:49,020 --> 01:47:56,140
+em sua maneira de pensar. POPER, naturalmente, não era tão POPER positivista, mas os motivos que eu já falei,
+
+675
+01:47:56,140 --> 01:48:03,260
+não acreditava na posição, nem de um Augusto Compton, nem de um POSITIVISTO por século XX,
+
+676
+01:48:03,260 --> 01:48:13,100
+mas a POPER era mais permeável, mais sensível ao fato de teorias poderem evoluir em direção à
+
+677
+01:48:13,100 --> 01:48:22,860
+cientificidade. O BUNCH parecia ter uma visão um tanto congelada de coisas como a psicanálise.
+
+678
+01:48:23,180 --> 01:48:28,140
+Para começar, porque a própria psicanálise, como todo mundo sabe, passou por reformulações,
+
+679
+01:48:28,140 --> 01:48:36,540
+basta citar depois de Freud e Lacan, né? Bom, Lacan, justamente, era alguém ridiculizado diretamente por
+
+680
+01:48:36,540 --> 01:48:47,820
+MIMG, pela forma como formulava sua crença na psicanálise. Eu nunca compartilhei da posição
+
+681
+01:48:47,820 --> 01:48:55,260
+e eu também tenho um falista de um BUNCH com relação ao que é ciência, ao que não é,
+
+682
+01:48:55,260 --> 01:49:01,340
+e, portanto, ao que é pseudociência. Eu penso que, mas isso provavelmente tinha a ver como que já
+
+683
+01:49:01,340 --> 01:49:09,260
+declarei que eu não compartilhei para nada o científico, então eu sempre tenho filosofados
+
+684
+01:49:09,260 --> 01:49:16,460
+e o que eu faço por essa matamento filosofia, eu tenho filosofados de olho nas diversidades de
+
+685
+01:49:16,460 --> 01:49:23,180
+possibilidades de pensamento filosófico, né? Então, para um BUNCH, filosofar a maneira de um
+
+686
+01:49:23,180 --> 01:49:30,300
+quinto era algo totalmente filosofia, porque não tinha como se está a formar em uma filosofia
+
+687
+01:49:30,300 --> 01:49:38,060
+científica. E eu, de minha parte, duvido muito de que a filosofia possa algum dia ser totalmente
+
+688
+01:49:38,140 --> 01:49:48,060
+científica. Não quero tirar como isso mérito ao enorme esforço que BUNCH fez em sua crítica de
+
+689
+01:49:48,060 --> 01:49:56,060
+posições não totalmente identificadas em filosofia ou em ciência, de isso que foi um autor de uma
+
+690
+01:49:56,060 --> 01:50:04,140
+imensa contribuição à filosofia da ciência, mas como passa como muitos, como disse o antigo
+
+691
+01:50:04,140 --> 01:50:11,980
+ditado, né? Que costumamos ter os visos de nossas virtudes. A extrema tendência de BUNCH para
+
+692
+01:50:11,980 --> 01:50:21,500
+esa atidão, né? Olegó, creo eu, a ser muito insensível para coisas autópicos em que um popper,
+
+693
+01:50:21,500 --> 01:50:30,220
+por exemplo, se mostrava mais aberto, mais... E, nesse sentido, de meu ponto de vista, mais simpático a posições contrárias.
+
+694
+01:50:34,620 --> 01:50:44,540
+Ok, professor, muito obrigada. Eu penso que nós não temos mais questões. Só vou confirmar aqui,
+
+695
+01:50:44,540 --> 01:50:53,180
+acho que não chegou mais nenhuma. Então, não chegou. Então, nós vamos encerrar a aula um pouco mais cedo
+
+696
+01:50:53,180 --> 01:51:02,140
+hoje. Se o professor quiser fazer alguma consideração final, o cândido fez o seguinte comentário.
+
+697
+01:51:02,140 --> 01:51:08,140
+Valeu, professor. Terei que estudar um pouco mais sobre o positivismo em relação a popper. Muito obrigada.
+
+698
+01:51:08,140 --> 01:51:14,140
+Então, se o professor quiser fazer algum comentário final, depois encerramos a aula.
+
+699
+01:51:14,140 --> 01:51:22,140
+Sim, eu gostaria de novamente agradecer ao convite, mas sobretudo, para admissar a universidade do Paraná,
+
+700
+01:51:22,140 --> 01:51:32,140
+porque eu acho que é uma extrema, uma extrema valor para difundir as ideias em circunstâncias,
+
+701
+01:51:32,140 --> 01:51:38,140
+filosofias da ciência e da tecnologia. Não falo, em particular, de minha participação,
+
+702
+01:51:38,140 --> 01:51:46,140
+não seria isso o caso. Mas o elenco de expositores que vocês geralmente convocam para esta forma
+
+703
+01:51:46,140 --> 01:51:56,140
+de difundir as ideias em circunstâncias, de ciência e da tecnologia dá para esse curso uma utilidade,
+
+704
+01:51:56,140 --> 01:52:05,140
+uma alcance que eu não me canso de eu já. Muito obrigado a todos vocês, ao pessoal de apoio,
+
+705
+01:52:05,140 --> 01:52:14,140
+a pessoas que não se cansam de trabalhar entreitadas como estas, que implicam sempre um grande esforço,
+
+706
+01:52:14,140 --> 01:52:24,140
+não só apenas do posto econômico, mas sobretudo do esforço das pessoas para manterem este tipo de práticas artísticas.
+
+707
+01:52:24,140 --> 01:52:30,140
+Muito obrigado mais uma vez e que continue este ciclo deste ano, em particular,
+
+708
+01:52:30,140 --> 01:52:33,140
+como é o mesmo sucesso que tiveram nos anos anteriores.
+
+709
+01:52:33,140 --> 01:52:40,140
+Uma curiosidade, quantas pessoas se matricularam este ano? Tenham alguma característica?
+
+710
+01:52:40,140 --> 01:52:45,140
+Professora, a gente tem média de 110 alunos matriculados nessa disciplina.
+
+711
+01:52:45,140 --> 01:52:53,140
+Como quero suporte, ninguém ou poucos reinsidiram apenas porque tinham assistido aos anteriores,
+
+712
+01:52:53,140 --> 01:53:02,140
+então quer dizer que estamos progressindo numa divulgação adequada das ideias de filósofos da ciência e da tecnologia.
+
+713
+01:53:02,140 --> 01:53:06,140
+Muito obrigado mais uma vez. Grande abraço a todos.
+
+714
+01:53:06,140 --> 01:53:17,140
+Legal, professor. Nós é que agradecemos, porque essa disciplina só é possível justamente porque cada um dos professores nos atende ano após ano
+
+715
+01:53:17,140 --> 01:53:28,140
+e colabora com a sua parte, o seu autor. Então nós é que temos que agradecer essa disponibilidade.
+
+716
+01:53:29,140 --> 01:53:36,140
+É isso, professor, reforço o agradecimento da professora Verônica em nome de toda a equipe dos professores que organizam a disciplina das transversais,
+
+717
+01:53:36,140 --> 01:53:42,140
+a coordenação das transversais, em nome dos alunos também. Obrigado pela aula maravilhosa.
+
+718
+01:53:42,140 --> 01:53:50,140
+Eu gostaria então só de dar um aviso para os nossos alunos, então que ao final da nossa aula a gente já vai estar disponibilizando a prova
+
+719
+01:53:50,140 --> 01:53:59,140
+que vocês realizarão, que ela versa sobre o conteúdo trabalhado da semana 1 até a semana 8, ela vai ficar disponível então de hoje,
+
+720
+01:53:59,140 --> 01:54:05,140
+do dia 11 de outubro até o dia 18 de outubro, às 23 horas e 59 minutos.
+
+721
+01:54:05,140 --> 01:54:12,140
+Vocês podem responder a prova em um máximo 3 horas e é uma prova objetiva de múltipla escolha.
+
+722
+01:54:12,140 --> 01:54:18,140
+Então, tendo esse aviso, me despreço, então até semana que vem pessoal, muito obrigado. Tchau, tchau.
+
+723
+01:54:18,140 --> 01:54:20,140
+Tchau.
+
+724
+01:55:48,140 --> 01:55:50,140
+Tchau.
+

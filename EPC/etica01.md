@@ -1,16 +1,18 @@
 # Inicio
+
 1:00 Fala Rodacki
 5:25 Fala Marcelo
 21:30 Cronograma
 
 ## Construção histórica do pensamento moral e ético
+
 34:15 O que é ética?
 Um conjunto de normas e condutas dentro do ambiente social? Que possui variação em diferentes ambientes e subsets destes ambientes. O recorte social parece possuir um papel importante, assim como cultura.
 
 42:55 Rousseau
 Contratualista: Acordo entre o homem o o Estado em prol da sobrevivência, para evitar a barbarie. O Estado tem um papel regulatório nas relações entre os homens.
 
-https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2410525_code2095494.pdf?abstractid=2410525
+<https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2410525_code2095494.pdf?abstractid=2410525>
 
 47:30 Influêcia Mitológica
 Teogonia de Hesiodo, nascimento de Chronos e destrono de Urano.
@@ -31,4 +33,4 @@ Amor pela sabedoria. A sabedoria é pré-existente e é um fragmento cosmico  qu
 Inteligência cómica divina, que o filosofo busca. Alma é um framento individual do logos divino. "A sabedoria já está em você", "A verdade que está no mundo apareceu para mim limpida e cristalina", "Conheça a ti mesmo"...
 
 1:06:40 Razão vs Emoção
-Pensamento de Platão: O indivíduo deve desprezar os prazeres e abraçar as virtudes. 
+Pensamento de Platão: O indivíduo deve desprezar os prazeres e abraçar as virtudes.
