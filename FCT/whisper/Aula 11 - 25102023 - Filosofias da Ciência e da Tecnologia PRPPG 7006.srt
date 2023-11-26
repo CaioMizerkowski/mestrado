@@ -1,0 +1,9152 @@
+1
+00:00:00,000 --> 00:00:30,000
+O que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é
+
+2
+00:00:30,000 --> 00:01:00,000
+e aí e aí e aí e aí
+
+3
+00:01:00,000 --> 00:01:05,360
+E aí e aí olá bom dia Sejam todas
+
+4
+00:01:05,360 --> 00:01:10,000
+bem-vindas todos bem-vindos pra mais uma aula da disciplina
+
+5
+00:01:10,000 --> 00:01:16,080
+filosofias da ciência e da tecnologia uma disciplina dentro do programa de
+
+6
+00:01:16,080 --> 00:01:21,400
+disciplinas transversais é uma iniciativa da pŭ시는 da
+
+7
+00:01:21,400 --> 00:01:27,320
+universidade federal do Paraná com o apoio de diversas outras universidades do
+
+8
+00:01:27,320 --> 00:01:32,400
+do Paraná. A gente agradece a presença de todos vocês
+
+9
+00:01:32,400 --> 00:01:38,560
+para mais essa aula e hoje temos o prazer de receber o nosso convidado, o
+
+10
+00:01:38,560 --> 00:01:44,200
+professor Caio Fernando, cuja presença que eu já vou justificar para vocês,
+
+11
+00:01:44,200 --> 00:01:51,920
+porque no programa para essa aula de hoje, cujo tema é a filosofia da técnica de
+
+12
+00:01:51,920 --> 00:01:57,000
+Marte Heidegger, estava prevista a participação do professor Eladio Cria,
+
+13
+00:01:57,000 --> 00:02:03,560
+da Ponte Fície da Universidade Católica do Paraná. Todavia o professor Eladio
+
+14
+00:02:03,560 --> 00:02:08,720
+teve um contratempo, não pôde confirmar a sua participação aqui no nosso curso
+
+15
+00:02:08,720 --> 00:02:14,880
+nos últimos dias, mas tomou a providência, tomou o cuidado de
+
+16
+00:02:14,880 --> 00:02:20,600
+contactar o professor Caio, que é seu orientando, eu já vou apresentar o professor
+
+17
+00:02:20,720 --> 00:02:28,240
+para vocês, e ele então se dispôs muito gentilmente, assim, de última hora
+
+18
+00:02:28,240 --> 00:02:34,680
+a atender o nosso convite e nós decidimos a fazer uma outra dinâmica da nossa
+
+19
+00:02:34,680 --> 00:02:40,880
+aula de hoje. Então vocês prestem atenção que a aula de hoje tem uma
+
+20
+00:02:40,880 --> 00:02:46,040
+característica bastante distinta das aulas anteriores. Nós vamos ouvir o
+
+21
+00:02:46,040 --> 00:02:52,280
+professor Eladio numa gravação de uma aula que ele já ministrou aqui nessa
+
+22
+00:02:52,280 --> 00:02:58,400
+disciplina em outros anos anteriores, no ano passado, e então, portanto, vocês vão
+
+23
+00:02:58,400 --> 00:03:05,920
+ter a oportunidade de escutar a preeleção do professor Eladio. No entanto, nós não
+
+24
+00:03:05,920 --> 00:03:10,600
+vamos ter aquela segunda parte, que é a parte das questões e dos comentários, dos
+
+25
+00:03:10,600 --> 00:03:16,560
+esclarecimentos com o professor Eladio, que então será substituído nesse momento
+
+26
+00:03:16,560 --> 00:03:22,760
+pelo Caio Fernando, para então fazer essa segunda parte da aula, algo que deve
+
+27
+00:03:22,760 --> 00:03:28,200
+ocorrer lá pelas 11 e 15. Eu vou apresentar o Caio para vocês.
+
+28
+00:03:28,200 --> 00:03:34,280
+O Caio é professor, é doutorando na Pontifício Universidade Católica do
+
+29
+00:03:34,280 --> 00:03:39,480
+Paraná, no PUC Paraná, no programa de pós-graduação em filosofia, ele é
+
+30
+00:03:39,480 --> 00:03:48,040
+orientando do Eladio Ucraia e foi nessa mesma universidade na PUC Paraná que o
+
+31
+00:03:48,040 --> 00:03:54,520
+Caio fez a sua graduação, a licenciatura em filosofia e o seu mestrado também em
+
+32
+00:03:54,520 --> 00:04:01,240
+filosofia, sempre sob a orientação do professor Eladio, na área de filosofia da
+
+33
+00:04:01,240 --> 00:04:06,160
+tecnologia. O Caio anota aqui nos seus lados que ele tem experiência na área de
+
+34
+00:04:06,160 --> 00:04:10,360
+filosofia contemporânea, com êfose em filosofia da técnica, todo principalmente
+
+35
+00:04:10,360 --> 00:04:15,880
+nos temas de filosofia da técnica, ontologia, martirridinga, convergência
+
+36
+00:04:15,880 --> 00:04:21,200
+tecnologia e transhumanismo. Então esses são os temas e a formação do Caio que
+
+37
+00:04:21,200 --> 00:04:27,040
+vem hoje aqui substituindo o professor Eladio, mas que da mesma maneira que o
+
+38
+00:04:27,040 --> 00:04:33,400
+Eladio dá enorme prestígio ao nosso curso, ao nosso disciplino, então
+
+39
+00:04:33,400 --> 00:04:38,480
+agradecemos muito ao Caio, a quem eu vou passar a palavra só no final, tá Caio?
+
+40
+00:04:38,480 --> 00:04:44,040
+Você vai ficar quietinho aí por enquanto, eu passo a palavra para você na segunda
+
+41
+00:04:44,040 --> 00:04:49,360
+parte, tá? Então vamos iniciar nossa nossa aula e eu quero lembrar a vocês, uma
+
+42
+00:04:49,360 --> 00:04:55,600
+parte importante da aula de hoje. O registro das frequências permanece
+
+43
+00:04:55,600 --> 00:05:00,360
+sendo como foi nas aulas anteriores, tá? Vocês têm que responder, não é porque a
+
+44
+00:05:00,360 --> 00:05:05,920
+aula é gravada, é uma aula síncrona que não tem a verificação da presença,
+
+45
+00:05:05,920 --> 00:05:10,200
+verificação continua acontecendo regularmente, como acontece, quantas aulas
+
+46
+00:05:10,200 --> 00:05:16,400
+são síncrones, tá? Então vocês têm que responder as questões colocadas aí pelos
+
+47
+00:05:16,400 --> 00:05:21,600
+monitores, pelas quais então eles fazem o registro da frequência de vocês, tá?
+
+48
+00:05:21,600 --> 00:05:25,760
+Então uma boa aula para todos nós, né? Eu e Caio vão ficar aqui nos bastidores,
+
+49
+00:05:25,760 --> 00:05:30,400
+ouvindo o provisional lá de junto com vocês e voltamos então para a segunda
+
+50
+00:05:30,400 --> 00:05:34,840
+parte das questões, tá? Muito obrigado, um bom início, um bom, um bom aula para vocês.
+
+51
+00:05:34,840 --> 00:05:59,000
+Olá pessoal, bom dia. Quero acolher a todos vocês que estão acompanhando a disciplina, essa
+
+52
+00:05:59,000 --> 00:06:06,560
+disciplina transversal de filosofias, filosofias da ciência e da tecnologia. Hoje nós iremos
+
+53
+00:06:06,560 --> 00:06:14,520
+dar continuidade à segunda parte desse curso, que é a parte que especificamente trata de
+
+54
+00:06:14,520 --> 00:06:22,560
+temas, de temas, autores e problemas ligados à filosofia da tecnologia, né? Hoje nós estamos
+
+55
+00:06:22,840 --> 00:06:30,240
+realizando, então vamos completar a nossa décima segunda aula, né? E teremos hoje um de
+
+56
+00:06:30,240 --> 00:06:36,800
+os autores que são considerados assim, um autor considerado importantíssimo para a
+
+57
+00:06:36,800 --> 00:06:45,160
+compreensão, né, da filosofia da tecnologia, que será uma aula sobre Heidegger, será sobre o
+
+58
+00:06:45,280 --> 00:06:56,120
+alemão Heidegger. E justamente para nos ajudar a compreender esse filósofo polêmico, mas ao mesmo
+
+59
+00:06:56,120 --> 00:07:02,560
+tempo, é importantíssimo, mais complexo também, né? Nós teremos a presença de um grande
+
+60
+00:07:02,560 --> 00:07:09,640
+especialista, de um grande amigo também, que já há algum tempo, algumas edições dessa
+
+61
+00:07:09,640 --> 00:07:14,840
+gente já tem nos ajudado e sempre fazendo um grande sucesso, né, nas apresentações,
+
+62
+00:07:14,840 --> 00:07:20,200
+porque ele consegue nos ajudar bastante em relação à filosofia do Heidegger, que é o
+
+63
+00:07:20,200 --> 00:07:25,640
+professor Eladio Kraia. Então, vou fazer uma apresentação um pouquinho mais formal,
+
+64
+00:07:25,640 --> 00:07:31,480
+assim, para vocês conhecerem ele, né? E daí eu já passo a palavra para ele, né? O professor
+
+65
+00:07:31,480 --> 00:07:39,760
+Eladio. O senhor Eladio é formado em filosofia pela Universidade Nacional de Rosário, na
+
+66
+00:07:39,760 --> 00:07:45,240
+Argentina. Isso já entrega a nacionalidade também do professor. Se não me engano, ele também,
+
+67
+00:07:45,240 --> 00:07:52,480
+ele torce por River Plate, se não me engano, né? Ele é mestre em filosofia pela Universidade
+
+68
+00:07:52,480 --> 00:07:57,840
+Estadual de Campinas e doutor também pela Universidade Estadual de Campinas,
+
+69
+00:07:58,600 --> 00:08:05,800
+ele é posoutor pela Universidade de Valência, na Espanha, e é professor adjunto do curso
+
+70
+00:08:05,800 --> 00:08:13,600
+de Filosofia e Pós-Graduação na Pontifício Universidade Católica do Paraná, desde 2007,
+
+71
+00:08:13,600 --> 00:08:21,520
+né? Também é professor convidado na Universidade Nacional de Rio IV, na Argentina, né? Então,
+
+72
+00:08:21,520 --> 00:08:27,240
+é um professor que é um grande especialista não só na obra de Heidegger, mas é um professor
+
+73
+00:08:27,240 --> 00:08:34,400
+que tem pesquisado, tem ministrado cursos, palestras sobre outros autores como Delesi,
+
+74
+00:08:34,400 --> 00:08:41,720
+Gattari, né? E principalmente Foucault também, né? Delesi, Gattari, Foucault, a filosofia
+
+75
+00:08:41,720 --> 00:08:47,560
+francesa também, né, do modo geral, né? Então, é um professor que vai hoje ministrar
+
+76
+00:08:47,560 --> 00:08:54,440
+assuntos aí, ligados ao pensamento da técnica no Heidegger. E com isso, meu cara, o professor Eladio,
+
+77
+00:08:54,440 --> 00:09:00,080
+eu vou falar uma palavra para o senhor, já, para, digamos, aqui, aproveitar o tempo da
+
+78
+00:09:00,080 --> 00:09:06,280
+menor maneira que você achar melhor, tá bom, meu querido? Tá, professor? Fique com o senhor, então, a
+
+79
+00:09:06,280 --> 00:09:14,960
+palavra. Vale muito, obrigado pela apresentação, tanquilhados, tancarinhas, Alex. Se você continuar
+
+80
+00:09:14,960 --> 00:09:20,920
+falando para mim, o senhor, e você liga o computador, que eu já me sinto suficientemente velho,
+
+81
+00:09:21,920 --> 00:09:29,000
+respeito acadêmico. E estou sem graça com a apresentação, muito obrigado, tá?
+
+82
+00:09:29,000 --> 00:09:35,040
+Não, ainda bem que você falou que eu sou argentina, porque eu fiquei quase impossível de
+
+83
+00:09:35,040 --> 00:09:42,680
+receber isso, tá? Que eu sou gringo. Eu sou bom dia, gente, bom dia a todo mundo, tá? Primeiro antes
+
+84
+00:09:42,680 --> 00:09:50,800
+que me esqueça, muito obrigado por fazer companhia, gente, aqui, tá? Muito obrigado por
+
+85
+00:09:50,800 --> 00:10:01,000
+vocês colocar na disposição um tempo que hoje é tão escaso da vida de vocês para discutir
+
+86
+00:10:01,000 --> 00:10:09,440
+esses temas. Isso fala muito bem de vocês, tá? Porque vai ser particularmente. Mas está falando
+
+87
+00:10:09,440 --> 00:10:15,040
+duas coisas. Primeiro, a questão que o Alex não pode mais me falar do senhor. Segunda questão,
+
+88
+00:10:15,040 --> 00:10:23,040
+essa piada da River Plenty pode costar muito caro para você, Alex. Bom, publicamente,
+
+89
+00:10:23,040 --> 00:10:33,080
+de falar aqui, vamos boca junhas. Mas voltando àquilo que nos reúne, sempre que eu sou convidado
+
+90
+00:10:33,080 --> 00:10:42,280
+para essa disciplina, eu faço questão de insistir no fato de reconhecermos a importância que este
+
+91
+00:10:42,280 --> 00:10:56,800
+tipo de iniciativa acadêmico coletiva tem. É realmente um vetor de produção acadêmica muito
+
+92
+00:10:56,800 --> 00:11:05,800
+importante, ele é um exemplo, ele é atuado, ele é transversado, como é que eu me diga. Sobretudo,
+
+93
+00:11:05,800 --> 00:11:17,680
+propõe o itinerário que nos permita transitar por horizontes de problemas concretos que devem ser
+
+94
+00:11:17,680 --> 00:11:25,080
+pensados desde vários lugares na nossa contemporaneidade, tá? Então, me parece que a iniciativa de um
+
+95
+00:11:25,080 --> 00:11:33,680
+bóliocente insiste neste ponto nunca está demais, uma iniciativa que deve ser muito celebrada. Para
+
+96
+00:11:33,680 --> 00:11:40,400
+vez, na Carol, na Samantha, na Alex, que estão aqui comigo me ajudando para ver isso, para todo o
+
+97
+00:11:40,400 --> 00:11:45,680
+equipo e me insisto nisso. Vamos para frente, não parem com esse tipo de iniciativa porque é muito
+
+98
+00:11:45,680 --> 00:11:58,320
+bacana, tá? E bom, obrigado de novo para todo o bóliocente. Muito bem, supõe-se que vamos falar
+
+99
+00:11:58,320 --> 00:12:05,840
+de Heidegger. Antes de me esquecer, dado que eu sou gringo, porque seja muito difícil de aparecer, além
+
+100
+00:12:05,840 --> 00:12:11,440
+da brincadeira, escute-me, faz 20 anos que moro no Brasil, portanto, o sotaque não vai mudar para ficar
+
+101
+00:12:11,440 --> 00:12:21,440
+desse jeito. Então, qualquer dificuldade com, não apenas com os conceitos, mas com minha conversa com o
+
+102
+00:12:21,440 --> 00:12:32,480
+sotaque, é só gritar no chat, retomo as questões, tá? Sem problema. Bom, nós estamos aqui para falar
+
+103
+00:12:32,480 --> 00:12:40,080
+de Heidegger, tá? Sempre que eu convido para falar de Heidegger, eu vou, na verdade, acrescentar
+
+104
+00:12:40,080 --> 00:12:47,440
+novas questões. Aí fica muito cumprido o que eu faço. Eu vou tentar, neste momento, não me alongar demais, tá?
+
+105
+00:12:47,440 --> 00:12:59,840
+Mas, escute-me, há um conjunto mínimo, há um conjunto mínimo de operadores conceituais,
+
+106
+00:12:59,840 --> 00:13:05,920
+quer dizer, de ferramentas conceituais, quer dizer, de conceitos filosóficos, que eu preciso
+
+107
+00:13:05,920 --> 00:13:16,320
+obrigatoriamente apresentar para vocês para que seja mais fértil, para que seja mais eficaz
+
+108
+00:13:16,400 --> 00:13:23,680
+depois da nossa conversa sobre Heidegger. Meus amigos e amigas, se eu começo diretamente
+
+109
+00:13:23,680 --> 00:13:30,960
+a falar de Heidegger e sua reflexão em todo o problema da técnica, esta é a palavra,
+
+110
+00:13:30,960 --> 00:13:40,560
+técnica, isso vai dar muita terapramanda depois, tá? Se eu começo a falar diretamente com Heidegger,
+
+111
+00:13:41,280 --> 00:13:48,720
+tenho a certeza de que muitas das análises e das reflexões do Filosofio Valemão vão
+
+112
+00:13:48,720 --> 00:13:55,280
+suscitar a seguinte, porque este homem está falando isso? Tá, bonitinha, mas por que? Então,
+
+113
+00:13:57,280 --> 00:14:06,640
+nos caros, eu preciso contextualizar, em termos conceituais e em termos de história da filosofia
+
+114
+00:14:06,720 --> 00:14:13,760
+técnica, repito, em termos conceituais primeiro e em termos de história da filosofia técnica,
+
+115
+00:14:14,480 --> 00:14:24,160
+é o mínimo de contexto do que estamos falando, tá? O que se localiza, isto, onde se localiza a
+
+116
+00:14:24,160 --> 00:14:31,200
+reflexão mejácula, tá? Então, se vocês me permitem, tá? Não permiti, porque não tenho como
+
+117
+00:14:31,280 --> 00:14:37,600
+impedir, não sei, faz parte da microfísica do poder deste tipo de aula. Então, se vocês me
+
+118
+00:14:37,600 --> 00:14:49,280
+disculpam, então, eu vou apresentar primeiro um conjunto conceitual mais geral, mais abrangente,
+
+119
+00:14:50,400 --> 00:14:56,640
+em termos de problema da tecnologia, técnica e tecnologia, me sinto, guardem estas categorias
+
+120
+00:14:56,640 --> 00:15:02,160
+técnicas, que serão importantes depois. Eu vou tentar começar um pouco,
+
+121
+00:15:04,880 --> 00:15:10,400
+estabelecendo os parâmetros, um marco categorial, um marco categorial que nos permita localizar
+
+122
+00:15:10,400 --> 00:15:18,960
+o raio, tá? Então, vou fazer o seguinte, veja-me, à verdade, um problema que vou fazer agora,
+
+123
+00:15:18,960 --> 00:15:25,600
+porque está aqui me apresentando nada mais ou menos que o Alex, tá? Ou seja, que junto com
+
+124
+00:15:26,320 --> 00:15:33,360
+a atividade irônica, companhia do Alex, de essas pessoas que mais sabem de pequena ociência
+
+125
+00:15:34,240 --> 00:15:41,440
+por estas bandas. Então, eu vou falar de coisas, tá? Sendo que tenho um outro especialista mais
+
+126
+00:15:41,440 --> 00:15:46,800
+gabaritado aqui comigo, mas como sou argentino e tenho cara de pau, então posso fazer isso com alguma
+
+127
+00:15:46,800 --> 00:15:53,520
+liberdade, tá? Então, eu acho que me interessa aqui, escute-me. O Alex apresentou muito que,
+
+128
+00:15:53,840 --> 00:16:03,760
+finalmente, estamos na segunda parte deste curso, tá? Porque estamos saindo da reflexão
+
+129
+00:16:03,760 --> 00:16:14,960
+em torno do problema geral da ciência, problema moderno por excelência, tá? Indo, indo para o problema
+
+130
+00:16:14,960 --> 00:16:26,640
+da tecnologia, tá? Se trata, portanto, da passagem de uma reflexão, vejam bem, de uma reflexão
+
+131
+00:16:26,640 --> 00:16:35,440
+em termos epistemológicos, ou seja, a reflexão da filosofia em torno do estatuto da ciência, tá?
+
+132
+00:16:36,160 --> 00:16:44,160
+Método de possibilidades, interações, tá? Para a filosofia da técnica. Este é o primeiro ponto,
+
+133
+00:16:44,160 --> 00:16:51,440
+gente. Estamos fazendo uma passagem categoriais, isto quer dizer, não apenas o objeto, não apenas o
+
+134
+00:16:51,440 --> 00:16:59,520
+objeto, senão o horizonte do questionar da questão, o horizonte onde as perguntas surgem de outro.
+
+135
+00:17:00,480 --> 00:17:08,400
+Por repetir, o horizonte onde as perguntas e as questões são colocadas agora mudou, tá? Estamos na
+
+136
+00:17:08,400 --> 00:17:16,000
+passagem da ciência, a preocupação filosófica pela ciência, para a preocupação filosófica
+
+137
+00:17:16,000 --> 00:17:27,840
+pela técnica. De qualquer maneira, é um dos expoentes mais destacados da Núria. Por isso,
+
+138
+00:17:27,840 --> 00:17:34,800
+necessariamente é isso. Como é que a gente pode notar isso aí? Como é que a gente pode verificar isso aí?
+
+139
+00:17:34,800 --> 00:17:42,640
+Porém, eu trouxe aqui a categoria de tecnociência, tá? Que a gente pode entender essa categoria de
+
+140
+00:17:42,640 --> 00:17:48,560
+tecnociência, é um conceito, uma noção utilizada, não apenas pela filosofia da técnica
+
+141
+00:17:48,560 --> 00:17:58,000
+da tecnologia, senão pela sociologia técnica, pela economia. É dizer, é vastamente transdisciplinar.
+
+142
+00:17:59,920 --> 00:18:05,360
+Mas, por tecnociência, não podemos entender duas contas. Alex não fica bravo comigo pelas
+
+143
+00:18:05,360 --> 00:18:12,320
+simplificações. Basicamente, podemos entender a tecnociência dessa perspectiva onde,
+
+144
+00:18:12,320 --> 00:18:20,320
+com esta palavra, com este conceito de tecnociência, queremos definir o saber científico e as
+
+145
+00:18:20,320 --> 00:18:29,520
+práticas científicas, o saber e as práticas científicas na relação com seu contexto histórico,
+
+146
+00:18:29,520 --> 00:18:35,520
+social, econômico, tecnológico, ou seja, disponibilizar aparelhos para verificar a ciência.
+
+147
+00:18:35,520 --> 00:18:46,640
+Enfim, os agentes sociais e os suportes materiais, que podem servir de uma pesquisa indivídua
+
+148
+00:18:46,640 --> 00:18:54,080
+para tumoristonte coletivo de trabalho, onde a ciência se organiza. Aí, a tecnologia, por isso,
+
+149
+00:18:54,080 --> 00:19:03,920
+a tecnociência é aquele âmbito dos suportes materiales, da ciência.
+
+150
+00:19:03,920 --> 00:19:13,600
+Portanto, o epicentro da questão ainda é a ciência. Então, a primeira noção de tecnociência,
+
+151
+00:19:13,600 --> 00:19:24,160
+o foco ainda é a ciência. Seu contexto social e coletivo é, sobretudo, seu agenciamento,
+
+152
+00:19:24,480 --> 00:19:33,840
+sua articulação com seus suportes materiais, ou seja, com a tecnologia.
+
+153
+00:19:35,360 --> 00:19:42,800
+Toda a parelagem tecnológica para fazer ciência. Desse um sítio de microscópio,
+
+154
+00:19:42,800 --> 00:19:44,400
+obtenha um acelerador de partículas.
+
+155
+00:19:48,160 --> 00:19:53,680
+Portanto, nesta perspectiva, escutem bem, olhem para mim, nesta perspectiva,
+
+156
+00:19:53,760 --> 00:20:05,840
+onde eu, o centro aí da ciência, o que temos, o que temos é, em última instância,
+
+157
+00:20:06,720 --> 00:20:13,440
+a ideia de que a tecnologia é, de algum modo, ciência aplicada.
+
+158
+00:20:16,320 --> 00:20:22,880
+E ao mesmo tempo, uma auxiliar material, material de artefactos para a ciência.
+
+159
+00:20:22,880 --> 00:20:28,480
+Ou seja, um objeto tecnológico, um aparelho tecnológico, aplica a ciência,
+
+160
+00:20:28,480 --> 00:20:32,320
+pega o discurso teórico da ciência, aplica, faz uma coisa concreta.
+
+161
+00:20:32,320 --> 00:20:37,200
+E ao mesmo tempo, essa coisa concreta é um aparelho que serve para verificar uma testa científica.
+
+162
+00:20:40,240 --> 00:20:47,760
+Guardem esta categoria. Tecnologia como ciência aplicada. Tecnologia como ciência aplicada.
+
+163
+00:20:47,760 --> 00:20:57,440
+Nesta primeira perspectiva, em este ponto que estamos saindo, tudo o que vamos falar aqui para frente,
+
+164
+00:20:57,440 --> 00:21:03,520
+os amigos e amigas, escutem bem, olhem para mim, é disto que estamos saindo, tudo o que
+
+165
+00:21:03,520 --> 00:21:09,600
+nós vamos falar aqui para frente e talvez em tudo o curso que se segue aí na nova país hoje,
+
+166
+00:21:10,560 --> 00:21:16,640
+é como a tecnologia deixa de ser ciência aplicada.
+
+167
+00:21:20,800 --> 00:21:23,680
+O que a tecnologia deixa de ser ciência aplicada.
+
+168
+00:21:25,600 --> 00:21:31,520
+O que nos leva a esta segunda problemática em torno da tecnologia,
+
+169
+00:21:32,480 --> 00:21:39,520
+onde o elemento negrálgico ou eixo de trabalho se desloca para o relacionamento
+
+170
+00:21:39,520 --> 00:21:45,680
+próprio tecnológico com outros saberes e com outros agentes sociais,
+
+171
+00:21:45,680 --> 00:21:50,080
+econômicos, políticos, estéticos, éticos.
+
+172
+00:21:50,080 --> 00:22:06,960
+Se a primeira relação de técnica e ciência era para compreender como a técnica auxilia
+
+173
+00:22:08,000 --> 00:22:15,120
+ou aplica a ciência, nesta segunda perspectiva, com a tecnologia estamos pensando
+
+174
+00:22:15,920 --> 00:22:21,360
+a pergunta sobre a técnica ou tecnologia, não mais sobre a ciência.
+
+175
+00:22:21,360 --> 00:22:27,680
+A ciência agora entra como uma auxiliar. A ciência auxilia a tecnologia para produzir
+
+176
+00:22:27,680 --> 00:22:36,080
+seus artefactos, seu mundo artefactual, seu mundo artefactual, seu plexo de objetos tecnológicos,
+
+177
+00:22:36,800 --> 00:22:40,320
+o universo dos objetos tecnológicos.
+
+178
+00:22:42,800 --> 00:22:47,920
+Então, é a tecnologia ou a técnica que deve ser pensada agora.
+
+179
+00:22:49,120 --> 00:22:53,520
+Antes era a ciência. Entramos agora a pensar a primeira tecnologia.
+
+180
+00:22:55,040 --> 00:23:00,560
+E ver então como é que a ciência ajuda, como é que a ciência ingresa nesse problema.
+
+181
+00:23:00,560 --> 00:23:03,600
+E não mais como é que a tecnologia ajuda a ciência.
+
+182
+00:23:04,320 --> 00:23:08,800
+Claro que estou sendo muito manicaísta, que são muito extremos, colocando todas as coisas
+
+183
+00:23:08,800 --> 00:23:12,560
+muito diferentes. As coisas são mais suaves, são mais imbricadas,
+
+184
+00:23:13,440 --> 00:23:17,520
+dos confusos no meio, a proporções maiores e maiores de combinação.
+
+185
+00:23:18,400 --> 00:23:21,280
+Mas estou fazendo este exagero proporcional pedológico
+
+186
+00:23:22,080 --> 00:23:27,600
+para que se entenda um movimento de minha apresentação e o suspeito e a disciplina
+
+187
+00:23:27,600 --> 00:23:33,040
+como um tipo. Saímos da ciência e da sua simpleidade para a tecnologia ou a técnica
+
+188
+00:23:33,040 --> 00:23:39,440
+e sua sanaridade. E vejam que eu estou utilizando aqui,
+
+189
+00:23:42,240 --> 00:23:46,800
+insisto nisso, em falar da técnica e tecnologia. Faça cinco minutos para você guarda nisso.
+
+190
+00:23:49,840 --> 00:23:52,160
+Vamos ter que pensar nessa técnica ou tecnologia.
+
+191
+00:23:53,440 --> 00:23:56,640
+Então, aqui quero me demorar um pouquinho,
+
+192
+00:23:57,600 --> 00:23:58,640
+vejam daí.
+
+193
+00:24:01,840 --> 00:24:05,040
+Eu falei daqui de um modo indistinto da técnica e da tecnologia.
+
+194
+00:24:06,640 --> 00:24:08,640
+Mas se fosse, é mais ou menos o mesmo.
+
+195
+00:24:13,280 --> 00:24:23,680
+Mas estas duas noções, estas duas categorias merecem uma análise muito mais demorada.
+
+196
+00:24:23,680 --> 00:24:33,120
+Não são sob hipótese alguma o mesmo. Embora, eu sei que a gente possa utilizar isso
+
+197
+00:24:33,120 --> 00:24:35,920
+distintamente a depender do contexto.
+
+198
+00:24:38,560 --> 00:24:42,960
+Eu vou mostrar isso agora. A depender do contexto a gente utiliza distintamente.
+
+199
+00:24:43,680 --> 00:24:48,400
+Mas para nós, aqui, estamos em sede analítica, em sede quase monográfica.
+
+200
+00:24:49,360 --> 00:24:57,280
+Seríamos impulsos. Não nos é permitido fazer essa confusão. Nós precisamos distinguir,
+
+201
+00:24:57,280 --> 00:25:00,640
+claramente isso aí. Só que a distinção não é fácil.
+
+202
+00:25:04,240 --> 00:25:14,800
+Porque há várias definições que tentam diferenciar o que seria técnica e tecnologia.
+
+203
+00:25:15,520 --> 00:25:22,080
+Mas se eu tomar duas, que são, em aparência, mais representativas.
+
+204
+00:25:24,080 --> 00:25:29,600
+Dessa pensão, dessa distinção entre técnica e tecnologia.
+
+205
+00:25:29,600 --> 00:25:30,560
+Tá bom?
+
+206
+00:25:30,560 --> 00:25:41,200
+Então, há uma distinção clássica que se faz entre técnica e tecnologia.
+
+207
+00:25:41,200 --> 00:25:45,920
+Porque que é isso que aparece aí para vocês?
+
+208
+00:25:45,920 --> 00:25:50,080
+Que é essa diferença?
+
+209
+00:25:50,080 --> 00:25:53,440
+Têm que qualquer conhecimento prático, gente.
+
+210
+00:25:53,440 --> 00:25:58,240
+Qualquer coisa que é humano, esta coisa que somos, esta coisa que somos.
+
+211
+00:25:58,240 --> 00:26:08,240
+Sabe fazer. São destrezas, conhecimentos práticos, alguns procedimentos operacionais.
+
+212
+00:26:08,240 --> 00:26:15,680
+Um saber fazer concreto. Um saber fazer concreto prático.
+
+213
+00:26:15,680 --> 00:26:21,360
+Fazer coisas. Arar a terra, fazer um tijolo para construir uma casa.
+
+214
+00:26:21,360 --> 00:26:25,760
+Cortar palha para fazer um telhado dessa casa.
+
+215
+00:26:25,760 --> 00:26:32,400
+Construir o barragem de pedras, uma ponte de pedras.
+
+216
+00:26:33,360 --> 00:26:39,840
+Ater paredes para um castelo. Como criar dado.
+
+217
+00:26:39,840 --> 00:26:43,840
+Como cuidar das culturas.
+
+218
+00:26:43,840 --> 00:26:51,440
+Com as quais nos alimentamos. Como plantar trigo, como plantar milho, como...
+
+219
+00:26:51,440 --> 00:26:53,760
+Enfim, conheci muitos práticos.
+
+220
+00:26:53,760 --> 00:26:56,560
+Implicam saberes. Implicam saberes.
+
+221
+00:26:56,560 --> 00:26:59,440
+Caram, tem saberes muito concretos.
+
+222
+00:26:59,520 --> 00:27:03,680
+Mas que são muito práticos, concretos e operacionais.
+
+223
+00:27:03,680 --> 00:27:11,680
+E o mais interessante disso, e que isso tem sempre como finalidade.
+
+224
+00:27:11,680 --> 00:27:13,920
+É entender objetivos.
+
+225
+00:27:13,920 --> 00:27:17,440
+Fazer uma coisa. Têm uma demanda preciso de algo.
+
+226
+00:27:17,440 --> 00:27:23,680
+Bom, eu tenho um conhecimento que me permite preciso de água para molhar a minha plantação da trigo.
+
+227
+00:27:23,680 --> 00:27:29,040
+Com algumas pedras, faz uma pequena barragem, água se espalha.
+
+228
+00:27:29,120 --> 00:27:33,680
+Molho a terra. Precisa de água, já fica frio.
+
+229
+00:27:33,680 --> 00:27:39,360
+Está frio. Isso faz uma lareira, um pequeno lar.
+
+230
+00:27:39,360 --> 00:27:43,760
+Faz uma lareira, esquento. Estava com frio, mas com frio.
+
+231
+00:27:43,760 --> 00:27:47,520
+Atingir o objetivo. Fazer uma coisa que precisa.
+
+232
+00:27:47,520 --> 00:27:49,840
+Isso tem um sate hoje.
+
+233
+00:27:49,840 --> 00:27:52,720
+Tem um sate hoje.
+
+234
+00:27:52,720 --> 00:27:57,520
+Qualquer hacker que sabe operar, que saiba operar corretamente.
+
+235
+00:27:57,600 --> 00:28:03,120
+Truques. Tanto eletrônicos, modificando a água quanto a software.
+
+236
+00:28:03,120 --> 00:28:06,320
+Um conhecimento que deve ser assim.
+
+237
+00:28:06,320 --> 00:28:12,640
+É muito prático aprender o que alguém encontrou, o que um tutorial será.
+
+238
+00:28:12,640 --> 00:28:18,640
+São técnicas que sempre têm desde a origem do humano, desde o que nós somos, até hoje.
+
+239
+00:28:18,640 --> 00:28:21,840
+Então, que é a tecnologia?
+
+240
+00:28:22,800 --> 00:28:28,560
+Clásicamente, nesta distinção que estou fazendo, você vai entender por tecnologia.
+
+241
+00:28:28,560 --> 00:28:31,440
+E isso para cá é fundamental, gente.
+
+242
+00:28:31,440 --> 00:28:34,960
+Eu não estou viajando. Isso para cá é fundamental.
+
+243
+00:28:34,960 --> 00:28:41,440
+Para entender o que é tecnologia.
+
+244
+00:28:41,440 --> 00:28:50,400
+A tecnologia é, quando há um saber concreto, prático, pensado e executado
+
+245
+00:28:50,400 --> 00:28:54,000
+para atingir o objetivo, para atingir o fim.
+
+246
+00:28:58,800 --> 00:29:05,200
+Esses conhecimentos se desdobram, se constituem, se aplicam.
+
+247
+00:29:05,200 --> 00:29:07,360
+A partir de que?
+
+248
+00:29:07,360 --> 00:29:10,640
+De ferramentas de conhecimento muito mais elaboradas.
+
+249
+00:29:10,640 --> 00:29:13,040
+Em particular, científicos.
+
+250
+00:29:13,360 --> 00:29:21,360
+E de sistemas de produção em muito larga escala.
+
+251
+00:29:21,360 --> 00:29:30,800
+Então, uma coisa é saber atrar a terra.
+
+252
+00:29:30,800 --> 00:29:38,240
+Outra coisa muito diferente é você fabricar o trator.
+
+253
+00:29:43,200 --> 00:29:48,960
+Uma técnica, outra tecnologia, quer dizer, aplica um conjunto vasto de conhecimentos,
+
+254
+00:29:48,960 --> 00:29:54,880
+os reúne o objeto, o trator, a diferença de um boi, tirado pela natureza,
+
+255
+00:29:54,880 --> 00:30:02,880
+reúne-o em um conjunto de saberes científicos e de práticas criminológicas.
+
+256
+00:30:02,880 --> 00:30:10,160
+E sua produção é sempre, se não massiva, geralmente é massiva, mas se não é massiva,
+
+257
+00:30:10,240 --> 00:30:14,080
+é pelo menos múltipla, não se faça um.
+
+258
+00:30:16,080 --> 00:30:19,440
+Então, a tecnologia é a ciência e a produção moderna.
+
+259
+00:30:19,440 --> 00:30:23,920
+Perdão, é a tecnologia e a produção tecnológica moderna.
+
+260
+00:30:23,920 --> 00:30:27,920
+Quando se junta com as ciências e com o sistema capitalista de produção,
+
+261
+00:30:27,920 --> 00:30:32,080
+para dizer o técnico, quando se junta com as ciências,
+
+262
+00:30:32,080 --> 00:30:36,640
+quando um saber tráfico se junta com as ciências, os saberes científicos
+
+263
+00:30:36,720 --> 00:30:40,880
+e o sistema de produção, o sistema de produção moderna,
+
+264
+00:30:40,880 --> 00:30:45,760
+são tudo capitalistas, produção em massa, ou em larga escada.
+
+265
+00:30:47,760 --> 00:30:51,360
+Isso é uma distinção canalónica, gente, isso é canalónica.
+
+266
+00:30:51,360 --> 00:31:01,520
+É habitual se utiliza permanentemente e eficaz, e explica muito.
+
+267
+00:31:02,400 --> 00:31:07,200
+Então, vocês me contam, mas dá para ver que explica muito.
+
+268
+00:31:07,200 --> 00:31:10,800
+Sempre houve técnicas, sempre houve técnicas,
+
+269
+00:31:10,800 --> 00:31:15,040
+até hoje, que são o sinal mono-objetivo, até hoje houve técnicas,
+
+270
+00:31:15,040 --> 00:31:19,440
+mas tem um certo tipo de técnica, ou seja, uma distância, um conhecimento,
+
+271
+00:31:19,440 --> 00:31:21,680
+para atingir um fim, para surgir um problema,
+
+272
+00:31:21,680 --> 00:31:25,680
+que implica também a reunião de conhecimentos muito mais elaborados
+
+273
+00:31:25,680 --> 00:31:28,960
+com várias camadas, em particular científico, com uma produção maior.
+
+274
+00:31:29,280 --> 00:31:33,520
+Isso é tecnologia. Entendeu? Muito bem.
+
+275
+00:31:35,280 --> 00:31:38,480
+Então, esse é o primeiro ponto.
+
+276
+00:31:40,800 --> 00:31:46,240
+Agora, eu vou utilizar aqui, vou apresentar para vocês,
+
+277
+00:31:46,240 --> 00:31:56,160
+e depois vou utilizar uma segunda distinção entre técnica e tecnologia,
+
+278
+00:31:56,960 --> 00:31:59,920
+que nos leva diretamente a Hyde. Então, eu não estou viajando.
+
+279
+00:32:01,440 --> 00:32:04,160
+Estou para chegar em Hyde. Por que eu me chamei?
+
+280
+00:32:07,360 --> 00:32:13,920
+Esta distinção que eu falei antes vai aparecer em Hyde, para ser superada, para ser superada.
+
+281
+00:32:15,120 --> 00:32:18,320
+Mas eu vou propor para vocês que também a gente mantenha
+
+282
+00:32:18,320 --> 00:32:22,000
+nos horizontes de análise uma segunda distinção.
+
+283
+00:32:26,720 --> 00:32:28,400
+Que eu vou resumir da seguinte maneira.
+
+284
+00:32:33,120 --> 00:32:35,120
+Eu vou entender por tecnologia,
+
+285
+00:32:37,280 --> 00:32:39,600
+de que me diga, antes falei primeiro de técnica,
+
+286
+00:32:41,600 --> 00:32:43,600
+agora estou falando primeiro de tecnologia,
+
+287
+00:32:45,040 --> 00:32:46,160
+e vocês vão entender por quê.
+
+288
+00:32:48,000 --> 00:32:50,240
+Eu vou entender por tecnologia
+
+289
+00:32:50,240 --> 00:32:54,720
+tudo aquilo que tem a ver
+
+290
+00:32:54,720 --> 00:32:58,400
+como eu escrevi aqui, eu acho que essa frase está correta,
+
+291
+00:32:58,400 --> 00:33:00,400
+ou o universo dos artefatos,
+
+292
+00:33:03,360 --> 00:33:12,880
+ou conjunto de elementos que configuram o mundo dos artefatos.
+
+293
+00:33:12,880 --> 00:33:31,520
+Eu entendo utilizar a palavra artefato quando é um artefato técnico ou tecnológico,
+
+294
+00:33:31,520 --> 00:33:38,000
+e objeto, com um objeto natural, uma pedra, um boi, uma nuvem, um ser humano.
+
+295
+00:33:40,000 --> 00:33:41,120
+Seriam objetos.
+
+296
+00:33:42,080 --> 00:33:44,480
+Entanto que são dados enquanto dados na natureza.
+
+297
+00:33:46,080 --> 00:33:51,280
+E, em geral, eu entendo por artefato aquilo que não é dado na natureza desse mundo.
+
+298
+00:33:52,480 --> 00:33:54,640
+Aquilo que não é dado na natureza desse mundo.
+
+299
+00:33:57,760 --> 00:34:04,880
+Um marado, um tractor, um computador, um forete saturno 5 para entrar à lua,
+
+300
+00:34:05,440 --> 00:34:08,800
+com os soldados da natureza. São artefatos com os índios.
+
+301
+00:34:08,800 --> 00:34:18,320
+Então, eu vou definir tecnologia como um universo dos artefatos.
+
+302
+00:34:20,800 --> 00:34:24,960
+Agora, com uma peculiaridade, com uma característica particular,
+
+303
+00:34:26,960 --> 00:34:33,920
+eu vou pensar que esse universo dos artefatos, artefatos como aquilo que não é produzido na natureza,
+
+304
+00:34:33,920 --> 00:34:38,880
+que não está dado enquanto dado, não é uma coisa dada desse modo na natureza.
+
+305
+00:34:38,880 --> 00:34:45,040
+Aquela na natureza que nos defronta, aquela com a qual nos encontramos, aquela que é dada como ela é,
+
+306
+00:34:45,040 --> 00:34:50,800
+como ela é, ponto. Bom, isso, um artefato não está dado desse modo na natureza,
+
+307
+00:34:52,320 --> 00:34:55,440
+num mundo no qual nos encontramos.
+
+308
+00:34:57,120 --> 00:35:03,120
+Eu vou pensar que esse artefato, da seguinte maneira,
+
+309
+00:35:04,880 --> 00:35:07,680
+a partir de todas as suas fases de existência,
+
+310
+00:35:13,440 --> 00:35:15,840
+o que quer dizer isso? Pense comigo.
+
+311
+00:35:17,120 --> 00:35:21,120
+Pense comigo. Vamos pensar junto, se a filosofia é juntos.
+
+312
+00:35:21,520 --> 00:35:36,320
+Um artefato, ou seja, algo que é produzido por esta coisa de missões, por este M que não soube.
+
+313
+00:35:38,320 --> 00:35:46,320
+Por isso, foi pelo menos quatro momentos, pelo menos quatro momentos das quatro fases.
+
+314
+00:35:47,120 --> 00:35:53,520
+Pelo menos quatro momentos. Quatro fases, quatro etapas.
+
+315
+00:35:59,520 --> 00:36:01,520
+Eu sou mais ou menos distinguido. Primeiro,
+
+316
+00:36:04,480 --> 00:36:09,040
+há uma primeira etapa que eu vou chamar de um momento social,
+
+317
+00:36:09,040 --> 00:36:20,240
+um momento social. O âmbito social, escute bem, o âmbito social reconhece que precisa alguma coisa.
+
+318
+00:36:22,960 --> 00:36:26,960
+Para, precisamos de um medicamento bacurado, cobrinho, precisamos de uma vacina.
+
+319
+00:36:28,960 --> 00:36:34,800
+Precisamos de tudo aqui. Precisamos de carros mais seguros. Precisamos de pra lua.
+
+320
+00:36:40,000 --> 00:36:44,800
+Então, o coletivo reconhece uma demanda, vou repetir,
+
+321
+00:36:44,800 --> 00:36:50,000
+o âmbito de convivência reconhece uma demanda, uma necessidade.
+
+322
+00:36:50,000 --> 00:36:57,840
+E não estou discutindo agora se essa demanda é genuína, se ela é legítima, se ela foi inventada,
+
+323
+00:36:57,840 --> 00:37:05,040
+pelos detentores do poder. Geralmente assim. Se por interesse econômico se inventa uma demanda,
+
+324
+00:37:05,040 --> 00:37:11,040
+se ela tem que trocar celular todos os anos, é uma grande parte que daria tudo em si mesmo.
+
+325
+00:37:11,040 --> 00:37:15,040
+Então, eu não estou entrando nisso. Não porque esteja mergando,
+
+326
+00:37:15,040 --> 00:37:19,040
+sempre que tu achas uma distra, será muito longo. Eu já dou tal coisa.
+
+327
+00:37:19,040 --> 00:37:27,040
+Então, vamos ficar apenas neste recorde. O âmbito social,
+
+328
+00:37:27,040 --> 00:37:29,040
+de algum modo, reconhece que precisa de algo.
+
+329
+00:37:31,040 --> 00:37:39,040
+Mais moradia, mais estradas, mais medicamentos, um certo tipo de vivenda, um certo tipo de...
+
+330
+00:37:43,040 --> 00:37:45,040
+Precisar de algo, sim.
+
+331
+00:37:47,040 --> 00:37:51,040
+Então, estamos isso do aspecto social do artefacto, do mundo do artefacto.
+
+332
+00:37:51,040 --> 00:37:57,040
+A sociedade reconhece que precisa de uma demanda.
+
+333
+00:37:57,040 --> 00:38:03,040
+Há um segundo momento que se segue a isso, que eu defino como um momento epistémico.
+
+334
+00:38:07,040 --> 00:38:13,040
+Ou seja, os saberes, os conhecimentos. Bom, há uma demanda, precisamos de alguma coisa,
+
+335
+00:38:13,040 --> 00:38:19,040
+precisamos de vacinas contra covid. Bom, vamos movilizar o conhecimento, os saberes.
+
+336
+00:38:21,040 --> 00:38:27,040
+Alguns operam para a bruxaria, os sabermos quem, outros para a ciência.
+
+337
+00:38:27,040 --> 00:38:31,040
+Mas, de algum modo, se movilizam os saberes.
+
+338
+00:38:37,040 --> 00:38:41,040
+Eu acho que esse é um momento epistémico, conhecimento, sabermos.
+
+339
+00:38:43,040 --> 00:38:47,040
+Aí, se começa a pensar como solucionar essa demanda.
+
+340
+00:38:47,040 --> 00:38:55,040
+Então, a sociedade cria uma demanda, precisa de alguma coisa, não importa se a germina não agona.
+
+341
+00:38:55,040 --> 00:38:57,040
+Então, seguem os problemas.
+
+342
+00:38:57,040 --> 00:39:05,040
+A sociedade cria uma demanda, os conhecimentos que temos a MAU, os conhecimentos disponibilizados, por exemplo.
+
+343
+00:39:05,040 --> 00:39:09,040
+Eu gostaria que a sociedade se visse como demanda teletransporte.
+
+344
+00:39:09,040 --> 00:39:17,040
+Eu gostaria de teletransportar da Europa aqui para a Curitiba por umas horas e depois voltar.
+
+345
+00:39:17,040 --> 00:39:19,040
+Mas, a ciência fracasou.
+
+346
+00:39:19,040 --> 00:39:23,040
+Nem será realmente inventar um teletransporte.
+
+347
+00:39:23,040 --> 00:39:25,040
+São inferdoáveis.
+
+348
+00:39:25,040 --> 00:39:27,040
+Então, vamos ter que utilizar o sistema online.
+
+349
+00:39:27,040 --> 00:39:35,040
+Não, porque os saberes que temos, os saberes que temos disponíveis, não conseguem fazer teletransportes.
+
+350
+00:39:35,040 --> 00:39:37,040
+Porque aí, fracasos ocupados.
+
+351
+00:39:39,040 --> 00:39:45,040
+Então, temos uma demanda, se mobilizam, conhecimentos, saberes para suprir.
+
+352
+00:39:45,040 --> 00:39:49,040
+Para criar alguma coisa, um artefacto para suprir essa demanda.
+
+353
+00:39:49,040 --> 00:39:55,040
+Temos todo o design, quando se projetam os artefactos.
+
+354
+00:39:55,040 --> 00:40:01,040
+Há um terceiro momento que é um momento econômico.
+
+355
+00:40:01,040 --> 00:40:08,040
+Produzir, fabricar de fato aquilo no qual os chineses são superlativos.
+
+356
+00:40:08,040 --> 00:40:10,040
+Fabricar, produzir.
+
+357
+00:40:10,040 --> 00:40:13,040
+Então, a sociedade mostra uma demanda, uma necessidade.
+
+358
+00:40:13,040 --> 00:40:18,040
+Os saberes são mobilizados para pensar como é possível concretamente fazer isso.
+
+359
+00:40:18,040 --> 00:40:20,040
+Então, podemos fazer isso.
+
+360
+00:40:20,040 --> 00:40:24,040
+Uma vez resolvido no termos de projeto, se fabrica.
+
+361
+00:40:24,040 --> 00:40:28,040
+Um momento econômico que hoje em dia atravessou pela produção capitalista.
+
+362
+00:40:28,040 --> 00:40:31,040
+Você entra aqui em categorias políticas.
+
+363
+00:40:31,040 --> 00:40:33,040
+A produção capitalista.
+
+364
+00:40:33,040 --> 00:40:39,040
+E é um quarto elemento.
+
+365
+00:40:39,040 --> 00:40:41,040
+Não fica muito chato.
+
+366
+00:40:41,040 --> 00:40:43,040
+É um quarto elemento.
+
+367
+00:40:43,040 --> 00:40:45,040
+O que eu chamo da dimensão coletiva?
+
+368
+00:40:45,040 --> 00:40:47,040
+Que é dimensão do uso.
+
+369
+00:40:47,040 --> 00:40:49,040
+Do uso.
+
+370
+00:40:49,040 --> 00:40:51,040
+Aplica de vidagem.
+
+371
+00:40:51,040 --> 00:40:53,040
+Fazer coisas.
+
+372
+00:40:53,040 --> 00:40:55,040
+E aí, minha gente.
+
+373
+00:40:55,040 --> 00:40:57,040
+O uso.
+
+374
+00:40:57,040 --> 00:40:59,040
+O uso do artefacto.
+
+375
+00:40:59,040 --> 00:41:01,040
+De algum modo.
+
+376
+00:41:01,040 --> 00:41:05,040
+Desconstrói tudo anterior.
+
+377
+00:41:05,040 --> 00:41:08,040
+Porque se usa do modelo, entender.
+
+378
+00:41:08,040 --> 00:41:13,040
+Os usos do artefacto tecnológico são infinitos.
+
+379
+00:41:13,040 --> 00:41:15,040
+É uma diáspora.
+
+380
+00:41:15,040 --> 00:41:17,040
+É uma disseminação.
+
+381
+00:41:17,040 --> 00:41:21,040
+Não existava mais este celular.
+
+382
+00:41:21,040 --> 00:41:25,040
+Foi pensado para mandar services.
+
+383
+00:41:25,040 --> 00:41:27,040
+Ou para ter WhatsApp.
+
+384
+00:41:27,040 --> 00:41:31,040
+Não é mais para falar para outras coisas.
+
+385
+00:41:31,040 --> 00:41:35,040
+Os usos que eu posso dar.
+
+386
+00:41:35,040 --> 00:41:37,040
+São infinitos.
+
+387
+00:41:37,040 --> 00:41:39,040
+Hoje ser marma.
+
+388
+00:41:39,040 --> 00:41:43,040
+Hoje ser um objeto estético.
+
+389
+00:41:43,040 --> 00:41:49,040
+Hoje ser um exemplo por uma aula pedagógica.
+
+390
+00:41:49,040 --> 00:41:51,040
+Uma ferramenta pedagógica.
+
+391
+00:41:51,040 --> 00:41:53,040
+Eu xingando um celular.
+
+392
+00:41:53,040 --> 00:41:55,040
+Porque estava destruindo.
+
+393
+00:41:55,040 --> 00:41:57,040
+Os jovens.
+
+394
+00:41:57,040 --> 00:41:59,040
+E enfim.
+
+395
+00:41:59,040 --> 00:42:03,040
+O uso de um artefacto infinito.
+
+396
+00:42:03,040 --> 00:42:07,040
+Um possível de calcular.
+
+397
+00:42:07,040 --> 00:42:09,040
+Uma pedagógica de vinte.
+
+398
+00:42:09,040 --> 00:42:11,040
+E lá.
+
+399
+00:42:11,040 --> 00:42:13,040
+Travestis pobres.
+
+400
+00:42:13,040 --> 00:42:15,040
+Robavam óleo velho.
+
+401
+00:42:15,040 --> 00:42:17,040
+Usado de motores de avião.
+
+402
+00:42:17,040 --> 00:42:19,040
+Pajato, que é um puro silicone.
+
+403
+00:42:19,040 --> 00:42:21,040
+Para retocar os seus circones.
+
+404
+00:42:21,040 --> 00:42:23,040
+Os seus proteger os seus circones.
+
+405
+00:42:23,040 --> 00:42:25,040
+Quando desenhou um óleo.
+
+406
+00:42:25,040 --> 00:42:27,040
+Lugrificante para motores de ajato.
+
+407
+00:42:27,040 --> 00:42:29,040
+Altamente silicone.
+
+408
+00:42:29,040 --> 00:42:31,040
+Porque um motor de 60 mil gírus.
+
+409
+00:42:31,040 --> 00:42:33,040
+Que.
+
+410
+00:42:33,040 --> 00:42:35,040
+Uma derivação social.
+
+411
+00:42:35,040 --> 00:42:37,040
+Muito particular.
+
+412
+00:42:37,040 --> 00:42:39,040
+Muito trágica.
+
+413
+00:42:39,040 --> 00:42:41,040
+Faria que as pessoas roubem esse óleo.
+
+414
+00:42:41,040 --> 00:42:43,040
+Para retocar em tanto de silicone.
+
+415
+00:42:45,040 --> 00:42:47,040
+Você não pode utilizar.
+
+416
+00:42:47,040 --> 00:42:49,040
+Sabe qual é o uso.
+
+417
+00:42:49,040 --> 00:42:51,040
+Então.
+
+418
+00:42:51,040 --> 00:42:53,040
+Temos uma renanda que é específica.
+
+419
+00:42:53,040 --> 00:42:55,040
+Temos um saber que se aplica.
+
+420
+00:42:55,040 --> 00:42:57,040
+Para satisfacer essa demanda.
+
+421
+00:42:57,040 --> 00:42:59,040
+Temos uma progressão concreta.
+
+422
+00:42:59,040 --> 00:43:01,040
+E temos um uso infinito.
+
+423
+00:43:01,040 --> 00:43:03,040
+Isso.
+
+424
+00:43:03,040 --> 00:43:05,040
+É o universo dos artefactos.
+
+425
+00:43:05,040 --> 00:43:07,040
+Isso é a tecnologia.
+
+426
+00:43:07,040 --> 00:43:09,040
+Isso é a tecnologia.
+
+427
+00:43:11,040 --> 00:43:13,040
+Vamos falar técnicamente.
+
+428
+00:43:15,040 --> 00:43:17,040
+Mas técnicamente.
+
+429
+00:43:21,040 --> 00:43:23,040
+Vou entender por tecnologia.
+
+430
+00:43:27,040 --> 00:43:29,040
+Tudo aquilo que implica.
+
+431
+00:43:29,040 --> 00:43:31,040
+O sistema de produção artefactual.
+
+432
+00:43:31,040 --> 00:43:33,040
+O sistema de produção artefactual.
+
+433
+00:43:33,040 --> 00:43:35,040
+O sistema de produção artefactual.
+
+434
+00:43:35,040 --> 00:43:37,040
+Desde a sociedade que reconhece uma demanda.
+
+435
+00:43:37,040 --> 00:43:39,040
+Desde a sociedade que reconhece uma demanda.
+
+436
+00:43:39,040 --> 00:43:41,040
+Os conhecimentos que utilizamos para ver como fazemos uma surpresa.
+
+437
+00:43:41,040 --> 00:43:43,040
+Os conhecimentos que utilizamos para ver como fazemos uma surpresa.
+
+438
+00:43:43,040 --> 00:43:45,040
+A fabricação concreta do artefacto.
+
+439
+00:43:45,040 --> 00:43:47,040
+E um uso seja qual for.
+
+440
+00:43:47,040 --> 00:43:49,040
+Agora.
+
+441
+00:43:49,040 --> 00:43:51,040
+Espera aí.
+
+442
+00:43:51,040 --> 00:43:53,040
+Espera aí.
+
+443
+00:43:53,040 --> 00:43:55,040
+Isso é tudo.
+
+444
+00:43:55,040 --> 00:43:57,040
+Isso é a totalidade.
+
+445
+00:43:57,040 --> 00:43:59,040
+Isso abarca a todos.
+
+446
+00:43:59,040 --> 00:44:01,040
+O que eu acabo de falar agora?
+
+447
+00:44:01,040 --> 00:44:03,040
+Um uso social.
+
+448
+00:44:03,040 --> 00:44:05,040
+Uma demanda.
+
+449
+00:44:05,040 --> 00:44:07,040
+Um uso dos saberes que utilizamos.
+
+450
+00:44:07,040 --> 00:44:09,040
+Um uso da economia.
+
+451
+00:44:09,040 --> 00:44:11,040
+Um uso da produção.
+
+452
+00:44:11,040 --> 00:44:13,040
+E depois do uso coletivo infinito.
+
+453
+00:44:13,040 --> 00:44:15,040
+Tudo.
+
+454
+00:44:15,040 --> 00:44:17,040
+Então que sobra para a técnica?
+
+455
+00:44:17,040 --> 00:44:19,040
+Sociedade.
+
+456
+00:44:19,040 --> 00:44:21,040
+Conhecimento.
+
+457
+00:44:21,040 --> 00:44:23,040
+Produção econômica.
+
+458
+00:44:23,040 --> 00:44:25,040
+Um uso individual.
+
+459
+00:44:25,040 --> 00:44:27,040
+O que fica fora disso?
+
+460
+00:44:27,040 --> 00:44:29,040
+Estamos acompanhando.
+
+461
+00:44:29,040 --> 00:44:31,040
+O que fica fora disso?
+
+462
+00:44:31,040 --> 00:44:33,040
+Por que eu vou falar da técnica então?
+
+463
+00:44:33,040 --> 00:44:35,040
+Aparentemente tudo é tecnologia.
+
+464
+00:44:35,040 --> 00:44:37,040
+Tudo é tecnológico.
+
+465
+00:44:37,040 --> 00:44:39,040
+Que sobra ainda.
+
+466
+00:44:39,040 --> 00:44:41,040
+Para eu falar da técnica.
+
+467
+00:44:41,040 --> 00:44:43,040
+Bom.
+
+468
+00:44:43,040 --> 00:44:45,040
+E aqui nos aproximamos a hardware.
+
+469
+00:44:45,040 --> 00:44:47,040
+E que este conjunto.
+
+470
+00:44:47,040 --> 00:44:49,040
+Este conjunto.
+
+471
+00:44:49,040 --> 00:44:51,040
+De procedimentos tecnológicos.
+
+472
+00:44:51,040 --> 00:44:53,040
+Ou seja.
+
+473
+00:44:53,040 --> 00:44:55,040
+A necessidade de uma coisa.
+
+474
+00:44:55,040 --> 00:44:57,040
+A análise teórica.
+
+475
+00:44:57,040 --> 00:44:59,040
+E os estudos.
+
+476
+00:44:59,040 --> 00:45:01,040
+Para suprir essa coisa.
+
+477
+00:45:01,040 --> 00:45:03,040
+A produção real.
+
+478
+00:45:03,040 --> 00:45:05,040
+O uso posterior.
+
+479
+00:45:05,040 --> 00:45:07,040
+Cria uma certa ideia de mundo.
+
+480
+00:45:07,040 --> 00:45:09,040
+Cria uma certa compreensão da realidade.
+
+481
+00:45:09,040 --> 00:45:11,040
+A nossa visão de mundo.
+
+482
+00:45:11,040 --> 00:45:13,040
+Gente.
+
+483
+00:45:13,040 --> 00:45:15,040
+Não é bramânica.
+
+484
+00:45:15,040 --> 00:45:17,040
+Não é chamânica.
+
+485
+00:45:17,040 --> 00:45:21,040
+Embora possa ter uma seita.
+
+486
+00:45:21,040 --> 00:45:25,040
+Que vai para uma tribu da Austrália.
+
+487
+00:45:25,040 --> 00:45:29,040
+De povos originários australianos.
+
+488
+00:45:29,040 --> 00:45:31,040
+Para poder verificar.
+
+489
+00:45:31,040 --> 00:45:33,040
+E fazer um rito ancestral.
+
+490
+00:45:33,040 --> 00:45:35,040
+Uma política.
+
+491
+00:45:35,040 --> 00:45:37,040
+Mas de ardeó.
+
+492
+00:45:37,040 --> 00:45:39,040
+Ficou sabendo pela internet.
+
+493
+00:45:39,040 --> 00:45:41,040
+Por exemplo.
+
+494
+00:45:41,040 --> 00:45:43,040
+Ou pelos livros.
+
+495
+00:45:43,040 --> 00:45:45,040
+Se for mais romântico.
+
+496
+00:45:45,040 --> 00:45:47,040
+Que também não.
+
+497
+00:45:47,040 --> 00:45:49,040
+Não há livros naturais.
+
+498
+00:45:49,040 --> 00:45:51,040
+Não há escrita.
+
+499
+00:45:51,040 --> 00:45:53,040
+Se tem mais livros como nós.
+
+500
+00:45:53,040 --> 00:45:55,040
+Então.
+
+501
+00:45:55,040 --> 00:45:57,040
+Então.
+
+502
+00:45:57,040 --> 00:45:59,040
+A nossa compreensão.
+
+503
+00:45:59,040 --> 00:46:01,040
+Guardem esta palavra.
+
+504
+00:46:01,040 --> 00:46:03,040
+Guardem esta categoria.
+
+505
+00:46:03,040 --> 00:46:05,040
+Compremção do mundo.
+
+506
+00:46:05,040 --> 00:46:07,040
+A ideia da realidade.
+
+507
+00:46:07,040 --> 00:46:09,040
+A ideia da realidade.
+
+508
+00:46:09,040 --> 00:46:11,040
+É definida.
+
+509
+00:46:11,040 --> 00:46:13,040
+É definida.
+
+510
+00:46:13,040 --> 00:46:15,040
+Pela predominância.
+
+511
+00:46:15,040 --> 00:46:17,040
+Total.
+
+512
+00:46:17,040 --> 00:46:19,040
+Do universo tecnológico.
+
+513
+00:46:19,040 --> 00:46:21,040
+Que eu acabo de definir.
+
+514
+00:46:21,040 --> 00:46:23,040
+Esta compreensão do mundo.
+
+515
+00:46:23,040 --> 00:46:25,040
+É o que eu vou definir da técnica.
+
+516
+00:46:25,040 --> 00:46:27,040
+Uma técnica.
+
+517
+00:46:27,040 --> 00:46:29,040
+Olhem para mim.
+
+518
+00:46:29,040 --> 00:46:31,040
+Por mais terrível que isso seja.
+
+519
+00:46:31,040 --> 00:46:33,040
+Por mais assinistro que isso seja.
+
+520
+00:46:33,040 --> 00:46:35,040
+Olhem para mim.
+
+521
+00:46:35,040 --> 00:46:37,040
+Escutamente.
+
+522
+00:46:37,040 --> 00:46:39,040
+A técnica é.
+
+523
+00:46:39,040 --> 00:46:41,040
+O sentido.
+
+524
+00:46:41,040 --> 00:46:43,040
+Que não estemos de nosso mundo.
+
+525
+00:46:45,040 --> 00:46:47,040
+Vai ficar mais claro com Jair.
+
+526
+00:46:47,040 --> 00:46:49,040
+Aqui já estamos quase em Jair.
+
+527
+00:46:49,040 --> 00:46:51,040
+Guardem isto.
+
+528
+00:46:51,040 --> 00:46:53,040
+Na prática.
+
+529
+00:46:53,040 --> 00:46:55,040
+Na realidade.
+
+530
+00:46:55,040 --> 00:46:57,040
+Somente temos.
+
+531
+00:46:57,040 --> 00:46:59,040
+Somente temos.
+
+532
+00:46:59,040 --> 00:47:01,040
+Artes fatos tecnológicos.
+
+533
+00:47:01,040 --> 00:47:03,040
+Que lá.
+
+534
+00:47:03,040 --> 00:47:05,040
+Não só um artefato útil e estético.
+
+535
+00:47:05,040 --> 00:47:07,040
+Ou a minha batata doce da sorte.
+
+536
+00:47:07,040 --> 00:47:09,040
+Está aqui.
+
+537
+00:47:09,040 --> 00:47:11,040
+É um objeto natural.
+
+538
+00:47:11,040 --> 00:47:13,040
+É um objeto natural.
+
+539
+00:47:13,040 --> 00:47:15,040
+Minha batata doce da sorte.
+
+540
+00:47:15,040 --> 00:47:17,040
+Um objeto natural.
+
+541
+00:47:17,040 --> 00:47:19,040
+Mas a xícara não.
+
+542
+00:47:19,040 --> 00:47:21,040
+É um objeto útil para ver algo neste caso.
+
+543
+00:47:23,040 --> 00:47:25,040
+E estético.
+
+544
+00:47:25,040 --> 00:47:27,040
+É um desenho simpático.
+
+545
+00:47:29,040 --> 00:47:31,040
+Tudo está aqui.
+
+546
+00:47:31,040 --> 00:47:33,040
+Mas nada.
+
+547
+00:47:33,040 --> 00:47:35,040
+Tudo está na tecnologia.
+
+548
+00:47:35,040 --> 00:47:37,040
+Ou é natural ou tecnológico.
+
+549
+00:47:37,040 --> 00:47:39,040
+A compreensão do mundo que temos.
+
+550
+00:47:39,040 --> 00:47:41,040
+Derivado.
+
+551
+00:47:41,040 --> 00:47:43,040
+Da predominância.
+
+552
+00:47:43,040 --> 00:47:45,040
+Da predominância do tecnológico.
+
+553
+00:47:45,040 --> 00:47:47,040
+O que temos por técnica.
+
+554
+00:47:47,040 --> 00:47:49,040
+Entendemos o mundo.
+
+555
+00:47:49,040 --> 00:47:51,040
+Pelos olhos. Pelos prismos.
+
+556
+00:47:51,040 --> 00:47:53,040
+Pelos óculos da tecnologia.
+
+557
+00:47:53,040 --> 00:47:55,040
+E negar isto é impossível.
+
+558
+00:47:55,040 --> 00:47:57,040
+Felizmente.
+
+559
+00:47:57,040 --> 00:47:59,040
+Não tem como negar isto.
+
+560
+00:47:59,040 --> 00:48:01,040
+A nossa compreensão do mundo.
+
+561
+00:48:01,040 --> 00:48:03,040
+É que a foto linda da natureza.
+
+562
+00:48:03,040 --> 00:48:05,040
+É um artefato técnico.
+
+563
+00:48:05,040 --> 00:48:07,040
+Essa foto da natureza.
+
+564
+00:48:07,040 --> 00:48:09,040
+Digo mais.
+
+565
+00:48:09,040 --> 00:48:11,040
+E visitar uma cachoeira.
+
+566
+00:48:11,040 --> 00:48:13,040
+Como se isto fosse a natureza.
+
+567
+00:48:13,040 --> 00:48:15,040
+Implica.
+
+568
+00:48:15,040 --> 00:48:17,040
+Toda uma indústria da divulgação.
+
+569
+00:48:17,040 --> 00:48:19,040
+Toda uma indústria turística.
+
+570
+00:48:19,040 --> 00:48:21,040
+Toda uma indústria de transporte.
+
+571
+00:48:21,040 --> 00:48:23,040
+E a natureza é literalmente um artefato tecnológico.
+
+572
+00:48:23,040 --> 00:48:25,040
+Inventado pelo homem.
+
+573
+00:48:25,040 --> 00:48:27,040
+Por que?
+
+574
+00:48:27,040 --> 00:48:29,040
+Porque a compreensão que temos.
+
+575
+00:48:29,040 --> 00:48:31,040
+É um artefato tecnológico.
+
+576
+00:48:35,040 --> 00:48:37,040
+Isto já nos deixa muito procebo.
+
+577
+00:48:39,040 --> 00:48:41,040
+Então temos uma primeira distinção.
+
+578
+00:48:41,040 --> 00:48:43,040
+Vamos rapidamente para retomar.
+
+579
+00:48:43,040 --> 00:48:45,040
+Saímos primeiros lá.
+
+580
+00:48:45,040 --> 00:48:47,040
+Saímos da ciência.
+
+581
+00:48:49,040 --> 00:48:51,040
+Saímos da ciência.
+
+582
+00:48:51,040 --> 00:48:53,040
+Para a tecnologia.
+
+583
+00:48:53,040 --> 00:48:55,040
+Começamos a pensar mais a ciência.
+
+584
+00:48:55,040 --> 00:48:57,040
+Diferenciamos técnica e tecnologia.
+
+585
+00:48:57,040 --> 00:48:59,040
+Para saber prático, concreto.
+
+586
+00:48:59,040 --> 00:49:01,040
+Simples.
+
+587
+00:49:01,040 --> 00:49:03,040
+E tecnologia, um saber complexo, elaborado, científico.
+
+588
+00:49:03,040 --> 00:49:05,040
+E a produção em massa.
+
+589
+00:49:05,040 --> 00:49:07,040
+Agora temos uma terceira definição.
+
+590
+00:49:07,040 --> 00:49:09,040
+Tecnologia como o universo dos artefatos.
+
+591
+00:49:11,040 --> 00:49:13,040
+A demanda.
+
+592
+00:49:13,040 --> 00:49:15,040
+O pensamento para solucionar a demanda.
+
+593
+00:49:15,040 --> 00:49:17,040
+A fabricação e uso.
+
+594
+00:49:17,040 --> 00:49:19,040
+E por técnica entendemos o tipo de mundo
+
+595
+00:49:19,040 --> 00:49:21,040
+que nos compreendemos.
+
+596
+00:49:21,040 --> 00:49:23,040
+Como nos compreendemos nós mesmos.
+
+597
+00:49:23,040 --> 00:49:25,040
+Como compreendemos os afetos.
+
+598
+00:49:25,040 --> 00:49:27,040
+Como nos compreendemos essas relações.
+
+599
+00:49:27,040 --> 00:49:29,040
+Vocês estão achando
+
+600
+00:49:29,040 --> 00:49:31,040
+que as relações do homem moderno, do homem medieval
+
+601
+00:49:31,040 --> 00:49:33,040
+eram similares a nossas.
+
+602
+00:49:33,040 --> 00:49:35,040
+Que a ideia de ser humano,
+
+603
+00:49:35,040 --> 00:49:37,040
+do homem moderno era a mesma que a nossa.
+
+604
+00:49:37,040 --> 00:49:39,040
+Que a ideia de amizagem.
+
+605
+00:49:39,040 --> 00:49:41,040
+Que a ideia de amor.
+
+606
+00:49:41,040 --> 00:49:43,040
+É a mesma ideia que a nossa.
+
+607
+00:49:45,040 --> 00:49:47,040
+Não, gente.
+
+608
+00:49:47,040 --> 00:49:49,040
+Radicalmente não.
+
+609
+00:49:51,040 --> 00:49:53,040
+Porque nossa compreensão de mundo e de outra.
+
+610
+00:49:55,040 --> 00:49:57,040
+Samos esta compreensão de mundo.
+
+611
+00:49:57,040 --> 00:49:59,040
+Contemporânea, não só de técnica.
+
+612
+00:49:59,040 --> 00:50:01,040
+Tecnologia é um mundo dos artefatos.
+
+613
+00:50:01,040 --> 00:50:03,040
+A presença, maciça dos artefatos.
+
+614
+00:50:03,040 --> 00:50:05,040
+Criou uma compreensão técnica do mundo.
+
+615
+00:50:05,040 --> 00:50:07,040
+Isso nos deixa
+
+616
+00:50:07,040 --> 00:50:09,040
+perto de hardware.
+
+617
+00:50:11,040 --> 00:50:13,040
+Muito bem.
+
+618
+00:50:15,040 --> 00:50:17,040
+Isso aqui é um slide.
+
+619
+00:50:17,040 --> 00:50:19,040
+Na verdade.
+
+620
+00:50:19,040 --> 00:50:21,040
+Porque me interessa o seguinte.
+
+621
+00:50:21,040 --> 00:50:23,040
+Eu estou mostrando aqui que vou passar rapidamente por aqui.
+
+622
+00:50:23,040 --> 00:50:25,040
+Você vai ficar muito cheio.
+
+623
+00:50:27,040 --> 00:50:29,040
+Então, digo.
+
+624
+00:50:29,040 --> 00:50:31,040
+Esta distinção de técnica e tecnologia.
+
+625
+00:50:31,040 --> 00:50:33,040
+Esta preeminência.
+
+626
+00:50:33,040 --> 00:50:35,040
+Da questão tecnológica e técnica.
+
+627
+00:50:35,040 --> 00:50:37,040
+Por cima.
+
+628
+00:50:37,040 --> 00:50:39,040
+Vou falar propositalmente a palavra por cima.
+
+629
+00:50:41,040 --> 00:50:43,040
+Da ciência.
+
+630
+00:50:43,040 --> 00:50:45,040
+Cluida.
+
+631
+00:50:45,040 --> 00:50:47,040
+Porque me dizem bem, ciência.
+
+632
+00:50:47,040 --> 00:50:49,040
+Polícia.
+
+633
+00:50:49,040 --> 00:50:51,040
+Esté.
+
+634
+00:50:51,040 --> 00:50:53,040
+iko
+
+635
+00:50:53,040 --> 00:50:55,040
+ida.
+
+636
+00:50:55,040 --> 00:50:57,040
+Como o céu.
+
+637
+00:50:57,040 --> 00:50:59,040
+Vou falar sobre isso.
+
+638
+00:50:59,040 --> 00:51:01,040
+Logo.
+
+639
+00:51:01,040 --> 00:51:03,060
+Estou felART.
+
+640
+00:51:03,060 --> 00:51:05,060
+MANTIING.
+
+641
+00:51:05,060 --> 00:51:07,040
+Mais.
+
+642
+00:51:11,040 --> 00:51:13,040
+A müsité.
+
+643
+00:51:13,040 --> 00:51:17,040
+Elisabeth
+
+644
+00:51:17,040 --> 00:51:19,040
+Carno.
+
+645
+00:51:19,040 --> 00:51:24,040
+E se desloca para uma filosofia da técnica grandes problemas em trás.
+
+646
+00:51:24,040 --> 00:51:27,040
+Se desloca para uma filosofia da técnica grandes problemas em trás.
+
+647
+00:51:27,040 --> 00:51:29,040
+A filosofia da técnica deve ter 150 anos,
+
+648
+00:51:29,040 --> 00:51:31,040
+150 por cento, 150 anos.
+
+649
+00:51:31,040 --> 00:51:32,040
+É muito novo.
+
+650
+00:51:32,040 --> 00:51:33,040
+Passa por aqui muito rápido.
+
+651
+00:51:33,040 --> 00:51:35,040
+Eu não quero que me moleste a muita.
+
+652
+00:51:35,040 --> 00:51:37,040
+E já tem vários momentos.
+
+653
+00:51:37,040 --> 00:51:38,040
+Momentos epistemológicos,
+
+654
+00:51:38,040 --> 00:51:43,040
+quando se discutia a relação entre técnica e ciência.
+
+655
+00:51:43,040 --> 00:51:48,040
+Um momento ontológico, histórico, civilizatório.
+
+656
+00:51:48,040 --> 00:51:50,040
+Um momento político e ético.
+
+657
+00:51:50,040 --> 00:51:52,040
+E nossa contemporaneira de hoje,
+
+658
+00:51:52,040 --> 00:51:56,040
+que é o que se chama de reunião de tudo anterior,
+
+659
+00:51:56,040 --> 00:52:00,040
+que tem um conjunto de problemas para ser pensados.
+
+660
+00:52:02,040 --> 00:52:05,040
+Eu quero que, disto aqui,
+
+661
+00:52:05,040 --> 00:52:09,040
+nós guardemos fortemente este segundo momento,
+
+662
+00:52:09,040 --> 00:52:13,040
+um momento ontológico, histórico, civilizatório.
+
+663
+00:52:13,040 --> 00:52:16,040
+Porque até agora,
+
+664
+00:52:16,040 --> 00:52:20,040
+eu tentei localizar onde surge a reflexão de Heidegger
+
+665
+00:52:20,040 --> 00:52:22,040
+em termos conceituais.
+
+666
+00:52:22,040 --> 00:52:28,040
+Eu tentei localizar em termos conceituais
+
+667
+00:52:28,040 --> 00:52:32,040
+onde surge a reflexão de Heidegger.
+
+668
+00:52:32,040 --> 00:52:35,040
+Agora estou localizando aqui Heidegger em termos históricos.
+
+669
+00:52:35,040 --> 00:52:37,040
+Temos a história da filosofia.
+
+670
+00:52:37,040 --> 00:52:41,040
+Em termos, a história da filosofia.
+
+671
+00:52:41,040 --> 00:52:46,040
+E vou colocar na história da filosofia, da tecnologia e da técnica
+
+672
+00:52:46,040 --> 00:52:48,040
+Heidegger como este segundo momento,
+
+673
+00:52:48,040 --> 00:52:52,040
+um momento ontológico e histórico civilizatório.
+
+674
+00:52:56,040 --> 00:52:59,040
+Que vale desde o final da Primeira Guerra Mundial
+
+675
+00:52:59,040 --> 00:53:02,040
+até o final da Segunda Guerra Mundial.
+
+676
+00:53:02,040 --> 00:53:06,040
+Sobretudo na Alemanha, mas não apenas,
+
+677
+00:53:06,040 --> 00:53:09,040
+tem muito uma França na Espanha.
+
+678
+00:53:09,040 --> 00:53:12,040
+Primeiro grande livro sobre a técnica,
+
+679
+00:53:12,040 --> 00:53:15,040
+neste sentido na Espanha, no Féia Zé.
+
+680
+00:53:22,040 --> 00:53:24,040
+Um momento muito particular.
+
+681
+00:53:24,040 --> 00:53:26,040
+A primeira reflexão sobre a técnica,
+
+682
+00:53:26,040 --> 00:53:29,040
+a Escola de França, uma outra Escola de França anterior,
+
+683
+00:53:29,040 --> 00:53:32,040
+a Escola de França fundador de Orcaida.
+
+684
+00:53:32,040 --> 00:53:34,040
+A Escola de França dos Engenheiros pensava
+
+685
+00:53:35,040 --> 00:53:40,040
+Agora, depois do tremendo evento da Primeira Guerra Mundial,
+
+686
+00:53:40,040 --> 00:53:45,040
+sua inteligência europeia começa a pensar em outros termos.
+
+687
+00:53:45,040 --> 00:53:48,040
+A técnica e a tecnologia já não é mais
+
+688
+00:53:48,040 --> 00:53:52,040
+apenas um problema de fazer,
+
+689
+00:53:52,040 --> 00:53:54,040
+um problema de conhecimento.
+
+690
+00:53:58,040 --> 00:54:01,040
+É um problema da história da civilização,
+
+691
+00:54:01,040 --> 00:54:03,040
+portanto ontológico.
+
+692
+00:54:03,040 --> 00:54:06,040
+Devemos saber, devemos pesquisar,
+
+693
+00:54:06,040 --> 00:54:11,040
+devemos entender qual é a natureza da técnica.
+
+694
+00:54:11,040 --> 00:54:14,040
+Por repetir, neste segundo momento,
+
+695
+00:54:14,040 --> 00:54:17,040
+devemos tentar compreender filosóficamente
+
+696
+00:54:17,040 --> 00:54:21,040
+qual é a natureza, qual é a essência da técnica.
+
+697
+00:54:21,040 --> 00:54:23,040
+Por que uma coisa tecnológica, técnica
+
+698
+00:54:23,040 --> 00:54:25,040
+e outra é técnica e artística?
+
+699
+00:54:25,040 --> 00:54:26,040
+Qual é a diferença?
+
+700
+00:54:26,040 --> 00:54:28,040
+Por que uma coisa é ciência e outra técnica?
+
+701
+00:54:28,040 --> 00:54:29,040
+Qual é a essência?
+
+702
+00:54:29,040 --> 00:54:31,040
+Então, qual é a natureza?
+
+703
+00:54:31,040 --> 00:54:35,040
+Uma ontologia, uma pergunta pela natureza da tecnologia.
+
+704
+00:54:35,040 --> 00:54:41,040
+Por que ela se tornou um evento histórico civilizador?
+
+705
+00:54:41,040 --> 00:54:45,040
+Quer dizer, a técnica é um momento da história do humano.
+
+706
+00:54:45,040 --> 00:54:49,040
+A técnica é um momento da história do humano.
+
+707
+00:54:49,040 --> 00:54:53,040
+Como foi a cristianidade, como foi o capitalismo,
+
+708
+00:54:53,040 --> 00:54:56,040
+como foi o mercantilismo do capitalismo,
+
+709
+00:54:56,040 --> 00:55:00,040
+como foi a razão grega, como foi a política romana.
+
+710
+00:55:00,040 --> 00:55:03,040
+É um momento da história do humano.
+
+711
+00:55:03,040 --> 00:55:05,040
+Então, temos que entender essa natureza.
+
+712
+00:55:05,040 --> 00:55:08,040
+Não parece pensadores do segundo momento,
+
+713
+00:55:08,040 --> 00:55:10,040
+momento ontológico, histórico civilizador.
+
+714
+00:55:10,040 --> 00:55:12,040
+Não se trata de, vamos ver,
+
+715
+00:55:12,040 --> 00:55:14,040
+como a tecnologia se junta com a essência,
+
+716
+00:55:14,040 --> 00:55:16,040
+não, estamos falando de um troço
+
+717
+00:55:16,040 --> 00:55:19,040
+que nos permite entender um mundo de um modo.
+
+718
+00:55:19,040 --> 00:55:22,040
+Temos uma cosmos, uma missão grega,
+
+719
+00:55:22,040 --> 00:55:25,040
+uma romana, uma cristã, uma moderna
+
+720
+00:55:25,040 --> 00:55:27,040
+e temos uma tecnológica, técnica.
+
+721
+00:55:27,040 --> 00:55:30,040
+Como compreendemos um mundo de um problema histórico civilizatorio?
+
+722
+00:55:30,040 --> 00:55:33,040
+Não tem nada a ver com fazer coisas.
+
+723
+00:55:33,040 --> 00:55:37,040
+Esta é a grande reflexão de Heidegger se encontra.
+
+724
+00:55:37,040 --> 00:55:39,040
+Entendido?
+
+725
+00:55:39,040 --> 00:55:43,040
+Eu conheci estes pensadores,
+
+726
+00:55:43,040 --> 00:55:45,040
+que vão pensar que as questões são ontológicas,
+
+727
+00:55:45,040 --> 00:55:46,040
+aqui.
+
+728
+00:55:46,040 --> 00:55:49,040
+Você já falou de Junger, Spengler, Heidegger.
+
+729
+00:55:49,040 --> 00:55:53,040
+Poderia apresentar Taziga, Elul, Moonform,
+
+730
+00:55:54,040 --> 00:55:56,040
+O que eles entendem, galera?
+
+731
+00:55:56,040 --> 00:55:58,040
+Eles entendem que não estamos mais perante
+
+732
+00:55:58,040 --> 00:56:00,040
+de fazer, de construir, que simpático.
+
+733
+00:56:00,040 --> 00:56:02,040
+Tem um mouse aqui, olha que linda no mouse.
+
+734
+00:56:02,040 --> 00:56:04,040
+Não enchem.
+
+735
+00:56:04,040 --> 00:56:07,040
+É um modo de entender o mundo como foi a razão grega,
+
+736
+00:56:07,040 --> 00:56:10,040
+como foi a Yuri, o direito romano,
+
+737
+00:56:10,040 --> 00:56:12,040
+como foi a feia moderna cristã.
+
+738
+00:56:12,040 --> 00:56:14,040
+É um modo de entender a realidade.
+
+739
+00:56:14,040 --> 00:56:18,040
+Esses caras sacam, dramaticamente,
+
+740
+00:56:19,040 --> 00:56:22,040
+de um modo trágico,
+
+741
+00:56:22,040 --> 00:56:24,040
+a partir da Primeira Guerra Mundial,
+
+742
+00:56:24,040 --> 00:56:28,040
+e os malvenhos sedentos crescem e depois.
+
+743
+00:56:28,040 --> 00:56:31,040
+Eles entendem, escutem que louco,
+
+744
+00:56:31,040 --> 00:56:33,040
+eles entendem
+
+745
+00:56:37,040 --> 00:56:40,040
+que muito mais que um simples fazer.
+
+746
+00:56:44,040 --> 00:56:46,040
+E muito mais que um simples fazer.
+
+747
+00:56:48,040 --> 00:56:50,040
+Se trata
+
+748
+00:56:52,040 --> 00:56:54,040
+de um modo de entender um mundo
+
+749
+00:56:57,040 --> 00:57:00,040
+que se constrói, se expressa, aparece,
+
+750
+00:57:00,040 --> 00:57:02,040
+de um modo concreto,
+
+751
+00:57:02,040 --> 00:57:04,040
+de um universo todo tecnológico.
+
+752
+00:57:08,040 --> 00:57:10,040
+É aqui que se localiza
+
+753
+00:57:11,040 --> 00:57:13,040
+o pensamento heideggeriano.
+
+754
+00:57:13,040 --> 00:57:15,040
+Talvez um mais de representativo,
+
+755
+00:57:15,040 --> 00:57:17,040
+talvez um mais radical,
+
+756
+00:57:17,040 --> 00:57:19,040
+um mais forte, um mais potente,
+
+757
+00:57:19,040 --> 00:57:21,040
+talvez um mais potente
+
+758
+00:57:21,040 --> 00:57:23,040
+desta perspectiva.
+
+759
+00:57:23,040 --> 00:57:25,040
+Emboragem aqui,
+
+760
+00:57:25,040 --> 00:57:27,040
+pensamos que estou citando que são monumentais,
+
+761
+00:57:27,040 --> 00:57:29,040
+tá?
+
+762
+00:57:29,040 --> 00:57:31,040
+Surtout Junger,
+
+763
+00:57:31,040 --> 00:57:33,040
+mas também Spengler,
+
+764
+00:57:33,040 --> 00:57:35,040
+os que não citei,
+
+765
+00:57:35,040 --> 00:57:37,040
+os que faliam passando.
+
+766
+00:57:37,040 --> 00:57:39,040
+É Junger.
+
+767
+00:57:39,040 --> 00:57:41,040
+É Junger.
+
+768
+00:57:45,040 --> 00:57:47,040
+E portanto, estes caras entendem que
+
+769
+00:57:47,040 --> 00:57:49,040
+perguntar pela técnica,
+
+770
+00:57:49,040 --> 00:57:51,040
+não ia perguntar pela ciência,
+
+771
+00:57:51,040 --> 00:57:53,040
+não ia perguntar por um fazer, saber fazer.
+
+772
+00:57:53,040 --> 00:57:55,040
+Isso também, escutem-me,
+
+773
+00:57:55,040 --> 00:57:57,040
+escutem-me, isso também
+
+774
+00:57:57,040 --> 00:57:59,040
+faz muito mais que isso.
+
+775
+00:58:01,040 --> 00:58:03,040
+Este jogo
+
+776
+00:58:03,040 --> 00:58:05,040
+nos sumou de compreender a realidade
+
+777
+00:58:05,040 --> 00:58:07,040
+e eu desafio vocês
+
+778
+00:58:07,040 --> 00:58:09,040
+para que vocês mostrem
+
+779
+00:58:09,040 --> 00:58:11,040
+para este conjunto de autores
+
+780
+00:58:11,040 --> 00:58:13,040
+que não é isso.
+
+781
+00:58:13,040 --> 00:58:15,040
+Porque me desculpam
+
+782
+00:58:15,040 --> 00:58:17,040
+que estão certíssimos na mosca.
+
+783
+00:58:19,040 --> 00:58:21,040
+A presença massiva
+
+784
+00:58:21,040 --> 00:58:23,040
+e massísada do tecnológico
+
+785
+00:58:23,040 --> 00:58:25,040
+nos dão uma certa compreensão
+
+786
+00:58:25,040 --> 00:58:27,040
+de mundo.
+
+787
+00:58:27,040 --> 00:58:29,040
+Esta certa compreensão de mundo
+
+788
+00:58:29,040 --> 00:58:31,040
+se equivale
+
+789
+00:58:33,040 --> 00:58:35,040
+a outras grandes compreensões de mundo,
+
+790
+00:58:35,040 --> 00:58:37,040
+sentido, de mundo,
+
+791
+00:58:37,040 --> 00:58:39,040
+indígena da realidade.
+
+792
+00:58:43,040 --> 00:58:45,040
+Então o problema é sério.
+
+793
+00:58:45,040 --> 00:58:47,040
+Não é apenas vamos fazer assim,
+
+794
+00:58:47,040 --> 00:58:49,040
+vamos fazer assim.
+
+795
+00:58:49,040 --> 00:58:51,040
+Depois disso, vejam-me,
+
+796
+00:58:51,040 --> 00:58:53,040
+e depois disso aí,
+
+797
+00:58:53,040 --> 00:58:55,040
+que eu posso pensar em questões céticas,
+
+798
+00:58:55,040 --> 00:58:57,040
+questões políticas.
+
+799
+00:58:57,040 --> 00:58:59,040
+As questões políticas já têm a suja
+
+800
+00:58:59,040 --> 00:59:01,040
+depois da Segunda Guerra Mundial
+
+801
+00:59:01,040 --> 00:59:03,040
+que endeter no poder das bombas autónicas,
+
+802
+00:59:03,040 --> 00:59:05,040
+vejam-me, nota da Roda P,
+
+803
+00:59:05,040 --> 00:59:07,040
+nota da Roda P, nota da Roda P.
+
+804
+00:59:07,040 --> 00:59:09,040
+A Segunda Guerra Mundial foi um evento
+
+805
+00:59:09,040 --> 00:59:11,040
+no qual matamos 80 milhões de pessoas,
+
+806
+00:59:11,040 --> 00:59:13,040
+80 milhões de pessoas.
+
+807
+00:59:13,040 --> 00:59:15,040
+Não é de cinco anos.
+
+808
+00:59:15,040 --> 00:59:17,040
+Não é tarefa para qualquer um.
+
+809
+00:59:17,040 --> 00:59:19,040
+Não é tarefa para qualquer um.
+
+810
+00:59:19,040 --> 00:59:21,040
+Chocamos duas bombas autónicas.
+
+811
+00:59:23,040 --> 00:59:25,040
+Sete milhões de mortos
+
+812
+00:59:25,040 --> 00:59:27,040
+em um sistema tecnológico de câmara de gás.
+
+813
+00:59:29,040 --> 00:59:31,040
+Não é uma tarefa para qualquer um.
+
+814
+00:59:31,040 --> 00:59:33,040
+Então, aí estão as questões políticas
+
+815
+00:59:33,040 --> 00:59:35,040
+sobre a tecnologia.
+
+816
+00:59:35,040 --> 00:59:37,040
+Quem detém a tecnologia?
+
+817
+00:59:37,040 --> 00:59:39,040
+Como é que os alemães têm a tecnologia
+
+818
+00:59:39,040 --> 00:59:41,040
+para criar um sistema tão
+
+819
+00:59:41,040 --> 00:59:43,040
+aceitável e tão eficaz
+
+820
+00:59:43,040 --> 00:59:45,040
+para matar pessoas?
+
+821
+00:59:45,040 --> 00:59:47,040
+A ponto de conseguir matar 7 milhões
+
+822
+00:59:47,040 --> 00:59:49,040
+sistemáticamente,
+
+823
+00:59:49,040 --> 00:59:51,040
+em modo tecnológico.
+
+824
+00:59:51,040 --> 00:59:53,040
+O que se fez com as questões
+
+825
+00:59:53,040 --> 00:59:55,040
+com a tecnologia?
+
+826
+00:59:55,040 --> 00:59:57,040
+São questões políticas.
+
+827
+00:59:57,040 --> 00:59:59,040
+As bombas autónicas.
+
+828
+00:59:59,040 --> 01:00:01,040
+E depois, claro, e depois as questões
+
+829
+01:00:01,040 --> 01:00:03,040
+éticas, entretanto,
+
+830
+01:00:03,040 --> 01:00:05,040
+ou uso,
+
+831
+01:00:05,040 --> 01:00:07,040
+que são urgentes para nós hoje,
+
+832
+01:00:07,040 --> 01:00:09,040
+na Europa, é o técnico,
+
+833
+01:00:09,040 --> 01:00:11,040
+é o único tema que importa.
+
+834
+01:00:11,040 --> 01:00:13,040
+Essas selecções e as questões
+
+835
+01:00:13,040 --> 01:00:15,040
+foram muito importantes na Europa,
+
+836
+01:00:15,040 --> 01:00:17,040
+que o mundo respirou de idioma.
+
+837
+01:00:17,040 --> 01:00:19,040
+Esse país, maravilhosamente,
+
+838
+01:00:19,040 --> 01:00:21,040
+é um dos nossos.
+
+839
+01:00:21,040 --> 01:00:23,040
+São depois das questões éticas.
+
+840
+01:00:23,040 --> 01:00:25,040
+Entende?
+
+841
+01:00:25,040 --> 01:00:27,040
+Como as corporações
+
+842
+01:00:27,040 --> 01:00:29,040
+e como o sistema de produção.
+
+843
+01:00:29,040 --> 01:00:31,040
+Nessa relação
+
+844
+01:00:31,040 --> 01:00:33,040
+com o meio ambiente, com na humana,
+
+845
+01:00:33,040 --> 01:00:35,040
+com pessoas de vida na humana.
+
+846
+01:00:37,040 --> 01:00:39,040
+Mas tudo isso só é possível,
+
+847
+01:00:39,040 --> 01:00:41,040
+porque temos uma compreensão
+
+848
+01:00:41,040 --> 01:00:43,040
+do mundo que já é técnica.
+
+849
+01:00:43,040 --> 01:00:45,040
+Se não seria fácil, gente,
+
+850
+01:00:45,040 --> 01:00:47,040
+estamos acabando com o mundo, vamos parar com a técnica.
+
+851
+01:00:47,040 --> 01:00:49,040
+Não podemos, porque a tecnologia
+
+852
+01:00:49,040 --> 01:00:51,040
+é muito mais,
+
+853
+01:00:51,040 --> 01:00:53,040
+é muito mais que fabricar coisas.
+
+854
+01:00:53,040 --> 01:00:55,040
+É um modo de entender o mundo.
+
+855
+01:00:55,040 --> 01:00:57,040
+É muito mais.
+
+856
+01:00:57,040 --> 01:00:59,040
+Por exemplo, a luta ambiental.
+
+857
+01:00:59,040 --> 01:01:01,040
+Por isso custa tanto.
+
+858
+01:01:01,040 --> 01:01:03,040
+Não dá pena, porque são práticas,
+
+859
+01:01:03,040 --> 01:01:05,040
+viver melhor, mais certa ideia,
+
+860
+01:01:05,040 --> 01:01:07,040
+mais certa ideia de viver melhor.
+
+861
+01:01:07,040 --> 01:01:09,040
+Estão entendendo?
+
+862
+01:01:09,040 --> 01:01:11,040
+É porque comecei como entendemos o mundo.
+
+863
+01:01:13,040 --> 01:01:15,040
+Então,
+
+864
+01:01:15,040 --> 01:01:17,040
+estes caras estão aqui,
+
+865
+01:01:17,040 --> 01:01:19,040
+sacam isso, Heidegger, um maior representante.
+
+866
+01:01:25,040 --> 01:01:29,040
+De pensar uma reflexão ontológica.
+
+867
+01:01:33,040 --> 01:01:35,040
+Muito bem.
+
+868
+01:01:35,040 --> 01:01:37,040
+Localizamos,
+
+869
+01:01:37,040 --> 01:01:39,040
+de este modo,
+
+870
+01:01:39,040 --> 01:01:41,040
+tanto conceptualmente,
+
+871
+01:01:41,040 --> 01:01:43,040
+quanto,
+
+872
+01:01:43,040 --> 01:01:45,040
+quanto,
+
+873
+01:01:47,040 --> 01:01:49,040
+digamos, historicamente,
+
+874
+01:01:49,040 --> 01:01:51,040
+entendemos da história,
+
+875
+01:01:51,040 --> 01:01:53,040
+da
+
+876
+01:01:53,040 --> 01:01:55,040
+filosofia técnica.
+
+877
+01:01:55,040 --> 01:01:57,040
+Localizamos, Heidegger.
+
+878
+01:02:01,040 --> 01:02:03,040
+Já sabemos
+
+879
+01:02:03,040 --> 01:02:05,040
+o que implica a passagem
+
+880
+01:02:05,040 --> 01:02:07,040
+da ciência heterotécnica.
+
+881
+01:02:07,040 --> 01:02:09,040
+Já sabemos que é uma ideia básica
+
+882
+01:02:09,040 --> 01:02:11,040
+do que a tecnologia
+
+883
+01:02:11,040 --> 01:02:13,040
+é mais simples, mais complexa,
+
+884
+01:02:13,040 --> 01:02:15,040
+mas que é uma outra distinção mais rica
+
+885
+01:02:15,040 --> 01:02:17,040
+do que a tecnologia
+
+886
+01:02:17,040 --> 01:02:19,040
+da presença maciça
+
+887
+01:02:19,040 --> 01:02:21,040
+e de um conjunto de operações
+
+888
+01:02:21,040 --> 01:02:23,040
+de uma demanda,
+
+889
+01:02:23,040 --> 01:02:25,040
+um pensamento racional,
+
+890
+01:02:25,040 --> 01:02:27,040
+uma produção de uso.
+
+891
+01:02:27,040 --> 01:02:29,040
+Isso tem uma tecnologia
+
+892
+01:02:29,040 --> 01:02:31,040
+e isso tem uma técnica.
+
+893
+01:02:31,040 --> 01:02:33,040
+É um modo de ver o mundo.
+
+894
+01:02:33,040 --> 01:02:35,040
+Insisto, desafio vocês
+
+895
+01:02:35,040 --> 01:02:37,040
+a que mostram a vontade.
+
+896
+01:02:39,040 --> 01:02:41,040
+Essa compreensão da realidade,
+
+897
+01:02:41,040 --> 01:02:43,040
+inclusive quando invocamos a natureza,
+
+898
+01:02:47,040 --> 01:02:49,040
+ela é, na verdade,
+
+899
+01:02:49,040 --> 01:02:51,040
+mediatizada
+
+900
+01:02:51,040 --> 01:02:53,040
+pelo nosso modo de ser técnico do mundo.
+
+901
+01:02:57,040 --> 01:02:59,040
+Ou seja,
+
+902
+01:02:59,040 --> 01:03:01,040
+como a outra Heidegger,
+
+903
+01:03:01,040 --> 01:03:03,040
+não se trata mais
+
+904
+01:03:03,040 --> 01:03:05,040
+de uma atividade imeramente humana,
+
+905
+01:03:07,040 --> 01:03:09,040
+sino de um processo histórico-colectivo civilizador,
+
+906
+01:03:13,040 --> 01:03:15,040
+que determina um certo tipo de ser humano,
+
+907
+01:03:15,040 --> 01:03:17,040
+um certo tipo de pensamento.
+
+908
+01:03:19,040 --> 01:03:21,040
+É importante um certo tipo de compreensão da realidade.
+
+909
+01:03:25,040 --> 01:03:27,040
+Isso é fantástico.
+
+910
+01:03:27,040 --> 01:03:29,040
+Isso é fantástico.
+
+911
+01:03:31,040 --> 01:03:33,040
+Tem consequências terríveis,
+
+912
+01:03:33,040 --> 01:03:35,040
+indignas de gente,
+
+913
+01:03:35,040 --> 01:03:37,040
+como pistolas,
+
+914
+01:03:37,040 --> 01:03:39,040
+com isso.
+
+915
+01:03:39,040 --> 01:03:41,040
+Isso é bom.
+
+916
+01:03:43,040 --> 01:03:45,040
+Neste campo,
+
+917
+01:03:45,040 --> 01:03:47,040
+Heidegger pertence a aquele conjunto
+
+918
+01:03:47,040 --> 01:03:49,040
+de filósofos.
+
+919
+01:03:49,040 --> 01:03:51,040
+No texto que vamos ver a Heidegger aqui,
+
+920
+01:03:51,040 --> 01:03:53,040
+dá um 53, mas foi escrito antes.
+
+921
+01:03:53,040 --> 01:03:55,040
+É fabricado depois
+
+922
+01:03:55,040 --> 01:03:57,040
+que Heidegger teve a utilização
+
+923
+01:03:57,040 --> 01:03:59,040
+que o comitê de desnacificação
+
+924
+01:03:59,040 --> 01:04:01,040
+do Heidegger foi nazista.
+
+925
+01:04:03,040 --> 01:04:05,040
+Quando o comitê de desnacificação
+
+926
+01:04:05,040 --> 01:04:07,040
+permite que a Heidegger publica
+
+927
+01:04:07,040 --> 01:04:09,040
+novamente.
+
+928
+01:04:11,040 --> 01:04:13,040
+O nazismo de Heidegger,
+
+929
+01:04:13,040 --> 01:04:15,040
+no seu lado também,
+
+930
+01:04:15,040 --> 01:04:17,040
+se começarmos a falar disso aí,
+
+931
+01:04:17,040 --> 01:04:19,040
+é infinito.
+
+932
+01:04:19,040 --> 01:04:21,040
+Como, porque talvez seja o maior
+
+933
+01:04:21,040 --> 01:04:23,040
+ou não sois maiores que os de uma história,
+
+934
+01:04:23,040 --> 01:04:25,040
+seguramente,
+
+935
+01:04:25,040 --> 01:04:27,040
+é nazista e é nazista mesmo.
+
+936
+01:04:27,040 --> 01:04:29,040
+Segundo Heidegger,
+
+937
+01:04:29,040 --> 01:04:31,040
+eu não falo para vocês que não,
+
+938
+01:04:31,040 --> 01:04:33,040
+é confinado.
+
+939
+01:04:37,040 --> 01:04:39,040
+O texto que vamos falar aqui é um 53,
+
+940
+01:04:39,040 --> 01:04:41,040
+quando ele consegue publicar novamente.
+
+941
+01:04:41,040 --> 01:04:43,040
+Mas é escrito muito antes de que eu vou fazer.
+
+942
+01:04:45,040 --> 01:04:47,040
+Porque não tem as suas repetências
+
+943
+01:04:47,040 --> 01:04:49,040
+de conjunto de filósofos
+
+944
+01:04:49,040 --> 01:04:51,040
+que pensam
+
+945
+01:04:51,040 --> 01:04:53,040
+a técnica.
+
+946
+01:04:53,040 --> 01:04:55,040
+Com um momento, isso deve ser
+
+947
+01:04:55,040 --> 01:04:57,040
+stellen,
+
+948
+01:04:57,040 --> 01:04:59,040
+com um momento civilizativo.
+
+949
+01:04:59,040 --> 01:05:01,040
+O marco histórico,
+
+950
+01:05:01,040 --> 01:05:03,040
+o modo entre o mundo e a realidade.
+
+951
+01:05:03,040 --> 01:05:05,040
+Como tantos outros,
+
+952
+01:05:05,040 --> 01:05:07,040
+somos uma realidade,
+
+953
+01:05:07,040 --> 01:05:09,040
+estamos numa realidade,
+
+954
+01:05:09,040 --> 01:05:11,040
+estamos jogados numa realidade
+
+955
+01:05:11,040 --> 01:05:13,040
+e, ao mesmo tempo,
+
+956
+01:05:13,040 --> 01:05:17,780
+Somos uma coisa que cria sentidos para saber que entendemos um modo,
+
+957
+01:05:17,780 --> 01:05:22,780
+como dizem que outros sentes, outros sentes no humanos devem compreender o mundo do outro modo.
+
+958
+01:05:26,780 --> 01:05:30,280
+Quando falamos de compreender o mundo, é um momento de relação com o mundo, não é?
+
+959
+01:05:30,280 --> 01:05:32,280
+É um momento parecido.
+
+960
+01:05:32,280 --> 01:05:38,780
+Bom, a sensação do ser do outro modo, e isso é a técnica.
+
+961
+01:05:38,780 --> 01:05:42,280
+Sentir a técnica é um modo de compreender a realidade, como outros.
+
+962
+01:05:42,520 --> 01:05:48,520
+E como não nos gusta pensar que haveria outros modos para compreender que não é não nós?
+
+963
+01:05:48,520 --> 01:05:54,520
+Como diria Kant, não sei se insaturam as pessoas que temos com compreensão durante o outro modo de compreender.
+
+964
+01:05:56,520 --> 01:06:00,520
+Mas é uma relação com a realidade ágica que dá uma compreensão.
+
+965
+01:06:03,520 --> 01:06:10,520
+Não é que o ser humano cria um tentadiz, uma relação em uma dificuldade.
+
+966
+01:06:10,760 --> 01:06:14,760
+Bom, aí está a Hália, nesse momento.
+
+967
+01:06:14,760 --> 01:06:19,760
+Eu gostaria depois de nos acharmos sem perguntar se alguma dúvida.
+
+968
+01:06:19,760 --> 01:06:23,760
+Bom, para um pouco da Hália, senão vocês não chingamos para a cara, então aqui está a Hália.
+
+969
+01:06:23,760 --> 01:06:27,260
+Mas não faria sentido como falar agora, gente, acredito em ninguém.
+
+970
+01:06:27,260 --> 01:06:34,260
+Não faria sentido como falar agora, se não tivesse antes levado a todos os conjuntos e conceitos
+
+971
+01:06:34,260 --> 01:06:39,260
+que me parece, ou parece-me, como aprendi a falar este amigo,
+
+972
+01:06:39,260 --> 01:06:42,260
+se parece ou parece-me.
+
+973
+01:06:42,260 --> 01:06:52,260
+Me parece, parece-me, que vai ser muito útil para vocês, para além de Hália,
+
+974
+01:06:52,260 --> 01:06:56,260
+pelo menos, esse é o meu desejo.
+
+975
+01:06:56,260 --> 01:07:01,260
+Muito bem, comecemos com uma citação de clássica de Hália.
+
+976
+01:07:01,260 --> 01:07:07,260
+Do texto, a lendária, a lendária conferência de 1953,
+
+977
+01:07:07,260 --> 01:07:11,260
+que insisto, está a publicidade escrita antes, não é?
+
+978
+01:07:11,260 --> 01:07:16,260
+A lendária conferência de Hália, a questão da técnica.
+
+979
+01:07:16,260 --> 01:07:20,260
+Eu gostaria de questão da técnica, porque eu estou me refrigindo ao trecho.
+
+980
+01:07:20,260 --> 01:07:23,260
+Isso é a questão da técnica de Hália.
+
+981
+01:07:23,260 --> 01:07:29,260
+Dentro dos óculos portugueses, eu já alguma vez deixei aqui para observar a disciplina,
+
+982
+01:07:29,260 --> 01:07:34,260
+depois, se por um caso eu posso mandar novamente.
+
+983
+01:07:34,260 --> 01:07:41,260
+O texto central de Haider radicaliza esta posição.
+
+984
+01:07:41,260 --> 01:07:47,260
+E onde passa limpo, perdão, onde passa limpo todo um conjunto de pensamentos,
+
+985
+01:07:47,260 --> 01:07:54,260
+este momento, que é mais solução que eu estava explicando para vocês.
+
+986
+01:07:54,260 --> 01:07:59,260
+Diz Haider.
+
+987
+01:07:59,260 --> 01:08:04,260
+A seguir, questionaremos a técnica. Lembre-se que eu falei antes,
+
+988
+01:08:04,260 --> 01:08:07,260
+porque estou muito lógico, a natureza da técnica.
+
+989
+01:08:07,260 --> 01:08:10,260
+Ou questionar, construir um caminho.
+
+990
+01:08:10,260 --> 01:08:14,260
+O caminho é um caminho do pensamento, de pensamento.
+
+991
+01:08:14,260 --> 01:08:21,260
+Questionamos a técnica e pretendemos com isso preparar uma livre relação para a Goela.
+
+992
+01:08:21,260 --> 01:08:29,260
+Vou repetir, pretendemos com isso preparar uma livre relação para Goela.
+
+993
+01:08:29,260 --> 01:08:33,260
+Portanto, não se trata de encontrar uma verdade.
+
+994
+01:08:33,260 --> 01:08:36,260
+Escuta aqui, olha para mim.
+
+995
+01:08:36,260 --> 01:08:40,260
+Não se trata de encontrar uma verdade, de encontrar qual é a essência pura,
+
+996
+01:08:40,260 --> 01:08:42,260
+no sentido metafísico.
+
+997
+01:08:42,260 --> 01:08:46,260
+Vamos ver se, como tirar as camadas equivocadas,
+
+998
+01:08:46,260 --> 01:08:50,260
+vamos deixar aparecer o que de fato é, não é?
+
+999
+01:08:50,260 --> 01:08:55,260
+Estar de uma livre relação com ela, com a técnica.
+
+1000
+01:08:55,260 --> 01:09:00,260
+Ou seja, com este conjunto de fenômenos que nos rodea.
+
+1001
+01:09:00,260 --> 01:09:06,260
+Com a luminária que estava iluminando, com a câmera que me olha do modo sustador.
+
+1002
+01:09:06,260 --> 01:09:09,260
+Uma livre relação.
+
+1003
+01:09:09,260 --> 01:09:12,260
+Não uma relação subordinada.
+
+1004
+01:09:12,260 --> 01:09:15,260
+Não uma relação subordinada.
+
+1005
+01:09:15,260 --> 01:09:17,260
+Não uma livre relação.
+
+1006
+01:09:17,260 --> 01:09:22,260
+Portanto, uma atividade e uma reflexão astrata.
+
+1007
+01:09:22,260 --> 01:09:25,260
+O caminho é um caminho de pensamento.
+
+1008
+01:09:25,260 --> 01:09:32,260
+Questionamos a técnica e pretendemos com isso preparar uma livre relação para Goela.
+
+1009
+01:09:32,260 --> 01:09:37,260
+A relação é livre se abrirmos a existência, no seu modo de ser concreto.
+
+1010
+01:09:38,260 --> 01:09:40,260
+A categoria central de Javier.
+
+1011
+01:09:40,260 --> 01:09:43,260
+Javier fala de Dazan, gente, nota da roba de número três.
+
+1012
+01:09:43,260 --> 01:09:45,260
+Nota da roba de número três.
+
+1013
+01:09:45,260 --> 01:09:50,260
+Quando Javier fala de Dazan, fala de esta coisa, deste ente que nós mesmos somos.
+
+1014
+01:09:50,260 --> 01:09:59,260
+E ele evita utilizar homens, ser humano, filho de Deus, animal racional, topo da cadeia e evolução.
+
+1015
+01:09:59,260 --> 01:10:02,260
+Qualquer uma das seis já são determinações.
+
+1016
+01:10:02,260 --> 01:10:06,260
+E Javier quer que esta coisa que nós somos seja aberta a um mundo.
+
+1017
+01:10:06,260 --> 01:10:10,260
+Se encontre com o mundo e se projetar em um mundo e seja qualquer coisa.
+
+1018
+01:10:10,260 --> 01:10:18,260
+Javier tenta devolver a isto que nós somos, sobrará a liberdade e ser absolutamente qualquer coisa.
+
+1019
+01:10:18,260 --> 01:10:20,260
+De nota da natureza.
+
+1020
+01:10:20,260 --> 01:10:29,260
+Não somos filhos de Deus, nem seres racionais, nem animais racionais, nem animais evoluídos, nem seres humanos.
+
+1021
+01:10:29,260 --> 01:10:35,260
+São todas as definições que abordam, que cortam, que limitam, não são as possibilidades de fazer qualquer coisa.
+
+1022
+01:10:35,260 --> 01:10:37,260
+Seja um projeto no mundo.
+
+1023
+01:10:37,260 --> 01:10:41,260
+Você vai se encontrar em algum mundo e será o que você pode ser.
+
+1024
+01:10:41,260 --> 01:10:44,260
+Sem essência, sem natureza do humano.
+
+1025
+01:10:44,260 --> 01:10:46,260
+O que se chama de Dazan?
+
+1026
+01:10:46,260 --> 01:10:48,260
+Um ser aí.
+
+1027
+01:10:48,260 --> 01:10:51,260
+Você está no mundo.
+
+1028
+01:10:51,260 --> 01:10:53,260
+Você está no mundo.
+
+1029
+01:10:53,260 --> 01:10:54,260
+Ponto.
+
+1030
+01:10:54,260 --> 01:10:58,260
+Se você está no mundo, você será de algum modo, diferente do outro.
+
+1031
+01:10:58,260 --> 01:11:00,260
+Não há essência do humano.
+
+1032
+01:11:00,260 --> 01:11:02,260
+Não há natureza desta coisa.
+
+1033
+01:11:02,260 --> 01:11:05,260
+Isso é o que se chama de Dazan.
+
+1034
+01:11:05,260 --> 01:11:07,260
+O que se chama de Dazan?
+
+1035
+01:11:07,260 --> 01:11:14,260
+A relação é livre se abrirmos a existência, isto que nós somos Dazan, a essência da técnica.
+
+1036
+01:11:14,260 --> 01:11:23,260
+Quer dizer, se conseguimos entender o que essa técnica é, caso correspondamos à essência,
+
+1037
+01:11:23,260 --> 01:11:30,260
+ou seja, aquela de fato se dá como sendo, estaremos aptos a experimentar o técnico.
+
+1038
+01:11:30,260 --> 01:11:34,260
+E o seu adedimento é o seu modo para esse mundo.
+
+1039
+01:11:34,260 --> 01:11:39,260
+Então, você vê que nenhum intento de uma análise, de uma reflexão para dizer,
+
+1040
+01:11:39,260 --> 01:11:41,260
+vamos saber o que é técnica.
+
+1041
+01:11:41,260 --> 01:11:47,260
+Vamos saber o que é técnica para ter uma relação enquanto coisa que nós somos no mundo,
+
+1042
+01:11:47,260 --> 01:11:51,260
+coisa que nós somos no mundo, com esse conjunto de fenómenos quase infinito que é técnica
+
+1043
+01:11:51,260 --> 01:11:54,260
+e que determina a nossa existência.
+
+1044
+01:11:54,260 --> 01:11:57,260
+E que determina a nossa existência.
+
+1045
+01:11:57,260 --> 01:11:59,260
+É bacana, não é?
+
+1046
+01:11:59,260 --> 01:12:06,260
+Porque não há uma desipulamente teórica, ou melhor, a reflexão teórica está subordinada a uma questão prática,
+
+1047
+01:12:06,260 --> 01:12:10,260
+uma relação livre com esse conjunto de fenómenos que se chamamos técnica.
+
+1048
+01:12:10,260 --> 01:12:12,260
+Por isso temos que entender.
+
+1049
+01:12:16,260 --> 01:12:20,260
+E, portanto, surge sempre as perguntas centrales.
+
+1050
+01:12:20,260 --> 01:12:23,260
+Bom, qual é a essência da técnica?
+
+1051
+01:12:25,260 --> 01:12:27,260
+Dito da definição canónica.
+
+1052
+01:12:27,260 --> 01:12:30,260
+A essência de algo vale, segundo a tira doutrina,
+
+1053
+01:12:30,260 --> 01:12:34,260
+pelo que algo é questionar a nossa técnica com questionar-nos o que ela é.
+
+1054
+01:12:34,260 --> 01:12:39,260
+Coloquem esta definição básica em perspectiva com esta.
+
+1055
+01:12:41,260 --> 01:12:46,260
+O questionar constrói um caminho, um caminho e um caminho de pensamento.
+
+1056
+01:12:46,260 --> 01:12:51,260
+O que a gente tem que fazer com isso é preparar uma livre relação com ele.
+
+1057
+01:12:52,260 --> 01:12:57,260
+A relação livre servirmos a existência em nosso modo de ser concreto no mundo,
+
+1058
+01:12:57,260 --> 01:12:59,260
+a essência da técnica.
+
+1059
+01:12:59,260 --> 01:13:01,260
+Por isso é importante isso aqui.
+
+1060
+01:13:01,260 --> 01:13:07,260
+Não, porque queremos ser filósofos, sabios, que queremos saber a verdade.
+
+1061
+01:13:09,260 --> 01:13:11,260
+Vida a verdade da técnica, não é isso?
+
+1062
+01:13:11,260 --> 01:13:16,260
+Porque precisamos de uma relação livre com ela para sermos concretamente no mundo.
+
+1063
+01:13:16,260 --> 01:13:19,260
+Para sermos concretamente no mundo.
+
+1064
+01:13:19,260 --> 01:13:21,260
+Singular cada um.
+
+1065
+01:13:23,260 --> 01:13:24,260
+É empírico.
+
+1066
+01:13:28,260 --> 01:13:29,260
+Muito bem.
+
+1067
+01:13:32,260 --> 01:13:34,260
+Isso é muito confuso, como vocês perguntam.
+
+1068
+01:13:34,260 --> 01:13:35,260
+Tá?
+
+1069
+01:13:39,260 --> 01:13:41,260
+E tem que estar.
+
+1070
+01:13:41,260 --> 01:13:43,260
+Seguem assegurados nisso.
+
+1071
+01:13:45,260 --> 01:13:50,260
+Então, vamos, como falar um velho professório que é sustentivo,
+
+1072
+01:13:50,260 --> 01:13:52,260
+vamos usar um passo a mais da meditação.
+
+1073
+01:13:52,260 --> 01:13:55,260
+Se é sempre tão composo, tão elegante,
+
+1074
+01:13:55,260 --> 01:13:59,260
+sempre que eu falei isso, me senti um professório de verdade.
+
+1075
+01:14:00,260 --> 01:14:02,260
+Vamos usar um passo a mais da meditação.
+
+1076
+01:14:02,260 --> 01:14:03,260
+Já.
+
+1077
+01:14:06,260 --> 01:14:08,260
+Você era aqui.
+
+1078
+01:14:08,260 --> 01:14:11,260
+Tirei seus citações de Heidegger para entender
+
+1079
+01:14:11,260 --> 01:14:15,260
+como segue análise de Heidegger, como se segue análise de Heidegger.
+
+1080
+01:14:16,260 --> 01:14:18,260
+Mas vejam bem, vejam bem.
+
+1081
+01:14:20,260 --> 01:14:23,260
+Colocando sempre em perspectiva a seguinte questão,
+
+1082
+01:14:24,260 --> 01:14:27,260
+devemos entender a técnica, a sua essência,
+
+1083
+01:14:27,260 --> 01:14:29,260
+para ter uma relação com ela,
+
+1084
+01:14:29,260 --> 01:14:32,260
+porque ele é um modo de compreensão de mundo.
+
+1085
+01:14:34,260 --> 01:14:37,260
+Porque ele é um modo de compreensão de mundo, realidade.
+
+1086
+01:14:45,260 --> 01:14:48,260
+Analise a Heidegger no texto, imediatamente depois.
+
+1087
+01:14:49,260 --> 01:14:52,260
+Tu conheces os dois anunciados que respondemos a questão.
+
+1088
+01:14:52,260 --> 01:14:53,260
+Um diz.
+
+1089
+01:14:54,260 --> 01:14:56,260
+A técnica é um meio para ti.
+
+1090
+01:14:56,260 --> 01:14:57,260
+O outro diz.
+
+1091
+01:14:58,260 --> 01:15:00,260
+Bom, gente, isso é evidente.
+
+1092
+01:15:00,260 --> 01:15:02,260
+O que falamos até agora.
+
+1093
+01:15:05,260 --> 01:15:09,260
+A técnica é um meio para entender o fim
+
+1094
+01:15:09,260 --> 01:15:12,260
+e é feita por homens, homens humanos.
+
+1095
+01:15:13,260 --> 01:15:17,260
+Harem os homens, porque naquela época de nojeia exclusiva
+
+1096
+01:15:17,260 --> 01:15:21,260
+ainda estava no outro universo.
+
+1097
+01:15:21,260 --> 01:15:24,260
+Mas, assim, o design de um homem,
+
+1098
+01:15:25,260 --> 01:15:28,260
+bom, são dois anunciados fundamentais
+
+1099
+01:15:28,260 --> 01:15:30,260
+e que estão corretos.
+
+1100
+01:15:32,260 --> 01:15:34,260
+Que estão corretos.
+
+1101
+01:15:37,260 --> 01:15:40,260
+Então, um diz a técnica é um meio para fins.
+
+1102
+01:15:40,260 --> 01:15:42,260
+Se eu faço uma coisa para fins, enfim.
+
+1103
+01:15:42,260 --> 01:15:43,260
+O outro diz.
+
+1104
+01:15:43,260 --> 01:15:45,260
+A técnica é um fazer o homem.
+
+1105
+01:15:47,260 --> 01:15:50,260
+As duas determinações da técnica estão relacionadas
+
+1106
+01:15:50,260 --> 01:15:53,260
+pois estabelecer fins e para isso arranjar
+
+1107
+01:15:53,260 --> 01:15:56,260
+e criar os meios constitui um fazer humano.
+
+1108
+01:15:58,260 --> 01:16:02,260
+Veja também a concepção corrente da técnica
+
+1109
+01:16:02,260 --> 01:16:06,260
+segundo a qual ele é o meio de um fazer humano.
+
+1110
+01:16:06,260 --> 01:16:10,260
+Hoje, por isso, será chamada de determinação
+
+1111
+01:16:10,260 --> 01:16:13,260
+instrumental e antropológica da técnica.
+
+1112
+01:16:14,260 --> 01:16:17,260
+Instrumental e antropológica da técnica.
+
+1113
+01:16:18,260 --> 01:16:20,260
+Nota de rodapé.
+
+1114
+01:16:21,260 --> 01:16:23,260
+Olhe para mim.
+
+1115
+01:16:23,260 --> 01:16:25,260
+Olhe para mim.
+
+1116
+01:16:25,260 --> 01:16:27,260
+Nota de rodapé.
+
+1117
+01:16:27,260 --> 01:16:29,260
+Muito importante.
+
+1118
+01:16:33,260 --> 01:16:35,260
+Segundo uma definição cara,
+
+1119
+01:16:35,260 --> 01:16:38,260
+o que se chama hoje contemporaneamente
+
+1120
+01:16:38,260 --> 01:16:41,260
+nessa época, agora, nos vinciamos.
+
+1121
+01:16:41,260 --> 01:16:44,260
+Após a fenomenologia, tá?
+
+1122
+01:16:45,260 --> 01:16:48,260
+Nós somos, escutamente, somos o único animal
+
+1123
+01:16:48,260 --> 01:16:50,260
+que não tem mundo.
+
+1124
+01:16:50,260 --> 01:16:53,260
+Somos o único animal que não tem mundo.
+
+1125
+01:16:53,260 --> 01:16:54,260
+O mundo não quer.
+
+1126
+01:16:54,260 --> 01:16:56,260
+Para que isso não quer?
+
+1127
+01:16:56,260 --> 01:16:58,260
+Se você joga uma criança humana,
+
+1128
+01:16:58,260 --> 01:17:00,260
+o mundo fatalmente morre.
+
+1129
+01:17:00,260 --> 01:17:02,260
+Não, que morre.
+
+1130
+01:17:02,260 --> 01:17:06,260
+E se é Tarzan, porque a mamãe gorila para a pessoa.
+
+1131
+01:17:06,260 --> 01:17:08,260
+Ele vai morrer.
+
+1132
+01:17:08,260 --> 01:17:10,260
+Ele não pertence à natureza.
+
+1133
+01:17:11,260 --> 01:17:14,260
+Somos o único animal que não tem mundo.
+
+1134
+01:17:16,260 --> 01:17:18,260
+Somente a grande design humano,
+
+1135
+01:17:18,260 --> 01:17:20,260
+para dizer um nome assim,
+
+1136
+01:17:20,260 --> 01:17:22,260
+humano.
+
+1137
+01:17:22,260 --> 01:17:24,260
+Quando há técnica.
+
+1138
+01:17:24,260 --> 01:17:26,260
+Quando há técnica.
+
+1139
+01:17:26,260 --> 01:17:28,260
+Que ver um galho para poder bater
+
+1140
+01:17:28,260 --> 01:17:30,260
+em uma árvore, em uma missã,
+
+1141
+01:17:30,260 --> 01:17:32,260
+uma fruta cair, fechar,
+
+1142
+01:17:32,260 --> 01:17:34,260
+fechar com uma pedra,
+
+1143
+01:17:34,260 --> 01:17:36,260
+uma caverna para esquentar,
+
+1144
+01:17:36,260 --> 01:17:38,260
+la fazer fogo.
+
+1145
+01:17:38,260 --> 01:17:40,260
+Mas não, quando há técnica.
+
+1146
+01:17:40,260 --> 01:17:42,260
+Não somos um objeto natural.
+
+1147
+01:17:42,260 --> 01:17:46,260
+Não somos um objeto híbrido, misto.
+
+1148
+01:17:46,260 --> 01:17:48,260
+Somente podemos existir
+
+1149
+01:17:48,260 --> 01:17:50,260
+pela concorrência,
+
+1150
+01:17:50,260 --> 01:17:52,260
+pela articulação necessária,
+
+1151
+01:17:52,260 --> 01:17:54,260
+não contingente,
+
+1152
+01:17:54,260 --> 01:17:56,260
+não cosmética,
+
+1153
+01:17:56,260 --> 01:17:58,260
+necessária do técnico.
+
+1154
+01:17:58,260 --> 01:18:00,260
+Se em técnica não existimos.
+
+1155
+01:18:00,260 --> 01:18:02,260
+Somente a ver um humano,
+
+1156
+01:18:02,260 --> 01:18:04,260
+isto que nós somos,
+
+1157
+01:18:04,260 --> 01:18:06,260
+quando há técnica no meio.
+
+1158
+01:18:06,260 --> 01:18:08,260
+O próprio Ligo tinha entendido isso.
+
+1159
+01:18:08,260 --> 01:18:10,260
+Híbrido.
+
+1160
+01:18:10,260 --> 01:18:12,260
+Quer dizer,
+
+1161
+01:18:12,260 --> 01:18:14,260
+este é a dificuldade.
+
+1162
+01:18:16,260 --> 01:18:18,260
+Entendendo.
+
+1163
+01:18:18,260 --> 01:18:20,260
+Somos um animal que não tem mundo.
+
+1164
+01:18:20,260 --> 01:18:22,260
+A natureza não ocorre.
+
+1165
+01:18:22,260 --> 01:18:24,260
+Só sendo dramático,
+
+1166
+01:18:24,260 --> 01:18:26,260
+mas não pertencemos
+
+1167
+01:18:26,260 --> 01:18:28,260
+como outros animais
+
+1168
+01:18:28,260 --> 01:18:30,260
+a natureza de morro.
+
+1169
+01:18:30,260 --> 01:18:32,260
+Se não temos a concorrência, a articulação de elementos técnicos,
+
+1170
+01:18:32,260 --> 01:18:34,260
+sempre, desde sempre.
+
+1171
+01:18:34,260 --> 01:18:36,260
+Desde o pariolítico menor.
+
+1172
+01:18:38,260 --> 01:18:40,260
+Voltemos, fim da nota de Rodapé.
+
+1173
+01:18:40,260 --> 01:18:42,260
+Guarda isso.
+
+1174
+01:18:42,260 --> 01:18:44,260
+Voltemos, então, aqui,
+
+1175
+01:18:44,260 --> 01:18:46,260
+o texto do Jardim.
+
+1176
+01:18:48,260 --> 01:18:50,260
+Pois estabelecer fins
+
+1177
+01:18:50,260 --> 01:18:52,260
+pareço arranjar um empregado
+
+1178
+01:18:52,260 --> 01:18:54,260
+nos meios construindo um fazer humano.
+
+1179
+01:18:54,260 --> 01:18:56,260
+A concepção corrente da técnica,
+
+1180
+01:18:56,260 --> 01:18:58,260
+corrente a atual tradicional da técnica.
+
+1181
+01:18:58,260 --> 01:19:00,260
+Segundo a qual
+
+1182
+01:19:00,260 --> 01:19:02,260
+ele é um meio para fazer
+
+1183
+01:19:02,260 --> 01:19:04,260
+um malo.
+
+1184
+01:19:04,260 --> 01:19:06,260
+Hoje, por isso, é chamado
+
+1185
+01:19:06,260 --> 01:19:08,260
+de determinação instrumental
+
+1186
+01:19:08,260 --> 01:19:10,260
+e antropológica da técnica.
+
+1187
+01:19:10,260 --> 01:19:12,260
+Ou seja, vou traduzir para vocês
+
+1188
+01:19:12,260 --> 01:19:14,260
+esta concepção corrente
+
+1189
+01:19:14,260 --> 01:19:16,260
+que Jardim insiste
+
+1190
+01:19:16,260 --> 01:19:18,260
+que está correta,
+
+1191
+01:19:18,260 --> 01:19:20,260
+mas que não é verdadeira ainda.
+
+1192
+01:19:20,260 --> 01:19:22,260
+É correta, mas não atinge
+
+1193
+01:19:22,260 --> 01:19:24,260
+essa essência.
+
+1194
+01:19:24,260 --> 01:19:26,260
+É correta, mas não chega
+
+1195
+01:19:26,260 --> 01:19:28,260
+muito fundo.
+
+1196
+01:19:28,260 --> 01:19:30,260
+Esta definição da técnica
+
+1197
+01:19:30,260 --> 01:19:32,260
+é um fazer humano para finismo.
+
+1198
+01:19:32,260 --> 01:19:34,260
+Um fazer humano para finismo.
+
+1199
+01:19:38,260 --> 01:19:40,260
+Primeiro,
+
+1200
+01:19:40,260 --> 01:19:42,260
+limita,
+
+1201
+01:19:42,260 --> 01:19:44,260
+subordina,
+
+1202
+01:19:44,260 --> 01:19:46,260
+degrada
+
+1203
+01:19:46,260 --> 01:19:48,260
+a técnica
+
+1204
+01:19:48,260 --> 01:19:50,260
+a um meio instrumento
+
+1205
+01:19:52,260 --> 01:19:54,260
+e este meio instrumento
+
+1206
+01:19:54,260 --> 01:19:56,260
+é autorgado
+
+1207
+01:19:56,260 --> 01:19:58,260
+a isto que nós somos,
+
+1208
+01:19:58,260 --> 01:20:00,260
+a humano.
+
+1209
+01:20:00,260 --> 01:20:02,260
+Portanto,
+
+1210
+01:20:02,260 --> 01:20:04,260
+de aqui derivam
+
+1211
+01:20:04,260 --> 01:20:06,260
+as famosas teses
+
+1212
+01:20:06,260 --> 01:20:08,260
+completamente equivocadas
+
+1213
+01:20:08,260 --> 01:20:10,260
+a famosa teses
+
+1214
+01:20:10,260 --> 01:20:12,260
+porque a técnica
+
+1215
+01:20:12,260 --> 01:20:14,260
+é neutra.
+
+1216
+01:20:14,260 --> 01:20:16,260
+Não é boa,
+
+1217
+01:20:16,260 --> 01:20:18,260
+depende como a gente usa.
+
+1218
+01:20:18,260 --> 01:20:20,260
+Eu tenho energia nuclear.
+
+1219
+01:20:20,260 --> 01:20:22,260
+Posso fazer uma bomba de covarde
+
+1220
+01:20:22,260 --> 01:20:24,260
+para curar a câncer.
+
+1221
+01:20:24,260 --> 01:20:26,260
+Posso fazer uma bomba atômica.
+
+1222
+01:20:26,260 --> 01:20:28,260
+Ele é neutra. Não, não é neutra.
+
+1223
+01:20:28,260 --> 01:20:30,260
+Ele é um conjunto de instrumentos
+
+1224
+01:20:30,260 --> 01:20:32,260
+que determina a compreensão do mundo.
+
+1225
+01:20:32,260 --> 01:20:34,260
+Então, não é neutra.
+
+1226
+01:20:34,260 --> 01:20:36,260
+Porque senão,
+
+1227
+01:20:36,260 --> 01:20:38,260
+você recai em um antropocentrismo.
+
+1228
+01:20:38,260 --> 01:20:40,260
+O homem volta a seu centro.
+
+1229
+01:20:40,260 --> 01:20:42,260
+Depende de tudo dele.
+
+1230
+01:20:42,260 --> 01:20:44,260
+Tudo depende dele.
+
+1231
+01:20:44,260 --> 01:20:46,260
+A técnica é neutra.
+
+1232
+01:20:46,260 --> 01:20:48,260
+Depende de que eu posso pegar um galho
+
+1233
+01:20:48,260 --> 01:20:50,260
+para bater um árvore
+
+1234
+01:20:50,260 --> 01:20:52,260
+para cair.
+
+1235
+01:20:52,260 --> 01:20:54,260
+Absoluta, eu posso bater na cabeça de um humano
+
+1236
+01:20:54,260 --> 01:20:56,260
+um arrumado e matado.
+
+1237
+01:20:56,260 --> 01:20:58,260
+Isso é uma arma.
+
+1238
+01:20:58,260 --> 01:21:00,260
+Depende de como eu utilizo.
+
+1239
+01:21:00,260 --> 01:21:02,260
+Esta utilização é secundária.
+
+1240
+01:21:02,260 --> 01:21:04,260
+Antes disso,
+
+1241
+01:21:04,260 --> 01:21:06,260
+preciso entender o que tenho na mão.
+
+1242
+01:21:06,260 --> 01:21:08,260
+A compreensão do mundo
+
+1243
+01:21:08,260 --> 01:21:10,260
+que eu tenho incluído técnico.
+
+1244
+01:21:10,260 --> 01:21:12,260
+Então, todas minhas decisões
+
+1245
+01:21:12,260 --> 01:21:14,260
+já partem de essa compreensão anterior.
+
+1246
+01:21:14,260 --> 01:21:16,260
+Heider
+
+1247
+01:21:16,260 --> 01:21:18,260
+vai dizer
+
+1248
+01:21:18,260 --> 01:21:20,260
+que é muito parcial.
+
+1249
+01:21:20,260 --> 01:21:22,260
+É verdade que a técnica é um fazer humano
+
+1250
+01:21:22,260 --> 01:21:24,260
+para a filma.
+
+1251
+01:21:24,260 --> 01:21:26,260
+Mas diz pouco.
+
+1252
+01:21:26,260 --> 01:21:28,260
+Diz muito pouco.
+
+1253
+01:21:30,260 --> 01:21:32,260
+sobretudo, degrada a técnica
+
+1254
+01:21:32,260 --> 01:21:34,260
+um simples instrumento
+
+1255
+01:21:34,260 --> 01:21:36,260
+e este instrumento é colocado
+
+1256
+01:21:36,260 --> 01:21:38,260
+no centro do universo, a nós, o ser humano.
+
+1257
+01:21:42,260 --> 01:21:44,260
+A técnica é um instrumento antropológico.
+
+1258
+01:21:44,260 --> 01:21:46,260
+O que importa o ser humano.
+
+1259
+01:21:46,260 --> 01:21:48,260
+Não importa o ser humano.
+
+1260
+01:21:48,260 --> 01:21:50,260
+Depende de como eu utilizo.
+
+1261
+01:21:50,260 --> 01:21:52,260
+Uma obra.
+
+1262
+01:21:52,260 --> 01:21:54,260
+O que vai mostrar Heidegger,
+
+1263
+01:21:54,260 --> 01:21:56,260
+muitos filósofos, é que não existe.
+
+1264
+01:21:56,260 --> 01:21:58,260
+Porque é a chida antes, um modo de entender
+
+1265
+01:21:58,260 --> 01:22:00,260
+um mundo que já não atorna a neuta.
+
+1266
+01:22:00,260 --> 01:22:02,260
+Quer dizer que tu escolha
+
+1267
+01:22:02,260 --> 01:22:04,260
+para fazer um aparelho
+
+1268
+01:22:04,260 --> 01:22:06,260
+para curar a câncer.
+
+1269
+01:22:06,260 --> 01:22:08,260
+Uma bomba atômica.
+
+1270
+01:22:08,260 --> 01:22:10,260
+É uma escola que já está no horizonte
+
+1271
+01:22:10,260 --> 01:22:12,260
+da compreensão anterior.
+
+1272
+01:22:12,260 --> 01:22:14,260
+Não há neutralidade.
+
+1273
+01:22:14,260 --> 01:22:16,260
+Então, como vocês veem
+
+1274
+01:22:20,260 --> 01:22:22,260
+tu és estes filósofos mais hábitos
+
+1275
+01:22:22,260 --> 01:22:24,260
+que, em particular, estão
+
+1276
+01:22:24,260 --> 01:22:26,260
+verticalizando mesmo.
+
+1277
+01:22:30,260 --> 01:22:32,260
+É verdade que a técnica
+
+1278
+01:22:32,260 --> 01:22:34,260
+é um fazer humano para a filma.
+
+1279
+01:22:34,260 --> 01:22:36,260
+Mas todo este processo já implica
+
+1280
+01:22:36,260 --> 01:22:38,260
+de modo anterior uma compreensão da realidade.
+
+1281
+01:22:40,260 --> 01:22:42,260
+Não há neutralidade.
+
+1282
+01:22:42,260 --> 01:22:44,260
+Você tem a ideia de tirar o ser humano
+
+1283
+01:22:44,260 --> 01:22:46,260
+como se fosse aquele
+
+1284
+01:22:46,260 --> 01:22:48,260
+que pensa, que organiza,
+
+1285
+01:22:48,260 --> 01:22:50,260
+que determina o mundo, que escolhe
+
+1286
+01:22:50,260 --> 01:22:52,260
+livremente
+
+1287
+01:22:52,260 --> 01:22:54,260
+esse sonho moderno
+
+1288
+01:22:54,260 --> 01:22:56,260
+que sobeu dos guerras
+
+1289
+01:22:56,260 --> 01:22:58,260
+dos guerras
+
+1290
+01:22:58,260 --> 01:23:00,260
+dos guerras
+
+1291
+01:23:00,260 --> 01:23:02,260
+dos guerras.
+
+1292
+01:23:02,260 --> 01:23:04,260
+Mas então,
+
+1293
+01:23:04,260 --> 01:23:06,260
+então,
+
+1294
+01:23:06,260 --> 01:23:08,260
+é claro isso.
+
+1295
+01:23:08,260 --> 01:23:10,260
+É correto dizer que
+
+1296
+01:23:10,260 --> 01:23:12,260
+a técnica é um fazer homem para a filma.
+
+1297
+01:23:12,260 --> 01:23:14,260
+Mas isso é insuficiente.
+
+1298
+01:23:18,260 --> 01:23:20,260
+Porque ele é mais que um fazer humano.
+
+1299
+01:23:28,260 --> 01:23:30,260
+Porque eles se reconhecem
+
+1300
+01:23:30,260 --> 01:23:32,260
+já, escutem bem,
+
+1301
+01:23:32,260 --> 01:23:34,260
+eles se reconhecem
+
+1302
+01:23:34,260 --> 01:23:36,260
+já no seu uso habitual do mundo.
+
+1303
+01:23:36,260 --> 01:23:38,260
+Nós, todos, nos fazemos
+
+1304
+01:23:38,260 --> 01:23:40,260
+um uso habitual do mundo.
+
+1305
+01:23:40,260 --> 01:23:42,260
+Nós somos uma relação com nossa realidade.
+
+1306
+01:23:44,260 --> 01:23:46,260
+Então, esqueçam que Harry e o fenomenólogo
+
+1307
+01:23:46,260 --> 01:23:48,260
+somos um conjunto de fenómenos.
+
+1308
+01:23:48,260 --> 01:23:50,260
+Nós parecem estarmos jogados aqui dentro.
+
+1309
+01:23:52,260 --> 01:23:54,260
+Já pressupõem
+
+1310
+01:23:56,260 --> 01:23:58,260
+uma
+
+1311
+01:23:58,260 --> 01:24:00,260
+relação com essa tecnologia
+
+1312
+01:24:00,260 --> 01:24:02,260
+que nos posicionaram com essa relação.
+
+1313
+01:24:02,260 --> 01:24:04,260
+Muito bem.
+
+1314
+01:24:04,260 --> 01:24:06,260
+Vamos tentar, então,
+
+1315
+01:24:06,260 --> 01:24:08,260
+se está tese
+
+1316
+01:24:10,260 --> 01:24:12,260
+instrumental
+
+1317
+01:24:12,260 --> 01:24:14,260
+e antropológica da técnica
+
+1318
+01:24:14,260 --> 01:24:16,260
+é limitada
+
+1319
+01:24:16,260 --> 01:24:18,260
+é insuficiente
+
+1320
+01:24:18,260 --> 01:24:20,260
+como diz Harry,
+
+1321
+01:24:20,260 --> 01:24:22,260
+e me ponemos com cor.
+
+1322
+01:24:22,260 --> 01:24:24,260
+Esta ideia aqui
+
+1323
+01:24:24,260 --> 01:24:26,260
+é um
+
+1324
+01:24:26,260 --> 01:24:28,260
+um instrumento meio para fins.
+
+1325
+01:24:28,260 --> 01:24:30,260
+Fizemos a determinação
+
+1326
+01:24:30,260 --> 01:24:32,260
+instrumental e antropológica
+
+1327
+01:24:32,260 --> 01:24:34,260
+da técnica.
+
+1328
+01:24:34,260 --> 01:24:36,260
+Se isso é insuficiente, então temos que pensar
+
+1329
+01:24:36,260 --> 01:24:38,260
+como, aqui
+
+1330
+01:24:38,260 --> 01:24:40,260
+que ingresa a todo aquele conjunto de conceitos
+
+1331
+01:24:40,260 --> 01:24:42,260
+que o Harry iniciou,
+
+1332
+01:24:44,260 --> 01:24:46,260
+temos que pensar como uma determinação.
+
+1333
+01:24:50,260 --> 01:24:52,260
+Como um modo de ser epocado,
+
+1334
+01:24:52,260 --> 01:24:54,260
+da época.
+
+1335
+01:24:54,260 --> 01:24:56,260
+Epocado é uma categoria de Harry.
+
+1336
+01:24:58,260 --> 01:25:00,260
+Ele utiliza isso
+
+1337
+01:25:00,260 --> 01:25:02,260
+em lugar de falar
+
+1338
+01:25:02,260 --> 01:25:04,260
+momento histórico.
+
+1339
+01:25:04,260 --> 01:25:06,260
+Que está sempre muito
+
+1340
+01:25:06,260 --> 01:25:08,260
+vinculado a ciência histórica,
+
+1341
+01:25:08,260 --> 01:25:10,260
+a ciência empírica histórica.
+
+1342
+01:25:10,260 --> 01:25:12,260
+E que aponta a um aspecto
+
+1343
+01:25:12,260 --> 01:25:14,260
+e que tem que pensar outra coisa.
+
+1344
+01:25:14,260 --> 01:25:16,260
+Há épocas que não concordam,
+
+1345
+01:25:16,260 --> 01:25:18,260
+que não coincidem necessariamente
+
+1346
+01:25:18,260 --> 01:25:20,260
+em algumas épocas históricas.
+
+1347
+01:25:20,260 --> 01:25:22,260
+Há épocas que têm uma certa
+
+1348
+01:25:22,260 --> 01:25:24,260
+preconpreensão do mundo.
+
+1349
+01:25:24,260 --> 01:25:26,260
+A gente possa
+
+1350
+01:25:26,260 --> 01:25:28,260
+dar exemplos vulgares,
+
+1351
+01:25:28,260 --> 01:25:30,260
+vocês me discutem.
+
+1352
+01:25:32,260 --> 01:25:34,260
+Como tempo não é muito,
+
+1353
+01:25:34,260 --> 01:25:36,260
+só para que fique claro.
+
+1354
+01:25:40,260 --> 01:25:42,260
+No universo grego
+
+1355
+01:25:42,260 --> 01:25:44,260
+pode ser
+
+1356
+01:25:44,260 --> 01:25:46,260
+até grego-romano.
+
+1357
+01:25:46,260 --> 01:25:48,260
+Você tinha uma certa
+
+1358
+01:25:48,260 --> 01:25:50,260
+preconpreensão do mundo,
+
+1359
+01:25:50,260 --> 01:25:52,260
+uma ideia básica.
+
+1360
+01:25:54,260 --> 01:25:56,260
+Que te permite compreender um mundo
+
+1361
+01:25:56,260 --> 01:25:58,260
+e onde as explicações
+
+1362
+01:25:58,260 --> 01:26:00,260
+encontram seu lugar.
+
+1363
+01:26:00,260 --> 01:26:02,260
+Escutem aqui.
+
+1364
+01:26:02,260 --> 01:26:04,260
+E onde as explicações,
+
+1365
+01:26:04,260 --> 01:26:06,260
+as perguntas, as explicações
+
+1366
+01:26:06,260 --> 01:26:08,260
+encontram seu lugar.
+
+1367
+01:26:08,260 --> 01:26:10,260
+Aqui tem um problema muito denso,
+
+1368
+01:26:10,260 --> 01:26:12,260
+pois é particularmente
+
+1369
+01:26:12,260 --> 01:26:14,260
+interessante. Vamos com calma.
+
+1370
+01:26:14,260 --> 01:26:16,260
+Pensem comigo.
+
+1371
+01:26:18,260 --> 01:26:20,260
+Tudo conjunto
+
+1372
+01:26:20,260 --> 01:26:22,260
+de questões
+
+1373
+01:26:22,260 --> 01:26:24,260
+e de respostas ou desdobramentas
+
+1374
+01:26:24,260 --> 01:26:26,260
+das questões grego-romanas
+
+1375
+01:26:26,260 --> 01:26:28,260
+parte de um pressuposto,
+
+1376
+01:26:28,260 --> 01:26:30,260
+uma compreensão previa do mundo.
+
+1377
+01:26:36,260 --> 01:26:38,260
+Do Logos grego,
+
+1378
+01:26:38,260 --> 01:26:40,260
+uma transcendência
+
+1379
+01:26:40,260 --> 01:26:42,260
+racionava, uma transcendência
+
+1380
+01:26:42,260 --> 01:26:44,260
+algo existente, uma transcendência
+
+1381
+01:26:44,260 --> 01:26:46,260
+racionava. Se você fosse um mundo cristão,
+
+1382
+01:26:46,260 --> 01:26:48,260
+você ia ter uma transcendência
+
+1383
+01:26:48,260 --> 01:26:50,260
+espiritual,
+
+1384
+01:26:50,260 --> 01:26:52,260
+não mais racionava.
+
+1385
+01:26:52,260 --> 01:26:54,260
+Se você fosse um mundo moderno,
+
+1386
+01:26:54,260 --> 01:26:56,260
+você ia ter um mecanismo
+
+1387
+01:26:56,260 --> 01:26:58,260
+racional
+
+1388
+01:26:58,260 --> 01:27:00,260
+para entender o mundo.
+
+1389
+01:27:02,260 --> 01:27:04,260
+Não é que os outros modos
+
+1390
+01:27:04,260 --> 01:27:06,260
+não existam mais, é que são
+
+1391
+01:27:06,260 --> 01:27:08,260
+menos decisivos
+
+1392
+01:27:08,260 --> 01:27:10,260
+na construção de um sentido geral
+
+1393
+01:27:10,260 --> 01:27:12,260
+da época. Que nunca é fechado,
+
+1394
+01:27:12,260 --> 01:27:14,260
+que nunca é totalmente fechado.
+
+1395
+01:27:14,260 --> 01:27:16,260
+Que nunca é fechado, que nunca é totalizante.
+
+1396
+01:27:16,260 --> 01:27:18,260
+Que nunca é completamente homogêneo.
+
+1397
+01:27:18,260 --> 01:27:20,260
+Mas que dá um toque
+
+1398
+01:27:20,260 --> 01:27:22,260
+da onde é.
+
+1399
+01:27:22,260 --> 01:27:24,260
+Deixa eu dar um exemplo brutal para vocês.
+
+1400
+01:27:24,260 --> 01:27:26,260
+Vamos um mundo grego-mutológico
+
+1401
+01:27:26,260 --> 01:27:28,260
+anterior ao mundo de Platão.
+
+1402
+01:27:28,260 --> 01:27:30,260
+Um mundo mutológico.
+
+1403
+01:27:30,260 --> 01:27:32,260
+Vamos lá.
+
+1404
+01:27:32,260 --> 01:27:34,260
+Lembra como se chama nossa galáxia?
+
+1405
+01:27:34,260 --> 01:27:36,260
+Lembra como se chama nossa galáxia?
+
+1406
+01:27:36,260 --> 01:27:38,260
+Sama Via Láctea.
+
+1407
+01:27:38,260 --> 01:27:40,260
+Sama Via Láctea.
+
+1408
+01:27:40,260 --> 01:27:42,260
+Via Láctea e nossa galáxia.
+
+1409
+01:27:42,260 --> 01:27:44,260
+A nossa querida Via Láctea.
+
+1410
+01:27:44,260 --> 01:27:46,260
+A nossa querida Via Láctea.
+
+1411
+01:27:46,260 --> 01:27:48,260
+E feita de leite.
+
+1412
+01:27:48,260 --> 01:27:50,260
+Ele é feita de leite.
+
+1413
+01:27:50,260 --> 01:27:52,260
+Ele é feita de leite.
+
+1414
+01:27:52,260 --> 01:27:54,260
+Mas não é feita de leite.
+
+1415
+01:27:54,260 --> 01:27:56,260
+Vocês não são pingos de leite.
+
+1416
+01:27:56,260 --> 01:27:58,260
+Vocês se chamam assim porque o nome
+
+1417
+01:27:58,260 --> 01:28:00,260
+que foi dado fica divertido.
+
+1418
+01:28:04,260 --> 01:28:06,260
+A mitologia grega dizia que são
+
+1419
+01:28:06,260 --> 01:28:08,260
+os pingos mais bonitos.
+
+1420
+01:28:08,260 --> 01:28:10,260
+São os pingos de leite de Deus
+
+1421
+01:28:10,260 --> 01:28:12,260
+aumentando os seus
+
+1422
+01:28:12,260 --> 01:28:14,260
+no universo.
+
+1423
+01:28:14,260 --> 01:28:16,260
+Os pingos de leite de Deus
+
+1424
+01:28:16,260 --> 01:28:18,260
+aumentando os seus
+
+1425
+01:28:18,260 --> 01:28:20,260
+são mais bonitos.
+
+1426
+01:28:20,260 --> 01:28:22,260
+Infelizmente mais bonitos que a outra.
+
+1427
+01:28:22,260 --> 01:28:24,260
+Querias esterar um pouco.
+
+1428
+01:28:24,260 --> 01:28:26,260
+Esterar compactado.
+
+1429
+01:28:26,260 --> 01:28:28,260
+Ficou muito comprimido.
+
+1430
+01:28:28,260 --> 01:28:30,260
+Pegou fogo e brilho.
+
+1431
+01:28:30,260 --> 01:28:32,260
+As duas são um delívio.
+
+1432
+01:28:32,260 --> 01:28:34,260
+Não sei quando as duas são de verdade.
+
+1433
+01:28:34,260 --> 01:28:36,260
+As duas são delícias.
+
+1434
+01:28:36,260 --> 01:28:38,260
+Eu não sei.
+
+1435
+01:28:38,260 --> 01:28:40,260
+Mas eu digo.
+
+1436
+01:28:40,260 --> 01:28:42,260
+Mas o pessoal da
+
+1437
+01:28:42,260 --> 01:28:44,260
+mitologia não sabia
+
+1438
+01:28:44,260 --> 01:28:46,260
+de noxinhos elementos para saber
+
+1439
+01:28:46,260 --> 01:28:48,260
+o que é o que é o que passa.
+
+1440
+01:28:50,260 --> 01:28:52,260
+Para ver essas normalidades.
+
+1441
+01:28:52,260 --> 01:28:54,260
+Não é isso que está aí.
+
+1442
+01:28:56,260 --> 01:28:58,260
+Há uma máquina de tempo.
+
+1443
+01:28:58,260 --> 01:29:00,260
+Isso que assim se inventou ainda.
+
+1444
+01:29:00,260 --> 01:29:02,260
+E foi isso que foi.
+
+1445
+01:29:02,260 --> 01:29:04,260
+E eu explico para eles que não
+
+1446
+01:29:04,260 --> 01:29:06,260
+faz sentido.
+
+1447
+01:29:06,260 --> 01:29:08,260
+Não faz sentido.
+
+1448
+01:29:08,260 --> 01:29:10,260
+Não faz sentido, rapaz.
+
+1449
+01:29:10,260 --> 01:29:12,260
+Não faz sentido.
+
+1450
+01:29:12,260 --> 01:29:14,260
+Porque a compreensão do mundo deles
+
+1451
+01:29:14,260 --> 01:29:16,260
+ou mais ou menos como quando o pessoal
+
+1452
+01:29:16,260 --> 01:29:18,260
+do Medieval, no século X,
+
+1453
+01:29:18,260 --> 01:29:20,260
+falava que morcego,
+
+1454
+01:29:20,260 --> 01:29:22,260
+jato, gato e coruja
+
+1455
+01:29:22,260 --> 01:29:24,260
+eram bichos parentes.
+
+1456
+01:29:24,260 --> 01:29:26,260
+Ou grandemoniacos.
+
+1457
+01:29:26,260 --> 01:29:28,260
+Entendeu?
+
+1458
+01:29:28,260 --> 01:29:30,260
+Mas já te vou explicar que um morfológico
+
+1459
+01:29:30,260 --> 01:29:32,260
+anatomicamente diferente
+
+1460
+01:29:32,260 --> 01:29:34,260
+não tem nada a ver.
+
+1461
+01:29:34,260 --> 01:29:36,260
+Porque a compreensão do mundo era outra.
+
+1462
+01:29:36,260 --> 01:29:38,260
+Ou seja, as perguntas
+
+1463
+01:29:38,260 --> 01:29:40,260
+se as respostas do que o mundo
+
+1464
+01:29:40,260 --> 01:29:42,260
+depende de uma ideia que temos antes.
+
+1465
+01:29:42,260 --> 01:29:44,260
+E aí não é que me evolui outra melhor que a outra.
+
+1466
+01:29:44,260 --> 01:29:46,260
+Isso é um papo curado.
+
+1467
+01:29:46,260 --> 01:29:48,260
+Desculpa.
+
+1468
+01:29:48,260 --> 01:29:50,260
+Se os cientistas ficam pistórias com isso.
+
+1469
+01:29:50,260 --> 01:29:52,260
+Mas porque?
+
+1470
+01:29:52,260 --> 01:29:54,260
+Não sei o que é a gente de aqui,
+
+1471
+01:29:54,260 --> 01:29:56,260
+porque nos interessantes, os homens, os futuros,
+
+1472
+01:29:56,260 --> 01:29:58,260
+se ainda existem seres humanos,
+
+1473
+01:29:58,260 --> 01:30:00,260
+vai pensar sobre nós.
+
+1474
+01:30:00,260 --> 01:30:02,260
+Por que?
+
+1475
+01:30:02,260 --> 01:30:04,260
+Porque você precisa ter um conjunto de perguntas
+
+1476
+01:30:04,260 --> 01:30:06,260
+e respostas de acordo com a época.
+
+1477
+01:30:06,260 --> 01:30:08,260
+Isso que está sendo rápido.
+
+1478
+01:30:08,260 --> 01:30:10,260
+Então,
+
+1479
+01:30:10,260 --> 01:30:12,260
+a técnica e o modo de ser um...
+
+1480
+01:30:12,260 --> 01:30:14,260
+O que está sendo o seguinte?
+
+1481
+01:30:14,260 --> 01:30:16,260
+A profusão de elementos tecnológicos
+
+1482
+01:30:16,260 --> 01:30:18,260
+que é um modo de ser técnico,
+
+1483
+01:30:18,260 --> 01:30:20,260
+que nos dá uma preconversão da realidade
+
+1484
+01:30:20,260 --> 01:30:22,260
+que entendemos o mundo técnicamente.
+
+1485
+01:30:26,260 --> 01:30:28,260
+Isso que está sendo rápido.
+
+1486
+01:30:28,260 --> 01:30:30,260
+É verdade que um fazer humano para a fim,
+
+1487
+01:30:30,260 --> 01:30:32,260
+mas isso é subordinado.
+
+1488
+01:30:32,260 --> 01:30:34,260
+O verdadeiramente importante
+
+1489
+01:30:34,260 --> 01:30:36,260
+é que a técnica
+
+1490
+01:30:36,260 --> 01:30:38,260
+é um modo de preconpreender
+
+1491
+01:30:38,260 --> 01:30:40,260
+uma preconprensa, um sentido
+
+1492
+01:30:40,260 --> 01:30:42,260
+do que temos na realidade,
+
+1493
+01:30:42,260 --> 01:30:44,260
+onde as perguntas e as respostas
+
+1494
+01:30:44,260 --> 01:30:46,260
+fazem sentido para nós.
+
+1495
+01:30:46,260 --> 01:30:48,260
+Onde nossas perguntas
+
+1496
+01:30:48,260 --> 01:30:50,260
+e nossas respostas
+
+1497
+01:30:50,260 --> 01:30:52,260
+fazem sentido para nós.
+
+1498
+01:30:52,260 --> 01:30:54,260
+Eu posso dar
+
+1499
+01:30:54,260 --> 01:30:56,260
+uma quantidade inumerável
+
+1500
+01:30:56,260 --> 01:30:58,260
+de exemplos sobre isso.
+
+1501
+01:30:58,260 --> 01:31:00,260
+Inumerável.
+
+1502
+01:31:00,260 --> 01:31:02,260
+Veja,
+
+1503
+01:31:02,260 --> 01:31:04,260
+a ideia que temos
+
+1504
+01:31:04,260 --> 01:31:06,260
+de corpo,
+
+1505
+01:31:06,260 --> 01:31:08,260
+a ideia que temos de corpo,
+
+1506
+01:31:08,260 --> 01:31:10,260
+a ideia mecanicista
+
+1507
+01:31:10,260 --> 01:31:12,260
+que foi até moderna ainda,
+
+1508
+01:31:12,260 --> 01:31:14,260
+mas é uma ideia
+
+1509
+01:31:14,260 --> 01:31:16,260
+da representação imagética.
+
+1510
+01:31:16,260 --> 01:31:18,260
+Se você é um médico,
+
+1511
+01:31:18,260 --> 01:31:20,260
+o cara te soca de uma escala,
+
+1512
+01:31:20,260 --> 01:31:22,260
+não tem nada a conta.
+
+1513
+01:31:22,260 --> 01:31:24,260
+Não tem nada a conta.
+
+1514
+01:31:24,260 --> 01:31:26,260
+Um homérico, adoro.
+
+1515
+01:31:26,260 --> 01:31:28,260
+Em tomografias, não.
+
+1516
+01:31:28,260 --> 01:31:30,260
+Em personagens, eu não faço muito barulho,
+
+1517
+01:31:30,260 --> 01:31:32,260
+mas eu não estou criticando.
+
+1518
+01:31:32,260 --> 01:31:34,260
+Estou apenas constatando um fato.
+
+1519
+01:31:34,260 --> 01:31:36,260
+Estou apenas constatando um fato.
+
+1520
+01:31:36,260 --> 01:31:38,260
+Há uma ideia de corpo
+
+1521
+01:31:38,260 --> 01:31:40,260
+tecnicamente mediadissada.
+
+1522
+01:31:40,260 --> 01:31:42,260
+Há uma ideia de saúde
+
+1523
+01:31:42,260 --> 01:31:44,260
+de um conjunto de equilíbrios
+
+1524
+01:31:44,260 --> 01:31:46,260
+tecnicamente verificados.
+
+1525
+01:31:46,260 --> 01:31:48,260
+As religiões se tomam tecnológicas
+
+1526
+01:31:48,260 --> 01:31:50,260
+a relação com a transcendência.
+
+1527
+01:31:54,260 --> 01:31:56,260
+É classicamente discutida tecnologicamente.
+
+1528
+01:32:00,260 --> 01:32:02,260
+Os corpos são construídos tecnológicos,
+
+1529
+01:32:02,260 --> 01:32:04,260
+inventamos corpos que não existem.
+
+1530
+01:32:04,260 --> 01:32:06,260
+Inventamos corpos que não existem
+
+1531
+01:32:06,260 --> 01:32:08,260
+em uma academia.
+
+1532
+01:32:08,260 --> 01:32:10,260
+Quando eu pratico fisiculturismo,
+
+1533
+01:32:10,260 --> 01:32:12,260
+que não tem nada a conta,
+
+1534
+01:32:12,260 --> 01:32:14,260
+posso inventar um corpo que não
+
+1535
+01:32:14,260 --> 01:32:16,260
+está na natureza desse modo.
+
+1536
+01:32:16,260 --> 01:32:18,260
+Quando eu coloco
+
+1537
+01:32:18,260 --> 01:32:20,260
+uma prótesa de alguma coisa,
+
+1538
+01:32:20,260 --> 01:32:22,260
+quando eu reconstrui um corpo mutilado
+
+1539
+01:32:22,260 --> 01:32:24,260
+a partir de elementos
+
+1540
+01:32:24,260 --> 01:32:26,260
+que não estavam na natureza.
+
+1541
+01:32:28,260 --> 01:32:30,260
+Quando um transexual cria um corpo
+
+1542
+01:32:30,260 --> 01:32:32,260
+mutilado. São intensões tecnológicas.
+
+1543
+01:32:32,260 --> 01:32:34,260
+O corpo passa hoje a transcendência,
+
+1544
+01:32:34,260 --> 01:32:36,260
+a estética nem se fala,
+
+1545
+01:32:36,260 --> 01:32:38,260
+a política nem se fala.
+
+1546
+01:32:38,260 --> 01:32:40,260
+Tudo isso está atravessado hoje pelo modo
+
+1547
+01:32:40,260 --> 01:32:42,260
+que entendemos isso tecnologicamente.
+
+1548
+01:32:42,260 --> 01:32:44,260
+Escutem bem.
+
+1549
+01:32:44,260 --> 01:32:46,260
+Podemos gostar ou não gostar
+
+1550
+01:32:46,260 --> 01:32:48,260
+desse outro corpo.
+
+1551
+01:32:50,260 --> 01:32:52,260
+Podemos criticar, ser horroroso.
+
+1552
+01:32:52,260 --> 01:32:54,260
+Mas para você criticar e ser
+
+1553
+01:32:54,260 --> 01:32:56,260
+ser asqueroso,
+
+1554
+01:32:56,260 --> 01:32:58,260
+você tem que compreender antes.
+
+1555
+01:32:58,260 --> 01:33:00,260
+Tem que fazer sentido para a gente.
+
+1556
+01:33:00,260 --> 01:33:02,260
+Tem que fazer sentido.
+
+1557
+01:33:04,260 --> 01:33:06,260
+Portanto,
+
+1558
+01:33:06,260 --> 01:33:08,260
+você tem uma preconpreensão nisso.
+
+1559
+01:33:08,260 --> 01:33:10,260
+Faz sentido para o mundo.
+
+1560
+01:33:10,260 --> 01:33:12,260
+Faz sentido para o mundo.
+
+1561
+01:33:12,260 --> 01:33:14,260
+Tudo,
+
+1562
+01:33:14,260 --> 01:33:16,260
+todos os campos
+
+1563
+01:33:16,260 --> 01:33:18,260
+de nossa realidade concreta,
+
+1564
+01:33:18,260 --> 01:33:20,260
+são, em última instância, determinados
+
+1565
+01:33:20,260 --> 01:33:22,260
+para uma certa compreensão,
+
+1566
+01:33:22,260 --> 01:33:24,260
+não absolutamente determinada,
+
+1567
+01:33:24,260 --> 01:33:26,260
+mas são de algum modo determinados
+
+1568
+01:33:26,260 --> 01:33:28,260
+para uma certa compreensão que temos na realidade.
+
+1569
+01:33:30,260 --> 01:33:32,260
+Tecnicamente constituindo.
+
+1570
+01:33:32,260 --> 01:33:34,260
+Tecnologicamente expressado.
+
+1571
+01:33:34,260 --> 01:33:36,260
+Um ser técnico de um mundo que será
+
+1572
+01:33:36,260 --> 01:33:38,260
+uma proliferação
+
+1573
+01:33:38,260 --> 01:33:40,260
+do órgão tecnológico.
+
+1574
+01:33:42,260 --> 01:33:44,260
+O que Heidegger está apontando
+
+1575
+01:33:44,260 --> 01:33:46,260
+é justamente isso.
+
+1576
+01:33:48,260 --> 01:33:50,260
+A técnica é um modo
+
+1577
+01:33:50,260 --> 01:33:52,260
+que eu escrevi aqui
+
+1578
+01:33:52,260 --> 01:33:54,260
+de entender o mundo como fonte de produção.
+
+1579
+01:33:54,260 --> 01:33:56,260
+Então,
+
+1580
+01:33:56,260 --> 01:33:58,260
+vamos continuar
+
+1581
+01:33:58,260 --> 01:34:00,260
+na análise.
+
+1582
+01:34:00,260 --> 01:34:02,260
+Saímos com Heidegger,
+
+1583
+01:34:02,260 --> 01:34:04,260
+saímos com Heidegger
+
+1584
+01:34:04,260 --> 01:34:06,260
+da ideia de uma realidade
+
+1585
+01:34:06,260 --> 01:34:08,260
+e de uma natureza
+
+1586
+01:34:08,260 --> 01:34:10,260
+puramente instrumentada
+
+1587
+01:34:10,260 --> 01:34:12,260
+e antropológica da técnica.
+
+1588
+01:34:12,260 --> 01:34:14,260
+Para começar a pensar rigorosamente
+
+1589
+01:34:16,260 --> 01:34:18,260
+uma técnica
+
+1590
+01:34:18,260 --> 01:34:20,260
+com um certo modo de compreender a realidade.
+
+1591
+01:34:22,260 --> 01:34:24,260
+Que determina, inclusive, inclusive
+
+1592
+01:34:24,260 --> 01:34:26,260
+o conjunto de perguntas
+
+1593
+01:34:26,260 --> 01:34:28,260
+e de respostas sobre o que é a realidade.
+
+1594
+01:34:30,260 --> 01:34:32,260
+E todos os estudamentos, usos do poder
+
+1595
+01:34:32,260 --> 01:34:34,260
+política,
+
+1596
+01:34:34,260 --> 01:34:36,260
+usos da presença no nosso mundo,
+
+1597
+01:34:36,260 --> 01:34:38,260
+saúde,
+
+1598
+01:34:38,260 --> 01:34:40,260
+usos da capacidade artística, estética,
+
+1599
+01:34:40,260 --> 01:34:42,260
+não sei o que mais.
+
+1600
+01:34:42,260 --> 01:34:44,260
+O que mais.
+
+1601
+01:34:46,260 --> 01:34:48,260
+Agora
+
+1602
+01:34:50,260 --> 01:34:52,260
+temos que fazer outra pergunta,
+
+1603
+01:34:52,260 --> 01:34:54,260
+uma outra questão.
+
+1604
+01:34:54,260 --> 01:34:56,260
+Como é que se determina
+
+1605
+01:34:56,260 --> 01:34:58,260
+como é que se determina
+
+1606
+01:34:58,260 --> 01:35:00,260
+este modo ser D new?
+
+1607
+01:35:00,260 --> 01:35:02,260
+Como é que se determina
+
+1608
+01:35:02,260 --> 01:35:04,260
+este modo ser D new?
+
+1609
+01:35:08,260 --> 01:35:10,260
+Como é que se determina esse modo ser D
+
+1610
+01:35:12,260 --> 01:35:14,260
+idiotal determinado?
+
+1611
+01:35:14,260 --> 01:35:16,260
+Como é que o advertisers
+
+1612
+01:35:16,260 --> 01:35:18,260
+que são seus predicados?
+
+1613
+01:35:22,260 --> 01:35:24,260
+Pois são seus modos
+
+1614
+01:35:24,260 --> 01:35:28,260
+De que irmos sacar um interessante de Haier?
+
+1615
+01:35:32,260 --> 01:35:37,260
+Haier deflagra tudo da sua análise sobre a essência da técnica.
+
+1616
+01:35:41,260 --> 01:35:49,260
+A partir de um depoiesis, de produção, depoiesis é um depoiesia.
+
+1617
+01:35:50,260 --> 01:35:55,260
+Deberíamos aqui analisar a diferença entre fisis e tecne, muito grego.
+
+1618
+01:35:55,260 --> 01:35:57,260
+Não fazemos tempo.
+
+1619
+01:35:57,260 --> 01:36:01,260
+Deberíamos terminar das um depoiesis, fisis, tecne e poliesis,
+
+1620
+01:36:01,260 --> 01:36:03,260
+nos categorias que Haier analisa.
+
+1621
+01:36:08,260 --> 01:36:12,260
+Haier volta o grego para pensar fisis, tecne e poliesis
+
+1622
+01:36:12,260 --> 01:36:17,260
+e adotrina as causalidades, as quatro causas e as pistolas
+
+1623
+01:36:17,260 --> 01:36:19,260
+para pensar a sua textura.
+
+1624
+01:36:32,260 --> 01:36:36,260
+Mas Haier determina que este modo de ser da época,
+
+1625
+01:36:36,260 --> 01:36:40,260
+este modo ou celeste de modo de compreender,
+
+1626
+01:36:40,260 --> 01:36:43,260
+de uma preconpreensão da realidade,
+
+1627
+01:36:43,260 --> 01:36:47,260
+ou se você não se explica a sua vez em contra de seu lugar,
+
+1628
+01:36:47,260 --> 01:36:50,260
+corretas ou incorretas, verdadeiras ou falsas,
+
+1629
+01:36:50,260 --> 01:36:51,260
+não importa qual é.
+
+1630
+01:36:51,260 --> 01:36:53,260
+Fazem sentido, não é bom?
+
+1631
+01:36:55,260 --> 01:36:58,260
+Deve ser determinado, tem algumas características.
+
+1632
+01:36:58,260 --> 01:37:00,260
+Tem algumas características.
+
+1633
+01:37:02,260 --> 01:37:04,260
+Dizem que é interessante.
+
+1634
+01:37:04,260 --> 01:37:06,260
+A primeira é apoiar essa produção.
+
+1635
+01:37:06,260 --> 01:37:07,260
+Produção.
+
+1636
+01:37:08,260 --> 01:37:09,260
+Viu?
+
+1637
+01:37:10,260 --> 01:37:13,260
+De uma ???
+
+1638
+01:37:14,260 --> 01:37:16,260
+Tenhica e produção?
+
+1639
+01:37:24,260 --> 01:37:25,260
+Certo?
+
+1640
+01:37:27,260 --> 01:37:29,260
+Fio que você não beste했어 que não foi fazer isso no Mahallel.
+
+1641
+01:37:29,260 --> 01:37:31,300
+Visse que fosse fazer isso coulevoramente.
+
+1642
+01:37:31,300 --> 01:37:34,260
+Por isso engineers foram estavam na programação.
+
+1643
+01:37:34,260 --> 01:37:36,260
+E os seus gemidos diss engines whackz um pouco desses e saltaram.
+
+1644
+01:37:36,260 --> 01:37:54,260
+A técnica produz, uma das determinações, os modos fundamentais que a técnica tem é o fato de que ela incessantemente produz e a partir dela mesma produz mais.
+
+1645
+01:37:54,260 --> 01:38:04,260
+Ou seja, esta compreensão de realidade imprime a nossa relação com o mundo a necessidade permanente de um produto.
+
+1646
+01:38:06,260 --> 01:38:09,260
+Ah, não! Escuta-me. Vamos lá.
+
+1647
+01:38:09,260 --> 01:38:16,260
+O que o primeiro que produz a técnica? Não sei. Não sei que técnica. O que o primeiro que ela produz?
+
+1648
+01:38:16,260 --> 01:38:24,260
+Ai nos devido. Mais anos. Queremos viver mais. O fato de que vivemos muito mais. Pra que não sei. Eu quero viver mais.
+
+1649
+01:38:24,260 --> 01:38:36,260
+Também não sei pra que nós queremos. Produz anos de vida. Produz bem-estar, conforto. Siga o que isso for.
+
+1650
+01:38:36,260 --> 01:38:50,260
+Produz certo tipo de regularidade da vida. Produz estes materiais. Produz carros. Produz computadores. Produz roupa. Muitas coisas.
+
+1651
+01:38:50,260 --> 01:39:01,260
+E sempre mais. Celulares. Mas também produz outras coisas. Não apenas panos de vida.
+
+1652
+01:39:01,260 --> 01:39:12,260
+Não apenas certe ideia de conforto, que significa nada mais. Para alguns segmentos, para outros, não. Menanos e conforto.
+
+1653
+01:39:12,260 --> 01:39:26,260
+Os segmentos são todos avejados da técnica. E a produz bem-material, sim, também. Mas produz sabe o que? Produz mais material estético. Produz mais conteúdos.
+
+1654
+01:39:26,260 --> 01:39:34,260
+Que YouTube. Que Instagram. Que oficial. É uma fantástica máquina de produzir.
+
+1655
+01:39:34,260 --> 01:39:51,260
+99% das vezes é bobagem da missão que produz. Produz tempo. Produz tempo. Celular argentino. Celular. É uma máquina de tempo.
+
+1656
+01:39:51,260 --> 01:40:06,260
+É somente quatro minutos. Fica com mais. Fica comigo. Olha que vídeo a cara. Se gostou disso. Fica mais. Não vai embora. Fica comigo.
+
+1657
+01:40:06,260 --> 01:40:18,260
+Produz arte. Produz arte. Produz turismo para conhecer lugares bonitos e diferentes.
+
+1658
+01:40:18,260 --> 01:40:28,260
+A técnica produz. Vou dar um exemplo polêmico. Escuta-me. Escuta-me. Olha o branco. Estamos tudo o mesmo lado. Não foi uma coisa terrível agora.
+
+1659
+01:40:28,260 --> 01:40:40,260
+Mas só para fins pedagógicos. Estamos tudo o mesmo lado. Não matem o mensagem. Só apenas fazendo uma análise.
+
+1660
+01:40:40,260 --> 01:40:56,260
+Quem faz um plantador de sol? Quando eu quero aumentar a frontera de líquido. Que faz? Que produz mais sol?
+
+1661
+01:40:56,260 --> 01:41:10,260
+Muito mais lucro. Guarda esta segunda categoria, o que é importante. Como que ele saiba a produzir mais importante ou mais sol?
+
+1662
+01:41:10,260 --> 01:41:21,260
+Muito mais sol e mais lucro. Porque ele vai fazer um cálculo. A produção. Segunda categoria técnica. A produção.
+
+1663
+01:41:21,260 --> 01:41:32,260
+A produção. Que eu leio o motivo principal. Ela se pauta com a produção. Mais uma vez lanço outro desafio.
+
+1664
+01:41:32,260 --> 01:41:41,260
+O desafio é os 6 que me falem que não é produção. A quantidade de produção de pessoas que dizem que temos que estar à vida.
+
+1665
+01:41:41,260 --> 01:41:53,260
+Que temos que ir mais devagar. Que podemos ir mais calmos. Slow food. Budistas de todas as estirfes. São cada vez mais produzidos.
+
+1666
+01:41:54,260 --> 01:42:06,260
+Producem aqueles que não querem produzir. A técnica produz aquele que não querem produzir. Aquele que critica a produção. Já está produzindo.
+
+1667
+01:42:06,260 --> 01:42:19,260
+Então a técnica época. A época da produção. Producem os anos de vida e saúde. Até arte. Até beleza. Até conhecimento turístico.
+
+1668
+01:42:19,260 --> 01:42:29,260
+Até encontro com pessoas bacanas e diferentes. Até um hostel em Berlim onde você encontra pessoas maravilhosas, honestas, transparentes.
+
+1669
+01:42:29,260 --> 01:42:43,260
+Tudo isso em produção. Também de produção. E as merdas. Afrotópsicos. Agentes medicamente modificados em controle.
+
+1670
+01:42:43,260 --> 01:42:53,260
+Tudo isso é... Deus sentiu em nossa época. Nossas épocas não existem departamentos de recursos humanos. São os recursos humanos.
+
+1671
+01:42:55,260 --> 01:43:07,260
+São os recursos como toda a natureza de membros de força. Então, segunda questão. A técnica produz. A técnica é produção.
+
+1672
+01:43:08,260 --> 01:43:17,260
+Mas como é que ela produz? Como é que se verifica o uso constante dessa produção?
+
+1673
+01:43:20,260 --> 01:43:30,260
+Sua nobreza. Sua eficácia. Como é que a desejamos ou não a desejamos? A partir de um outro elemento clássico da técnica. O cálculo.
+
+1674
+01:43:31,260 --> 01:43:40,260
+O cálculo. A calculabilidade. A técnica, meus amigos e amigas, é produção de cálculo.
+
+1675
+01:43:41,260 --> 01:43:52,260
+Ela produz e produz de modo calculado. Eu que a calcula mais produção de qualquer coisa. De qualquer coisa. Mais produção.
+
+1676
+01:43:52,260 --> 01:44:06,260
+Precisamos do cálculo para saber que é mais produção. A natureza se torna um cálculo. Nós mesmos somos uma produção baseada no cálculo.
+
+1677
+01:44:07,260 --> 01:44:17,260
+Voltemos então ao nosso plantador, o Soja Sinistro. Que quer ampliar a frontera de líquida, só para ter mais lucro e não se interessa mais por nada.
+
+1678
+01:44:17,260 --> 01:44:31,260
+O que ele faz? Produce desmatamento. Produce mais soja. Cema mais soja, placa mais soja. Produce mais coleta. Vende. Produce mais lucro.
+
+1679
+01:44:32,260 --> 01:44:39,260
+O problema é o que temos hoje. Nas ruas do país estão cortadas. Parece um problema.
+
+1680
+01:44:39,260 --> 01:44:59,260
+O que ele faz? Não vende mistério. O que ele quer? Produzir. Produzir que mais ar lindos. Mais biodiversidade.
+
+1681
+01:44:59,260 --> 01:45:07,260
+Mantenha para produzir tudo isso. Mais floresta em pé.
+
+1682
+01:45:12,260 --> 01:45:20,260
+Como é que os dois operam? Os dois calculam. Algumas que não são. Todo um exemplo terrível. Estamos do mesmo lado.
+
+1683
+01:45:21,260 --> 01:45:29,260
+Como a determinação da época já de anterior as escolhas?
+
+1684
+01:45:30,260 --> 01:45:40,260
+Tanto plantador do Soja quanto mentalista fazem uso dos mesmos dispositivos da época. A produção não calcule.
+
+1685
+01:45:40,260 --> 01:45:46,980
+Um calcula que hectares desmatados, hectares plantados, produção por hectares,
+
+1686
+01:45:46,980 --> 01:45:50,260
+venda na saca de soja um preço internacional de núcleo.
+
+1687
+01:45:50,260 --> 01:45:54,860
+Outro calcula que quantidade de flores tem p, quantidade de universidade,
+
+1688
+01:45:54,860 --> 01:46:00,580
+toneladas de carbón sequestrado, capturado por essa quantidade de flores tem p,
+
+1689
+01:46:00,580 --> 01:46:05,900
+mais limpeza de um doar, melhor nível de venda. Calcula tudo isso.
+
+1690
+01:46:05,900 --> 01:46:09,460
+Os dois produzem e calculam.
+
+1691
+01:46:09,540 --> 01:46:11,580
+Os dois produzem e calculam.
+
+1692
+01:46:11,580 --> 01:46:14,060
+Desculpe-me, é isso.
+
+1693
+01:46:14,060 --> 01:46:17,820
+A distinção de passar por outro lugar, então.
+
+1694
+01:46:17,820 --> 01:46:21,500
+A distinção de passar por outro lugar.
+
+1695
+01:46:21,500 --> 01:46:24,980
+Os dois produzem e os dois calculam.
+
+1696
+01:46:24,980 --> 01:46:27,300
+Sério ambientalista, sério plantado de soja.
+
+1697
+01:46:27,300 --> 01:46:32,780
+A distinção de os dois, a que faz que não se dizemos de um lado e não do outro.
+
+1698
+01:46:32,780 --> 01:46:35,620
+Passa por outro lugar, então.
+
+1699
+01:46:35,620 --> 01:46:38,740
+Essa é a época da técnica funcionando.
+
+1700
+01:46:38,820 --> 01:46:44,340
+O ambientalista que quer salvar a Amazônia não pode abrir mão da produção do cárculo.
+
+1701
+01:46:44,340 --> 01:46:47,980
+E o plantador de soja, que isso se importa pelo mundo que eu tenho com o mundo,
+
+1702
+01:46:47,980 --> 01:46:50,260
+também vai estar no outro lugar.
+
+1703
+01:46:50,260 --> 01:46:52,060
+Isso é que caiu de vista.
+
+1704
+01:46:52,060 --> 01:46:55,020
+Por isso, as frases polêmicas se caem, e tudo isso.
+
+1705
+01:46:55,020 --> 01:46:58,020
+Aí a política tem nada para fazer aqui.
+
+1706
+01:46:59,940 --> 01:47:07,700
+Um dos mais belos perigos, parvissírios, assassinatos do pai,
+
+1707
+01:47:07,780 --> 01:47:13,940
+filosóficos mais belos da história da filosofia, acontece com Hallya.
+
+1708
+01:47:13,940 --> 01:47:18,980
+Ou que na década de 1931 a turma da Lúgros de Hallya e Galvendaglia,
+
+1709
+01:47:18,980 --> 01:47:24,060
+essa turma estava formada por Hannah Arendt, Karl Levitt, Hans Jonas,
+
+1710
+01:47:24,060 --> 01:47:27,620
+Levina e alguns outros.
+
+1711
+01:47:27,620 --> 01:47:32,260
+Então, Levina, Jonas, Levina, Hannah Arendt e os outros.
+
+1712
+01:47:32,260 --> 01:47:34,380
+E o próprio Hallya.
+
+1713
+01:47:34,380 --> 01:47:36,940
+A turma se turmas.
+
+1714
+01:47:37,020 --> 01:47:42,980
+Hallya insistiu sempre que a ética e política não têm nada para disser na nossa realidade,
+
+1715
+01:47:42,980 --> 01:47:48,980
+porque elas já estão determinadas para a nossa pré-compreensão de mundo.
+
+1716
+01:47:48,980 --> 01:47:56,780
+Todos eles, todos eles, grandes pensadores possíveis, saem para uma luta para pensar
+
+1717
+01:47:56,780 --> 01:47:58,620
+o política ou a ética.
+
+1718
+01:47:58,620 --> 01:48:03,180
+Um parvissírio, a morte do pai, dos mais belos.
+
+1719
+01:48:03,180 --> 01:48:06,700
+Hallya dando aula dizendo que não há nada que fazer com a ética e política.
+
+1720
+01:48:06,700 --> 01:48:08,700
+Sinto muito.
+
+1721
+01:48:08,700 --> 01:48:12,700
+Já estamos predeterminados pela compreensão de mundo que temos.
+
+1722
+01:48:12,700 --> 01:48:18,380
+Então, se eles saem para matar o pai, não, ainda a ética e a política tem para falar.
+
+1723
+01:48:18,380 --> 01:48:21,380
+Eu acho que ainda a ética e a política têm muito nada.
+
+1724
+01:48:21,380 --> 01:48:22,860
+Desculpe o Hallya daí.
+
+1725
+01:48:22,860 --> 01:48:25,700
+Mas o argumento de Hallya é muito forte.
+
+1726
+01:48:25,700 --> 01:48:29,940
+Vê-se esse exemplo extremo, que os nossos soparam para acertar lógico.
+
+1727
+01:48:29,940 --> 01:48:33,700
+Tanto o ambientalista quanto as pessoas, tanto as pessoas fazem o mesmo.
+
+1728
+01:48:33,700 --> 01:48:35,700
+Producem e calculam.
+
+1729
+01:48:37,700 --> 01:48:39,700
+O traficante produz e calcula.
+
+1730
+01:48:39,700 --> 01:48:41,700
+O médico produz e calcula.
+
+1731
+01:48:43,700 --> 01:48:46,700
+Essa é a pré-compreensão que Hallya determina do mundo.
+
+1732
+01:48:47,700 --> 01:48:49,700
+Já estamos determinados por isso.
+
+1733
+01:48:51,700 --> 01:48:53,700
+Nossas respostas, nossas práticas.
+
+1734
+01:48:53,700 --> 01:48:55,700
+Nosso uso do poder, dos valores.
+
+1735
+01:48:55,700 --> 01:48:57,700
+Já estamos determinados por isso.
+
+1736
+01:49:01,700 --> 01:49:03,700
+Só uso um número.
+
+1737
+01:49:04,700 --> 01:49:06,700
+Alguém já viu?
+
+1738
+01:49:06,700 --> 01:49:08,700
+Alguém já viu?
+
+1739
+01:49:10,700 --> 01:49:12,700
+O rio o azul?
+
+1740
+01:49:12,700 --> 01:49:14,700
+Ninguém viu o rio o santo.
+
+1741
+01:49:14,700 --> 01:49:16,700
+Você viu uma barragem?
+
+1742
+01:49:16,700 --> 01:49:18,700
+O que é o tempo?
+
+1743
+01:49:18,700 --> 01:49:20,700
+Um conjunto de turbinas.
+
+1744
+01:49:20,700 --> 01:49:22,700
+Quantos gigavatios produz?
+
+1745
+01:49:22,700 --> 01:49:24,700
+Quantas turbinas estão ligadas?
+
+1746
+01:49:24,700 --> 01:49:26,700
+Qual é a evasão?
+
+1747
+01:49:27,700 --> 01:49:29,700
+Eu nunca fui ao rio santo Francisco.
+
+1748
+01:49:29,700 --> 01:49:32,700
+Mas eu lembro que sabia tudo o rio santo Francisco.
+
+1749
+01:49:33,700 --> 01:49:35,700
+Mas eu já me esqueci.
+
+1750
+01:49:36,700 --> 01:49:39,700
+Quanta água se deve desviar da transposição?
+
+1751
+01:49:39,700 --> 01:49:41,700
+Quanto irá cair a evasão?
+
+1752
+01:49:41,700 --> 01:49:44,700
+Quantas cidades e procurações seriam impactadas
+
+1753
+01:49:44,700 --> 01:49:46,700
+beneficiamente por isso?
+
+1754
+01:49:46,700 --> 01:49:48,700
+Eu nunca molhei.
+
+1755
+01:49:48,700 --> 01:49:50,700
+Eu nunca molhei meus pés no rio santo Francisco.
+
+1756
+01:49:50,700 --> 01:49:53,700
+Eu nunca fui como um pai a pescar no rio santo Francisco.
+
+1757
+01:49:54,700 --> 01:49:55,700
+Nunca.
+
+1758
+01:49:55,700 --> 01:49:57,700
+O que é pra mim o rio santo Francisco?
+
+1759
+01:49:57,700 --> 01:49:59,700
+Um número.
+
+1760
+01:49:59,700 --> 01:50:01,700
+Um cargo de transposição.
+
+1761
+01:50:01,700 --> 01:50:03,700
+Não. Pronto de dizer isso a constante.
+
+1762
+01:50:05,700 --> 01:50:08,700
+Cidades impactadas, procurações beneficiadas.
+
+1763
+01:50:10,700 --> 01:50:12,700
+Produção e cálculo.
+
+1764
+01:50:12,700 --> 01:50:14,700
+Diz cálculo.
+
+1765
+01:50:14,700 --> 01:50:16,700
+E já parece sempre uma barragem,
+
+1766
+01:50:16,700 --> 01:50:19,700
+uma barragem no rio reino.
+
+1767
+01:50:20,700 --> 01:50:22,700
+Conheci uma ponte no rio.
+
+1768
+01:50:22,700 --> 01:50:24,700
+A ponte estava no rio.
+
+1769
+01:50:24,700 --> 01:50:26,700
+A ponte atravessava o rio, estava no rio.
+
+1770
+01:50:26,700 --> 01:50:29,700
+Quando houve uma barragem, o rio passa a estar na barragem.
+
+1771
+01:50:29,700 --> 01:50:31,700
+O rio pertence à barragem.
+
+1772
+01:50:31,700 --> 01:50:33,700
+Eu soubo entender o rio a partir de que
+
+1773
+01:50:33,700 --> 01:50:35,700
+espécies de peixe que conseguem passar
+
+1774
+01:50:35,700 --> 01:50:37,700
+vazão de água,
+
+1775
+01:50:37,700 --> 01:50:39,700
+tamanho do espelho,
+
+1776
+01:50:39,700 --> 01:50:41,700
+de água do lago.
+
+1777
+01:50:41,700 --> 01:50:43,700
+O rio passa a fazer parte da barragem.
+
+1778
+01:50:43,700 --> 01:50:45,700
+A natureza,
+
+1779
+01:50:45,700 --> 01:50:47,700
+as pessoas são mentalistas, muitas vezes
+
+1780
+01:50:47,700 --> 01:50:49,700
+invocam a raiva como primeira mentalista,
+
+1781
+01:50:49,700 --> 01:50:50,700
+curiosamente.
+
+1782
+01:50:50,700 --> 01:50:52,700
+A natureza se torna um campo de
+
+1783
+01:50:52,700 --> 01:50:54,700
+disponibilidade,
+
+1784
+01:50:54,700 --> 01:50:56,700
+ou humano incluído nisso.
+
+1785
+01:50:56,700 --> 01:50:58,700
+A natureza não é mais
+
+1786
+01:50:58,700 --> 01:51:00,700
+aquele mundo no qual estamos.
+
+1787
+01:51:00,700 --> 01:51:02,700
+A natureza
+
+1788
+01:51:02,700 --> 01:51:04,700
+é um campo de disponibilidade
+
+1789
+01:51:04,700 --> 01:51:06,700
+para a produção baseada
+
+1790
+01:51:06,700 --> 01:51:08,700
+em cálculo.
+
+1791
+01:51:08,700 --> 01:51:10,700
+E quase inapelável esse diagnóstico.
+
+1792
+01:51:10,700 --> 01:51:12,700
+Eu não concordo
+
+1793
+01:51:12,700 --> 01:51:14,700
+com o diagnóstico de raiz,
+
+1794
+01:51:14,700 --> 01:51:16,700
+mas depois vou falar
+
+1795
+01:51:16,700 --> 01:51:18,700
+diretamente com o sujeito.
+
+1796
+01:51:18,700 --> 01:51:20,700
+Eu não concordo com o diagnóstico,
+
+1797
+01:51:20,700 --> 01:51:22,700
+mas com o diagnóstico de uma precisão
+
+1798
+01:51:22,700 --> 01:51:24,700
+cirúrgica,
+
+1799
+01:51:24,700 --> 01:51:26,700
+apavorante.
+
+1800
+01:51:26,700 --> 01:51:28,700
+Apavorante.
+
+1801
+01:51:28,700 --> 01:51:30,700
+O que é isso?
+
+1802
+01:51:30,700 --> 01:51:32,700
+A nossa contração do mundo
+
+1803
+01:51:32,700 --> 01:51:34,700
+se dá por um mundo que produz
+
+1804
+01:51:34,700 --> 01:51:36,700
+desde o objeto inostroso
+
+1805
+01:51:36,700 --> 01:51:38,700
+a teobelo e grandioso.
+
+1806
+01:51:38,700 --> 01:51:40,700
+Produz.
+
+1807
+01:51:40,700 --> 01:51:42,700
+E sabemos que produz.
+
+1808
+01:51:42,700 --> 01:51:44,700
+Reconhecemos isso
+
+1809
+01:51:44,700 --> 01:51:46,700
+pelo cálculo.
+
+1810
+01:51:46,700 --> 01:51:48,700
+Então,
+
+1811
+01:51:48,700 --> 01:51:50,700
+em este produzir
+
+1812
+01:51:50,700 --> 01:51:52,700
+tanto a raiz,
+
+1813
+01:51:52,700 --> 01:51:54,700
+tanto a natureza
+
+1814
+01:51:54,700 --> 01:51:56,700
+enquanto aquilo que é dado
+
+1815
+01:51:56,700 --> 01:51:58,700
+para este dação que nós somos,
+
+1816
+01:51:58,700 --> 01:52:00,700
+como nós mesmos estamos colocados
+
+1817
+01:52:00,700 --> 01:52:02,700
+como fonte.
+
+1818
+01:52:02,700 --> 01:52:04,700
+Como fonte que é permanentemente
+
+1819
+01:52:04,700 --> 01:52:06,700
+demandada
+
+1820
+01:52:06,700 --> 01:52:08,700
+a produzir cada vez mais.
+
+1821
+01:52:08,700 --> 01:52:10,700
+Eu estou de saco cheio de meu trabalho
+
+1822
+01:52:10,700 --> 01:52:12,700
+e amo o meu trabalho. Gosto de fazer isto todo o tempo.
+
+1823
+01:52:12,700 --> 01:52:14,700
+Mas, ao que você mais escuta
+
+1824
+01:52:14,700 --> 01:52:16,700
+entre os professores, por exemplo,
+
+1825
+01:52:16,700 --> 01:52:18,700
+estou cansado, não estou mais.
+
+1826
+01:52:18,700 --> 01:52:20,700
+E isso em qualquer profissão,
+
+1827
+01:52:20,700 --> 01:52:22,700
+em qualquer profissão.
+
+1828
+01:52:22,700 --> 01:52:24,700
+Para que produzimos tanto?
+
+1829
+01:52:24,700 --> 01:52:26,700
+Porque não depende de nós.
+
+1830
+01:52:26,700 --> 01:52:28,700
+Por que estamos submetidos
+
+1831
+01:52:28,700 --> 01:52:30,700
+a esta produção incessante?
+
+1832
+01:52:30,700 --> 01:52:32,700
+Hacemos recursos humanos.
+
+1833
+01:52:32,700 --> 01:52:34,700
+Ou seja, fonte
+
+1834
+01:52:34,700 --> 01:52:36,700
+fonte de elementos
+
+1835
+01:52:36,700 --> 01:52:38,700
+disponíveis para a produção
+
+1836
+01:52:38,700 --> 01:52:40,700
+e pelo cálculo.
+
+1837
+01:52:40,700 --> 01:52:42,700
+Porque não depende de nós não ser isso.
+
+1838
+01:52:42,700 --> 01:52:44,700
+Não é diante de falar
+
+1839
+01:52:44,700 --> 01:52:46,700
+precisamos comer mais de hogares loafos
+
+1840
+01:52:46,700 --> 01:52:48,700
+ou precisamos nos relaxar.
+
+1841
+01:52:48,700 --> 01:52:50,700
+E não é diante.
+
+1842
+01:52:50,700 --> 01:52:52,700
+Porque isso aí
+
+1843
+01:52:52,700 --> 01:52:54,700
+prolifera a produção, está cheio de discursos.
+
+1844
+01:52:54,700 --> 01:52:56,700
+Eles pulam na internet infinitos caras
+
+1845
+01:52:56,700 --> 01:52:58,700
+falando de como devemos viver melhor.
+
+1846
+01:53:02,700 --> 01:53:04,700
+Já não é mais o que mais come.
+
+1847
+01:53:06,700 --> 01:53:08,700
+Me faz parte do sentido que temos do mundo
+
+1848
+01:53:08,700 --> 01:53:10,700
+vivimos essa relação.
+
+1849
+01:53:10,700 --> 01:53:12,700
+Como Javier falava lá na primeira situação
+
+1850
+01:53:12,700 --> 01:53:14,700
+uma livre relação
+
+1851
+01:53:14,700 --> 01:53:16,700
+com a técnica e isso, podemos ter uma relação
+
+1852
+01:53:16,700 --> 01:53:18,700
+livre com ela. E não a sua ordinação.
+
+1853
+01:53:20,700 --> 01:53:22,700
+Para isso temos que compreender.
+
+1854
+01:53:22,700 --> 01:53:24,700
+Sabendo que a produção e a cálculo
+
+1855
+01:53:24,700 --> 01:53:26,700
+e que torna a natureza
+
+1856
+01:53:26,700 --> 01:53:28,700
+e um mal incluído
+
+1857
+01:53:28,700 --> 01:53:30,700
+uma disponibilidade permanente
+
+1858
+01:53:30,700 --> 01:53:32,700
+para produzir cada vez mais.
+
+1859
+01:53:34,700 --> 01:53:36,700
+E um modo de ser de nossa época.
+
+1860
+01:53:36,700 --> 01:53:38,700
+E um modo de compreender a realidade
+
+1861
+01:53:38,700 --> 01:53:40,700
+que passa pela produção e pelo cálculo
+
+1862
+01:53:40,700 --> 01:53:42,700
+e para tornar tudo existente
+
+1863
+01:53:42,700 --> 01:53:44,700
+um disponível a mão
+
+1864
+01:53:44,700 --> 01:53:46,700
+para produzir cada vez mais.
+
+1865
+01:53:52,700 --> 01:53:54,700
+A partir disso
+
+1866
+01:53:54,700 --> 01:53:56,700
+e que Javier já pode tu fechar,
+
+1867
+01:53:56,700 --> 01:53:58,700
+para não cansar dos muitos.
+
+1868
+01:53:58,700 --> 01:54:00,700
+Seguir já não os cansa.
+
+1869
+01:54:00,700 --> 01:54:02,700
+E a partir disso
+
+1870
+01:54:06,700 --> 01:54:08,700
+que Javier faz o prognóstico.
+
+1871
+01:54:10,700 --> 01:54:12,700
+Porque ele entende que a técnica atingiu um grau
+
+1872
+01:54:12,700 --> 01:54:14,700
+a partir da noção de produção.
+
+1873
+01:54:14,700 --> 01:54:16,700
+Atingiu um grau.
+
+1874
+01:54:18,700 --> 01:54:20,700
+Hoje ele se torna como nunca antes
+
+1875
+01:54:20,700 --> 01:54:22,700
+como nunca antes
+
+1876
+01:54:22,700 --> 01:54:24,700
+em nenhuma outra forma epocal
+
+1877
+01:54:24,700 --> 01:54:26,700
+totalizante. E como ele trabalha
+
+1878
+01:54:26,700 --> 01:54:28,700
+com a produção de demanda
+
+1879
+01:54:28,700 --> 01:54:30,700
+de disponibilidade
+
+1880
+01:54:30,700 --> 01:54:32,700
+de produção e de cálculo
+
+1881
+01:54:32,700 --> 01:54:34,700
+para mais produção
+
+1882
+01:54:34,700 --> 01:54:36,700
+então fatalmente ele se torna
+
+1883
+01:54:36,700 --> 01:54:38,700
+um sistema globalizante totalizante
+
+1884
+01:54:38,700 --> 01:54:40,700
+que não deixa espaço para nenhuma outra forma
+
+1885
+01:54:40,700 --> 01:54:42,700
+de compreensão da realidade.
+
+1886
+01:54:46,700 --> 01:54:48,700
+Portanto, um maior dos pedigos
+
+1887
+01:54:50,700 --> 01:54:52,700
+eu diria, para um mundo como ele é
+
+1888
+01:54:52,700 --> 01:54:54,700
+Javier aponta um pouco para isso
+
+1889
+01:54:54,700 --> 01:54:56,700
+e procura ser humano
+
+1890
+01:54:56,700 --> 01:54:58,700
+para esta coisa que não é somente
+
+1891
+01:54:58,700 --> 01:55:00,700
+para o passado.
+
+1892
+01:55:00,700 --> 01:55:02,700
+Por que? Porque não há um exterior
+
+1893
+01:55:02,700 --> 01:55:04,700
+não há um fora
+
+1894
+01:55:04,700 --> 01:55:06,700
+não há um modo de sair.
+
+1895
+01:55:06,700 --> 01:55:08,700
+Até que um maior pedigo
+
+1896
+01:55:08,700 --> 01:55:10,700
+atinge a natureza
+
+1897
+01:55:10,700 --> 01:55:12,700
+que não chegava a tornar
+
+1898
+01:55:12,700 --> 01:55:14,700
+uma estampa
+
+1899
+01:55:14,700 --> 01:55:16,700
+uma disponibilidade
+
+1900
+01:55:16,700 --> 01:55:18,700
+uma armação
+
+1901
+01:55:18,700 --> 01:55:20,700
+uma armação da disponibilidade
+
+1902
+01:55:24,700 --> 01:55:26,700
+e torna para ser humano disponível
+
+1903
+01:55:26,700 --> 01:55:28,700
+no campo da produção, um recurso humano
+
+1904
+01:55:28,700 --> 01:55:30,700
+um recurso humano.
+
+1905
+01:55:32,700 --> 01:55:34,700
+A minha discrepância
+
+1906
+01:55:34,700 --> 01:55:36,700
+unidamente eu
+
+1907
+01:55:36,700 --> 01:55:38,700
+sou professor de província
+
+1908
+01:55:38,700 --> 01:55:40,700
+discrepo, um enorme Javier
+
+1909
+01:55:40,700 --> 01:55:42,700
+em que
+
+1910
+01:55:42,700 --> 01:55:44,700
+eu concordo com o diagnóstico como falei
+
+1911
+01:55:44,700 --> 01:55:46,700
+mas eu acho que a técnica
+
+1912
+01:55:46,700 --> 01:55:48,700
+não é fechada socializante
+
+1913
+01:55:48,700 --> 01:55:50,700
+e que a mesma é capaz de produzir
+
+1914
+01:55:50,700 --> 01:55:52,700
+seus elementos e experiências internas
+
+1915
+01:55:52,700 --> 01:55:54,700
+e a mesma se trapace internamente
+
+1916
+01:55:54,700 --> 01:55:56,700
+e que no campo monstruoso
+
+1917
+01:55:56,700 --> 01:55:58,700
+da produção se produz tanta diferença
+
+1918
+01:55:58,700 --> 01:56:00,700
+que se produz aquilo que rompe
+
+1919
+01:56:00,700 --> 01:56:02,700
+o próprio tecido da tecnologia
+
+1920
+01:56:02,700 --> 01:56:04,700
+então essa é uma tecia para
+
+1921
+01:56:04,700 --> 01:56:06,700
+um negócio que a técnica não é totalizante
+
+1922
+01:56:06,700 --> 01:56:08,700
+não é fechada
+
+1923
+01:56:08,700 --> 01:56:10,700
+essa é uma discrepância com Javier
+
+1924
+01:56:10,700 --> 01:56:12,700
+como que eu sigo o pronóstico de Javier
+
+1925
+01:56:14,700 --> 01:56:16,700
+mas não é importante
+
+1926
+01:56:16,700 --> 01:56:18,700
+para Javier a técnica
+
+1927
+01:56:18,700 --> 01:56:20,700
+de fato, para sua própria natureza
+
+1928
+01:56:20,700 --> 01:56:22,700
+de produzir
+
+1929
+01:56:22,700 --> 01:56:24,700
+um modo de ser de época
+
+1930
+01:56:24,700 --> 01:56:26,700
+que não dá espaço em muito modo
+
+1931
+01:56:26,700 --> 01:56:28,700
+de pensamento e de conversão
+
+1932
+01:56:28,700 --> 01:56:30,700
+isso nunca teria acontecido
+
+1933
+01:56:30,700 --> 01:56:32,700
+por isso estamos no maior pedido
+
+1934
+01:56:32,700 --> 01:56:34,700
+e por esse motivo
+
+1935
+01:56:34,700 --> 01:56:36,700
+e que somente
+
+1936
+01:56:36,700 --> 01:56:38,700
+um outro modo de compreensão
+
+1937
+01:56:38,700 --> 01:56:40,700
+de uma outra forma
+
+1938
+01:56:40,700 --> 01:56:42,700
+desse tecido do mundo
+
+1939
+01:56:42,700 --> 01:56:44,700
+poderia dar
+
+1940
+01:56:44,700 --> 01:56:46,700
+uma saída para a tecnologia
+
+1941
+01:56:46,700 --> 01:56:48,700
+e a saída que Javier propõe
+
+1942
+01:56:48,700 --> 01:56:50,700
+no final da sua tecia
+
+1943
+01:56:50,700 --> 01:56:52,700
+de sua conferência
+
+1944
+01:56:52,700 --> 01:56:54,700
+é que talvez recuperar
+
+1945
+01:56:54,700 --> 01:56:56,700
+certo sentido trazido
+
+1946
+01:56:56,700 --> 01:56:58,700
+pela letra poética
+
+1947
+01:56:58,700 --> 01:57:00,700
+de poesia
+
+1948
+01:57:00,700 --> 01:57:02,700
+e como outro tipo de produção
+
+1949
+01:57:02,700 --> 01:57:04,700
+para dar
+
+1950
+01:57:04,700 --> 01:57:06,700
+um sentido único
+
+1951
+01:57:06,700 --> 01:57:08,700
+eu estou junto com o Peter
+
+1952
+01:57:08,700 --> 01:57:10,700
+com o Peter
+
+1953
+01:57:10,700 --> 01:57:12,700
+com o Peter que disse que isso aí
+
+1954
+01:57:12,700 --> 01:57:14,700
+é melhor da hipótese, uma boa intenção
+
+1955
+01:57:14,700 --> 01:57:16,700
+a letra poética nos vai salvar
+
+1956
+01:57:18,700 --> 01:57:20,700
+eu tenho que pensar que sempre
+
+1957
+01:57:20,700 --> 01:57:22,700
+que a técnica vai se abrir
+
+1958
+01:57:22,700 --> 01:57:24,700
+em a mesma opção
+
+1959
+01:57:24,700 --> 01:57:26,700
+para Javier
+
+1960
+01:57:26,700 --> 01:57:28,700
+somente uma nova instalarção
+
+1961
+01:57:28,700 --> 01:57:30,700
+de sentido do mundo
+
+1962
+01:57:30,700 --> 01:57:32,700
+de compreensão do mundo
+
+1963
+01:57:32,700 --> 01:57:34,700
+que não passa nem pela ciência
+
+1964
+01:57:34,700 --> 01:57:36,700
+nem pela técnica
+
+1965
+01:57:36,700 --> 01:57:38,700
+nem pela filosofia
+
+1966
+01:57:38,700 --> 01:57:40,700
+que já está morta
+
+1967
+01:57:40,700 --> 01:57:42,700
+poderia
+
+1968
+01:57:42,700 --> 01:57:44,700
+instalar uma nova relação
+
+1969
+01:57:44,700 --> 01:57:46,700
+com aquilo que você dá
+
+1970
+01:57:46,700 --> 01:57:48,700
+mas enquanto estivermos
+
+1971
+01:57:48,700 --> 01:57:50,700
+na época da técnica
+
+1972
+01:57:50,700 --> 01:57:52,700
+estaremos sempre
+
+1973
+01:57:52,700 --> 01:57:54,700
+e permanentemente dominados
+
+1974
+01:57:54,700 --> 01:57:56,700
+pelo campo de produzir
+
+1975
+01:57:56,700 --> 01:57:58,700
+sempre, todos nós
+
+1976
+01:57:58,700 --> 01:58:00,700
+nada mais que menos
+
+1977
+01:58:00,700 --> 01:58:02,700
+disponíveis para esse âmbito
+
+1978
+01:58:02,700 --> 01:58:04,700
+da produção
+
+1979
+01:58:04,700 --> 01:58:06,700
+enfim, já tira isso
+
+1980
+01:58:06,700 --> 01:58:08,700
+porque senhora, fica muito longo
+
+1981
+01:58:08,700 --> 01:58:10,700
+somos o melhor eco
+
+1982
+01:58:10,700 --> 01:58:12,700
+depois a gente faz perguntas
+
+1983
+01:58:12,700 --> 01:58:14,700
+conversamos, nós estamos um pouco mais
+
+1984
+01:58:14,700 --> 01:58:16,700
+dinâmicos, senhora, se vão cansados
+
+1985
+01:58:16,700 --> 01:58:18,700
+farando aqui
+
+1986
+01:58:18,700 --> 01:58:20,700
+ficaram fazendo o nosso ataque estranho
+
+1987
+01:58:20,700 --> 01:58:22,700
+obrigado pela atenção
+
+1988
+01:58:22,700 --> 01:58:24,700
+muito obrigado
+
+1989
+01:58:26,700 --> 01:58:28,700
+bom pessoal, então
+
+1990
+01:58:28,700 --> 01:58:30,700
+essa foi a aula gravata
+
+1991
+01:58:30,700 --> 01:58:32,700
+do professor Eladio
+
+1992
+01:58:32,700 --> 01:58:34,700
+que a gente acabou de exibir
+
+1993
+01:58:34,700 --> 01:58:36,700
+vamos fazer um rápido
+
+1994
+01:58:36,700 --> 01:58:38,700
+intervalo agora
+
+1995
+01:58:38,700 --> 01:58:40,700
+então de 15 minutos
+
+1996
+01:58:40,700 --> 01:58:42,700
+voltamos então
+
+1997
+01:58:42,700 --> 01:58:44,700
+às 11.15
+
+1998
+01:58:44,700 --> 01:58:46,700
+para ficar redondado
+
+1999
+01:58:46,700 --> 01:58:48,700
+então, voltando do intervalo
+
+2000
+01:58:48,700 --> 01:58:50,700
+a gente vai ter a participação
+
+2001
+01:58:50,700 --> 01:58:52,700
+do Caio e do professor Barra
+
+2002
+01:58:52,700 --> 01:58:54,700
+lendo as perguntas
+
+2003
+01:58:54,700 --> 01:58:56,700
+e batendo as questões que vocês trouxeram
+
+2004
+01:58:56,700 --> 01:58:58,700
+aqui, até a próxima
+
+2005
+01:59:24,700 --> 01:59:26,700
+Legendas pela comunidade Amara.org
+
+2006
+01:59:54,700 --> 01:59:56,700
+Legendas pela comunidade Amara.org
+
+2007
+02:00:24,700 --> 02:00:26,700
+Legendas pela comunidade Amara.org
+
+2008
+02:00:54,700 --> 02:00:56,700
+Legendas pela comunidade Amara.org
+
+2009
+02:01:24,700 --> 02:01:26,700
+Legendas pela comunidade Amara.org
+
+2010
+02:01:54,700 --> 02:01:56,700
+Legendas pela comunidade Amara.org
+
+2011
+02:02:24,700 --> 02:02:26,700
+Legendas pela comunidade Amara.org
+
+2012
+02:02:54,700 --> 02:02:56,700
+Legendas pela comunidade Amara.org
+
+2013
+02:03:24,700 --> 02:03:26,700
+Legendas pela comunidade Amara.org
+
+2014
+02:03:54,700 --> 02:03:56,700
+Legendas pela comunidade Amara.org
+
+2015
+02:04:24,700 --> 02:04:26,700
+Legendas pela comunidade Amara.org
+
+2016
+02:04:54,700 --> 02:04:56,700
+Legendas pela comunidade Amara.org
+
+2017
+02:05:24,700 --> 02:05:26,700
+Legendas pela comunidade Amara.org
+
+2018
+02:05:54,700 --> 02:05:56,700
+Legendas pela comunidade Amara.org
+
+2019
+02:06:24,700 --> 02:06:26,700
+Legendas pela comunidade Amara.org
+
+2020
+02:06:54,700 --> 02:06:56,700
+Legendas pela comunidade Amara.org
+
+2021
+02:07:24,700 --> 02:07:26,700
+Legendas pela comunidade Amara.org
+
+2022
+02:07:54,700 --> 02:07:56,700
+Legendas pela comunidade Amara.org
+
+2023
+02:08:24,700 --> 02:08:26,700
+Legendas pela comunidade Amara.org
+
+2024
+02:08:54,700 --> 02:08:56,700
+Legendas pela comunidade Amara.org
+
+2025
+02:09:24,700 --> 02:09:26,700
+Legendas pela comunidade Amara.org
+
+2026
+02:09:54,700 --> 02:09:56,700
+Legendas pela comunidade Amara.org
+
+2027
+02:10:24,700 --> 02:10:26,700
+Legendas pela comunidade Amara.org
+
+2028
+02:10:54,700 --> 02:10:56,700
+Legendas pela comunidade Amara.org
+
+2029
+02:11:24,700 --> 02:11:26,700
+Legendas pela comunidade Amara.org
+
+2030
+02:11:54,700 --> 02:11:56,700
+Legendas pela comunidade Amara.org
+
+2031
+02:12:24,700 --> 02:12:26,700
+Legendas pela comunidade Amara.org
+
+2032
+02:12:54,700 --> 02:12:56,700
+Legendas pela comunidade Amara.org
+
+2033
+02:13:24,700 --> 02:13:26,700
+Legendas pela comunidade Amara.org
+
+2034
+02:13:54,700 --> 02:13:56,700
+Legendas pela comunidade Amara.org
+
+2035
+02:14:24,700 --> 02:14:26,700
+Legendas pela comunidade Amara.org
+
+2036
+02:14:54,700 --> 02:14:56,700
+Legendas pela comunidade Amara.org
+
+2037
+02:15:24,700 --> 02:15:26,700
+Legendas pela comunidade Amara.org
+
+2038
+02:15:54,700 --> 02:15:56,700
+Legendas pela comunidade Amara.org
+
+2039
+02:16:24,700 --> 02:16:26,700
+Legendas pela comunidade Amara.org
+
+2040
+02:16:54,700 --> 02:16:56,700
+Legendas pela comunidade Amara.org
+
+2041
+02:17:24,700 --> 02:17:26,700
+Legendas pela comunidade Amara.org
+
+2042
+02:17:54,700 --> 02:17:56,700
+Legendas pela comunidade Amara.org
+
+2043
+02:18:24,700 --> 02:18:26,700
+Legendas pela comunidade Amara.org
+
+2044
+02:18:54,700 --> 02:18:56,700
+Legendas pela comunidade Amara.org
+
+2045
+02:19:24,700 --> 02:19:26,700
+Legendas pela comunidade Amara.org
+
+2046
+02:19:54,700 --> 02:19:56,700
+Legendas pela comunidade Amara.org
+
+2047
+02:20:24,700 --> 02:20:26,700
+Legendas pela comunidade Amara.org
+
+2048
+02:20:54,700 --> 02:20:56,700
+Legendas pela comunidade Amara.org
+
+2049
+02:21:24,700 --> 02:21:26,700
+Legendas pela comunidade Amara.org
+
+2050
+02:21:54,700 --> 02:21:56,700
+Legendas pela comunidade Amara.org
+
+2051
+02:22:24,700 --> 02:22:26,700
+Legendas pela comunidade Amara.org
+
+2052
+02:22:54,700 --> 02:22:56,700
+Legendas pela comunidade Amara.org
+
+2053
+02:23:24,700 --> 02:23:26,700
+Legendas pela comunidade Amara.org
+
+2054
+02:23:54,700 --> 02:23:56,700
+Legendas pela comunidade Amara.org
+
+2055
+02:24:24,700 --> 02:24:26,700
+Legendas pela comunidade Amara.org
+
+2056
+02:24:54,700 --> 02:24:56,700
+Legendas pela comunidade Amara.org
+
+2057
+02:25:24,700 --> 02:25:26,700
+Legendas pela comunidade Amara.org
+
+2058
+02:25:54,700 --> 02:25:56,700
+Legendas pela comunidade Amara.org
+
+2059
+02:26:24,700 --> 02:26:26,700
+Legendas pela comunidade Amara.org
+
+2060
+02:26:54,700 --> 02:26:56,700
+Legendas pela comunidade Amara.org
+
+2061
+02:27:24,700 --> 02:27:26,700
+Legendas pela comunidade Amara.org
+
+2062
+02:27:54,700 --> 02:27:56,700
+Legendas pela comunidade Amara.org
+
+2063
+02:28:24,700 --> 02:28:26,700
+Legendas pela comunidade Amara.org
+
+2064
+02:28:54,700 --> 02:28:56,700
+Legendas pela comunidade Amara.org
+
+2065
+02:29:24,700 --> 02:29:26,700
+Legendas pela comunidade Amara.org
+
+2066
+02:29:54,700 --> 02:29:56,700
+Legendas pela comunidade Amara.org
+
+2067
+02:30:24,700 --> 02:30:26,700
+Legendas pela comunidade Amara.org
+
+2068
+02:30:54,700 --> 02:30:56,700
+Legendas pela comunidade Amara.org
+
+2069
+02:31:24,700 --> 02:31:26,700
+Legendas pela comunidade Amara.org
+
+2070
+02:31:54,700 --> 02:31:56,700
+Legendas pela comunidade Amara.org
+
+2071
+02:32:24,700 --> 02:32:26,700
+Legendas pela comunidade Amara.org
+
+2072
+02:32:54,700 --> 02:32:56,700
+Legendas pela comunidade Amara.org
+
+2073
+02:33:24,700 --> 02:33:26,700
+Legendas pela comunidade Amara.org
+
+2074
+02:33:54,700 --> 02:33:56,700
+Legendas pela comunidade Amara.org
+
+2075
+02:34:24,700 --> 02:34:27,700
+Verdade, verdade.
+
+2076
+02:34:54,700 --> 02:34:56,700
+É só complementando essa questão do William.
+
+2077
+02:34:56,700 --> 02:34:58,700
+É só complementando essa questão do William.
+
+2078
+02:34:58,700 --> 02:35:00,700
+É só complementando essa questão do William.
+
+2079
+02:35:00,700 --> 02:35:02,700
+É só complementando essa questão do William.
+
+2080
+02:35:02,700 --> 02:35:04,700
+É só complementando essa questão do William.
+
+2081
+02:35:04,700 --> 02:35:06,700
+É só complementando essa questão do William.
+
+2082
+02:35:06,700 --> 02:35:08,700
+É só complementando essa questão do William.
+
+2083
+02:35:08,700 --> 02:35:10,700
+É só complementando essa questão do William.
+
+2084
+02:35:10,700 --> 02:35:12,700
+É só complementando essa questão do William.
+
+2085
+02:35:12,700 --> 02:35:14,700
+É só complementando essa questão do William.
+
+2086
+02:35:14,700 --> 02:35:16,700
+É só complementando essa questão do William.
+
+2087
+02:35:16,700 --> 02:35:18,700
+É só complementando essa questão do William.
+
+2088
+02:35:18,700 --> 02:35:20,700
+É só complementando essa questão do William.
+
+2089
+02:35:20,700 --> 02:35:22,700
+É só complementando essa LAKE...
+
+2090
+02:35:22,700 --> 02:35:24,700
+É só complemento essa questão do William.
+
+2091
+02:35:24,700 --> 02:35:26,700
+É só complementar essa questão do William.
+
+2092
+02:35:26,700 --> 02:35:28,700
+É só complementar essa questão do William.
+
+2093
+02:35:28,700 --> 02:35:30,700
+É só complementar essa sugenda daslexões dos filósofos,
+
+2094
+02:35:30,700 --> 02:35:32,700
+regionalizados.
+
+2095
+02:35:32,700 --> 02:35:34,700
+É só complementar essa questão do William.
+
+2096
+02:35:34,700 --> 02:35:36,700
+É só complementar essa questão do William.
+
+2097
+02:35:36,700 --> 02:35:38,700
+É só complementar essa questão do William.
+
+2098
+02:35:38,700 --> 02:35:40,700
+É só complementar essa questão do William.
+
+2099
+02:35:40,700 --> 02:35:42,700
+É só complementar essa questão do William.
+
+2100
+02:35:42,700 --> 02:35:44,700
+É só complementar esta questão do William.
+
+2101
+02:35:44,700 --> 02:35:46,700
+É só complementar essa questão do William.
+
+2102
+02:35:46,700 --> 02:35:48,700
+É só complementar essa questão do William.
+
+2103
+02:35:48,700 --> 02:35:56,740
+e alemão por causa justamente da do acorte conceitual, né? Então, e como eu disse, assim, ele
+
+2104
+02:35:56,740 --> 02:36:06,980
+faz valer de conceito, que remontam a filosofia grega, mas aí o jogo de palavras, né, a semântica ali,
+
+2105
+02:36:06,980 --> 02:36:12,700
+os neologismos que ele usa, é tudo embasado na língua alemã. Então, e esse que é o problema,
+
+2106
+02:36:12,700 --> 02:36:21,100
+né? A gente tem raízes diferentes, né? Então, mesmo por inglês, né? Tem uma raiz próxima
+
+2107
+02:36:21,100 --> 02:36:25,580
+do alemão, fica complicado da gente traduzir literalmente os termos raidevilianos.
+
+2108
+02:36:25,580 --> 02:36:32,500
+Então tá, então vamos continuar com o Ili agora na primeira questão que ele fez aqui,
+
+2109
+02:36:32,500 --> 02:36:37,540
+nós vamos voltar lá no início. Então, foi a primeira questão, essa que tá aí. Você poderia
+
+2110
+02:36:37,540 --> 02:36:44,020
+imaginar um pouco mais a terceira definição para a relação entre a técnica e a tecnologia,
+
+2111
+02:36:44,020 --> 02:36:46,980
+o que concerne a distinção clássica?
+
+2112
+02:36:48,740 --> 02:36:55,300
+Ah, não, perfeito. Assim, a distinção clássica, né? Como foi apresentado ali pelo Ládio,
+
+2113
+02:36:55,300 --> 02:37:01,780
+ela tá mais vinculada ao caráter epistemológico, né? A questão da técnica, da tecnologia,
+
+2114
+02:37:02,580 --> 02:37:10,500
+a ciência, né? Existe essa triad de conceitos que formam a definição clássica ali, né? Então,
+
+2115
+02:37:10,500 --> 02:37:16,900
+tá retralado justamente a uma epistemologia, né? Como formas de conhecimento, formas de saber,
+
+2116
+02:37:16,900 --> 02:37:23,660
+né? Que é uma distinção até que o Heidegger propõe também, né? Quando ele implica essas duas
+
+2117
+02:37:23,660 --> 02:37:30,740
+definições, a instrumental e a antropóloga, que não, as não são erradas, né? Elas são essas
+
+2118
+02:37:30,740 --> 02:37:38,260
+definições, mas não são somente isso, estão para além disso. Então, o que que, nessa terceira
+
+2119
+02:37:38,260 --> 02:37:43,700
+concepção que o Elijah apresentou, a tecnologia, o que que ela é? Ela é todo esse conjunto
+
+2120
+02:37:44,980 --> 02:37:55,780
+de artefatos. Ela é uma, essa, é uma sistematização, digamos, né? Você não tá atrelada ao tão
+
+2121
+02:37:55,780 --> 02:38:01,220
+que a questão epistemológica de como a técnica e a ciência estão relacionadas, mas você tá
+
+2122
+02:38:01,220 --> 02:38:11,140
+estabelecendo como que esse universo tecnológico implica efeitos sociais, efeitos econômicos,
+
+2123
+02:38:11,140 --> 02:38:18,900
+efeitos éticos, efeitos existenciais, né? Então, assim, por exemplo, a gente tá tendo uma aula online,
+
+2124
+02:38:18,900 --> 02:38:23,140
+né? Eu tô acompanhando por um tablet, eu tô acompanhando com um notebook, né? Às vezes,
+
+2125
+02:38:23,140 --> 02:38:30,500
+tem uma pessoa que tá fora de casa, tá acompanhando por um celular. Então, toda essa dinâmica
+
+2126
+02:38:30,500 --> 02:38:38,420
+sistemática que tem da tecnologia estaria atrelada nessa terceira definição, né? Que o Elijah
+
+2127
+02:38:38,420 --> 02:38:43,860
+apresentou. Não estaria tão ligada somente a possibilidade de conhecimento ou a possibilidade de
+
+2128
+02:38:43,860 --> 02:38:50,980
+produção de um artefato tecnológico, né? Ou somente a possibilidade de máquinas tecnológicas
+
+2129
+02:38:51,220 --> 02:38:56,100
+que surgiram mais precisamente ali com mais impacto na revolução industrial, por exemplo,
+
+2130
+02:38:56,100 --> 02:39:05,860
+né? Não é só, não é uma dicotomia, né? A tecnologia entre o sujeito e o notebook, o sujeito
+
+2131
+02:39:05,860 --> 02:39:14,100
+e o carro, não são só essa relação dicotômica, mas é uma rede de conexões que impactam diversos
+
+2132
+02:39:14,420 --> 02:39:21,460
+níveis da sociedade. Essa é a definição, no caso, a terceira definição da tecnologia. A técnica
+
+2133
+02:39:22,500 --> 02:39:28,980
+ela é justamente esse modo que o mundo tem de se apresentar no qual a gente tá inserido, né?
+
+2134
+02:39:28,980 --> 02:39:35,860
+Então, ela é aquele sentido da realidade, nossa realidade é técnica, né? É isso diferencial
+
+2135
+02:39:36,900 --> 02:39:43,620
+que o Heidegger vai expor na questão da técnica também, né? E ele traz a condição
+
+2136
+02:39:43,620 --> 02:39:50,340
+da técnica pro âmbito ontológico, né? Lembrando que existe uma diferença conceitual, né? Entre
+
+2137
+02:39:50,340 --> 02:39:57,300
+metafísica, clássica e a ontologia da filosofia contemporânea, né? Então, essa estrutura ontológica
+
+2138
+02:39:58,100 --> 02:40:02,340
+dessa terceira definição e que eu acho que o Elijah colocou até um comentário dele,
+
+2139
+02:40:02,340 --> 02:40:08,180
+uma slide ali, quinta e si, para Heidegger, é isso. A gente aprende a realidade de forma
+
+2140
+02:40:08,260 --> 02:40:13,780
+tecnológica, de forma técnica, né? Desculpa. A gente tem, a gente tá inserido no mundo
+
+2141
+02:40:14,820 --> 02:40:22,420
+em que a técnica vai se manifestar e a gente não tem como nos relacionar de uma forma que não
+
+2142
+02:40:22,420 --> 02:40:28,660
+seja técnica, né? Então, por exemplo, óculos, né? Eu, professor Barras, que tá usando óculos aqui,
+
+2143
+02:40:28,660 --> 02:40:35,940
+isso seria um modo da nossa realidade, né? Que é por uma intervenção de um artefato técnico.
+
+2144
+02:40:36,900 --> 02:40:39,140
+O que eles chamam de microprocessos, né?
+
+2145
+02:40:42,820 --> 02:40:49,940
+O William fez esse comentário depois da pergunta anterior, então fica aí registrado, né?
+
+2146
+02:40:50,980 --> 02:40:55,780
+Dizendo, então, que depois que pega o dialeto Heideggeriano, vai embora, mas precisa de uma
+
+2147
+02:40:55,780 --> 02:41:01,060
+mediação ou bastante leitura. Como tudo, né? O William não é só o Heidegger, né?
+
+2148
+02:41:01,060 --> 02:41:11,540
+É. O Heidegger ele exige um pouco mais, assim, mas na filosofia é um problema, né? A gente tem essa
+
+2149
+02:41:12,660 --> 02:41:18,100
+a maioria de audição ali da linguística muito grande, né? Sim. O Heidegger isso é mais criativo.
+
+2150
+02:41:20,740 --> 02:41:22,020
+Muito criativo, né?
+
+2151
+02:41:22,740 --> 02:41:30,260
+Simais, as vezes. Com as possibilidades que o alemão oferece, né? Que é essa que o Caio
+
+2152
+02:41:30,260 --> 02:41:36,260
+se reviriu, né? De construção de palavras. Não é, não é algo assim, esporádico, né? Algo
+
+2153
+02:41:36,260 --> 02:41:42,980
+estilístico do Heideggeriano. É algo que a língua permite, né? E até, de certa forma, tem
+
+2154
+02:41:43,620 --> 02:41:50,260
+estruturas preparadas para fazer isso, né? Uma letra que usa para juntar as palavras, né? Tem
+
+2155
+02:41:50,260 --> 02:41:57,540
+toda uma estrutura preparada para fazer essa criação de palavras, né? De novas palavras.
+
+2156
+02:41:57,540 --> 02:42:06,020
+O Heidegger não é economista. É, né? Não é economista, não. Bom, então agora vou
+
+2157
+02:42:06,020 --> 02:42:13,780
+mudar a direção das questões, duas questões aqui do Bruno e da Patrícia, é numa mesma
+
+2158
+02:42:13,780 --> 02:42:19,780
+questão. Comparando, então, o que ele foi discutido aqui sobre o Heidegger com
+
+2159
+02:42:19,780 --> 02:42:26,580
+outro autor aqui no caso, o Karl Marx. A pergunta do Bruno é, é possível aproximar a concepção de
+
+2160
+02:42:26,580 --> 02:42:33,220
+técnica em Heidegger, da concepção de trabalho em Marx, como categoria fundante do ser social
+
+2161
+02:42:33,220 --> 02:42:42,420
+e humano? Olha, eu acho que, da minha perspectiva, eu acredito que não, porque eu acho que a
+
+2162
+02:42:42,420 --> 02:42:49,780
+concepção de trabalho no Marx, apesar de lá ter um um pouco do tom ontológico, ele tá mais atrelado
+
+2163
+02:42:50,820 --> 02:42:58,900
+a uma categoria antropológica, né? Como ela falou ali, de um ser social e humano, né? A concepção
+
+2164
+02:42:58,900 --> 02:43:05,700
+da técnica de Heidegger, ela é, como eu comentei ali agora anteriormente, ele traz essa concepção
+
+2165
+02:43:05,780 --> 02:43:12,740
+da técnica por um âmbito ontológico, né? Então essa concepção que é, isso na técnica
+
+2166
+02:43:12,740 --> 02:43:20,420
+moderna, tá? No texto lá, no começo ele faz todo um, uma explicação da técnica grega, né?
+
+2167
+02:43:20,420 --> 02:43:26,020
+Que ainda tá na primeira concepção, que é o que ele separa no texto, na conferência no caso,
+
+2168
+02:43:26,020 --> 02:43:32,260
+que é a técnica clássica e a técnica moderna. Mas nessa questão aqui o contexto tá justamente
+
+2169
+02:43:32,340 --> 02:43:37,860
+na técnica em Heidegger, então a técnica moderna, ela é uma estrutura ontológica de a realidade.
+
+2170
+02:43:39,220 --> 02:43:46,180
+Então ela não é, ela não é uma característica antropológica, então ela não seria, é uma categoria
+
+2171
+02:43:46,180 --> 02:43:53,700
+fundante como o conceito de trabalho em Marx. Isso a partir da minha perspectiva, né? Da minha leitura
+
+2172
+02:43:54,500 --> 02:44:00,740
+que eu faço desse texto na questão da técnica. Bom, eu não sei se, assim, você responde também
+
+2173
+02:44:00,820 --> 02:44:05,780
+a pergunta da Patrícia, mas vamos colocá-la aqui. É uma pergunta em duas partes.
+
+2174
+02:44:07,700 --> 02:44:13,540
+Ela diz assim, o que Heidegger fala sobre a técnica como forma de compreender o mundo me lembra
+
+2175
+02:44:13,540 --> 02:44:20,020
+muito a ideia de materialismo histórico. Estou certa? Você sabe, sim, em algum momento o Heidegger
+
+2176
+02:44:20,020 --> 02:44:26,260
+usa Marx ou faz alguma relação com Marx? Eu acho que também tá respondida, né? A pergunta assim.
+
+2177
+02:44:26,260 --> 02:44:32,100
+Ela só detalha mais um pouco, né? Com a segunda parte aí que agora tá do
+
+2178
+02:44:32,100 --> 02:44:38,020
+banner aqui embaixo, né? Materialismo histórico no sentido de que a base econômica molda a
+
+2179
+02:44:38,020 --> 02:44:43,460
+substrutura, nossa forma de ver o mundo, nosso sistema de crenças e etc.
+
+2180
+02:44:45,060 --> 02:44:51,300
+É, nesse caso eu acho que tem um princípio que pode ser associativo, né? Então como esse
+
+2181
+02:44:51,300 --> 02:44:58,420
+materialismo é uma substrutura de forma de mundo, então o pro Marx, esse materialismo histórico é
+
+2182
+02:44:59,380 --> 02:45:06,580
+digamos uma forma ontológica de a gente ver o mundo, mas o Heidegger não usa Marx, tá? Ele não é,
+
+2183
+02:45:07,780 --> 02:45:16,420
+digamos assim, um herdeiro de Marx ou faz uma relação, né? A premissa Heideggeriana,
+
+2184
+02:45:16,500 --> 02:45:23,940
+ela é bem ontológica em alguns textos do segundo Heidegger, que são conferências, né? O Aulas
+
+2185
+02:45:23,940 --> 02:45:34,180
+como Identidade e Diferência, ele faz menção a Hegel, mas são questões ali puramente ontológicas,
+
+2186
+02:45:34,820 --> 02:45:39,380
+né? Então, tanto que ele não trata nem tanto da dialética, a Hegeliana, nem nada, ele vai mais
+
+2187
+02:45:39,460 --> 02:45:49,380
+para uma ontotheologia, né? A lógica Hegeliana, então ele não tem, ele não tem uma herança
+
+2188
+02:45:49,380 --> 02:45:57,700
+marxista, né? Mas eu acredito que são princípios que podem ser analisados assim, né? E para facilitar
+
+2189
+02:45:57,700 --> 02:46:06,820
+uma compreensão até da interpretação filosófica, mas eles não são, não tem registro assim do
+
+2190
+02:46:06,820 --> 02:46:12,500
+Heidegger ler Marx, né? Pode ser, como lá eu te explico, às vezes pode ser assim uma
+
+2191
+02:46:13,780 --> 02:46:21,540
+uma indicação da época, né? Que ali como os positivistas, né? Lógicos, linguísticos,
+
+2192
+02:46:21,540 --> 02:46:28,660
+como Wittgenstein, né? Wittgenstein, Marx, o Heidegger eles fazem essa mudança, né?
+
+2193
+02:46:28,660 --> 02:46:33,940
+De uma perspectiva um pouco mais crítica ao que tradicionalmente era visto já na história
+
+2194
+02:46:33,940 --> 02:46:43,860
+da filosofia. Então, pode ser assim uma, como posso dizer, um Zeitgeist, né? Um espírito
+
+2195
+02:46:43,860 --> 02:46:50,340
+da época filosófica ali que apresenta essas similaridades conceituais.
+
+2196
+02:46:54,900 --> 02:47:01,940
+Um aspecto que me chama atenção, Caio, ouvindo a aula do Elávio e o seu comentário,
+
+2197
+02:47:02,900 --> 02:47:10,420
+é esse, que talvez aí tenha um nexo, né? Com a tradição regliana da qual o Marx faz parte,
+
+2198
+02:47:10,420 --> 02:47:20,420
+que seja essa preocupação com essa abordagem totalizante, né? Esse tipo de compreensão,
+
+2199
+02:47:20,420 --> 02:47:27,140
+eu acho que talvez possa ser o espírito da época, mas talvez também uma filiação
+
+2200
+02:47:27,140 --> 02:47:35,860
+conceitual, né? Esse tipo de abordagem, né? Ou de pretensão, né? Das suas reflexões, né?
+
+2201
+02:47:36,500 --> 02:47:47,380
+O que você acha? Totalizante, né? Isso, eu acho que cada um tem uma particularidade,
+
+2202
+02:47:48,340 --> 02:47:54,900
+Marx, Heidegger, o próprio Wittgenstein, na questão da linguagem, que eles atribuem, assim,
+
+2203
+02:47:54,900 --> 02:48:02,500
+é por isso que tem muita perspectiva crítica, né? Então, essa crítica, a tradição que seria
+
+2204
+02:48:02,500 --> 02:48:10,500
+esses Zeitgeist, né? Então, eu acho que eles se apropriam de conceitos ou de situações ali
+
+2205
+02:48:10,500 --> 02:48:16,900
+da sociedade, que pra eles, né? Devido à sua herança filosófica, pra eles, eles abordam
+
+2206
+02:48:16,900 --> 02:48:24,900
+uma forma com maior profundidade, com maior âmbito de tentar contextualizar, né? A filosofia
+
+2207
+02:48:24,900 --> 02:48:32,820
+daquela época. Então, eu acho que, né? Que tem essa, como você falou, né? Essa ideia de realmente
+
+2208
+02:48:34,580 --> 02:48:41,060
+e o que é muito bacana, na verdade, porque você vê a complexidade e a multiplicidade, né? A pluralidade
+
+2209
+02:48:42,020 --> 02:48:46,020
+da realidade do mundo, né? E como que ela pode ser compreendida de várias
+
+2210
+02:48:47,220 --> 02:48:53,460
+maneiras, né? Diferentes e como que todas fazem sentido de certa forma, né? Então, é
+
+2211
+02:48:55,460 --> 02:49:00,660
+bem interessante o seu comentário também, porque a gente vê que
+
+2212
+02:49:02,900 --> 02:49:09,540
+até no Marx também você consegue fazer uma análise a partir da filosofia da técnica,
+
+2213
+02:49:09,620 --> 02:49:17,300
+pra que ela vá para uma corrente mais antropológica, mais social, mais cultural, né?
+
+2214
+02:49:17,300 --> 02:49:23,620
+Diferencial da análise heidigiriana, justamente. Também ali, Ortega e Gacê, é justamente a questão
+
+2215
+02:49:23,620 --> 02:49:35,540
+ontológica, né? Mas é... Essas determinações, assim, totalizantes, todas elas, a partir do momento
+
+2216
+02:49:35,620 --> 02:49:40,660
+em que você consegue compreender a conceptualização, consegue compreender o contexto histórico
+
+2217
+02:49:40,660 --> 02:49:46,980
+no qual o filósofo está vencerido, você vai perceber que todas essas abordagens fazem sentido
+
+2218
+02:49:48,420 --> 02:49:51,540
+e tem um significado do porquê ele usou aqui.
+
+2219
+02:49:54,180 --> 02:49:59,540
+Então, você citou aí o Wittgenstein, né? Que vem de uma tradição de entender a
+
+2220
+02:50:00,100 --> 02:50:06,740
+realidade do ponto de vista, digamos, assim, atomista, né? Que a grande discussão
+
+2221
+02:50:07,300 --> 02:50:13,460
+dele, do Russell, é de pensar os complexos, né? Como é que esses átomos depois se combinam
+
+2222
+02:50:13,460 --> 02:50:21,700
+e tornam e geram esse complexo que é a maneira como nós fazemos, os complexos linguísticos,
+
+2223
+02:50:21,700 --> 02:50:27,540
+por exemplo, construímos sentenças, construímos textos, né? Gerando, a partir de estruturas mínimas,
+
+2224
+02:50:27,540 --> 02:50:33,620
+né? De um mínimo que é essa perspectiva atomista. Então, assim, é uma escola completamente diferente
+
+2225
+02:50:33,620 --> 02:50:40,500
+da escola regliana, que olha as coisas a partir de uma totalidade, né? E aparece que é essa
+
+2226
+02:50:40,500 --> 02:50:47,060
+inspiração que está também no fundo aí da posição do Heidegger, né? Que nessa questão
+
+2227
+02:50:47,060 --> 02:50:55,220
+de olhar a técnica como esse, essa unidade totalizadora, vamos falar assim, claro, sem muita
+
+2228
+02:50:55,220 --> 02:51:01,940
+propriedade, né? Muito mais provocando... É, mais provocando, assim, mais no contexto genérico,
+
+2229
+02:51:01,940 --> 02:51:09,940
+né? Daria, assim, o que para o Heidegger, né? A técnica está para o Heidegger como a dialética
+
+2230
+02:51:09,940 --> 02:51:18,980
+está para o Heigl, por exemplo. Então, assim, que é o sentido nevral, assim, né? Que é aquele
+
+2231
+02:51:19,060 --> 02:51:25,940
+ponto específico, o foco que ele vai estabelecer e de prática, né? Como se fosse a estrutura, né? A
+
+2232
+02:51:25,940 --> 02:51:33,060
+espinha dorsal, para onde ele vai partir, né? E partir. É assim como o materialismo histórico
+
+2233
+02:51:33,060 --> 02:51:38,020
+que está para o Calmar. Então, daria para fazer esse tipo de associação contextualizando em suas...
+
+2234
+02:51:38,340 --> 02:51:49,140
+em suas posições, né? O próprio é posição filosófica na história. Olha aí que bacana
+
+2235
+02:51:49,140 --> 02:52:01,700
+o comentário da Patrícia, né? Que já entrou no espírito da aula. É, do Heidegger. Bom,
+
+2236
+02:52:01,700 --> 02:52:07,860
+Caio, eu agora estou muito curioso para ouvir o seu recado aí para os nossos fundos,
+
+2237
+02:52:08,980 --> 02:52:15,060
+o convite que você tem para fazer. Fica à vontade, Caio. Beleza. Então, primeiro agradecer a
+
+2238
+02:52:15,060 --> 02:52:19,860
+oportunidade novamente, né? Obrigado, professor Barra, pela recepção, pela gentileza. As perguntas,
+
+2239
+02:52:19,860 --> 02:52:25,220
+né? É sempre bom a gente debater e é sempre bacana que o professor falou, né? Dá mais amplitude
+
+2240
+02:52:26,180 --> 02:52:32,820
+mais assim, vamos vir atrás, para a intimidade se relacionar comigo aqui ao vivo, né? Depois da
+
+2241
+02:52:32,820 --> 02:52:37,620
+gravação e por eu estar numa mesma posição que o pessoal aí, né? De pesquisador também,
+
+2242
+02:52:37,620 --> 02:52:43,140
+informação, né? E o recado que eu quero dizer, na verdade, é um convite, né? Que do dia
+
+2243
+02:52:43,140 --> 02:52:50,180
+sketch ao dia 10 de novembro agora vai ter o vigésimo primeiro congresso de filosofia contemporânea lá
+
+2244
+02:52:50,500 --> 02:52:56,260
+no agresso internacional de filosofia da PUCPR. Para quem quiser fazer comunicação,
+
+2245
+02:52:56,260 --> 02:53:02,020
+as inscrições estão abertas até o dia 31 do 10, né? Nesse link que o pessoal mandou no banner,
+
+2246
+02:53:02,020 --> 02:53:06,660
+eu acho que os monitores mandaram no chat do Muro também, porque o pessoal pode ir colar lá.
+
+2247
+02:53:06,660 --> 02:53:12,740
+Eu acho que inclusive um erro aqui nesse link, né? Eu acho que essa parte final aí não está
+
+2248
+02:53:13,460 --> 02:53:20,420
+no chat, né? O abre uma nova guia, eu acho que não é parte do... É, isso aí vai ter a data ali, né?
+
+2249
+02:53:20,420 --> 02:53:27,460
+Mas lá no chat, eles vão colocar, eles vão colocar corretamente, tá? Vocês vão conseguir
+
+2250
+02:53:27,460 --> 02:53:35,460
+fazer um... Mas diga, Caio, desculpem. Isso, para quem quiser fazer comunicações, né? Nesse link
+
+2251
+02:53:35,460 --> 02:53:40,260
+você consegue fazer a inscrição gratuita, né? Até o dia 7, para quem quiser participar só como
+
+2252
+02:53:41,220 --> 02:53:47,860
+espectador, né? Participar das mesas de apresentação, das mesas de conferências, né? E do minicurso,
+
+2253
+02:53:47,860 --> 02:53:55,700
+vai ter um minicurso sobre ensino de filosofia. E as inscrições para quem implementar a comunicação
+
+2254
+02:53:55,700 --> 02:54:00,900
+é até dia 31 do 10. Então necessariamente que você tenha que se inscrever em implementar a
+
+2255
+02:54:00,900 --> 02:54:06,420
+comunicação, né? Se você quiser fazer a comunicação até dia 31 do 10, que você faz a inscrição
+
+2256
+02:54:06,500 --> 02:54:12,500
+como o 20, depois isso, até dia 7 do 11. A temática desse ano é formas de vida, né?
+
+2257
+02:54:12,500 --> 02:54:20,180
+Humana, extra-humana e pós-humano. E isso eu não me engano... São duas... Somente duas mesas
+
+2258
+02:54:20,180 --> 02:54:25,780
+que serão presenciais, que é a mesa de abertura do dia 7, a partir das 7 da noite, que vai ser o
+
+2259
+02:54:25,780 --> 02:54:32,580
+professor Oswaldo Jacóia, que vai fazer a mesa de abertura depois da solididade. E a segunda mesa,
+
+2260
+02:54:32,580 --> 02:54:37,380
+no dia 8, pela manhã. O restante das atividades, inclusive, as comunicações, são onlines.
+
+2261
+02:54:38,660 --> 02:54:44,340
+E no link do evento também, vocês conseguem verificar lá os eixos temáticos, né? Humanismo,
+
+2262
+02:54:44,340 --> 02:54:50,020
+transhumanismo. São alguns que eu lembro de cabeça. Filosofia da técnica, filosofia da tecnologia,
+
+2263
+02:54:51,140 --> 02:54:55,380
+pós-humanismo e filosofia da psicanálise. Mas eu acho que tem mais coisas. Tem ética,
+
+2264
+02:54:55,380 --> 02:55:01,380
+direitos humanos. Então é um congresso bem bacana, né? É o maior congresso da PUC.
+
+2265
+02:55:02,580 --> 02:55:10,340
+E vai ter palestra de professores externos, pessoal do exterior da Europa, dos Estados Unidos,
+
+2266
+02:55:10,340 --> 02:55:16,420
+da Austrália. Então, vale muito a pena, né? Tem certificado e participação e tudo mais.
+
+2267
+02:55:16,420 --> 02:55:21,780
+Tem possibilidade lá depois da comunicação, registrado nos anais do congresso da PUC.
+
+2268
+02:55:22,580 --> 02:55:24,900
+Então, para quem tiver interesse, é bem interessante.
+
+2269
+02:55:25,860 --> 02:55:35,860
+Muito obrigado pelo porfite, né? Vai ficar lá depois no nosso chat, né?
+
+2270
+02:55:37,140 --> 02:55:44,020
+Então, os interessados podem fazer por lá a sua inscrição, né? Eu reforço o convite do Caio,
+
+2271
+02:55:44,020 --> 02:55:49,700
+os eventos da PUC são muito bem organizados. E esse em particular eu conheço a programação.
+
+2272
+02:55:49,780 --> 02:55:56,740
+Tá muito bacana. Recomendo fortemente que vocês participem, né? Aproveitando a dica aí do Caio,
+
+2273
+02:55:56,740 --> 02:56:04,500
+né? Não paga nada, né, Caio? É uma faca. É só se inscrever aí, né? Só tem que estar com a
+
+2274
+02:56:04,500 --> 02:56:10,500
+inscrição feita, não paga nada. E o professor também, né? Tá obviamente convidado, os monitores, né?
+
+2275
+02:56:10,740 --> 02:56:23,940
+Então, Caio, mais uma vez, muito obrigado pela sua presença aqui, né? Fica o convite
+
+2276
+02:56:23,940 --> 02:56:30,340
+para outras vezes, né? Você nos acompanhar também. Quando o Eladio vier, sem o Eladio, né? Fica
+
+2277
+02:56:30,340 --> 02:56:38,580
+sempre um convite. Obrigado, eu agradeço. Pra gente estreitar aí o nosso, os nossos interesses, né?
+
+2278
+02:56:38,580 --> 02:56:46,420
+Não é exatamente o meu, mas é um dos meus colegas. Esse tema, né? A disciplina comigo. Então,
+
+2279
+02:56:46,420 --> 02:56:52,740
+muito obrigado. O Eladio, mesmo estando distante, né? Quero agradecer a ele, né? Que pelo o
+
+2280
+02:56:53,060 --> 02:57:00,580
+formado tão bem, um aluno como o Caio, né? Que vai certamente aí dar um reforço muito
+
+2281
+02:57:00,580 --> 02:57:06,500
+significativo essa comunidade de filosofia da tecnologia, que já é tão forte aqui no Paraná,
+
+2282
+02:57:06,500 --> 02:57:12,580
+né? E que tá aí, continuou recebendo talentos como o do Caio. Então, assim, em pouco tempo,
+
+2283
+02:57:12,580 --> 02:57:20,020
+a gente vai ter um grupo cada vez mais consolidado. E então, Caio, muito obrigado. Mais uma vez,
+
+2284
+02:57:20,260 --> 02:57:25,300
+parabéns aí pelas, pelo seu trabalho, pelas respostas, né? De maneira muito segura,
+
+2285
+02:57:25,300 --> 02:57:29,780
+muito bacana. Aprendemos todos aí com a sua participação. Muito obrigado,
+
+2286
+02:57:29,780 --> 02:57:35,780
+Caio. Contigo a palavra agora. Então, reforço, então, um agradecimento do professor Eduardo
+
+2287
+02:57:35,780 --> 02:57:41,300
+Barra, ao Caio, por ter participado aqui da nossa disciplina transversais, no nome de toda a equipe
+
+2288
+02:57:41,300 --> 02:57:47,700
+da coordenação das disciplinas transversais e nos vemos semana que vem. Então, até mais, gente. Tchau, tchau.
+

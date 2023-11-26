@@ -1,0 +1,5260 @@
+1
+00:00:00,000 --> 00:00:30,000
+O que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é
+
+2
+00:00:30,000 --> 00:01:00,000
+que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que
+
+3
+00:01:00,000 --> 00:01:07,580
+que é囂 um
+
+4
+00:01:09,740 --> 00:01:20,180
+Bom dia e bom dia a todos e todas a todos. Sejam muito muito bem-vindos a essa nossa
+
+5
+00:01:20,180 --> 00:01:28,180
+terceira aula da disciplina transversal de história e filosofia das ciências e da
+
+6
+00:01:28,180 --> 00:01:36,580
+tecnologia. Então hoje nós temos aqui, eu tenho a enorme satisfação de apresentar
+
+7
+00:01:36,580 --> 00:01:45,540
+meus amigos, meus colegas de longa data, os professores Alex Calazans e Verônica Calazans.
+
+8
+00:01:45,540 --> 00:01:56,740
+E esse é o nosso casal de filósofos mais famoso do Brasil. Então Alex e a Verônica tem uma
+
+9
+00:01:56,740 --> 00:02:04,900
+satisfação que como vocês verão ela é de muita parceria, de muito trabalho em conjunto.
+
+10
+00:02:04,900 --> 00:02:11,140
+Pois ambos se formaram em filosofia aqui no Departamento de Filosofia da UFPR em 2004.
+
+11
+00:02:11,140 --> 00:02:19,940
+Depois ambos seguiram para o mestrado em filosofia sobre orientação do professor Eduardo Salles de
+
+12
+00:02:19,940 --> 00:02:30,540
+Barra. Aí São Paulo o separou. Porque Alex foi fazer doutorado em filosofia na Universidade
+
+13
+00:02:30,540 --> 00:02:36,620
+Campinas com a professora Fatima Évar e a professora Verônica ficou na capital inóspita,
+
+14
+00:02:36,620 --> 00:02:46,820
+capital paulista na USP com o professor Plastín. Mas Paris os uniu porque ambos foram para o estágio
+
+15
+00:02:46,820 --> 00:02:54,900
+autorado em Paris em 2012 e desenvolveram pesquisas em Paris em história e filosofia da
+
+16
+00:02:54,900 --> 00:03:02,180
+ciência sobre coordenação do professor Panza. No seu retorno ao Brasil a vida continua.
+
+17
+00:03:02,180 --> 00:03:14,420
+Ambos hoje são professores da Universidade Federal Tecnológica do Paraná. E o nome exato
+
+18
+00:03:14,420 --> 00:03:24,860
+do programa da UTFPR é o setor do Departamento Acadêmico de Filosofia e Ciências e Ciências
+
+19
+00:03:24,860 --> 00:03:31,620
+Humanas. Se não me engano. Então professores prazer estar aqui com vocês. Tenho certeza que todos os
+
+20
+00:03:31,620 --> 00:03:38,740
+ouvintes também terão ao longo dessa aula acerca da filosofia de Gilberto Simondon que também
+
+21
+00:03:38,740 --> 00:03:48,940
+os une. Então com a palavra. Isso aí muito obrigada Ronei pela apresentação. É sempre uma
+
+22
+00:03:48,940 --> 00:03:59,940
+satisfação estar entre amigos na aula e é isso aí. Essa é a nossa história. Bom dia a todos e
+
+23
+00:03:59,940 --> 00:04:06,820
+todas. Bom dia Alex. Bom dia pessoal. Bom dia Verônica. Bom dia Ronei. Toda a equipe que está por
+
+24
+00:04:06,820 --> 00:04:17,260
+aí nos ajudando e agradecer ao Ronei essa essa calorosa recepção. Essa amistosa porque é sempre
+
+25
+00:04:17,260 --> 00:04:26,460
+bom estar trabalhando com amigos do lado de amigos. Então eu quero estenar essa grande felicidade
+
+26
+00:04:26,460 --> 00:04:32,020
+nessa manhã que eu acredito que vai ser um grande prazer de trabalhar aqui nessa manhã sabendo
+
+27
+00:04:32,020 --> 00:04:40,100
+que nós aí é o lado dos grandes companheiros e digamos assim dentro dessa história filosófica
+
+28
+00:04:40,100 --> 00:04:47,780
+que a Verônica sempre esteve ao meu lado. O Ronei faz a dilonga data também faz parte dessa
+
+29
+00:04:47,780 --> 00:04:57,340
+caminhada. Ronei acompanhou e o desenvolvimento aí dessa nossa vida filosófica entrada na
+
+30
+00:04:57,340 --> 00:05:09,580
+aula e aí por diante. Boa aula para vocês. Bom trabalho. Então vamos trabalhar. Vamos trabalhar.
+
+31
+00:05:09,580 --> 00:05:18,700
+Então hoje a gente a gente vai abordar o pensamento do Gilberte Mundo como disse o professor Ronei
+
+32
+00:05:18,700 --> 00:05:27,020
+nós vamos nos dividir o Alex e eu vamos vamos dividir essa aula vamos conversar sobre
+
+33
+00:05:27,020 --> 00:05:34,060
+esse pensamento. Então eu acho que sou eu quem comece. Eu vou sair da tela que você está acompanhando
+
+34
+00:05:34,060 --> 00:05:39,940
+ao lado porque daí fica fácil das projeções ali serem feitas sem cobrir um dos nós dois.
+
+35
+00:05:39,940 --> 00:05:48,340
+Então eu saio depois eu retorno mas estou ao lado. Isso aí. Então Gilberte se mandou. Nós
+
+36
+00:05:48,340 --> 00:05:54,060
+temos o seguinte título para essa aula que Gilberte se mandou e a evolução dos objetos técnicos.
+
+37
+00:05:54,060 --> 00:06:03,300
+Digamos que é a ênfase que nós pretendemos dar a aula porque como qualquer um dos autores que
+
+38
+00:06:03,300 --> 00:06:12,340
+foi trabalhado aqui não tem como a gente fazer um panorama total da obra e do pensamento de cada
+
+39
+00:06:12,340 --> 00:06:18,780
+pessoa. Então a ênfase que nós escolhemos é a evolução dos objetos técnicos. Então a primeira
+
+40
+00:06:18,780 --> 00:06:29,700
+coisa é vamos pensar quem foi Gilberte se mandou. Ele nasceu em 1924 faleceu em 1989 nasceu em
+
+41
+00:06:29,700 --> 00:06:38,020
+Santetine na França e alguns dados biográficos do Gilberte se mandou são bastante relevantes para
+
+42
+00:06:38,020 --> 00:06:43,660
+entender o pensamento dele para entender a filosofia da técnica desenvolvida pelo Gilberte
+
+43
+00:06:43,660 --> 00:06:52,780
+se mandou. Pelo seguinte ele sempre teve interesse em assuntos diversos desde muito jovem ele manifestou
+
+44
+00:06:52,780 --> 00:07:01,300
+interesse por assuntos que não são provavelmente assuntos filosóficos. Ele na sua biblioteca
+
+45
+00:07:01,300 --> 00:07:14,260
+já havia um exemplar da enciclopédia de derrot e da Lambert. Ou seja ele tinha o interesse por
+
+46
+00:07:14,260 --> 00:07:23,300
+um conhecimento mais amplo. No ensino médio ele já fez a opção por filosofia porém o pai dele
+
+47
+00:07:23,300 --> 00:07:31,420
+gostaria que ele tivesse optado pelo ensino técnico. Então ele esse amor pelo ensino técnico pelas
+
+48
+00:07:31,420 --> 00:07:38,780
+questões técnicas permaneceu como um pano de fundo para ele pelo menos em termos de interesse. Ele
+
+49
+00:07:38,780 --> 00:07:49,340
+fez a graduação em filosofia mas procurou diversificar a formação porque ele fez disciplinas da área
+
+50
+00:07:49,340 --> 00:07:56,260
+da música da mineralogia das artes literárias mantendo então esse viés enciclopédico esse viés um
+
+51
+00:07:56,260 --> 00:08:06,940
+pouco mais geral. O interesse principal parece o termo que parece dar uma certa unidade à obra
+
+52
+00:08:06,940 --> 00:08:14,300
+de Simondon é a questão da individuação nos seus mais diversos níveis o Alex vai falar dessa
+
+53
+00:08:14,420 --> 00:08:23,860
+especificamente desse ponto e outra coisa que é importante notar é que na época da defesa
+
+54
+00:08:23,860 --> 00:08:30,980
+do doutorado do Simondon era necessário fazer uma tese principal e uma tese complementar eram
+
+55
+00:08:30,980 --> 00:08:39,260
+duas teses para a defesa. Então até hoje a gente considera que as principais obras digamos assim
+
+56
+00:08:39,260 --> 00:08:46,620
+do Simondon são o resultado dessas duas tese a tese principal e a tese complementar. Vamos ver
+
+57
+00:08:46,620 --> 00:08:55,900
+aqui a tese complementar é essa sobre o modo de existência dos objetos técnicos de modo de existência
+
+58
+00:08:55,900 --> 00:09:06,940
+dos objetos técnicos. Temos aqui três edições de 1958, 1989, 2012 só para vocês conhecerem a
+
+59
+00:09:06,940 --> 00:09:12,900
+tese da capa porque que nós começamos pela tese complementar porque é justamente essa que nós
+
+60
+00:09:12,900 --> 00:09:21,900
+vamos ter como principal objeto hoje porque é justamente onde está a filosofia da técnica
+
+61
+00:09:21,900 --> 00:09:28,100
+do Simondon está concentrada digamos assim embora ele tenha outros textos sobre a técnica mas é a
+
+62
+00:09:28,100 --> 00:09:40,140
+que concentra a filosofia da técnica do Simondon. E a tese principal é essa que a gente chama
+
+63
+00:09:40,140 --> 00:09:51,020
+carinhosamente sobre a individuação da individuação a gente resume mas está aí a três edições
+
+64
+00:09:51,780 --> 00:10:08,220
+importante ressaltar que a partir de 2020 nós temos a edição brasileira pela primeira vez nós
+
+65
+00:10:08,220 --> 00:10:15,260
+temos então a tradução completa da obra da individuação é a individuação a luz das noções
+
+66
+00:10:15,380 --> 00:10:24,140
+e de informação mas a gente chama de individuação e temos também a tradução do que a gente chama
+
+67
+00:10:24,140 --> 00:10:33,620
+carinhosamente de meote a tese complementar sobre o modo de existência dos objetos técnicos então
+
+68
+00:10:33,620 --> 00:10:42,700
+agora nós temos a tradução brasileira das duas obras o que facilita bastante o acesso da comunidade
+
+69
+00:10:42,700 --> 00:10:53,580
+da comunidade mecânica a obra desse autor. Então foi aí uma introdução muito geral do Simondon
+
+70
+00:10:53,580 --> 00:11:01,860
+da parte biográfica digamos assim e sem mais delongas vamos entrar no conteúdo que nós pensamos
+
+71
+00:11:01,860 --> 00:11:09,620
+para hoje e nós vamos aproveitar para poder fazer esse sobrevô digamos assim nós vamos aproveitar a
+
+72
+00:11:09,620 --> 00:11:14,980
+introdução do meote ou seja da tese complementar sobre o modo de existência dos objetos técnicos
+
+73
+00:11:14,980 --> 00:11:24,700
+que concentra boa parte da menos das intenções do autor com essa com essa obra e na introdução o
+
+74
+00:11:24,700 --> 00:11:33,620
+primeiro elemento que aparece para nós é a ideia da alienação técnica e de uma possível e
+
+75
+00:11:33,620 --> 00:11:40,340
+utilizada e esperada tomada de consciência. Nós temos aqui dois termos alienação técnica
+
+76
+00:11:40,340 --> 00:11:47,060
+e tomada de consciência e nós vamos tentar entender como é que esses termos se articulam na obra do
+
+77
+00:11:47,060 --> 00:11:55,300
+autor. Veja o objetivo da obra logo no início logo no início da introdução o Simondonofino este
+
+78
+00:11:55,300 --> 00:12:03,220
+estudo é animado pela intenção de suscitar uma tomada de consciência do sentido dos objetos
+
+79
+00:12:04,020 --> 00:12:10,900
+então se é necessário tomar consciência é necessário tomar consciência porque tem algo que
+
+80
+00:12:10,900 --> 00:12:21,700
+escapa a consciência algo que está obscurecido que está escondido é isso que a gente entende no
+
+81
+00:12:21,700 --> 00:12:28,300
+guarda-chuva do conceito de alienação o que é isso a respeito do que é preciso tomar consciência
+
+82
+00:12:28,300 --> 00:12:38,380
+que a população é essa. Então o diagnóstico Simondoniano é o de que a cultura ela se estabeleceu
+
+83
+00:12:38,380 --> 00:12:47,380
+em um modo de oposição com relação à técnica ou seja ela opõe de certo modo homem de um lado
+
+84
+00:12:47,380 --> 00:12:56,740
+e máquina de outro cultura de um lado e técnica de outro como ser a técnica fosse uma estrangeira
+
+85
+00:12:56,740 --> 00:13:03,900
+da cultura como se a máquina fosse uma estrangeira do homem ou seja a técnica não faz parte da
+
+86
+00:13:03,900 --> 00:13:12,580
+cultura nesse contexto da alienação é essa oposição que está no sérmio da alienação é uma
+
+87
+00:13:12,580 --> 00:13:20,660
+oposição que segundo Simondon é falsa e sem fundamento ou seja não é legítima não é uma
+
+88
+00:13:20,660 --> 00:13:27,740
+oposição legítima é uma oposição alienante então a cultura ela exclui de dentro de si própria
+
+89
+00:13:27,740 --> 00:13:35,620
+a técnica o contexto da técnica e a considera como estrangeira olha para a técnica como algo que ela
+
+90
+00:13:35,620 --> 00:13:43,700
+não reconhece como o próprio então a alienação ela está nessa oposição o que nós vamos ver hoje
+
+91
+00:13:43,700 --> 00:13:49,900
+como essa alienação se forma é qual o qual é o sentido dessa alienação e vamos ver qual é o
+
+92
+00:13:49,900 --> 00:13:58,260
+projeto Simondoniano para reverter essa alienação ou seja qual é o projeto para propiciar uma
+
+93
+00:13:58,260 --> 00:14:05,380
+tomada de consciência é a tomada de consciência que tiraria a cultura dessa alienação
+
+94
+00:14:06,380 --> 00:14:15,980
+então ver a oposição entre a cultura e a técnica entre o homem e a máquina é falsa e sem
+
+95
+00:14:15,980 --> 00:14:26,700
+fundamento ela esconde apenas ignorância ou ressentimento não vejam essa oposição esconde
+
+96
+00:14:26,700 --> 00:14:37,100
+ignorância ou ressentimento é uma máscara atrás de um humanismo fácil uma realidade rica em
+
+97
+00:14:37,100 --> 00:14:45,780
+esforços humanos e em forças naturais vamos parar um momento por aqui humanismo fácil do que é que
+
+98
+00:14:45,780 --> 00:14:54,340
+Simondon está falando quando ele usa esse termo humanismo fácil o principal interlocutor do
+
+99
+00:14:54,340 --> 00:15:01,020
+que diz respeito a esse conceito de humanismo nós não vimos ainda mas veremos em breve que é o
+
+100
+00:15:01,020 --> 00:15:08,900
+raider então guardem esse dado a gente pode voltar a falar disso quando o professor Eladio nos
+
+101
+00:15:08,900 --> 00:15:19,500
+apresentar ao raider mas o humanismo fácil é aquela concepção de é aquela concepção que
+
+102
+00:15:20,500 --> 00:15:31,660
+constrói um conceito de tecnologia um conceito de técnica é esvaziando a técnica do seu do seu
+
+103
+00:15:31,660 --> 00:15:39,580
+conteúdo mais profundo digamos assim de modo que o homem a figura do homem é colocada como uma
+
+104
+00:15:39,580 --> 00:15:47,860
+figura central e a técnica é esvaziada como um conceito abstracto podemos dizer dessa maneira
+
+105
+00:15:47,860 --> 00:16:01,140
+então porque que é um humanismo fácil porque é o humanismo que é não dá conta de entender o
+
+106
+00:16:01,140 --> 00:16:08,260
+que é a técnica apenas fala da técnica em função do homem mas não a profunda não dá conta de
+
+107
+00:16:08,260 --> 00:16:16,820
+abrir é um termo que se usa em certas em certos pensamentos filosóficos não dá conta de abrir
+
+108
+00:16:16,820 --> 00:16:24,140
+essa preta da técnica simplesmente fala da técnica a partir de uma perspectiva humana mas sem
+
+109
+00:16:24,140 --> 00:16:33,100
+reconhecer na técnica o que há propriamente de humano na técnica e por isso há essa separação
+
+110
+00:16:33,100 --> 00:16:40,500
+essa alianção e o que que é de humano a técnica ela é uma realidade rica em esforços humanos ela
+
+111
+00:16:40,500 --> 00:16:50,060
+é uma história que ela articula uma história de esforços humanos a técnica ela não vem como
+
+112
+00:16:50,060 --> 00:16:59,100
+algo externo ela é produzida no contexto humano feita por humanos numa numa no entrelaçamento com
+
+113
+00:16:59,100 --> 00:17:06,300
+a história humana ao ignorar toda essa riqueza da técnica e reduzir a um conceito quase que vazio
+
+114
+00:17:06,300 --> 00:17:14,380
+esse humanismo fácil ele é esvazia também a técnica e para o simondom isso gera uma alianção
+
+115
+00:17:14,380 --> 00:17:22,740
+além de gerar ressentimento o que a gente vai ver daqui a pouco que é uma tecnofobia né uma horror
+
+116
+00:17:22,740 --> 00:17:33,460
+a técnica e aí termina a passagem com uma uma definição dos objetos técnicos então ela
+
+117
+00:17:33,460 --> 00:17:39,300
+traz o humanismo fácil uma realidade rica em esforços humanos e em forças naturais e que
+
+118
+00:17:39,300 --> 00:17:47,020
+constituiu o mundo dos objetos técnicos que são esses objetos técnicos mediadores entre a natureza
+
+119
+00:17:47,020 --> 00:17:56,740
+e o homem então para o simondom o homem ele alcança a natureza através de uma mediação que é a
+
+120
+00:17:56,740 --> 00:18:02,740
+mediação do objeto técnico nós temos aqui um conceito um primeiro conceito do objeto técnico
+
+121
+00:18:02,740 --> 00:18:11,260
+é o mediador entre o homem e a natureza o homem alcança o mundo através dos objetos técnicos
+
+122
+00:18:11,260 --> 00:18:22,260
+vamos guardar esses elementos e ver como eles articulam com o o o que segue né então o objeto
+
+123
+00:18:22,260 --> 00:18:33,020
+técnico ele é tomado pela cultura como um estrangeiro então essa alianção ela está relacionada
+
+124
+00:18:33,020 --> 00:18:40,140
+a um desconhecimento da máquina porque porque eu uso objeto técnico em um momento e máquina em
+
+125
+00:18:40,140 --> 00:18:50,060
+outro momento se mandou ele teve ele ele teve que eu teve um trabalho conceitual digamos assim para
+
+126
+00:18:50,060 --> 00:18:59,580
+decidir por esse nome objeto técnico por esse conceito é um dos conceitos que ele ele considerou
+
+127
+00:18:59,580 --> 00:19:05,820
+para colocar no lugar de objeto técnico foi o conceito de máquina mas pareceu a ele um pouco
+
+128
+00:19:05,820 --> 00:19:12,500
+restrito digamos assim é o conceito do lafite por exemplo que é um alguém que vem antes do
+
+129
+00:19:12,500 --> 00:19:17,900
+simondom e que parece ter influenciado já que se lafite parece ter influenciado a obra do simondom
+
+130
+00:19:17,900 --> 00:19:25,980
+de maneira mas às vezes o simondom utiliza máquina no lugar de objeto técnico em lugares
+
+131
+00:19:25,980 --> 00:19:31,180
+bastante pontuais porque que é importante a gente ressaltar para dizer que quando falamos de objeto
+
+132
+00:19:31,180 --> 00:19:37,340
+técnico estamos falando de um objeto material né ao contrário por exemplo do mario boong que nós
+
+133
+00:19:37,340 --> 00:19:44,620
+vimos na semana passada né com o professor culpani que o artefato do mario boong ele pode não ser
+
+134
+00:19:44,620 --> 00:19:53,180
+material ele pode ser por exemplo uma um treinamento treino uma equipe eu transformei algo natural em
+
+135
+00:19:53,180 --> 00:19:58,060
+artificial e produzir um artefato aqui nós estamos falando de um objeto técnico material
+
+136
+00:19:58,060 --> 00:20:06,460
+então a alianção ela se manifesta pelo desconhecimento da máquina mas não é só é também
+
+137
+00:20:06,460 --> 00:20:11,980
+mas não é só o desconhecimento do funcionamento da máquina para além disso é o desconhecimento
+
+138
+00:20:11,980 --> 00:20:20,460
+da natureza da máquina é o desconhecimento da essência ou seja da ontologia desse objeto
+
+139
+00:20:20,460 --> 00:20:26,060
+técnico lembrando para como nós temos aqui um público que não é necessariamente de dentro da
+
+140
+00:20:26,060 --> 00:20:33,740
+filosofia lembrando que a ontologia é aquela parte da filosofia que fala sobre o ser a existência
+
+141
+00:20:34,220 --> 00:20:43,900
+de ontologia o um significa ser podemos reduzir claro que a explicação mas só para que a gente
+
+142
+00:20:43,900 --> 00:20:51,420
+fale mais ou menos da mesma linguagem então esse desconhecimento além do desconhecimento do
+
+143
+00:20:51,420 --> 00:20:57,100
+funcionamento o desconhecimento da natureza da essência da máquina no âmbito da cultura
+
+144
+00:20:57,100 --> 00:21:03,580
+significa a ausência do mundo das significações a ausência do que da máquina no mundo das
+
+145
+00:21:03,580 --> 00:21:11,660
+significações embora a presença no mundo material seja inegável porque porque como o objeto
+
+146
+00:21:11,660 --> 00:21:17,820
+técnico é o nosso mediador o mediador entre nós e o mundo nós não podemos abrir mão dessa
+
+147
+00:21:17,820 --> 00:21:26,140
+mediação eu costumo brincar né quem de nós aqui acordou hoje sem ajuda de nenhum objeto técnico
+
+148
+00:21:26,860 --> 00:21:33,100
+aí numa sala presencial digamos que cinco pessoas levantam a mão aí eu acordo sem
+
+149
+00:21:33,100 --> 00:21:39,260
+ajuda de nenhum objeto técnico se você tivesse uma prova importante para fazer uma prova do
+
+150
+00:21:39,260 --> 00:21:47,980
+detran para fazer você deixaria de colocar o alarme no celular não não deixaria porque eu falo
+
+151
+00:21:47,980 --> 00:21:52,780
+de acordar porque a primeira coisa do dia não é eu acordei já acordei com a ajuda de um objeto
+
+152
+00:21:52,780 --> 00:22:01,180
+técnico pois uma roupa que é feita a partir de da técnica né ela não é não fui eu quem plantou
+
+153
+00:22:01,180 --> 00:22:09,260
+algodão e teceu e é fio e teceu o algodão ou seja a presença dos objetos técnicos a presença
+
+154
+00:22:09,260 --> 00:22:16,700
+material ela é incontornável mas como que algo que está presente materialmente que é incontornável
+
+155
+00:22:16,700 --> 00:22:25,420
+a mediação entre nós e o mundo está ausente do mundo das significações nós não temos
+
+156
+00:22:25,420 --> 00:22:33,660
+significado para isso na nossa cultura a gente vai eu vou explicar um pouquinho melhor é em seguir
+
+157
+00:22:33,660 --> 00:22:42,380
+então a máquina é a estrangeira mas vejam ela é a estrangeira na qual está aprisionado algo de
+
+158
+00:22:42,380 --> 00:22:55,500
+humano desconhecido materializado escravizado mas ainda humano é o desconhecimento desse elemento
+
+159
+00:22:55,500 --> 00:23:02,780
+humano que está na máquina que gera alienação é essa ausência das significações no sentido
+
+160
+00:23:02,780 --> 00:23:09,180
+de reconhecer o que há de humano na máquina que pode se constituir a alienação
+
+161
+00:23:09,900 --> 00:23:15,740
+e então para tentar explicar melhor é vou colocar um exemplo aqui para vocês
+
+162
+00:23:16,700 --> 00:23:24,380
+é leiam com atenção essa placa é uma placa real tá eu fui pesquisar é uma é uma foto não é uma
+
+163
+00:23:24,380 --> 00:23:35,500
+montagem é uma foto real só hoje em todas as aves frescas desconto de 25% no cartão só que a gente
+
+164
+00:23:35,500 --> 00:23:44,220
+tem um abendo ali né um parênteses desconto em todas as aves frescas exceto o coelho
+
+165
+00:23:46,060 --> 00:23:52,620
+eu espero que não é novamente não estamos numa aula presencial então eu não consigo ver a reação
+
+166
+00:23:52,620 --> 00:23:59,420
+de vocês a essa a essa placa mas eu espero que ela tenha suscitado ao menos um risinho né ainda
+
+167
+00:23:59,420 --> 00:24:08,300
+não é correto na maioria de nós porque porque porque essa placa ela se pretende engraçada né
+
+168
+00:24:08,300 --> 00:24:19,580
+porque no nosso universo de significações que é o mundo como se mandou é define digamos assim a
+
+169
+00:24:19,580 --> 00:24:26,060
+cultura cultura é aquele universo de significações que nós compartilhamos no nosso universo de
+
+170
+00:24:26,060 --> 00:24:36,620
+significações compartilhado é nós temos o suficiente para saber que o coelho do ponto de
+
+171
+00:24:36,620 --> 00:24:45,180
+vista da biologia não se encaixa na categoria de aves certo é por isso que ficou engraçado
+
+172
+00:24:45,180 --> 00:24:54,780
+porque não seria necessário dizer exceto o coelho visto que coelho já não é uma ave então a gente
+
+173
+00:24:54,780 --> 00:25:04,780
+é engraça mesmo como assim exceto coelho coelho não é uma ave porque e todos nós entendemos a placa
+
+174
+00:25:04,780 --> 00:25:12,060
+não tem ninguém no nosso aqui não que está assistindo essa aula agora que não entendeu eu não
+
+175
+00:25:12,060 --> 00:25:19,020
+entendi porque essa placa engraça todo mundo sabe que coelho não é uma ave porque na nossa educação
+
+176
+00:25:19,020 --> 00:25:29,420
+nós temos o suficiente de é a alfabetização científica né para saber que o coelho não é uma
+
+177
+00:25:29,420 --> 00:25:39,500
+ave então o que significa que a máquina ela não esteja presente nesse universo de
+
+178
+00:25:39,500 --> 00:25:45,660
+significações significa que se essa piada fosse feito com categorias das máquinas a maioria de
+
+179
+00:25:45,660 --> 00:25:51,900
+nós não entenderia a maioria de nós não daria conta de rir da placa mas não ela foi feita com
+
+180
+00:25:51,900 --> 00:25:57,900
+uma categoria que a nossa cultura compartilha porque a nossa escola oferece que é da biologia
+
+181
+00:25:57,900 --> 00:26:07,020
+mesmo que a maioria de nós não é exceto aqueles agora sim né nós temos aqui na nossa na nossa aula
+
+182
+00:26:07,180 --> 00:26:16,380
+pessoas que são da área das biológicas e que poderiam explicar muito melhor a categorização
+
+183
+00:26:16,380 --> 00:26:24,300
+aqui de aves e mamíferas né mas alguns de nós não são alguns de nós são de outras áreas como eu
+
+184
+00:26:24,300 --> 00:26:31,980
+por exemplo que sou da filosofia eu não sei todos os detalhes mas eu sei que coelho não é ave eu tenho
+
+185
+00:26:31,980 --> 00:26:40,300
+uma minha formação para saber coelho não é ave a questão é será que nas máquinas nós conseguimos
+
+186
+00:26:40,300 --> 00:26:47,180
+categorizar nós conseguimos entender o funcionamento no mínimo não precisa que todos nós nos
+
+187
+00:26:47,180 --> 00:26:53,900
+tornemos engenheiros para isso no mínimo para para que esse tipo de coisa faça sentido o que
+
+188
+00:26:53,900 --> 00:27:00,620
+significa fazer essa categoria o que significa fazer essa gênesis nas máquinas que nós sabemos
+
+189
+00:27:00,620 --> 00:27:06,940
+que é uma biologia mesmo que de maneira assim é básica né superficial como é para a maioria de
+
+190
+00:27:06,940 --> 00:27:12,620
+nós aqueles que não são da área ao menos nós sabemos que ave é que coelho nos enquadra na
+
+191
+00:27:12,620 --> 00:27:19,260
+categoria de ave a resposta para essas questões passa é pelo seguinte
+
+192
+00:27:19,260 --> 00:27:29,900
+e será que vocês conseguem imaginar qual foi o critério de quem escreveu essa placa
+
+193
+00:27:29,900 --> 00:27:36,460
+porque vejam essa placa embora seja bastante engraçado bastante até constrangedora porque
+
+194
+00:27:36,460 --> 00:27:45,580
+para nós chocas e daí coelho não é ave não tem como ela não é aleatória ela tem uma ela
+
+195
+00:27:45,580 --> 00:27:53,900
+tem um sentido uma ideia por trás qual é a ideia é uma categorização que não é biológica
+
+196
+00:27:53,900 --> 00:28:01,500
+é uma categorização que é culinária se nós fossemos cozinhar um coelho né vamos pensar uma
+
+197
+00:28:01,500 --> 00:28:13,100
+receita que vá é coxas de coelho a função culinária de uma coxa de coelho ela pode ser
+
+198
+00:28:13,100 --> 00:28:19,100
+construída pela coxa de um outro mamífero então a receita lá e a seis coxas de coelho
+
+199
+00:28:19,100 --> 00:28:25,660
+a não tem coelho vou pegar um outro mamífero vou pegar seis coxas de ovelha seis coxas de
+
+200
+00:28:25,660 --> 00:28:33,580
+boi seis coxas de canelo não se eu tinha uma receita com seis coxas de coelho e eu não tenho
+
+201
+00:28:33,580 --> 00:28:38,180
+coelhos e eu quero fazer receita que eu vou pegar vou pegar seis coxas de pato seis coxas de
+
+202
+00:28:38,180 --> 00:28:47,100
+ganso não vou pegar seis coxas de boi não vou pegar seis coxas de cabrito em termos da
+
+203
+00:28:47,100 --> 00:28:52,740
+culinária coelho está muito mais próximo das aves do que está para os mamíferos em termos
+
+204
+00:28:52,740 --> 00:28:58,460
+da culinária porém a nossa cultura nos oferece o suficiente para rir dessa placa porque a gente
+
+205
+00:28:58,460 --> 00:29:04,460
+pode olhar primeiro para a biologia para a aula de biologia depois vai passar na culinária então
+
+206
+00:29:04,460 --> 00:29:16,460
+é a função quem escreveu essa placa pensou na função do coelho e não na biologia guarda o
+
+207
+00:29:16,460 --> 00:29:24,060
+termo função é importante quando eu tenho uma cultura desequilibrada uma cultura que é
+
+208
+00:29:24,060 --> 00:29:31,140
+parcial parcial porque porque ela não reconhece o elemento humano que tem na técnica ou seja ela
+
+209
+00:29:31,140 --> 00:29:35,580
+é parcial porque ela exclui uma parte de si própria né uma parte humana ela exclui deixa
+
+210
+00:29:35,580 --> 00:29:43,900
+como estrangeiro quando eu tenho uma cultura desequilibrada há dois polos desse desequilíbrio
+
+211
+00:29:43,900 --> 00:29:54,500
+e um dos polos é a redução do objeto técnico ao uso ou seja redução a função coelho na
+
+212
+00:29:54,500 --> 00:30:00,460
+culinária até a função parecida com a ave e aí eu coloquei lá na categoria de ave e deu ruim
+
+213
+00:30:00,460 --> 00:30:07,060
+ficou engraçada a placa no entanto exatamente esse processo nós fazemos com todos os objetos
+
+214
+00:30:07,060 --> 00:30:12,380
+técnicos nós que eu digo não são todos nós é a cultura no geral nós fazemos com objeto
+
+215
+00:30:12,380 --> 00:30:19,460
+nós não olhamos para o objeto nós não categorizamos categorizamos o objeto nós
+
+216
+00:30:19,460 --> 00:30:24,740
+olhamos simplesmente para a função para que serve a minha entrega essa função não importa
+
+217
+00:30:24,740 --> 00:30:30,020
+como ele faz a um faz com um caminho digital outro faz com um caminho analógico são equivalentes
+
+218
+00:30:30,020 --> 00:30:37,540
+porque nós olhamos para a função essa redução ela tem no outro polo de desequilíbrio uma
+
+219
+00:30:37,580 --> 00:30:44,820
+contribuição de interioridade a máquina quando nós quando a máquina ela simula coisas do
+
+220
+00:30:44,820 --> 00:30:50,740
+nosso mundo humano mas nós não entendemos novamente toda vez que o de samos não entendam
+
+221
+00:30:50,740 --> 00:30:56,980
+que é eu ou você cada um está ouvindo mas é a cultura nós não entendemos como a máquina
+
+222
+00:30:56,980 --> 00:31:05,460
+funciona e ela mimetiza coisas que são humanas nós atribuímos interioridade a ela né nós fazemos
+
+223
+00:31:05,460 --> 00:31:15,540
+a realidade com assistente virtual como se ela fosse uma pessoa é e na cultura nós podemos ver
+
+224
+00:31:15,540 --> 00:31:21,820
+essa atribuição de interioridade a máquina por exemplo nos filmes o cinema literatura são grandes
+
+225
+00:31:21,820 --> 00:31:32,180
+vitrinhos da cultura quando se pensa inteligência artificial como necessariamente hostil é que
+
+226
+00:31:32,180 --> 00:31:42,060
+a tensão contra nós ou terá no futuro algo do do gente então esse desequilíbrio é um desequilíbrio
+
+227
+00:31:42,060 --> 00:31:49,980
+né entre o polo do reduzo ao mero uso então eu não compreendo aí eu não compreendo se
+
+228
+00:31:49,980 --> 00:31:54,940
+se torna muito complexo eu atribuo interioridade eu atribuo características humanas que não
+
+229
+00:31:54,940 --> 00:32:01,660
+são o objeto justamente que eu desconheço o objeto esses polos que se alteram eles se
+
+230
+00:32:01,660 --> 00:32:12,660
+acessam em um em outro parzinho que é a tecnofobia e a tecnocracia a tecnofobia pela
+
+231
+00:32:12,660 --> 00:32:21,660
+não compreensão do sentido humano do objeto por não compreender o objeto se teme o objeto
+
+232
+00:32:21,660 --> 00:32:32,460
+a tecnocracia por esvaziar o sentido humano do objeto e porque a cultura esvaziou é fácil
+
+233
+00:32:32,460 --> 00:32:40,260
+é utilizar essa mediação né que o objeto técnico é uma mediação entre o homem a máquina para exercer
+
+234
+00:32:40,260 --> 00:32:48,060
+o poder sobre os outros homens então esse processo de tomada de consciência é um processo
+
+235
+00:32:48,060 --> 00:32:56,860
+absolutamente importante e significativo para essa cultura porque seria o meio de escapar
+
+236
+00:32:56,860 --> 00:33:05,020
+desses polos de desequilíbrio então enquanto houver o desconhecimento da máquina no sentido
+
+237
+00:33:05,020 --> 00:33:11,660
+do seu funcionamento e depois no sentido da sua essência e essência que não é não entenda
+
+238
+00:33:11,660 --> 00:33:19,260
+a gente vai ver como uma essência aristotélica digamos assim né a essência da máquina não
+
+239
+00:33:19,260 --> 00:33:26,420
+está nela mesmo mas nas relações o simondotema ontologia relacional mas enquanto não for a
+
+240
+00:33:26,420 --> 00:33:35,580
+cultura não for capaz de extrapolar essa primeira visão do objeto técnico e e não for capaz de
+
+241
+00:33:35,580 --> 00:33:45,180
+re-adimitir o sentido humano re-adimitir a a gênesis nós vamos ver daqui a pouco que é do objeto
+
+242
+00:33:45,180 --> 00:33:54,780
+técnico a tecnofobia e a tecnocracia terão lugar nessa relação e isso é bastante complicado então
+
+243
+00:33:54,780 --> 00:34:01,420
+é a ideia de um mito do robô por exemplo ela está ligada a essa atribuição de interioridade
+
+244
+00:34:01,420 --> 00:34:07,020
+da máquina para o simondom isso é um mito a máquina ela não é capaz e não será capaz de
+
+245
+00:34:07,020 --> 00:34:17,020
+interioridade ela é algo é ela não se confunde com a natureza humana então o simondom está
+
+246
+00:34:17,020 --> 00:34:22,460
+dizendo nós não conseguimos colocar a máquina no lugar dela ou nós colocamos abaixo do lugar
+
+247
+00:34:22,460 --> 00:34:28,380
+dela reduzindo ao mero uso ou seja nós não enxergamos a máquina nós só enxergamos para que ela serve
+
+248
+00:34:28,380 --> 00:34:33,660
+então nós colocamos ela acima do lugar dela como se ela fosse igual ao homem ela tivesse interioridade
+
+249
+00:34:33,660 --> 00:34:42,820
+ela tivesse intenção a tomada de consciência vai nos fazer colocar a máquina no seu justo lugar a
+
+250
+00:34:42,820 --> 00:34:50,340
+gente vai ver melhor que é então assistam a esse esse vídeozinho deixa passar aqui primeiro e depois
+
+251
+00:34:50,340 --> 00:34:53,580
+o momento ó novamente
+
+252
+00:35:00,180 --> 00:35:09,580
+então o que que está acontecendo nesse vídeo veja a poteira cor de rosa ela impede o
+
+253
+00:35:09,580 --> 00:35:19,820
+o seu inimigo aqui de destruir a roda e ela argumenta olha a roda vai gerar esse esse
+
+254
+00:35:19,820 --> 00:35:27,940
+desenvolvimento veja o futuro dessa roda então o que você está vendo aqui não é só uma roda não
+
+255
+00:35:27,940 --> 00:35:35,420
+é só isso ela tem dentro dela o futuro e o futuro é esse só que quando ela vai argumentar e vai
+
+256
+00:35:35,420 --> 00:35:43,020
+ver qual é o futuro ela percebe que esse futuro é trágico é vai acontecer um monte de
+
+257
+00:35:43,020 --> 00:35:51,740
+congestionamento isso vai travar a cidade etc e ela se junta ao inimigo para também destruir a roda
+
+258
+00:35:51,740 --> 00:36:02,420
+é o que que esse vídeozinho nos pode nos nos dizer para ilustrar essa ideia aqui da
+
+259
+00:36:02,420 --> 00:36:14,420
+tecnologia e também da tecnologia a ideia de que ao olhar para o futuro ao olhar para o objeto
+
+260
+00:36:14,420 --> 00:36:25,020
+no presente quando quando a cultura ela não tem bem ajustada a visão do objeto técnico em si
+
+261
+00:36:25,020 --> 00:36:38,220
+ela pode acabar projetando para o futuro apenas uma expectativa trágica uma expectativa
+
+262
+00:36:38,220 --> 00:36:48,220
+apocalíptica digamos assim mas guarda esse elemento a roda do jeito que ela está no no
+
+263
+00:36:48,220 --> 00:36:56,740
+momento né do vídeo ela não é só ela ela é também a sua história o seu devir aqui o que vem
+
+264
+00:36:56,740 --> 00:37:05,460
+agora se a cultura vai fazer uma projeção desse devir apenas catastrófica essa projeção é ou
+
+265
+00:37:05,460 --> 00:37:14,020
+seja uma projeção tecnofóbica é porque é uma reação a a projeção tecnocrática ou seja
+
+266
+00:37:14,020 --> 00:37:21,460
+eu estou prevendo que essa esse objeto técnico vai ser usado como meio de exercer o poder sobre
+
+267
+00:37:21,460 --> 00:37:28,580
+as pessoas isso vai ser ruim então eu tenho medo então vamos destruir isso já se deve a alienação
+
+268
+00:37:28,580 --> 00:37:39,420
+já se deve a falta justamente do justo lugar do equilíbrio tá então vamos ver é daqui a pouco
+
+269
+00:37:39,420 --> 00:37:49,340
+é o que é o que seria esse tal equilíbrio qual é a razão principal desse engano da cultura de não
+
+270
+00:37:49,340 --> 00:37:57,980
+encontrar o justo lugar e depender para um lado ou para o outro segundo o simandom é a razão desse
+
+271
+00:37:57,980 --> 00:38:10,140
+engano está em uma confusão que está enraizada na cultura e que mistura ou identifica a perfeição
+
+272
+00:38:10,140 --> 00:38:19,820
+técnica como o aumento do automatismo ou seja quanto maior o grau de automatismo mas a cultura
+
+273
+00:38:19,900 --> 00:38:30,220
+fica que se está aproximando de uma perfeição técnica e no caso da da tecnofobia um dos
+
+274
+00:38:30,220 --> 00:38:37,100
+elementos importantes da tecnofobia é a ideia de que a máquina vai roubar o papel do ser humano
+
+275
+00:38:37,100 --> 00:38:44,140
+é então quanto mais quanto maior automatismo mas ela vai roubar o papel de algum humano e esse
+
+276
+00:38:44,140 --> 00:38:51,020
+tempo perder o seu espaço nas relações técnicas a gente vai ver mais pro frente a a história né
+
+277
+00:38:51,020 --> 00:38:57,580
+em que ponto da história isso ocorre e o simando vai dizer pois é só que a perfeição técnica ela
+
+278
+00:38:57,580 --> 00:39:02,460
+não está diretamente associada ao grau do automatismo ela também não é inversamente
+
+279
+00:39:02,460 --> 00:39:11,420
+proporcional mas ela não é diretamente proporcional porque porque uma máquina ela tem um certo grau
+
+280
+00:39:11,420 --> 00:39:19,020
+do automatismo mas ela também tem um certo grau uma certa margem de indeterminação que que é a margem
+
+281
+00:39:19,020 --> 00:39:27,580
+de indeterminação é a parte dessa máquina que permanece sensível a informação ou a troca de
+
+282
+00:39:27,580 --> 00:39:35,740
+informação a perfeição técnica para o simandom não está no aumento do automatismo mas está
+
+283
+00:39:35,740 --> 00:39:44,860
+a encontrar a justa medida o melhor ou a melhor relação entre automatismo e margem de indeterminação
+
+284
+00:39:44,860 --> 00:39:51,980
+o que que define qual é a melhor relação a gente já vai ver então o que que é uma máquina fechada
+
+285
+00:39:51,980 --> 00:39:57,900
+é uma máquina com muito pouca margem de indeterminação ou nenhuma é uma máquina que não é
+
+286
+00:39:57,900 --> 00:40:02,220
+sensível a informação partir do momento que você pôs ela para funcionar ela não considera
+
+287
+00:40:02,220 --> 00:40:07,100
+que a informação ela vai funcionar daquele mesmo jeitinho que ela foi projetada para fazer
+
+288
+00:40:07,100 --> 00:40:15,180
+uma máquina aberta ela pode ser aberta em vários graus quanto mais sensível a informação mais
+
+289
+00:40:15,180 --> 00:40:23,580
+aberta é essa máquina então vamos ver a informação a margem de indeterminação então está ligada
+
+290
+00:40:23,580 --> 00:40:33,420
+a sensibilidade a informação que seriam um conjunto coerente se nós tomarmos para analisar esse
+
+291
+00:40:33,420 --> 00:40:42,300
+objeto técnico que está no centro aí esse que está em azul destacado a perfeição técnica desse
+
+292
+00:40:42,300 --> 00:40:51,500
+objeto não está associada a quanto mais ele consegue ser ter autonomia digamos assim né a
+
+293
+00:40:51,500 --> 00:40:59,100
+versão técnica estaria mais ligada ao melhor equilíbrio na troca de informação desse objeto
+
+294
+00:40:59,100 --> 00:41:07,100
+técnico com o meio é aquele o meio que cerca esse objeto desse objeto técnico com outros objetos
+
+295
+00:41:07,100 --> 00:41:13,500
+técnicos porque o conjunto coerente é não é só a junção de objetos técnicos nós são objetos
+
+296
+00:41:13,500 --> 00:41:19,260
+técnicos capazes de trocar informação entre eles e a troca de informação entre esse objeto
+
+297
+00:41:19,260 --> 00:41:29,500
+e o homem veja que o homem e me permitam é permanecer no vocabulário do autor né embora
+
+298
+00:41:29,500 --> 00:41:40,380
+nós o simondom faleceu em 1989 embora nós tenhamos avançado muito no modo de utilizar esse esse
+
+299
+00:41:40,380 --> 00:41:46,860
+conceito né atualmente nós já não escrevemos assim né colocar o homem com uma figura de ser humano
+
+300
+00:41:46,860 --> 00:41:54,300
+mas eu estou utilizando o conceito do texto do autor pode entender como ser humano o homem aqui
+
+301
+00:41:54,300 --> 00:42:03,500
+vejam que o homem não está fora da relação técnica naquilo que seria o conjunto coerente isso
+
+302
+00:42:03,500 --> 00:42:11,980
+não quer dizer que o mercado siga esse essa ideia de perfeição técnica pode ser que o mercado siga
+
+303
+00:42:11,980 --> 00:42:16,780
+justamente essa ideia aqui quanto maior automatismo mais a perfeição técnica porque
+
+304
+00:42:16,780 --> 00:42:25,820
+justamente quer me livrar do homem que está ali no no sistema né no esquema é possível o simondom
+
+305
+00:42:25,820 --> 00:42:34,060
+não está negando que o mercado pode utilizar que as as relações econômicas podem é conduzir
+
+306
+00:42:34,060 --> 00:42:44,860
+a uma a uma relação desequilibrada mas ele está dizendo a cultura precisa similar que não é esse
+
+307
+00:42:44,860 --> 00:42:53,500
+conceito de perfeição técnica a perfeição técnica está na coerência de uma boa relação é de
+
+308
+00:42:53,500 --> 00:43:00,700
+troca de informação onde o homem é o maestro das máquinas porque aqui nós estamos com o objeto
+
+309
+00:43:00,940 --> 00:43:08,060
+no centro né como o objeto de análise mas se a gente colocasse o foco no homem o homem ele é
+
+310
+00:43:08,060 --> 00:43:15,100
+aquele maestro que rege todas as relações entre os objetos técnicos o homem não é retirado da
+
+311
+00:43:15,100 --> 00:43:21,260
+relação técnica a cultura percebe isso dessa maneira porque porque a própria cultura está
+
+312
+00:43:21,260 --> 00:43:27,660
+desequilibrada e a tecnocracia ela é real nas relações sociais se mandou não está negando
+
+313
+00:43:27,660 --> 00:43:35,420
+ele só está dizendo que não é esse o conceito de perfeição técnica que seria o mais interessante
+
+314
+00:43:35,420 --> 00:43:47,020
+assumir então está aí o diagnóstico a pergunta que vem agora é como fazer essa tomada de consciência
+
+315
+00:43:47,020 --> 00:43:52,780
+porque tudo bem nos parece que a tomada de consciência é necessária aqui ela é importante
+
+316
+00:43:52,780 --> 00:44:00,780
+como fazer essa tomada de consciência o se mandou ele na sua obra no no meote né até
+
+317
+00:44:00,780 --> 00:44:09,420
+se complementar ele divide em três partes essa esse projeto essas três partes são as três grandes
+
+318
+00:44:09,420 --> 00:44:16,460
+sessões do livro a primeira etapa é capturar a gênesis dos objetos técnicos então vejam que
+
+319
+00:44:16,460 --> 00:44:23,500
+o se mandou ele não começa pelo plano do do social do plano do macro ele começa olhando
+
+320
+00:44:23,500 --> 00:44:33,260
+para o objeto técnico e daí ele expande a sua análise atenção isso não quer dizer que o simão
+
+321
+00:44:33,260 --> 00:44:41,500
+não pare na análise do objeto técnico ou seja que que a filosofia da técnica do simão não seja
+
+322
+00:44:41,580 --> 00:44:48,700
+atingir a questões axiológicas questões sobre a ética questões sobre as relações sociais com
+
+323
+00:44:48,700 --> 00:44:54,140
+objeto técnico só quer dizer que o ponto de partida é a ontologia do objeto a primeira etapa é
+
+324
+00:44:54,140 --> 00:44:59,900
+capturar a gênesis dos objetos técnicos aí amplia-se mais um pouco a segunda etapa é considerar a
+
+325
+00:44:59,900 --> 00:45:07,580
+relação entre o homem o objeto técnico para na terceira etapa devolver esse objeto técnico ao
+
+326
+00:45:07,660 --> 00:45:15,740
+conjunto do real então são as três grandes sessões do melde nós não vamos dar conta obviamente de
+
+327
+00:45:15,740 --> 00:45:23,580
+todo esse panorama nós vamos dar ênfase na primeira etapa a segunda etapa nós vamos considerar um
+
+328
+00:45:23,580 --> 00:45:33,420
+pouco mais rapidamente a terceira etapa é eu vou apenas mencionar no no final então eu termino
+
+329
+00:45:33,420 --> 00:45:40,780
+a primeira parte eu vou chamar o Alex novamente para a para a etapa um e eu volto para a etapa
+
+330
+00:45:40,780 --> 00:45:52,060
+dois tá bem Alex fica contigo aqui obrigado a ver um lixo só em quadrar aqui para ficar mais adequado
+
+331
+00:45:53,020 --> 00:46:01,260
+perfeito gente então é agora vemos que considerar que o que eu vou apresentar é
+
+332
+00:46:01,260 --> 00:46:14,380
+é um torna-se um desafio porque de certa forma eu tentarei dar alguma alguma luz alguma algum recorte
+
+333
+00:46:14,380 --> 00:46:23,420
+sobre essa esse essa etapa metodológica que o que a virônica mencionou né de ter digamos assim um
+
+334
+00:46:23,420 --> 00:46:32,220
+movimento né de análise do objeto técnico e nesse movimento o se mandou recorta alguns
+
+335
+00:46:32,220 --> 00:46:42,300
+conceitos importantes eu vou escolher como ponto de ponto de entrada né algumas estratégias eu vou
+
+336
+00:46:42,300 --> 00:46:54,220
+considerar aqui é como um guia para produzir a minha fala é um alguns elementos alguns vocabulários
+
+337
+00:46:54,220 --> 00:47:01,020
+que aparecem ali na introdução especificamente no se você enumerar os parágrafos nós entregamos
+
+338
+00:47:01,020 --> 00:47:08,420
+os textos para vocês e na introdução eu enumerei para que pudesse dessa forma facilitar a que a
+
+339
+00:47:08,420 --> 00:47:15,740
+introdução do texto eu vou eu vou utilizar o parágrafo 15 ou de o mesmo o se mundo fala
+
+340
+00:47:15,740 --> 00:47:23,620
+isso basicamente ali de como estabelecer a tomada de consciência a partir de análise do que ele
+
+341
+00:47:23,620 --> 00:47:32,340
+chama de processo de concretização né depois disso com um pouco mais de de rapidez eu tentarei fazer
+
+342
+00:47:32,340 --> 00:47:40,100
+uma análise de um de um exemplo que o próprio se mandou trata no livro dele daí durante a primeira
+
+343
+00:47:40,100 --> 00:47:47,700
+análise da primeira etapa né ele utiliza a questão dos motores eu vou abordar um pouquinho a
+
+344
+00:47:47,700 --> 00:47:54,260
+definição do que um carro né para trabalhar algumas coisas a respeito das questões técnicas e fazer
+
+345
+00:47:54,260 --> 00:48:00,180
+uma breve breve consideração sobre os elementos sociais envolvidos tá então entendo que agora
+
+346
+00:48:00,180 --> 00:48:06,580
+eu vou abordar esse elemento ontológico e que especificamente está no parágrafo 15 aqui está
+
+347
+00:48:06,580 --> 00:48:13,540
+o parágrafo 15 é vou ler rapidamente aqui para operar essa tomada de consciência ó então veja
+
+348
+00:48:13,540 --> 00:48:20,500
+que o simulão já enuncia a questão da da do processo de tomada de consciência é para operar
+
+349
+00:48:20,500 --> 00:48:25,540
+essa tomada de consciência podemos tentar definir o objeto técnico em si mesmo pelo processo de
+
+350
+00:48:25,620 --> 00:48:32,340
+utilização e de sobredeterminação funcional que ele dá a sua consistência ao termo de uma
+
+351
+00:48:32,340 --> 00:48:38,580
+evolução provando que ele não poderia ser o considerado um puro utensímetro as modalidades
+
+352
+00:48:38,580 --> 00:48:44,020
+dessa gênese permitem aprender três níveis do objeto técnico e sua coordenação temporal não
+
+353
+00:48:44,020 --> 00:48:51,460
+dialético o elemento indivíduo então finalizando aqui né o que tem que primeiro ser dito é que tem
+
+354
+00:48:51,460 --> 00:48:59,220
+o cabulário novo que o simulão está introduzindo já o cabulário que ele vai desenvolver né eu vou
+
+355
+00:48:59,220 --> 00:49:08,500
+ressaltar algumas aqui é primeiro lugar né que a tomada de consciência ela necessita ser feita a
+
+356
+00:49:08,500 --> 00:49:15,700
+partir de uma tentativa de definir olha a palavra que lhe usa definir a palavra a compreensão de algo
+
+357
+00:49:16,180 --> 00:49:23,460
+parte por uma definição desse aula né mas só que essa definição ela não vem de qualquer jeito ela
+
+358
+00:49:23,460 --> 00:49:33,220
+vem é de uma definição do objeto em si mesmo olha que engraçado é tentar olhar para o objeto ele
+
+359
+00:49:33,220 --> 00:49:41,220
+em si mesmo e tentar definir ele a partir dele sem aquela aquilo que a verônica apresentou ali né
+
+360
+00:49:41,220 --> 00:49:50,180
+a relação às intenções humanas propriamente de sem a sem definir o objeto a partir do que
+
+361
+00:49:50,180 --> 00:49:57,220
+o humano acha que é objeto então é um exercício filosófico de tentar compreender o ser do objeto
+
+362
+00:49:57,220 --> 00:50:05,060
+a partir dele mesmo dele mesmo mas como que isso poderia ser elaborar daí o simulou apresenta dois
+
+363
+00:50:05,060 --> 00:50:11,300
+ali que estão em azul né que é o processo de concretização e sobredeterminação funcional
+
+364
+00:50:11,300 --> 00:50:18,100
+a minha aula para frente agora vai tentar é explicar um pouquinho que é esse processo de
+
+365
+00:50:18,100 --> 00:50:23,060
+concretização a palavra concretização é importante aqui e por sua vez a questão do
+
+366
+00:50:23,060 --> 00:50:29,140
+funcionamento né de sobredeterminar funcionamentos a gente vai ver o que que isso quer dizer né
+
+367
+00:50:29,700 --> 00:50:37,140
+e que é e daí ele é essa compreensão do processo de sobredeterminação é o processo de
+
+368
+00:50:37,140 --> 00:50:46,340
+concretização e de sobredeterminação é produso que o simulou percebe né na é o que ele compreende
+
+369
+00:50:46,340 --> 00:50:54,340
+como uma evolução uma ou seja que dá uma uma interpretação do objeto no sentido da sua evolução
+
+370
+00:50:54,420 --> 00:51:02,740
+vamos perceber as tais das linhagens evolutivas dos objetos técnicos esse esse modo de entender
+
+371
+00:51:02,740 --> 00:51:11,780
+então a definição do objeto a partir dele mesmo é escapa daquelas análises feitas dos objetos
+
+372
+00:51:11,780 --> 00:51:20,020
+a partir né da da utilidade né então quando o simulou fala assim o objeto como um utensílio
+
+373
+00:51:20,020 --> 00:51:26,660
+o utensílio a própria palavra remete a utilidade do objeto né ele serve para alguma coisa ou
+
+374
+00:51:26,660 --> 00:51:33,780
+seja essa outra maneira que ele está pretendendo que o simulou está pretendendo ela não tem digamos
+
+375
+00:51:33,780 --> 00:51:42,500
+um um ponto de partida a utilidade do objeto é ela tem a ver um outro jeito de olhar para o objeto
+
+376
+00:51:42,500 --> 00:51:48,900
+que produz a linhagem evolutiva que não está dando ênfase a questão da utilidade
+
+377
+00:51:49,940 --> 00:51:54,740
+e aí a parte agora a segunda segunda parte da citação ela é um pouco mais complicada
+
+378
+00:51:55,380 --> 00:52:01,860
+é porque ela introduz aqui algumas coisas que talvez a gente não vai conseguir desenvolver
+
+379
+00:52:01,860 --> 00:52:07,860
+nessa na aula né ou seja que as modalidades dessa gênese então permite estabelecer níveis
+
+380
+00:52:07,860 --> 00:52:16,420
+evolutivos do objeto técnico então a a gênese que produz a linhagem evolutiva produz é um níveis
+
+381
+00:52:16,420 --> 00:52:24,500
+evolutivos ou seja que é uma coordenação temporal a palavra tempo importante mas ela é não dialética
+
+382
+00:52:24,500 --> 00:52:32,260
+a palavra dialética faz referência sim a uma versão de entender a evolução das evolução
+
+383
+00:52:32,260 --> 00:52:39,460
+das coisas do mundo né na a partir do método dialético então quem estuda em materialismo
+
+384
+00:52:39,460 --> 00:52:45,060
+histórico dialético na sua relação com a tecnologia aqui temos uma boa conversa pra
+
+385
+00:52:45,060 --> 00:52:50,180
+se fazer porque o simulou agora está vendo que há possibilidade de interpretar a evolução dos
+
+386
+00:52:50,180 --> 00:52:56,820
+objetos técnicos sem que necessariamente tenha que uma interpretação dialética né então é
+
+387
+00:52:56,820 --> 00:53:03,620
+uma das pessoas que por exemplo conhecem a filosofia de alvo do vira pinto né alvo do vira pinto
+
+388
+00:53:03,620 --> 00:53:10,660
+estabelece sim uma interpretação da da tecnologia e a partir do método dialético o simulou ele não
+
+389
+00:53:10,660 --> 00:53:16,100
+está negando a dialética ele só está em um determinado momento entendendo que não é possível
+
+390
+00:53:16,100 --> 00:53:21,940
+é aplicar dialética exatamente quando você observa o que ele chama de elemento de indivíduo
+
+391
+00:53:22,420 --> 00:53:28,500
+que há um nível do objeto técnico que é elementar tem um nível do objeto técnico que
+
+392
+00:53:28,500 --> 00:53:34,100
+se estabelece enquanto indivíduo técnico e um nível do objeto que dos objetos que se estabelece
+
+393
+00:53:34,100 --> 00:53:39,780
+enquanto conjunto depois a gente tenta aprofundar um pouco mais sobre isso tá então avançando aqui
+
+394
+00:53:39,780 --> 00:53:45,540
+explorando um pouco mais então agora a questão da concretização e sobre determinação funcional
+
+395
+00:53:45,540 --> 00:53:52,500
+eu sempre uso esse slide aqui para um motivador aqui para que eu vou falar então olha para esse
+
+396
+00:53:52,500 --> 00:53:59,380
+quatro objetos aqui nós temos quatro objetos a pergunta que eu faço para quem está me ouvindo é
+
+397
+00:53:59,380 --> 00:54:06,260
+se você sabe o que são esses objetos você consegue classificar veja a classificação desses
+
+398
+00:54:06,260 --> 00:54:13,780
+objetos depende de uma definição de saber o que é o objeto né normalmente então os meus ouvintes
+
+399
+00:54:13,780 --> 00:54:22,500
+estudantes né as pessoas comprem o diálogo classificam aqui é classificam esses objetos
+
+400
+00:54:22,500 --> 00:54:30,180
+em dois grupos então teríamos aqui dois grupos o grupo que mede o tempo então tem aqui o relógio
+
+401
+00:54:30,180 --> 00:54:36,020
+digital e o relógio o despertador com o relógio acorda poderemos dizer que esse aí é um funcionamento
+
+402
+00:54:36,020 --> 00:54:42,340
+dele é por molas e temos a campainha campainha também pode estar ligado a esses objetos porque
+
+403
+00:54:42,340 --> 00:54:49,700
+ele ele emite um som que pode ser usado para marcar tempo então é o primeiro grupo e o segundo
+
+404
+00:54:49,700 --> 00:54:58,740
+grupo é o grupo da da arma o grupo que temos aqui então uma uma besta né que lança então as
+
+405
+00:54:58,740 --> 00:55:05,060
+flechas ali que serve para caça para exporta mas ele é tratado como uma arma né um tipo de arma
+
+406
+00:55:05,060 --> 00:55:12,740
+então se nós pensarmos ou seja essa classificação só temos a possibilidade de
+
+407
+00:55:12,740 --> 00:55:18,820
+estabelecer dois grupos aqui né guardem essa classificação porque talvez seja mais comum
+
+408
+00:55:18,820 --> 00:55:24,820
+toda vez que eu pergunto se estou dando essa aula com pessoas no presencial elas classificam nesse
+
+409
+00:55:24,820 --> 00:55:36,100
+período esses objetos então para a gente entender a proposta a pergunta é o que que é o que o
+
+410
+00:55:36,100 --> 00:55:48,580
+Simondão vai chamar de genes no meote lá no modo de existência o primeiro momento que o Simondão
+
+411
+00:55:48,580 --> 00:55:55,460
+vai tratar do conceito de genes é no no capítulo um então depois da introdução já no início
+
+412
+00:55:55,460 --> 00:56:03,380
+zinho é aparece essa citação eu vou ler e vou tentar esboçar alguns elementos envolvidos
+
+413
+00:56:03,380 --> 00:56:11,380
+aqui novamente né eu vejamos aqui o que tá na citação ao invés de partir da individualidade do
+
+414
+00:56:11,380 --> 00:56:20,500
+objeto técnico ou até de sua especificidade que é muito estágio para tentar definir as leis
+
+415
+00:56:20,500 --> 00:56:28,180
+da sua genes no quadro dessa individualidade ou dessa especificidade é preferível inverter o problema
+
+416
+00:56:28,180 --> 00:56:36,980
+é a partir dos critérios da genes que podemos definir a individualidade e a especificidade do
+
+417
+00:56:36,980 --> 00:56:44,740
+objeto técnico objeto técnico individual não é não é tal ou tal coisa dada aqui e agora
+
+418
+00:56:44,740 --> 00:56:53,780
+é num é mas é aquilo que a gênesis a gênesis do objeto técnico faz parte do seu ser o objeto
+
+419
+00:56:53,780 --> 00:57:02,100
+técnico é aquilo que não é anterior ao seu devir mas está presente em cada etapa desse devir
+
+420
+00:57:02,100 --> 00:57:09,780
+o objeto técnico é o único é o único é a unidade é o objeto técnico uno é a unidade de devir
+
+421
+00:57:09,780 --> 00:57:19,940
+é então a primeira coisa que é salta os olhos aqui que o simondão está usando o termogênese para
+
+422
+00:57:19,940 --> 00:57:29,460
+pensar evolução técnica então o termogênese remete a um processo alguma coisa que tem a
+
+423
+00:57:29,780 --> 00:57:37,460
+evolução técnica então compreender a gênesis parece compreender um elemento que indica
+
+424
+00:57:38,180 --> 00:57:49,540
+este processo evolutivo é esse esse modo com que os objetos se desenvolvem e ele se desenvolve
+
+425
+00:57:49,540 --> 00:57:59,300
+agora é no tempo então a palavra tempo aparece aqui como um ponto central para compreensão
+
+426
+00:57:59,300 --> 00:58:07,940
+desse objeto só que percebo que o que está em verde aqui é a ponta para uma negação para algo que
+
+427
+00:58:07,940 --> 00:58:18,180
+não é não serve para nós ou seja que para compreender é aquilo que explica a gênesis as leis
+
+428
+00:58:18,180 --> 00:58:31,780
+da gênesis é que levam ao ser do objeto técnico é nós não podemos é analisar o objeto no sentido
+
+429
+00:58:31,780 --> 00:58:40,020
+da sua individualidade dada aqui agora é então por exemplo na minha frente tem o computador
+
+430
+00:58:40,820 --> 00:58:48,100
+então para compreender o que faz esse objeto técnico ser o que ele é o computador né eu não
+
+431
+00:58:48,100 --> 00:58:56,820
+posso segundo simondão estudar esse objeto descolada da sua linhagem temporal eu não posso
+
+432
+00:58:56,900 --> 00:59:05,620
+olhar para esse objeto só o que ele está dado aqui presente diante de mim a individualidade do
+
+433
+00:59:05,620 --> 00:59:14,260
+objeto ela não nos permite compreender o que faz o objeto ser nesse processo evolutivo né então
+
+434
+00:59:14,260 --> 00:59:21,540
+o que o simondão propõe agora em vez de entender a individualidade como um elemento para estabelecer
+
+435
+00:59:21,860 --> 00:59:30,260
+ele pretende inverter é ou seja é olhar para os critérios da gênesis que resultam no objeto
+
+436
+00:59:30,980 --> 00:59:38,020
+vejam como que agora o exercício é muito mais é muito mais parece universalizante eu preciso
+
+437
+00:59:38,020 --> 00:59:45,780
+olhar para o processo ao que leva o indivíduo e não o contrário não olhar para o indivíduo
+
+438
+00:59:45,780 --> 00:59:53,620
+estabelecer a compreensão do processo eu preciso compreender aquele processo que envolve o tempo
+
+439
+00:59:54,660 --> 01:00:01,620
+que envolve o digamos um pouco mais amplo no sentido do tempo que resulta na individualidade
+
+440
+01:00:01,620 --> 01:00:11,300
+é por isso que o simondão vai abordar esse esse finalzinho aqui ó em termos em termos do da noção
+
+441
+01:00:11,300 --> 01:00:21,060
+de devir né então a gênesis olha o que está em em rosa em roxo né a gênesis do objeto técnico
+
+442
+01:00:21,060 --> 01:00:27,780
+faz parte do seu ser o objeto técnico é aquilo que não é anterior ao seu devir mas está presente
+
+443
+01:00:27,780 --> 01:00:35,300
+em cada etapa desse devir o objeto técnico é o 1 é a unidade é o objeto técnico é o 1 é unidade
+
+444
+01:00:35,540 --> 01:00:41,940
+a palavra de devir aqui tem toda uma nova significação na análise dos objetos técnicos
+
+445
+01:00:41,940 --> 01:00:48,740
+simondão está trazendo para nós todo um novo vocabulário agora como é que eu entendo isso
+
+446
+01:00:49,860 --> 01:00:58,180
+é isso o desafio né este parágrafo no capítulo 1 ele está fazendo menção a toda uma nova maneira
+
+447
+01:00:58,260 --> 01:01:05,460
+que o simondão está interpretando o próprio fazer da metafísica o próprio compreensão da ontologia
+
+448
+01:01:05,460 --> 01:01:12,820
+né é esse é um texto de um que a gente confessa que eu e verão quando estamos dando aula que é um
+
+449
+01:01:12,820 --> 01:01:19,860
+texto desafiador porque o simondão ele não às vezes não facilita para o seu leitor completamente
+
+450
+01:01:19,860 --> 01:01:27,860
+do que está se tratando né essa parte final desse parágrafo está fazendo menção a toda uma
+
+451
+01:01:27,860 --> 01:01:34,100
+interpretação que o simondão talvez tenha desenvolvido com um pouco mais de de detalhes
+
+452
+01:01:34,100 --> 01:01:42,980
+o que aparece na individuação né então eu vou agora fazer um parentes aqui para entender um
+
+453
+01:01:42,980 --> 01:01:50,180
+pouco mais essa ontologia do simondão em termos do que que tem a ver o termo individuação o conceito
+
+454
+01:01:50,180 --> 01:01:57,060
+de ser o conceito de devir né porque só isso que nos permitirá compreender talvez um pouco mais o
+
+455
+01:01:57,060 --> 01:02:03,620
+que é a questão da concretização em termos de processo né acho que a palavra processo aqui ela
+
+456
+01:02:03,620 --> 01:02:09,460
+remete a esses novos vocabulários da ontologia do simondão então vou fazer aqui se eu estivesse
+
+457
+01:02:09,460 --> 01:02:16,500
+usando o preze né eu faria digamos uma uma aquela aquela entrada naqueles slides que é possível
+
+458
+01:02:16,500 --> 01:02:22,580
+você fazer assim uma uma entrada como se tivesse fazendo uma abertura um parentes que não não
+
+459
+01:02:22,820 --> 01:02:27,780
+é sómente uma coisa muito rápida aqui mas eu quero fazer menção porque eu acho que faz parte
+
+460
+01:02:27,780 --> 01:02:34,740
+também da formação do vocabulário simondoniano trabalhar alguns elementos aqui da da ontologia
+
+461
+01:02:34,740 --> 01:02:42,340
+algo que não é possível ser feito só a partir do do meote é preciso entrar no infe né no no
+
+462
+01:02:42,340 --> 01:02:49,140
+no na individuação a luz das formas é forma informação tá então eu vou abordar que algumas
+
+463
+01:02:49,140 --> 01:02:57,540
+vezes o que que aparece na introdução do ilfe né do da individuação aparece uma reflexão sobre
+
+464
+01:02:57,540 --> 01:03:03,780
+o conceito de ser é que é exatamente o que que nós vimos ali na citação anterior né o simondão
+
+465
+01:03:03,780 --> 01:03:12,420
+inicia abordando na introdução duas maneiras que é metafísica história da metafísica abordou o
+
+466
+01:03:12,420 --> 01:03:21,780
+conceito de ser uma visão sub substancialista dos do ser que ele associa a prática dos filósofos
+
+467
+01:03:21,780 --> 01:03:28,580
+atomistas né lá na gress então interpreta o ser das coisas a partir de uma substância
+
+468
+01:03:29,540 --> 01:03:39,060
+ou de uma é maneira né é de interpretar o ser que é a junção de forma e matéria né que
+
+469
+01:03:39,060 --> 01:03:47,540
+ficou conhecido como rilé morfismo rilé é de de matéria né e morfismo de forma né
+
+470
+01:03:47,540 --> 01:03:53,700
+o Aristóteles estabelece essa essa análise do ser né a junção de forma e matéria
+
+471
+01:03:56,100 --> 01:04:02,580
+o que que o simondão interpreta que essas duas maneiras de estabelecer a relação com o ser
+
+472
+01:04:02,580 --> 01:04:11,460
+buscam o princípio da individuação é buscam o princípio de diversão é que a anterior
+
+473
+01:04:11,460 --> 01:04:19,620
+a individuação só que olham para esse princípio da individuação pensando no ser acabado é ou
+
+474
+01:04:19,620 --> 01:04:26,820
+seja o ser já posto é aquilo que que nós vimos ali de que ao invés de olhar para o objeto
+
+475
+01:04:27,540 --> 01:04:32,980
+no seu processo ele olha para o objeto para retirar o princípio de individuação ou seja
+
+476
+01:04:32,980 --> 01:04:38,660
+a essas duas correntes da metafísica fizeram o que o simondão está criticando lá no meuite né
+
+477
+01:04:38,660 --> 01:04:46,980
+em relação ao objeto técnico é ele eles intentam entender o ser é a partir do ser já dado o ser
+
+478
+01:04:46,980 --> 01:04:54,580
+acabado mesmo que no caso do Aristóteles tem uma interpretação que o ser possa ser entendido
+
+479
+01:04:54,660 --> 01:05:02,420
+um ser em movimento ou um ser em repouso né ou seja mesmo que o Aristóteles compreendam que
+
+480
+01:05:02,420 --> 01:05:09,860
+existam seres que são estão em movimento ou seres que estejam em repouso seja seres eternos
+
+481
+01:05:09,860 --> 01:05:15,940
+né o Aristóteles ele faz essa essa separação que há seres que estão em repouso e há seres que
+
+482
+01:05:16,020 --> 01:05:25,380
+estão em movimento ou seres que estão em estáveis ou seres que estão estáveis né então essa
+
+483
+01:05:25,380 --> 01:05:33,140
+é a noção de repouso e movimento está na história porém a interpretação do princípio
+
+484
+01:05:33,140 --> 01:05:40,820
+de individuação que faz o ser vir a ser o que é é dado a partir de uma análise do ser já acabado
+
+485
+01:05:41,780 --> 01:05:49,140
+o simondão acha que isso gera vários e vários problemas é preciso fazer uma modificação
+
+486
+01:05:49,140 --> 01:05:54,900
+da interpretação do ser né da análise do ser das coisas e ele vai estabelecer uma tentativa de
+
+487
+01:05:54,900 --> 01:06:03,620
+revir a volta na análise do princípio de individuação como percebam a citação que eu coloquei aqui
+
+488
+01:06:03,620 --> 01:06:12,900
+no termo operação né há uma operação de individuação a partir do qual o indivíduo
+
+489
+01:06:12,900 --> 01:06:21,380
+vem a existir e da qual ele reflete seus caracteres ou desenro em seus caracteres ou desenrolar o
+
+490
+01:06:21,380 --> 01:06:28,100
+regime e por fim as modalidades ó percebo a palavra operação de individuação está
+
+491
+01:06:28,100 --> 01:06:36,420
+presupondo essa inversão de que eu não olho para o ser acabado eu olho para o processo que leva o
+
+492
+01:06:36,420 --> 01:06:47,620
+ser ao ser o que ele é né e esse processo né se reflete no indivíduo que aparece né e ele não
+
+493
+01:06:47,620 --> 01:06:54,740
+elimina esse os elementos as modalidades desse processo ainda ficam presentes nos objetos é
+
+494
+01:06:54,740 --> 01:07:03,780
+que o Simondão quer defender né de onde que ele está tirando né ou seja a toda uma discussão que
+
+495
+01:07:03,780 --> 01:07:13,540
+o Simondão faz sobre o ser dialogando com com a ciência contemporânea né é um ou seja de uma
+
+496
+01:07:13,540 --> 01:07:20,500
+um modo de entender a ciência contemporânea a partir das novas físicas da nova química e ele
+
+497
+01:07:20,500 --> 01:07:29,460
+constrói alguns vocabulários para apontar né apontar é é é estando esses novos diálogos que
+
+498
+01:07:29,460 --> 01:07:36,020
+precisam ser estabelecidos com a nova ciência nova ciência né um conceito então fundamental que
+
+499
+01:07:36,020 --> 01:07:44,340
+aparece é o conceito de pré-individual né ou seja que é possível defender que a individuação
+
+500
+01:07:44,340 --> 01:07:54,580
+o objeto que surge né não esgota as potencialidades da realidade pré-individual ou seja o objeto
+
+501
+01:07:54,580 --> 01:08:03,060
+que está adiante de mim ele está no tempo presente mas ele não esgotou algo que é prévia ele né eu
+
+502
+01:08:03,060 --> 01:08:11,940
+posso entender o pré-individual a relação prévia antes do objeto estabelecer a essa presença
+
+503
+01:08:11,940 --> 01:08:19,220
+de mim o Simondão vai chamar então esse elemento é anterior né do indivíduo que está adiante de
+
+504
+01:08:19,220 --> 01:08:26,900
+mim como um conceito de pré-individual é outro termo que aparece agora especificamente no diálogo
+
+505
+01:08:26,900 --> 01:08:36,020
+com a ciência é o tal da meta-instabilidade né é o conceito de energia potencial tá na física né
+
+506
+01:08:36,020 --> 01:08:44,340
+ou a questão do das potencialidades que estão no conceito de entropia é o conceito de entropia
+
+507
+01:08:44,340 --> 01:08:50,340
+que é até difícil de vocês gotar né mas é a tendência né para a dissipação de energia né
+
+508
+01:08:50,340 --> 01:08:56,420
+é o Simondão vai chamar isso de meta-estabilidade então pense na energia potencial se eu seguro
+
+509
+01:08:56,420 --> 01:09:04,180
+um objeto na minha mão ali tem uma energia potencial gravitacional se eu que está atuando
+
+510
+01:09:04,180 --> 01:09:10,980
+de modo que eu posso pensar ele em termos de potência que se eu soltar a energia ela vai
+
+511
+01:09:10,980 --> 01:09:18,580
+ela vai ela vai atuar no objeto de modo a fazer ele cair então tem uma energia aqui que eu posso
+
+512
+01:09:18,580 --> 01:09:26,500
+analisar na sua potencialidade ou o Simondão chama esse estado de potencialidade como meta-estável
+
+513
+01:09:26,500 --> 01:09:35,940
+uma meta-estabilidade que está sempre atuando nos nos indivíduos né é por outro lado então a
+
+514
+01:09:35,940 --> 01:09:44,020
+análise é análise da química faz o Simondão construir o conceito de operação transdutiva
+
+515
+01:09:44,020 --> 01:09:49,780
+é operação transdutiva tem a haver tem haver aqui como uma coisa que eu vou ver aqui mais para
+
+516
+01:09:50,420 --> 01:10:00,100
+eu então só chamo aqui a noção de de transdução como um processo é um processo que desencadeia
+
+517
+01:10:00,100 --> 01:10:07,460
+que tem uma ressonância em nos nas relações causais das coisas envolvidas a gente já vê
+
+518
+01:10:07,460 --> 01:10:15,860
+isso no exemplo do cristal aqui muito rapidamente tá a conclusão nessa reviravolta da análise do
+
+519
+01:10:15,860 --> 01:10:21,140
+que o de indivíduo ação é que o Simondão o conceito de ser que se mudou vai defender na
+
+520
+01:10:21,140 --> 01:10:26,340
+indivíduo ação e que vai ser importante para os objetos técnicos é que o ser é entendido
+
+521
+01:10:26,340 --> 01:10:35,380
+então como um devir é ou seja é simondão está recuperando talvez aqui muito mais uma visão de ser
+
+522
+01:10:35,380 --> 01:10:41,540
+que está no eráctrico era que do que no parmenes lembra o eráctrico é aquele filósofo lá talvez
+
+523
+01:10:41,540 --> 01:10:48,820
+é um movimento né é que os seres tem um certo é estão sempre em movimento o parmenides
+
+524
+01:10:48,820 --> 01:10:56,260
+pressupõe uma ideia de permanência né um ser em termos de permanente só que o a ideia é que eu
+
+525
+01:10:56,260 --> 01:11:04,100
+preciso entender o objeto no seu devir num vira ser constante mas análise desse vira ser deve
+
+526
+01:11:04,100 --> 01:11:11,780
+ser sempre remetido ao processo desse vira ser né não na individualidade dada do indivíduo do
+
+527
+01:11:11,780 --> 01:11:19,060
+objeto mas o processo que faz a coisa vira ser o que ela é né então ela a visão do simondão não
+
+528
+01:11:19,060 --> 01:11:26,500
+é absolutamente era era que ela teana do próprio arco mas ela remete alguma coisa que tem a ver
+
+529
+01:11:26,500 --> 01:11:33,780
+com o eráctrico na questão do processo do vira ser tá então aqui ó pensando na questão da
+
+530
+01:11:33,780 --> 01:11:43,620
+é do da transdução temos aqui uma solução que a gente chama na química né solução
+
+531
+01:11:43,620 --> 01:11:52,500
+insaturada então a imagem a né temos aqui um líquido que ela está prestes a produzir cristais
+
+532
+01:11:52,500 --> 01:12:00,340
+na química tem essa questão da cristalização né é nessa questão na imagem a gente poderia dizer
+
+533
+01:12:00,340 --> 01:12:08,980
+que tem um um aqui um um pré-individual né um pré-individual uma potencialidade de que pode
+
+534
+01:12:08,980 --> 01:12:16,260
+acontecer aqui alguma coisa se eu modificar ou seja o futuro da cristalização já está presente
+
+535
+01:12:16,260 --> 01:12:24,180
+eu introduzir mais um cristalzinho que vai ressoar todo um processo novo né que é o processo de
+
+536
+01:12:24,180 --> 01:12:35,700
+cristalização ou seja essa ressonância né é não não abandona tudo que vem o que estava anteriormente
+
+537
+01:12:35,700 --> 01:12:42,180
+dado né ó veja veja essa citação aqui eu acho que ela pode ilustrar bem isso que eu tô
+
+538
+01:12:42,180 --> 01:12:50,340
+trabalhando que a transdução agora me remete para a operação em termos não só da individualidade
+
+539
+01:12:50,340 --> 01:12:57,260
+mas nessa nesse alargamento do tempo eu vou ler aqui rapidamente para a gente poder avançar por
+
+540
+01:12:57,260 --> 01:13:05,860
+transdução entendemos uma operação física biológica mental e social pela qual uma atividade se
+
+541
+01:13:05,860 --> 01:13:15,580
+paga de próximo em próximo no interior do domínio a transdução funda essa propagação sobre uma
+
+542
+01:13:15,580 --> 01:13:22,460
+estruturação do domínio operada de lugar e lugar cada região de estrutura constituída serve de
+
+543
+01:13:22,460 --> 01:13:29,460
+princípio de constituição para a região seguinte de modo que uma modificação se estende
+
+544
+01:13:29,460 --> 01:13:37,060
+progressivamente ao mesmo tempo que essa operação essa operação estruturante um cristal que a partir
+
+545
+01:13:37,060 --> 01:13:45,900
+de um germe muito pequeno cresce e se estende por todas as direções em sua água mãe fornece a imagem
+
+546
+01:13:45,900 --> 01:13:53,940
+mais simples de uma operação transdutiva cada camada molecular já constituída serve de base
+
+547
+01:13:53,940 --> 01:14:01,260
+estruturante a camada que está se formando a operação transdutiva é uma individuação em
+
+548
+01:14:01,260 --> 01:14:08,860
+progresso então é aqui que eu queria chegar é a interpretação de uma linhagem evolutiva é uma
+
+549
+01:14:08,860 --> 01:14:16,860
+interpretação de um processo de individuação e ela está relacionada a esta operação transdutiva
+
+550
+01:14:16,860 --> 01:14:26,100
+então a cristalização ali que é um exemplo da química é um digamos é um paradigma de um
+
+551
+01:14:26,100 --> 01:14:33,940
+processo de individuação os objetos técnicos quando voltar lá para os objetos técnicos deve ser
+
+552
+01:14:33,940 --> 01:14:42,620
+entendido nesse nesse nesse nesse termos de uma operação transdutiva de uma operação de um
+
+553
+01:14:42,620 --> 01:14:51,860
+processo de um progresso de individuação né isso acontece não só na física na biologia mas
+
+554
+01:14:51,860 --> 01:14:59,700
+ele o se mudou no no no melhor no no ilfe né ele avança para várias categorias até inclusive
+
+555
+01:14:59,700 --> 01:15:07,540
+para pensar a individuação social né de a gente pensar uma sociedade como um processo transdutivo
+
+556
+01:15:07,540 --> 01:15:14,380
+de uma individuação né então a mente humana também ou até mesmo tem algumas pessoas que estudam
+
+557
+01:15:14,380 --> 01:15:21,580
+isso na educação que a educação poderia ser entendido como uma um processo transdutivo que
+
+558
+01:15:21,580 --> 01:15:27,820
+quando um professor é está ensinando alguém então por exemplo nesse momento eu estou numa
+
+559
+01:15:27,820 --> 01:15:34,980
+tentativa de um processo de individuação de algo na mente de vocês a educação poderia ser
+
+560
+01:15:34,980 --> 01:15:41,220
+entendido como um processo transdutivo se eu consigo individuar uma uma interpretação na cabeça
+
+561
+01:15:41,220 --> 01:15:47,460
+de vocês individuar uma ideia na cabeça de vocês é porque eu conseguir estabelecer esse
+
+562
+01:15:47,460 --> 01:15:54,820
+processo de individuação não é um processo não algo fácil mas é algo que pode ser entendido nessa
+
+563
+01:15:54,820 --> 01:16:02,500
+linhagem né nesse processo nessa questão de uma linhagem evolutiva também tá então o que que
+
+564
+01:16:02,500 --> 01:16:08,660
+tá em jogo aqui os objetos técnicos eles não podem ser entendido como uma fotografia
+
+565
+01:16:08,660 --> 01:16:16,500
+mas ele pode ser entendido como uma fotografia na relação com outras então pensem aqui o filme
+
+566
+01:16:16,500 --> 01:16:23,820
+é um filme a gente pode ter cada slide de um filme mas o cada slide ele remete algo que veio
+
+567
+01:16:23,820 --> 01:16:32,540
+que tem a ver com o passado e com o futuro do filme de modo que o simondão tá muito mais
+
+568
+01:16:32,540 --> 01:16:42,060
+relacionado a interpretar então os objetos técnicos nessa nessa visão de de movimento que a
+
+569
+01:16:42,060 --> 01:16:48,180
+fotografia tem né ou seja muito mais eu usei eu tô usando exemplo do cinema aqui muito mais no
+
+570
+01:16:48,180 --> 01:16:54,780
+tema do que somente a fotografia isolada tá bom a análise do objeto técnico então
+
+571
+01:16:56,180 --> 01:17:03,660
+ok é voltando ao objeto técnico se você sabe o que é o objeto técnico por exemplo um carro
+
+572
+01:17:03,660 --> 01:17:10,300
+você tem uma definição mas a pergunta é o que propriamente define o carro uma possível
+
+573
+01:17:10,300 --> 01:17:16,460
+eu fui procurar digamos nas umas fontes mais óbvias uma definição de carro
+
+574
+01:17:17,940 --> 01:17:24,860
+e vejam o que tá na Wikipedia em português sobre o que é um automóvel automóvel é um carro
+
+575
+01:17:24,860 --> 01:17:33,180
+um veículo automóvel ou carro é um veículo motorizado com rodas usado para transporte
+
+576
+01:17:33,180 --> 01:17:45,940
+e veja que a definição de carro aqui é usa a utilidade do carro né ele serve para o transporte
+
+577
+01:17:46,940 --> 01:17:56,980
+e esta já é não é uma definição e não é uma definição simondoniana né por outro lado
+
+578
+01:17:56,980 --> 01:18:04,980
+e nessa mesma definição tem aqui algo que remete a a constituição do objeto do automóvel
+
+579
+01:18:04,980 --> 01:18:12,500
+é um veículo com o motor ele é motorizado só que a gente pergunta mas o que que é o motor
+
+580
+01:18:13,300 --> 01:18:23,460
+é o motor gera o mesmo tipo de problema porque a pergunta é o que define o motor me permite
+
+581
+01:18:23,460 --> 01:18:31,940
+pensar apontar para vários tipos de motor então eu tenho aqui do lado direito um motor
+
+582
+01:18:31,940 --> 01:18:37,460
+mais mais contemporâneo motor a combustão tem um no meio aqui uma imagem de um motor elétrico
+
+583
+01:18:37,460 --> 01:18:47,060
+e temos a esquerda que o motor é bem antigo motor a vapor mas percebam que são três objetos
+
+584
+01:18:47,060 --> 01:18:52,460
+completamente diferentes a prova disso é que não necessariamente quem entende de motor
+
+585
+01:18:52,460 --> 01:19:04,100
+elétrico vai saber mexer no motor a combustão né então vamos entender um pouco mais do que
+
+586
+01:19:04,100 --> 01:19:10,780
+se trata um motor a combustão vamos tentar compreender um é especificar um pouco mais
+
+587
+01:19:10,780 --> 01:19:18,820
+o motor a combustão temos no motor a combustão por exemplo aqui um esquema de como ele funciona
+
+588
+01:19:18,820 --> 01:19:27,060
+é o motor motor a quatro tempos é mas percebo que isso é um esquema geral do motor então aqui
+
+589
+01:19:27,060 --> 01:19:34,420
+temos os quatro movimentos de um pistão dentro do motor é o movimento o movimento da admissão do
+
+590
+01:19:34,420 --> 01:19:40,180
+combustível da compressão do combustível da combustão da queima né e da exaustão então
+
+591
+01:19:40,180 --> 01:19:46,660
+o motor a quatro tempos funciona dessa forma é e esse funcionamento é absolutamente diferente do
+
+592
+01:19:46,660 --> 01:19:57,780
+motor a dois tempos é esse motor a dois tempos ele usa um combustível misturado
+
+593
+01:19:57,780 --> 01:20:07,220
+entre óleo e gasolina né ele está por exemplo talvez nas nas motocerras hoje em dia é talvez em
+
+594
+01:20:07,220 --> 01:20:14,500
+algumas motocicletas contemporâneas né mas percebo que ele é diferente do funcionamento do do motor
+
+595
+01:20:14,500 --> 01:20:22,420
+do motor a quatro tempos porque nesse nesse caso aqui a exaustão do combustível queimado
+
+596
+01:20:22,420 --> 01:20:29,060
+acontece ao mesmo tempo que a injeção do combustível né então ele é dois tempos mais por causa
+
+597
+01:20:29,060 --> 01:20:36,980
+desse movimento de acontecer algo ao mesmo tempo né ou seja a constituição desse funcionamento é
+
+598
+01:20:36,980 --> 01:20:45,860
+o que faz com que os objetos sejam diferentes né ora é eu preciso então perceber que eu estou
+
+599
+01:20:45,860 --> 01:20:53,540
+tratando tratando de interpretações absolutamente diferentes se mandou ele vai exigir de nós que
+
+600
+01:20:53,540 --> 01:21:00,660
+façamos isso ou seja se nós queríamos definir os objetos nós precisamos apontar para algo que
+
+601
+01:21:00,660 --> 01:21:07,780
+possa acontecer com o funcionamento dos objetos só que detalhes esses dois esquemas que eu
+
+602
+01:21:07,780 --> 01:21:12,820
+apresentei para vocês ainda é são os esquemas absolutamente abstrato eu preciso tratar de
+
+603
+01:21:12,820 --> 01:21:19,700
+algo que envolva a realidade né então por exemplo na na realidade ou no brasil esse
+
+604
+01:21:19,700 --> 01:21:28,260
+carrinho usou esse motor a dois tempos né o simundão vai analisar é ou seja a filosofia vai
+
+605
+01:21:28,340 --> 01:21:35,860
+analisar a análise de objetos reais e ele vai indicar né no o texto dele que está pensando
+
+606
+01:21:35,860 --> 01:21:43,860
+este motor ou este outro motor que são motores que existiram na frança né foi comercializado
+
+607
+01:21:43,860 --> 01:21:52,740
+que é o motor zúquer e o motor é o motor dos irmãos Peugeot né de 1904 que são dois são
+
+608
+01:21:52,740 --> 01:21:59,460
+dois motores a dois tempos né é da análise desses dois motores que o simundão vai tirar o
+
+609
+01:21:59,460 --> 01:22:05,860
+conceito que eu vou tentar mostrar para vocês o que que ele está pensando em termos de concretização
+
+610
+01:22:05,860 --> 01:22:14,100
+de linhagem evolutiva é concretização e de genes tá então vamos ver agora do que que nós estamos
+
+611
+01:22:14,260 --> 01:22:15,460
+tá
+
+612
+01:22:16,500 --> 01:22:24,900
+é esse motor zúquer estava nessa moto nessa motocicletazinho aqui na ravate de 1931 né
+
+613
+01:22:27,140 --> 01:22:34,820
+no motor no motor zúquer é aparece porque para o esquema de funcionamento do motor há necessidade
+
+614
+01:22:35,220 --> 01:22:43,540
+de apontar para para um funcionamento coerente né o simundão diz o seguinte né que esses motores
+
+615
+01:22:44,740 --> 01:22:54,660
+né no processo né de construção deles precisaram é produzir algo foi necessário
+
+616
+01:22:54,900 --> 01:23:03,620
+inserir algo nele que foi um sistema de defesa é esse sistema defesa ou o simundão é nomeia como
+
+617
+01:23:03,620 --> 01:23:12,020
+aletas no texto dele que é exatamente essas essas essas abazinhas que estão ali exatamente
+
+618
+01:23:12,020 --> 01:23:21,620
+em cima do pistão onde acontece a combustão é percebam para que serve essas aletas ela tem
+
+619
+01:23:21,620 --> 01:23:33,700
+uma função de dissipação térmica é porque porque você aumenta o contato do motor com o ar se
+
+620
+01:23:33,700 --> 01:23:43,860
+aumenta o contato do motor com a a energia térmica que está presente no motor ela é dissipada com
+
+621
+01:23:43,860 --> 01:23:52,900
+mais facilidade pelo ar de modo que as aletas protegem protegem que o motor não superaqueça e
+
+622
+01:23:52,900 --> 01:24:01,940
+derreta que tem a fundo a fundição do motor né que as os metais ali envolvidos eles não se fundam
+
+623
+01:24:01,940 --> 01:24:09,380
+né de modo a atrapalhar o próprio funcionamento então percebam para que servem as aletas elas
+
+624
+01:24:09,380 --> 01:24:20,900
+são produzidas como um elemento do motor então ela faz parte do motor que serve para diminuir é
+
+625
+01:24:20,900 --> 01:24:27,700
+diminuir o risco de de desestruturação do próprio motor ela tem uma função térmica
+
+626
+01:24:29,300 --> 01:24:37,620
+só que olha o que que acontece no processo evolutivo dos motores agora no motor de uma de
+
+627
+01:24:37,620 --> 01:24:44,020
+um ano de 1947 que está presente nessa moto que o motor que é a sambin s7
+
+628
+01:24:45,380 --> 01:24:55,540
+percebam a diferença das aletas o elemento aleta agora não está na parte superior somente né não
+
+629
+01:24:55,540 --> 01:25:02,340
+está somente presente ali onde está o pistão onde acontece a queima né do combustível as aletas
+
+630
+01:25:02,660 --> 01:25:10,580
+aparecem também na parte de baixo né na parte que talvez tecnicamente poderia ser
+
+631
+01:25:10,580 --> 01:25:19,860
+chamada de cárter aonde onde tem ali o vira brequin é onde tem a quantidade de óleo né para
+
+632
+01:25:19,860 --> 01:25:27,620
+lubrificar o vira brequin que leva o movimento então até as rodas para que o veículo se
+
+633
+01:25:28,100 --> 01:25:35,940
+então as aletas agora não estão como lá no motor da daquele motor lá anterior somente na parte
+
+634
+01:25:35,940 --> 01:25:44,340
+do pistão o que que aconteceu do ponto de vista evolutivo para o simondom as aletas deixaram de
+
+635
+01:25:44,340 --> 01:25:53,060
+ter somente uma função de técnica de dissipação térmica ela agora desempenhar ao mesmo tempo
+
+636
+01:25:53,060 --> 01:26:04,180
+uma função de resistência mecânica é ou seja o que que isso quer dizer que o o engenheiro começou
+
+637
+01:26:04,180 --> 01:26:12,740
+a pensar a utilização da letra para a estrutura da resistência mecânica ali ou seja de de talvez
+
+638
+01:26:12,740 --> 01:26:19,620
+ali envolver um outro tipo de material até menos material né as aletas elas ela permite
+
+639
+01:26:19,620 --> 01:26:26,740
+culturar o mecânicamente o motor de uma forma diferente do que anteriormente era pensado né
+
+640
+01:26:26,740 --> 01:26:35,220
+ou seja para o simondom quando eu falo de aleta nervura eu trato de dois problemas ao mesmo
+
+641
+01:26:35,220 --> 01:26:42,420
+tempo algo que no motor anterior não estava sendo feito no motor anterior a a resistência mecânica
+
+642
+01:26:42,420 --> 01:26:51,540
+foi lançado separadamente né da dissipação térmica agora no motor posterior né dessa sumi
+
+643
+01:26:51,540 --> 01:27:00,100
+bem os dois problemas foram tentar foram resolvidos da mesma forma da mesma ao mesmo tempo né então
+
+644
+01:27:00,100 --> 01:27:06,740
+veja que nós estamos comparando motores reais no processo evolutivo conclusão parcial
+
+645
+01:27:07,700 --> 01:27:16,740
+para simondom é esses dois exemplos me permitem entender o que é gênesis né ou seja a gênesis do
+
+646
+01:27:16,740 --> 01:27:24,340
+motor mais atual né da sumi bem está presente nos motores no motor suker então o que que é a
+
+647
+01:27:24,340 --> 01:27:32,260
+gênesis a gênesis é aquele conjunto de elementos técnicos de problemas técnicos né que estavam lá
+
+648
+01:27:32,260 --> 01:27:42,180
+no motor suker que condicionaram o surgimento é o surgimento é do motor da sumi bem então quando
+
+649
+01:27:42,180 --> 01:27:49,700
+eu falo de gênesis eu estou falando de algo preciso que algo que tem a ver com o ser do objeto
+
+650
+01:27:49,700 --> 01:27:58,660
+que condiciona é o processo evolutivo diz respeito então aos problemas técnicos envolvidos ao tipo
+
+651
+01:27:58,660 --> 01:28:05,540
+de força utilizada o tipo de elemento físico utilizado no que por sua vez ele não pode ser
+
+652
+01:28:05,540 --> 01:28:14,820
+abandonado por completo né o motor o motor da sumi bem ele guarda então digamos ele é uma solução
+
+653
+01:28:14,820 --> 01:28:22,020
+de um problema que está presente no motor suker eu posso olhar para o motor da sumi bem como sendo a
+
+654
+01:28:22,020 --> 01:28:30,100
+materialização né de uma solução de algo que estava previamente dado né o simondão vai dar essa
+
+655
+01:28:30,100 --> 01:28:38,740
+relação de condicionamento como uma interpretação genética né então pense no que a virônica falou
+
+656
+01:28:38,740 --> 01:28:47,620
+do ponto de vista biológico né na linhagem evolutiva então a gente pode olhar para um animalzinho se ele
+
+657
+01:28:47,620 --> 01:28:55,780
+tem uma característica como uma característica herdada né então a interpretação da linhagem
+
+658
+01:28:55,780 --> 01:29:03,380
+evolutiva pode ser dado em termos de uma linhagem genética de uma gênesis que produziu uma modificação
+
+659
+01:29:03,380 --> 01:29:11,940
+então sei lá se um peixe tem um determinado tipo de olho né esse olho foi herdado de uma ou ele é um
+
+660
+01:29:12,420 --> 01:29:20,180
+um olho modificado de um animalzinho anterior para histórico né então o simondão parece que
+
+661
+01:29:20,180 --> 01:29:27,300
+está usando essa similaridade de pensar uma linhagem evolutiva em termos da sua gente ou seja é uma
+
+662
+01:29:27,300 --> 01:29:35,540
+análise genética né em termos de uma ontologia genética o motor da sumi bem é mais concreto que
+
+663
+01:29:35,620 --> 01:29:44,820
+os motores pf ó agora entrou o termo de concretização a concretização quer dizer essa unificação
+
+664
+01:29:44,820 --> 01:29:55,060
+essa essa sinergia né estabelecida no motor da sumi bem né porque ela é mais unificado ele é mais
+
+665
+01:29:55,060 --> 01:30:02,500
+coerente é mais harmonizado então quando eu encontro uma solução nesse sentido eu posso
+
+666
+01:30:02,500 --> 01:30:10,020
+separar com os com os outros e dizer é que ele é mais concreto versus a questão da abstração né
+
+667
+01:30:10,020 --> 01:30:16,420
+ou seja a concretização é pressupõe uma eliminação de algo que é abstrato que parece ser
+
+668
+01:30:16,420 --> 01:30:22,660
+separado né que aqui então quanto é quando se transforma em aleta e nervura eu estou falando
+
+669
+01:30:22,660 --> 01:30:29,620
+em uma unificação e não numa separação numa abstração das coisas quando isso acontece quando
+
+670
+01:30:29,620 --> 01:30:37,220
+essa unificação se mudou chama de convergência ou com comitância de funções né então a letra
+
+671
+01:30:37,220 --> 01:30:45,060
+e nervura é um exemplo de sobredeterminação de funções é uma unificação de resolução ao
+
+672
+01:30:45,060 --> 01:30:51,620
+mesmo tempo de funções né o motor da sumi bem é mais concreto que os motores anteriores então o
+
+673
+01:30:51,620 --> 01:30:58,820
+motor que são mais abstrato né por último o que é um problema técnico é portanto muito mais
+
+674
+01:30:59,060 --> 01:31:06,820
+aquela convergência das funções em unidade estrutural do que aquela de é de tentar resolver
+
+675
+01:31:06,820 --> 01:31:11,860
+compromissos de exigências de conflito então se eu tenho dois problemas o simondô está dizendo
+
+676
+01:31:11,860 --> 01:31:19,540
+que que é uma evolução técnica a evolução técnica é uma tentativa de convergência se você
+
+677
+01:31:19,540 --> 01:31:26,100
+tem dois problemas a evolução técnica não é tentar é simplesmente encontrar uma solução que
+
+678
+01:31:26,100 --> 01:31:31,620
+não é abstrata ainda uma solução que tenta harmonizar dois duas soluções dois problemas
+
+679
+01:31:31,620 --> 01:31:37,300
+a harmonização dos problemas não é necessariamente uma evolução técnica para simondô é a
+
+680
+01:31:37,300 --> 01:31:43,940
+evolução técnica é quando nós tendemos a individualização quando entendemos que a coisa
+
+681
+01:31:43,940 --> 01:31:49,940
+está se unificando está tendendo para a unidade de funções para a convergência de funções né
+
+682
+01:31:50,500 --> 01:31:59,060
+e por sua vez então podemos voltar a classificação aqui se eu pensar em termos de uma análise genética
+
+683
+01:31:59,060 --> 01:32:05,940
+dos seres desses objetos como é que eu classifico esses objetos não agora pensando em termos de
+
+684
+01:32:05,940 --> 01:32:15,700
+função se nós pensarmos em termos de análise genética né da gênesis né é aparece uma nova
+
+685
+01:32:15,700 --> 01:32:24,580
+evolução desses objetos como percebam qual tipo de energia tipo de problema técnico que
+
+686
+01:32:24,580 --> 01:32:33,380
+está em cada um desses objetos simondô vai dizer que por exemplo a besta a arma que trabalha com um
+
+687
+01:32:33,380 --> 01:32:42,180
+tipo de energia que é energia elástica potencial é o que que tecnicamente condiciona o indivíduo
+
+688
+01:32:42,180 --> 01:32:48,180
+e seu objeto a pensar esse objeto esse esse problema de trabalhar com energia técnica
+
+689
+01:32:48,180 --> 01:32:54,740
+energia potencial elástica é o mesmo tipo de problema que está no relógio acorda né o cara
+
+690
+01:32:54,740 --> 01:33:01,620
+que entende de energia é potencial elástica ele não teria muita dificuldade para associar esses
+
+691
+01:33:01,620 --> 01:33:07,140
+dois objetos o simondô vai dizer esses dois objetos têm a mesma gênesis estão muito mais
+
+692
+01:33:07,140 --> 01:33:15,300
+próximo geneticamente do que o objeto acima que os dois objetos acima a campainha e o objeto
+
+693
+01:33:15,300 --> 01:33:21,860
+digital estão trabalhando tecnicamente com energia elétrica né então transformação
+
+694
+01:33:21,860 --> 01:33:28,500
+de energia elétrica e energia mecânica né então ele geneticamente estão muito distantes
+
+695
+01:33:28,500 --> 01:33:36,740
+né então uma linhagem evolutiva pensada em termos da utilidade me permite é aproximar
+
+696
+01:33:36,740 --> 01:33:42,340
+os objetos que são completamente diferentes um do outro nós temos aqui um relógio de só um
+
+697
+01:33:42,340 --> 01:33:49,460
+puleta um relógio mecânico um relógio de 4 e um relógio absolutamente contemporâneo cibernético
+
+698
+01:33:49,460 --> 01:33:57,140
+né conectado a outras a outros objetos aos outros objetos técnicos o cara que entende desse
+
+699
+01:33:57,140 --> 01:34:04,260
+último objeto não seramente ele sabe arrumar o relógio mecânico porque porque eles são objetos
+
+700
+01:34:04,260 --> 01:34:10,900
+diferentes a individualidade desses objetos remete a seres diferentes então alinhar essa
+
+701
+01:34:10,900 --> 01:34:17,380
+linhagem evolutiva é uma uma linhagem meio que enganadora para o simondô porque uma uma linhagem
+
+702
+01:34:17,380 --> 01:34:22,740
+evolutiva talvez seja como o está presente nesse nesse catás eu encontrei esse catás eu fiquei
+
+703
+01:34:22,740 --> 01:34:28,420
+é em uma revista né uma revista então é uma propaganda não tô querendo fazer propaganda
+
+704
+01:34:28,420 --> 01:34:34,500
+mas eu quero ressaltar eu que essa propaganda ela foi feita por alguém não sei se foi
+
+705
+01:34:34,500 --> 01:34:40,660
+intencionalmente mas alguém que talvez esteja usando a categoria semondaneano então temos um
+
+706
+01:34:40,660 --> 01:34:49,300
+relógio de 1860 e um relógio de 2010 esse essa linhagem evolutiva parece remeter a Gênesis que ele
+
+707
+01:34:49,300 --> 01:34:56,980
+guarda a questão do problema da de uma de uma de uma de um compartilhamento da Gênesis né de uma
+
+708
+01:34:56,980 --> 01:35:06,340
+de algo que tenha tenha é haver com a questão da da mecanicidade da energia elástica potencial
+
+709
+01:35:06,340 --> 01:35:10,820
+né então é aqui temos um outro tipo de interpretar a linhagem evolutiva
+
+710
+01:35:11,780 --> 01:35:23,060
+é rapidamente aqui nós temos uma consideração agora sobre sobre elementos sociais a Gênesis
+
+711
+01:35:23,060 --> 01:35:29,540
+determina a evolução técnica então simondô vai se pôr essa esse problema aqui a gente determina
+
+712
+01:35:29,540 --> 01:35:34,260
+mas e a questão social como é que está aqui parece que essa Gênesis se remete somente uma
+
+713
+01:35:34,260 --> 01:35:40,180
+análise técnica do objeto né então eu vou olhar para um exemplo para tentar explicar um pouquinho
+
+714
+01:35:40,180 --> 01:35:45,540
+como se mudou o condiciona relaciona isso né a questão técnica e a questão social
+
+715
+01:35:46,820 --> 01:35:51,940
+as causas para uma evolução técnica então poderíamos dizer assim que as causas da evolução
+
+716
+01:35:51,940 --> 01:35:58,740
+técnica né tem a ver com o domínio técnico né diz respeito ao funcionamento do objeto objeto
+
+717
+01:35:58,740 --> 01:36:06,180
+não ser não deve ser ser autodestrutivo ele deve se manter é funcionando estável maior tempo
+
+718
+01:36:06,180 --> 01:36:13,780
+então parece que há uma causa técnica envolvida se mudou chama atenção para isso né então que
+
+719
+01:36:13,780 --> 01:36:24,900
+o domínio técnico é aponta para os elementos evolutivos do técnico o aspecto técnico né
+
+720
+01:36:25,540 --> 01:36:32,340
+porém se mudou não deixa de considerar que também parece existir algumas outras causas
+
+721
+01:36:32,340 --> 01:36:40,180
+como a causa econômica né que trata por exemplo dos interesses econômicos da utilização de
+
+722
+01:36:40,180 --> 01:36:47,940
+materiais né então trata por exemplo da diminuição da quantidade de matéria-prima de trabalho do
+
+723
+01:36:47,940 --> 01:36:55,460
+consumo de energia durante a utilização né ou de elementos psicos sociais o gosto né o gosto
+
+724
+01:36:55,460 --> 01:37:02,740
+do puxo interfere na evolução parece né no desejo da novidade que só existe para o usuário né
+
+725
+01:37:02,740 --> 01:37:10,500
+então a propaganda comercial né que parece condicionar às vezes alguma coisa em relação
+
+726
+01:37:10,500 --> 01:37:22,340
+a esse o modo com objeto se apresenta para nós a pergunta que você faz é quais dessas causas
+
+727
+01:37:22,340 --> 01:37:30,820
+realmente as mais asquelas asquelas que implicam na evolução técnica o exemplo do automóvel
+
+728
+01:37:30,820 --> 01:37:39,780
+ilustra bem isso a uma citação do simondom ali no capítulo um o automóvel é um objeto técnico
+
+729
+01:37:39,780 --> 01:37:50,180
+carregado de inferências psiques psiques e sociais que não convém ao progresso técnico
+
+730
+01:37:50,180 --> 01:37:57,540
+os progressos do automóvel têm origem em domínios vizinhos como a aviação a marinha
+
+731
+01:37:57,540 --> 01:38:05,540
+os caminhões de transporte qual que é a conclusão do simondom ele não nega a interferência dos
+
+732
+01:38:05,540 --> 01:38:15,780
+elementos sociais mas a evolução propriamente técnica ela se dá no nível do funcionamento
+
+733
+01:38:15,780 --> 01:38:23,540
+do técnico o automóvel é um carro é um automóvel é um tipo de objeto que ele entende como
+
+734
+01:38:23,540 --> 01:38:30,100
+o mito social é o elemento mais visível que tem interferências desse domínio externo do técnico
+
+735
+01:38:30,100 --> 01:38:37,380
+né mas se a gente perguntar mas o carro e efetivamente como que ele evoluiu é ele evoluiu
+
+736
+01:38:37,380 --> 01:38:43,220
+porque é possível observar em outros domínios que não tem a interferência social tão imediata
+
+737
+01:38:43,220 --> 01:38:49,940
+do domínio da aviação ou por exemplo dos objetos da marinha ou dos caminhões de transporte que
+
+738
+01:38:49,940 --> 01:38:57,380
+não tem essa questão do consumo propriamente dito tão evidente né a gente observa aqui o o automóvel
+
+739
+01:38:57,380 --> 01:39:04,980
+ele importou desses domínios a evolução técnica então a prova disso vem dessa relação então por
+
+740
+01:39:05,620 --> 01:39:16,740
+e olha aqui dois exemplos o dois carros o cinca 6 e o prejou 2000 203 é a parte externa desse carro
+
+741
+01:39:16,740 --> 01:39:24,500
+tem interferências sociais mas o que faz ele ser tecnicamente consistente não veio de interferências
+
+742
+01:39:24,500 --> 01:39:30,340
+sociais por exemplo o motor os motores desse carro eu vou entrar um pouquinho nos motores desse carro
+
+743
+01:39:31,060 --> 01:39:35,940
+é temos do lado esquerdo o motor do cinca e o motor do pejor
+
+744
+01:39:37,460 --> 01:39:48,100
+olha a evolução é a evolução do pistão é do cinca até a evolução do do pistão do pejor
+
+745
+01:39:49,860 --> 01:39:57,940
+é se observarmos bem o motor do pejor ele está próximo de algo que se se deu na produção dos
+
+746
+01:39:57,940 --> 01:40:07,140
+caminhões talvez na biela na biela fique mais evidente isso olha a biela do do motor do cinca
+
+747
+01:40:07,940 --> 01:40:17,540
+6 e do pejor o a biela do pejor é muito próximo do que se deu no motor dos caminhões
+
+748
+01:40:18,900 --> 01:40:26,260
+ou seja a evolução técnica de algo que é um mito social ela importou de algo
+
+749
+01:40:26,740 --> 01:40:31,860
+que é mais evidente onde não tem esse mito social que é os caminhões de transporte eles são mais
+
+750
+01:40:31,860 --> 01:40:41,780
+rústicos eles são mais tecnicamente exposto ou seja para o simondom ele não nega a interferência
+
+751
+01:40:41,780 --> 01:40:49,540
+social mas há uma primazia para o funcionamento técnico para o elemento técnico a evolução
+
+752
+01:40:49,540 --> 01:40:57,460
+técnica propriamente dita parece estar presente considerando somente as questões técnicas
+
+753
+01:40:57,460 --> 01:41:03,860
+as questões técnicas elas têm mais primazias na visão simondomiana né então conclusão parcial
+
+754
+01:41:03,860 --> 01:41:10,500
+a genes e das peças do motor vejo 2003 estão nos problemas técnicos do motores do cinca 6
+
+755
+01:41:10,500 --> 01:41:21,620
+e do caminhão de 1987 a evolução técnica depende de elementos internos da genes porém
+
+756
+01:41:21,620 --> 01:41:26,980
+simondom não nega que as causas externas causas econômicas interferem na evolução tá eu tenho
+
+757
+01:41:26,980 --> 01:41:32,980
+aqui um memezinho né para mostrar então que não basta somente uma interferência uma intencionalidade
+
+758
+01:41:33,780 --> 01:41:40,660
+cultural para interferir nos objetos é um meme que brinca com essa questão da intenção da cultura
+
+759
+01:41:40,660 --> 01:41:48,740
+e do funcionamento né então ela é uma ideia assim de que se a cultura interferisse com mais ênfase
+
+760
+01:41:48,740 --> 01:41:55,780
+no funcionamento técnico poderíamos brincar que então a Austrália se entrasse na corrida espacial
+
+761
+01:41:55,780 --> 01:42:06,260
+produziria né é um foguete no formato de boomerang né é muito mais assim uma brincadeira assim
+
+762
+01:42:06,260 --> 01:42:10,900
+para ilustar o que simondom está dizendo e não é a verdade se eles entrassem né na corrida espacial
+
+763
+01:42:10,900 --> 01:42:18,420
+eles deveriam então é preservar respeitar algo que é interno que é que desrespeita o próprio
+
+764
+01:42:18,420 --> 01:42:24,420
+funcionamento técnico do objeto né verônica você quer fazer uma breve consideração agora para
+
+765
+01:42:25,380 --> 01:42:25,940
+vamos lá
+
+766
+01:42:29,140 --> 01:42:29,540
+então
+
+767
+01:42:31,700 --> 01:42:38,020
+é na etapa dois na qual a gente vai considerar a relação entre o homem objeto técnico
+
+768
+01:42:38,900 --> 01:42:46,580
+é mas eu não vou aqui tratar de toda a segunda sessão do do livro do melty mas eu vou aproveitar
+
+769
+01:42:46,660 --> 01:42:55,140
+ainda na introdução um percurso histórico que pode elucidar o sentido da alienação
+
+770
+01:42:55,940 --> 01:42:58,420
+na verdade o sentido histórico da alienação
+
+771
+01:42:59,380 --> 01:43:06,260
+talvez o seguinte naquela distinção entre elemento indivíduo e conjunto nós temos um
+
+772
+01:43:06,260 --> 01:43:12,820
+processo histórico de progresso e de surgimento desses de cada um desses níveis que o simondom
+
+773
+01:43:13,300 --> 01:43:19,220
+é descreve da seguinte maneira então nós estamos aqui os três os três níveis elemento indivíduo e
+
+774
+01:43:19,220 --> 01:43:28,020
+conjunto o elemento ele pode ser considerado em 7 pontos de vista a ferramenta né que nós temos o
+
+775
+01:43:28,020 --> 01:43:38,980
+exemplo do martelo então o século 18 ele ele presenciou um grande progresso na na fabricação
+
+776
+01:43:39,380 --> 01:43:47,540
+é um grande aprimoramento das ferramentas o que é uma ferramenta uma ferramenta é algo que é
+
+777
+01:43:47,540 --> 01:43:55,780
+acoplado ao corpo humano para oferecer ao corpo humano uma característica que esse corpo não tem
+
+778
+01:43:55,780 --> 01:44:02,500
+e que seria necessário para ação técnica ação técnica aqui é de pregar um prego
+
+779
+01:44:03,060 --> 01:44:10,340
+é se a gente tentar fazer só com a mão a nossa mão não tem a dureza necessária então a gente
+
+780
+01:44:10,340 --> 01:44:18,340
+machuca a mão e o prego não é o que o martelo faz oferece para a minha mão a dureza necessária
+
+781
+01:44:18,340 --> 01:44:29,300
+para que eu possa pregar o prego mas que emprega sou eu é é o o elemento humano ali o homem ele é
+
+782
+01:44:29,380 --> 01:44:37,860
+o agente técnico ele é o indivíduo técnico é ele quem realiza ação técnica só que a ferramenta
+
+783
+01:44:37,860 --> 01:44:44,100
+ela não é só ferramenta ela também é instrumento em que sentido no sentido de que o homem consegue
+
+784
+01:44:44,100 --> 01:44:50,420
+coletar informações daquela ação técnica um carpenter experiente quando ele está martelando
+
+785
+01:44:50,420 --> 01:44:56,660
+ele consegue perceber se aquela madeira é dura ou não se aquela madeira se encontrou um nó
+
+786
+01:44:56,740 --> 01:45:04,580
+na madeira se aquela madeira está bichada porque porque sinestesicamente ele colhe informações
+
+787
+01:45:04,580 --> 01:45:12,420
+o martelo através do martelo ele também consegue perceber é elementos importantes
+
+788
+01:45:12,420 --> 01:45:17,380
+coisas importantes daquela ação técnica a pessoa está girando uma chave de fenda ela consegue
+
+789
+01:45:17,380 --> 01:45:27,060
+perceber se é por exemplo espanol né não tem mais a resistência ali para parafus entrar
+
+790
+01:45:27,940 --> 01:45:33,460
+ela consegue perceber através da ferramenta a ferramenta também é instrumento porque isso é
+
+791
+01:45:33,460 --> 01:45:40,660
+importante porque o progresso da ferramenta é sentido pelo indivíduo técnico que é o homem
+
+792
+01:45:41,380 --> 01:45:46,740
+o homem sente ele percebe através do seu próprio corpo esse progresso
+
+793
+01:45:47,620 --> 01:45:54,900
+que acontece depois com a revolução industrial no século 19 o indivíduo
+
+794
+01:45:56,180 --> 01:46:04,340
+ele é definido né como o portador de ferramenta aquele que realiza ação técnica o indivíduo
+
+795
+01:46:04,340 --> 01:46:10,900
+não é mais o homem o indivíduo passa a ser a máquina a máquina é a portadora de ferramenta
+
+796
+01:46:12,020 --> 01:46:20,420
+e o homem ele é colocado de maneira externa a ação técnica como o responsável pela
+
+797
+01:46:20,420 --> 01:46:27,620
+manutenção da máquina então com o surgimento do indivíduo técnico que é a máquina o homem
+
+798
+01:46:27,620 --> 01:46:32,180
+deixa de ser o indivíduo técnico porque o homem deixa de ser o portador de ferramenta
+
+799
+01:46:32,180 --> 01:46:39,300
+e agora ele não sente mais no seu corpo o progresso da técnica agora ele precisa
+
+800
+01:46:39,300 --> 01:46:45,380
+compreender o processo da técnica porque ele é exterior a ação técnica a ação técnica
+
+801
+01:46:45,380 --> 01:46:51,140
+não passa mais por ele ele se torna aquele que mantém a máquina funcionando que oferece energia
+
+802
+01:46:51,140 --> 01:46:58,900
+que oferece os os elementos mínimos para que a máquina continue no seu no seu funcionamento
+
+803
+01:46:58,900 --> 01:47:05,620
+mas não passa mais por ele para o simondô essa origem histórica da alienação porque
+
+804
+01:47:06,260 --> 01:47:16,260
+desde o início da humanidade até o século 18 o homem é o indivíduo técnico ele é aquele que
+
+805
+01:47:16,260 --> 01:47:24,020
+realiza ação técnica passa pelo corpo então a partir do século 19 para além da perda dos
+
+806
+01:47:24,100 --> 01:47:34,820
+meios de produção já é destacada por marco o homem perdeu o seu estatuto de indivíduo técnico
+
+807
+01:47:36,580 --> 01:47:45,620
+essa sensação de exterioridade ela não é assimilada adequadamente então o indivíduo que era o
+
+808
+01:47:45,700 --> 01:47:49,460
+portador que é o portador de ferramentas não é mais o homem é a máquina
+
+809
+01:47:51,460 --> 01:48:00,900
+no século 20 nós vemos adivento dos conjuntos técnicos porque porque só no século 20 nós temos
+
+810
+01:48:00,900 --> 01:48:09,780
+o conjunto propriamente porque embora nós se os fábricas no século 19 isso nos caracteriza
+
+811
+01:48:09,780 --> 01:48:15,140
+propriamente um conjunto porque para ser um conjunto é necessário a troca de informação
+
+812
+01:48:15,140 --> 01:48:20,900
+entre as máquinas e as máquinas do século 19 elas são indivíduos isolados elas não trocam
+
+813
+01:48:20,900 --> 01:48:28,660
+informação entre elas o século 20 com o adivento das máquinas capazes de trocar informação
+
+814
+01:48:31,220 --> 01:48:37,700
+ele propicia o surgimento de conjuntos técnicos em que o homem é aquele maestro das máquinas
+
+815
+01:48:37,700 --> 01:48:45,220
+aquele que regula a troca de informação entre as máquinas então ele tem essa posição
+
+816
+01:48:45,940 --> 01:48:52,020
+privilegiada digamos assim é uma posição que não vai ser substituída não vai ser tirada
+
+817
+01:48:52,020 --> 01:49:01,220
+dele mas o homem não é não reencontrou o seu lugar ele permanece com a sensação do século 19
+
+818
+01:49:01,220 --> 01:49:10,180
+de que ele foi tirado da ação técnica e é aí que surge essa essa concepção de que a máquina
+
+819
+01:49:10,180 --> 01:49:18,740
+estrangeira para o simondão o a possibilidade da troca de informação que as máquinas do século 20
+
+820
+01:49:19,860 --> 01:49:30,500
+trazem ela é o grande elemento de retorno do homem a uma relação equilibrada com a máquina
+
+821
+01:49:30,580 --> 01:49:36,580
+porque que ela é equilibrada porque o homem faz o que a máquina não faz nessa relação que
+
+822
+01:49:36,580 --> 01:49:43,460
+deveria ser uma relação de ganha ganha é uma relação de otimizar e retirar o melhor dos dois
+
+823
+01:49:43,460 --> 01:49:51,220
+mundos a máquina entra com uma memória de adição o homem não consegue ter uma memória de adição
+
+824
+01:49:51,220 --> 01:49:55,620
+tão perfeita quanto a da máquina uma coisa uma vez foi registrada máquina ela não esquece
+
+825
+01:49:55,620 --> 01:50:02,660
+um problema técnico que a memória foi apagada mas não é um esquecimento você registrou um dado
+
+826
+01:50:02,660 --> 01:50:09,700
+hoje ele vai ele vai acessar o mesmo dado o homem não tem uma boa memória de adição mas o homem tem
+
+827
+01:50:09,700 --> 01:50:17,220
+uma boa memória de integração ele é capaz de integrar informações diferentes informações
+
+828
+01:50:17,380 --> 01:50:28,100
+em conjuntos já é assimilados por ele e associar essas coisas de uma maneira que a máquina não
+
+829
+01:50:28,100 --> 01:50:35,860
+faz embora a máquina por um processo de adição atualmente né não tô falando época do simondão
+
+830
+01:50:35,860 --> 01:50:44,580
+mas atualmente ela já consiga mimetizar algumas dessas ações de de integração por exemplo agora
+
+831
+01:50:44,580 --> 01:50:57,220
+nós vemos a o surgimento de de tecnologias capazes de redigir textos né é uma vamos entre aspas
+
+832
+01:50:57,220 --> 01:51:05,940
+é inteligência artificial generativa então ela simula a capacidade de integração do homem por
+
+833
+01:51:05,940 --> 01:51:11,860
+que se diz que ela simula e não que ela realiza porque ela faz isso através de uma memória de
+
+834
+01:51:11,940 --> 01:51:18,980
+adição é um cálculo de probabilidades muito bem é com uma capacidade de memória extraordinária
+
+835
+01:51:19,620 --> 01:51:27,860
+de modo a simular realmente a emular realmente mas ainda não é o tipo de processo do indivíduo
+
+836
+01:51:28,820 --> 01:51:34,660
+que é o ser vivo não só o homem os animais também são capazes de uma memória de integração
+
+837
+01:51:35,060 --> 01:51:42,420
+é em outro nível então é eu termino aqui esse percurso histórico muito rapidamente
+
+838
+01:51:42,420 --> 01:51:50,900
+só para dizer que nessa relação do homem com o objeto técnico a o estranhamento a sensação
+
+839
+01:51:50,900 --> 01:51:58,180
+de uma técnica é estranha ela se dá no século 19 com a revolução industrial com o advento de
+
+840
+01:51:58,180 --> 01:52:05,700
+indivíduos técnicos que não são humanos mas que essa relação equilibrada pode ser retomada no
+
+841
+01:52:05,700 --> 01:52:12,580
+contexto da possibilidade de troca de informação porque o homem e a máquina podem associar-se
+
+842
+01:52:12,580 --> 01:52:19,620
+de maneira a aproveitar o melhor dos dois tipos de memória então é bastante rápido bastante
+
+843
+01:52:19,620 --> 01:52:27,540
+sussinto mas é um elemento importante do terça da terceira etapa é eu não vou a terceira etapa
+
+844
+01:52:27,540 --> 01:52:36,980
+eu não vou poder me aprofundar né no na sessão três do do do meote o simondom ele volta o início
+
+845
+01:52:36,980 --> 01:52:45,700
+da história digamos assim e faz faz uma conversa com a antropologia da técnica e que devolve esse
+
+846
+01:52:45,700 --> 01:52:51,620
+objeto técnico ao que seria o conjunto do real que o conjunto do real é esse conjunto que nós
+
+847
+01:52:51,620 --> 01:52:58,020
+temos a natureza né o mundo o homem e o objeto técnico como mediador fica o convite para quem
+
+848
+01:52:58,020 --> 01:53:04,900
+quiser se aprofundar né agora é com a mais a facilidade de uma edição brasileira mas temos
+
+849
+01:53:04,900 --> 01:53:14,020
+é temos traduções também para o espanhol para o inglês e então ficou convite para quem
+
+850
+01:53:14,020 --> 01:53:21,300
+se aprofundar na obra do simondom que é porque nós não daremos conta que da terceira etapa
+
+851
+01:53:21,300 --> 01:53:32,260
+então é isso o que eu tinha para falar até aqui mas tem uma pequena discussão no final que o o Alex
+
+852
+01:53:32,260 --> 01:53:43,540
+me eu te propor que é a seguinte se vocês perceberam bem ao falar de simondom até agora
+
+853
+01:53:43,540 --> 01:53:52,980
+nós mencionamos o termo técnica mas nunca o termo tecnologia né então nós nos referimos a
+
+854
+01:53:52,980 --> 01:53:58,580
+grandes máquinas máquinas capazes de trocar informação máquinas complexas sempre com o
+
+855
+01:53:58,580 --> 01:54:04,660
+termo técnica e não com o termo tecnologia diferentemente por exemplo novamente do Mario
+
+856
+01:54:04,660 --> 01:54:10,660
+Bungue né o autor da semana passada em que a gente tem essa distinção aquilo que foi feito antes
+
+857
+01:54:10,660 --> 01:54:17,700
+da revolução industrial e ou mesmo depois mas sem utilizar o conhecimento científico é esses
+
+858
+01:54:17,700 --> 01:54:23,140
+artefatos fazem parte da técnica e os artefatos que utilizam o conhecimento científico na sua
+
+859
+01:54:23,140 --> 01:54:29,940
+visão são os artefatos da tecnologia é eu tô falando do mar e para fazer a distinção aqui
+
+860
+01:54:29,940 --> 01:54:36,980
+com o simondom tudo é técnica tudo é técnica todos os objetos são as máquinas são objetos
+
+861
+01:54:36,980 --> 01:54:49,060
+técnicos o simondom reserva o termo tecnologia para uma um plano além um plano meta né uma meta
+
+862
+01:54:49,860 --> 01:55:00,020
+a tecnologia é aquele campo capaz de fazer a genealogia capaz de fazer o tratamento genético
+
+863
+01:55:00,020 --> 01:55:07,620
+da técnica do mesmo jeito que a biologia consegue classificar os seres vivos a tecnologia
+
+864
+01:55:08,420 --> 01:55:15,620
+o simondom reserva para esse estudo da técnica esse estudo que é capaz da gênesi da técnica
+
+865
+01:55:15,700 --> 01:55:25,220
+então isso é tecnologia para o simondom então um dos elementos dos tantos importantes das tantas
+
+866
+01:55:25,220 --> 01:55:34,660
+consequências sociais e éticas importantes dessa desse processo que é mais ontológico né
+
+867
+01:55:36,340 --> 01:55:42,980
+seria a pensar uma educação tecnológica propriamente nos termos de simondom
+
+868
+01:55:42,980 --> 01:55:50,900
+porque a educação porque ela é o único meio capaz de alcançar o universo de significações
+
+869
+01:55:51,860 --> 01:55:59,780
+compartilhado pela cultura então uma educação tecnológica não seria aquela educação de um
+
+870
+01:55:59,780 --> 01:56:06,740
+tablet por aluno é a uma loza interativa me ensinar aluno a mexer no computador não uma
+
+871
+01:56:06,740 --> 01:56:12,900
+educação simondoniamente falando uma educação tecnológica seria uma educação capaz de oferecer
+
+872
+01:56:13,140 --> 01:56:22,900
+aos alunos um pensamento técnico uma tecnologia uma capacidade de olhar para o
+
+873
+01:56:24,660 --> 01:56:31,380
+as máquinas para os objetos técnicos não com o olhar de reduzir-las a sua função mas com o olhar
+
+874
+01:56:31,380 --> 01:56:38,580
+com o mesmo olhar que ele olha para um coelho e sabe que não é ave porque ele olha para além
+
+875
+01:56:38,580 --> 01:56:44,340
+da função do coelho na culinária ele teve uma aula de biologia ele sabe a diferença entre
+
+876
+01:56:44,340 --> 01:56:52,340
+aves e mamíferos então oferecer os fundamentos para entender para compreender minimamente
+
+877
+01:56:53,460 --> 01:57:02,420
+as gêneses as linhagens genéticas da técnica faria com que essa educação permitisse a
+
+878
+01:57:02,420 --> 01:57:10,340
+tomada de consciência e permitisse a reintegração da técnica no universo compartilhado de
+
+879
+01:57:10,340 --> 01:57:17,220
+significações que é a cultura então essa essa consequência e do projeto simondoniano que
+
+880
+01:57:17,220 --> 01:57:24,740
+seria a tentativa de uma uma reforma digamos assim na educação numa inserção não só da base
+
+881
+01:57:24,740 --> 01:57:33,060
+porque a nossa educação oferece uma base artística né o pretende oferecer científica ela oferece
+
+882
+01:57:33,060 --> 01:57:41,940
+as bases das linguagens da matemática também mas não oferece o mínimo para que a cultura consiga
+
+883
+01:57:41,940 --> 01:57:50,260
+olhar para a técnica de modo a a extrapolar o meroâmbito da função então essa é esse seria o
+
+884
+01:57:50,260 --> 01:57:59,140
+caminho né o caminho seria pela educação então nós agradecemos a lex que é complementar que é dizer
+
+885
+01:57:59,140 --> 01:58:07,620
+algo antes do intervalo então gente vamos para o intervalo e esperamos ansiosos as questões de
+
+886
+01:58:07,620 --> 01:58:19,140
+vocês vamos esperar então alguém nos nos orientar aqui quanto o lapisores tudo bem podemos então
+
+887
+01:58:19,140 --> 01:58:30,660
+fazer o intervalo aí até as dez e dez e doce talvez dez e treze onze onze treze
+
+888
+01:58:30,660 --> 01:58:38,500
+perfeito perfeito então vamos no intervalo retornamos em quinze minutinhos até mais até
+
+889
+02:13:20,140 --> 02:13:36,380
+e o seu microfone está desligado rodel
+
+890
+02:13:37,380 --> 02:13:49,100
+e tecnicamente inadequado retornamos agora para esse segundo segundo momento momento de questões
+
+891
+02:13:49,100 --> 02:13:58,820
+dúvidas de partilha né então colegas eu começo com é uma questão que nos foi enviada pelo Renan
+
+892
+02:13:58,820 --> 02:14:06,060
+obrigado Renan e o Renan diz o seguinte ele faz duas perguntas eu vou já aproveitar fazer as duas
+
+893
+02:14:06,060 --> 02:14:13,140
+então primeiro rena diz assim na música há uma hora específica do estudo dos instrumentos
+
+894
+02:14:13,140 --> 02:14:23,220
+musicais a organologia de modo geral a organologia estuda os instrumentos musicais a partir de seus
+
+895
+02:14:23,220 --> 02:14:31,180
+instrumentos históricos e desenvolvimento seria possível entender a organologia musical como um
+
+896
+02:14:31,180 --> 02:14:40,820
+estudo simondonian considerando que é que esta já estuda os instrumentos considerando sua evolução
+
+897
+02:14:40,820 --> 02:14:50,940
+histórica uma espécie de vir organológico musical eu aproveito a generosidade do renan que ele fez
+
+898
+02:14:50,940 --> 02:14:58,460
+a sua questão e ele diz o seguinte considerando a aproximação entre a gênis genética dos seres
+
+899
+02:14:58,460 --> 02:15:06,740
+vivos com a gene dos objetos técnicos é possível observar que nos animais seres animais segundo a
+
+900
+02:15:06,740 --> 02:15:14,380
+evolução da arvinhiana teríamos mas teríamos uma única origem uma arquê genética Jesus
+
+901
+02:15:14,380 --> 02:15:22,660
+Renan é possível encontrar uma única origem genética dos objetos técnicos todos ou ainda
+
+902
+02:15:22,660 --> 02:15:33,140
+cairíamos na noção dos seus usos e utilidades já que desenvolve-se um objeto para uma determinada
+
+903
+02:15:33,140 --> 02:15:41,300
+função prática que varia e assim teríamos diversas arquês genéticas dos objetos técnicos por
+
+904
+02:15:41,300 --> 02:15:52,940
+exemplo medir as horas gravar gravar um pensamento sentar contar etc e as questões do renan aqui a
+
+905
+02:15:52,940 --> 02:16:03,220
+gente já agradece perfeito a gente percebemos mesmo renan é eu vou começar respondendo é vamos pela
+
+906
+02:16:03,220 --> 02:16:12,180
+primeira pergunta então sobre a a organologia na música e eu gostaria de destacar que embora seja
+
+907
+02:16:12,180 --> 02:16:20,740
+bastante interessante essa aproximação porque trata-se de uma classificação e portanto de certo
+
+908
+02:16:20,740 --> 02:16:31,620
+modo de uma gênese né é no entanto é preciso destacar que nem sempre se entende evolução
+
+909
+02:16:31,620 --> 02:16:39,220
+histórica da mesma maneira nos dois casos eu não sou uma estudiosa da organologia então é
+
+910
+02:16:39,220 --> 02:16:50,980
+possível que eu fale algo aqui que é que eu falei uma bobagem aqui mas é eu imagino que seja possível
+
+911
+02:16:50,980 --> 02:17:00,700
+usar a organologia fazer um estudo histórico considerando digamos assim é elementos externos
+
+912
+02:17:00,700 --> 02:17:10,340
+a técnica para é fazer essa esse estudo histórico então por exemplo se eu digo olha em tal época o
+
+913
+02:17:10,340 --> 02:17:17,740
+que era acessível era isso e portanto o instrumento tal ficou assim porque são elementos externos então
+
+914
+02:17:18,740 --> 02:17:29,500
+uma organologia simondoniana ela teria que ser a partir de uma evolução histórica interna aos
+
+915
+02:17:29,500 --> 02:17:37,660
+instrumentos aos instrumentos aqui considerados como objetos então a aproximação é muito interessante
+
+916
+02:17:37,660 --> 02:17:45,940
+mas é preciso pensar o que se está entendendo aqui como evolução histórica porque seria possível
+
+917
+02:17:45,940 --> 02:17:51,700
+ter uma descrição e veja eu não estou hierarquizando dizendo que um jeito de contar a história é
+
+918
+02:17:51,700 --> 02:17:59,140
+pior do que o outro mas para a aproximação como se mandou teria que ser uma história de um ponto
+
+919
+02:17:59,140 --> 02:18:06,260
+de vista assim interno ao objeto e não uma história entre aspas e uma história social dos
+
+920
+02:18:06,260 --> 02:18:12,540
+instrumentos por exemplo é uma história extra objeto uma história que consideraria elementos
+
+921
+02:18:12,540 --> 02:18:22,340
+históricos sociais ou mesmo até artísticos do uso do objeto então talvez seria o caso de pensar
+
+922
+02:18:22,340 --> 02:18:35,740
+é possível uma organologia simondoniana na música talvez uma questão interessante e eu gostaria
+
+923
+02:18:35,740 --> 02:18:43,660
+que você não é essa conversa renan vai que eu acreditar nessa pergunta então eu concordo com você
+
+924
+02:18:43,660 --> 02:18:49,980
+eu também não entendo o que pode ser no estudei a organologia parece que organologia parece ser
+
+925
+02:18:49,980 --> 02:18:58,340
+pode ser o órgão entendido como órgão parece remeter a funcionamento do objeto a palavra não
+
+926
+02:18:58,340 --> 02:19:06,460
+é mas mas eu concordo com a velônica se nessa organologia faz uma linhagem devolutiva onde por
+
+927
+02:19:06,460 --> 02:19:15,220
+exemplo eu não explorei esse detalhe se coloca lá na linhagem evolutiva entre o piano o próximo
+
+928
+02:19:15,220 --> 02:19:22,700
+passo o teclado eletrônico é uma classificação não somos simondoniana porque porque um teclado
+
+929
+02:19:22,700 --> 02:19:29,180
+é o funcionamento do teclado eletrônico é de uma outra linhagem evolutiva tecnicamente falando
+
+930
+02:19:29,180 --> 02:19:36,940
+né mas se você coloca ali somente a função de produzir o som e o modo a técnica de tocar
+
+931
+02:19:36,940 --> 02:19:44,900
+como elemento para classificar você não está considerando a interioridade funcional do objeto
+
+932
+02:19:44,900 --> 02:19:50,860
+e o processo evolutivo dela é o mesmo pode acontecer com o violão por exemplo né violão e
+
+933
+02:19:50,860 --> 02:19:57,020
+guitarra na organologia se colocar o violão e guitarra talvez elas não se não se estariam
+
+934
+02:19:57,020 --> 02:20:02,220
+na mesma linhagem porque uma guitarra elétrica talvez estaria muito mais próximo na sua gene do
+
+935
+02:20:02,220 --> 02:20:12,220
+do microfone que não é o instrumento musical é do que o o próprio violão a guitarra antiga
+
+936
+02:20:12,220 --> 02:20:18,540
+ou os violões antigos as cítaras né não sei como os instrumentos antigos enfim é uma coisa para
+
+937
+02:20:18,540 --> 02:20:28,860
+falar perfeito então vamos para a segunda questão se vocês colocar aqui não é perfeito é essa
+
+938
+02:20:28,860 --> 02:20:37,180
+aproximação da gênesis dos objetos técnicos com a gênesis dos seres vivos é uma discussão
+
+939
+02:20:37,180 --> 02:20:46,500
+das mais importantes aí sobre a filosofia do simondon porque é da proximidade do simondon com
+
+940
+02:20:46,500 --> 02:20:55,460
+a gêneis que foi em dos orientadores né e que a gêneis tratou dessa é dessa filosofia
+
+941
+02:20:55,460 --> 02:21:04,260
+dois seres vivos muito se facilitaram em dizer que há uma entidade entre essas duas vezes
+
+942
+02:21:04,260 --> 02:21:11,620
+e é legal que a nossa pergunta você não está você não mancaiu nessa armadilha de já supor
+
+943
+02:21:11,620 --> 02:21:22,980
+e é um tipo de gênesis mas bem há uma conversa entre essas duas gênesis mas não há uma entidade
+
+944
+02:21:22,980 --> 02:21:34,740
+e a grande questão grande elemento é estar recebindo o conceito de indivíduo ação porque
+
+945
+02:21:34,740 --> 02:21:44,100
+os seres vivos eles não nascem já com o processo de indivíduo finalizado eles nascem indivíduo
+
+946
+02:21:45,060 --> 02:21:52,260
+e quando o objeto técnico ele passa pelo processo de indivíduo ao longo do seu desenvolvimento
+
+947
+02:21:52,260 --> 02:22:01,140
+então essa distinção ela é radical e ela faz então que a gente embora haja uma semelhança
+
+948
+02:22:01,140 --> 02:22:09,220
+na tentativa de classificar haja uma diferença muito grande no processo próprio de devir entre
+
+949
+02:22:09,220 --> 02:22:17,460
+os dois campos né o dos seres vivos e o dos objetos técnicos e na sua questão então
+
+950
+02:22:17,460 --> 02:22:26,340
+você acerta muito em tentar distinguir um do outro mas a sua questão apresenta um problema que
+
+951
+02:22:26,340 --> 02:22:33,300
+algo que a gente precisa acender uma alerta quando você diz assim é possível encontrar uma origem
+
+952
+02:22:33,300 --> 02:22:40,980
+de origem genética dos objetos técnicos todos ou ainda caíremos na noção dos seus usos e
+
+953
+02:22:40,980 --> 02:22:48,180
+utilidades já que desenvolve-se um objeto para uma determinada função prática que varia esse
+
+954
+02:22:48,180 --> 02:22:53,460
+é o problema a resposta da primeira parte é não não há uma gênesis única para os objetos
+
+955
+02:22:53,460 --> 02:23:01,780
+técnicos ao contrário existem múltiplas linhas ao contrário do do coelho que a gente pode simplesmente
+
+956
+02:23:01,860 --> 02:23:10,900
+coelho não é ave ponto frango é ave ponto o mesmo objeto técnico participa de inúmeras
+
+957
+02:23:10,900 --> 02:23:18,500
+linhagens distintas se eu tenho um carro por exemplo o carro você vai dizer que o motor do
+
+958
+02:23:18,500 --> 02:23:24,900
+limpador de para brisa ele participa de uma linhagem lá dos motores e os pequenos etc o
+
+959
+02:23:24,900 --> 02:23:32,420
+que é participa de uma outra se tem inúmeras linhagens mas onde que está alerta essas linhagens
+
+960
+02:23:32,420 --> 02:23:40,420
+não são definidas pelos usos e utilidades então o que vem a seguir na sua questão exige muito
+
+961
+02:23:40,420 --> 02:23:45,620
+cuidado já que desenvolve-se um objeto para cada determinada função não é isso que interessa
+
+962
+02:23:45,620 --> 02:23:53,620
+pra gente você pode desenvolver objetos para a mesma função e eles serem de linhagens completamente
+
+963
+02:23:53,780 --> 02:24:02,100
+exemplo você pega um amperímetro antigo analógico um voltímetro antigo analógico
+
+964
+02:24:03,940 --> 02:24:12,500
+se você for no museu tecnológico vai estar escrito que é o equivalente atual é o multímetro
+
+965
+02:24:12,500 --> 02:24:18,740
+tanto para um quanto para outro amperímetro qual é o equivalente atual multímetro é o voltímetro
+
+966
+02:24:18,740 --> 02:24:25,060
+qual é o equivalente atual o multímetro você pega o multímetro que é uma caixinha desse
+
+967
+02:24:25,060 --> 02:24:34,020
+tamanho completamente digital ela não compartilha nada com a linhagem genética do amperímetro
+
+968
+02:24:34,020 --> 02:24:40,340
+analógico a linhagem genética do voltímetro analógico embora sirvam os dois para a mesmíssima
+
+969
+02:24:40,340 --> 02:24:46,980
+função a mesma função não é assim a função é para a mesma função fazer a leitura da da
+
+970
+02:24:48,900 --> 02:24:53,940
+fazer aquela leitura ali daquilo dado seja do dos amperímetros dos voltímetros daquilo dado
+
+971
+02:24:55,540 --> 02:25:01,860
+então novamente só para retomar primeira parte verdade não é possível encontrar uma
+
+972
+02:25:01,860 --> 02:25:07,860
+origem única são múltiplas as linhagens agora a razão pela qual não é possível não é
+
+973
+02:25:07,860 --> 02:25:15,540
+por causa da múltipla cidade de utilidades porque você pode ter tanto mesma gênesis
+
+974
+02:25:15,540 --> 02:25:21,860
+utilizar utilidades distintas você pode ter por exemplo o exemplo que o simondô oferece uma
+
+975
+02:25:21,860 --> 02:25:29,060
+calculadora que serve como um tradutor rudimentar parece que essas duas coisas tem nada que ver uma
+
+976
+02:25:29,060 --> 02:25:33,700
+coisa com a outra fazer cálculo e fazer tradução no entanto você tem o mesmo objeto e portanto a
+
+977
+02:25:33,700 --> 02:25:43,540
+gênesis fazendo funções bem distintas então é não é a função que determina a gente é a
+
+978
+02:25:43,540 --> 02:25:49,780
+estrutura do objeto né ele pertence àquela linhagem pela sua estrutura pelo seu devido pela
+
+979
+02:25:49,780 --> 02:26:00,740
+história interna dele é só pequeno comentário ainda sobre essa noção de arquede genética
+
+980
+02:26:00,740 --> 02:26:08,500
+é eu acho que mais do que pensar um ancestral comum a todos os objetos técnicos poderíamos
+
+981
+02:26:08,500 --> 02:26:16,900
+talvez pensando ali daí tem que explorar a parte três do livro do meote é as condições para o
+
+982
+02:26:16,900 --> 02:26:24,300
+surgimento da técnica assim como por exemplo ancestral na biologia ele teve as condições para
+
+983
+02:26:24,300 --> 02:26:32,540
+os gênesis não sei aquele o tal da sopa primordial lá tal da sopa primordial seria então todo um
+
+984
+02:26:32,540 --> 02:26:40,460
+conjunto de questões químicas né pressão atmosférica envolvida que permitiu ali o surgimento
+
+985
+02:26:40,460 --> 02:26:49,380
+do da primeira moleculazinha lá o primeiro é sei lá bactéria que gerou então a cadeia cadeia
+
+986
+02:26:49,380 --> 02:26:57,940
+né é o simondão no no no meote ele faz um estudo antropológico de como se dá a passagem né
+
+987
+02:26:57,940 --> 02:27:05,460
+dos pensamentos no terceiro na terceira parte do meote do pensamento religioso para o pensamento
+
+988
+02:27:05,460 --> 02:27:10,500
+mágico é mágico pensamento religioso para o pensamento técnico e esse pensamento técnico a
+
+989
+02:27:10,500 --> 02:27:18,620
+passagem é a descrição de uma uma condição de possibilidade né de como agir técnica de se
+
+990
+02:27:18,620 --> 02:27:24,860
+relacionar tecnicamente com o mundo então daí a gênesis talvez seria pensar essas condições
+
+991
+02:27:24,860 --> 02:27:30,700
+né os ancestrais não seria um ancestral um indivíduo mas as condições para os indivíduos
+
+992
+02:27:30,700 --> 02:27:39,620
+subir talvez teria que explorar assim maravilha obrigado a ambos então vamos a uma próxima
+
+993
+02:27:39,620 --> 02:27:46,100
+pergunta da patrícia gaspar obrigado patrícia e a patrícia faz a seguinte questão
+
+994
+02:27:46,100 --> 02:27:56,860
+o simondão fala que o progresso do objeto técnico se dá por convergência e a adaptação a ele
+
+995
+02:27:56,980 --> 02:28:07,180
+e aí entre aspas para que ele esteja a um passinho de conversar com os construtivistas como
+
+996
+02:28:07,180 --> 02:28:16,580
+pinte e biker que falam da construção social da tecnologia eu gostaria de saber diz ela se em
+
+997
+02:28:16,580 --> 02:28:24,540
+algum momento o simondão pensou na construção social da tecnologia e aí de maneira bem amorada
+
+998
+02:28:24,540 --> 02:28:40,620
+que ele nunca sentou com essa galera não mesmo e aí não a resposta é não o pessoal ali do
+
+999
+02:28:40,620 --> 02:28:47,780
+Scott né o pinte e o biker e eles fazem parte então de uma interpretação da construção né
+
+1000
+02:28:47,780 --> 02:28:54,420
+social social social e social constructivismo a tecnologia né então a construção social
+
+1001
+02:28:54,420 --> 02:29:01,540
+tecnologia né é porque a análise do biker por exemplo da bicicleta de que as condições
+
+1002
+02:29:01,540 --> 02:29:08,100
+as demandas em relação a transporte da classe trabalhadora exigiu então condicionou né então
+
+1003
+02:29:08,100 --> 02:29:13,780
+o elemento assim tem a ver com condições de trabalho que foram demandas né sociais é
+
+1004
+02:29:13,780 --> 02:29:19,060
+que condicionou a escolha de um tipo de determinada bicicleta então que havia bicicleta aquela
+
+1005
+02:29:19,060 --> 02:29:27,500
+bicicleta com uma roda só que era usada por por velocistas por homens né é que que queriam
+
+1006
+02:29:27,500 --> 02:29:34,020
+se exibir esteticamente e praticar um esporte né é aquele tipo de bicicleta foi abandonada
+
+1007
+02:29:34,020 --> 02:29:40,340
+porque teoricamente segundo a análise do biker por exemplo é porque havia a necessidade de um
+
+1008
+02:29:40,340 --> 02:29:44,580
+esporte para a classe trabalhadora e a bicicleta de duas rodas era mais segura ela condicionou
+
+1009
+02:29:44,580 --> 02:29:50,340
+todo um processo de evolução né então a interpretação do social constructivismo da
+
+1010
+02:29:50,340 --> 02:29:56,700
+tecnologia é que as condições os elementos sociais interferem na evolução técnica olha o
+
+1011
+02:29:56,700 --> 02:30:04,500
+que a análise do motor né apontou para outras outra vertente né de que não se mudou separa
+
+1012
+02:30:04,500 --> 02:30:11,860
+as causas técnicas de causas sociais o a o elemento a evolução técnica de um objeto
+
+1013
+02:30:11,860 --> 02:30:19,820
+técnico deve respeitar elementos do funcionamento só que você daí entra aqui teria que colocar
+
+1014
+02:30:19,820 --> 02:30:25,260
+aqui uma discussão sobre o determinismo tecnológico né o pessoal do um do esporte do
+
+1015
+02:30:25,260 --> 02:30:30,140
+momento escote né eles estão trabalhando com uma uma interpretação estão tentando
+
+1016
+02:30:30,260 --> 02:30:39,380
+uma interpretação de que a tecnologia ela ela determina a sociedade então tem ela o problema
+
+1017
+02:30:39,380 --> 02:30:45,900
+do determinismo tecnológico eles estão tentando brigar então se mudou seria um determinista
+
+1018
+02:30:45,900 --> 02:30:52,300
+tecnológica eis a questão então nós veremos um autor né que é o fímber lá na frente e
+
+1019
+02:30:52,300 --> 02:30:58,140
+quem sabe se pode explorar isso né o fímber ele vai ler o simondom de maneira muito mais coerente
+
+1020
+02:30:58,140 --> 02:31:04,140
+o pessoal do do do do movimento escote inclusive o fímber vai criticar o movimento escote porque
+
+1021
+02:31:04,140 --> 02:31:10,780
+o movimento escote eles eles na na opinião do próprio filme eles deixam de lado o elemento
+
+1022
+02:31:10,780 --> 02:31:18,180
+técnico né e por pro pro e pro fim o simondom tende a exagerar na importância do elemento
+
+1023
+02:31:18,180 --> 02:31:26,100
+técnico o fímber vai tentar é é mostrar a necessidade de colocar as duas coisas como sendo
+
+1024
+02:31:26,100 --> 02:31:33,700
+o fímber que a interferência social na evolução técnica mas o técnico interfere no social é uma
+
+1025
+02:31:33,700 --> 02:31:39,820
+uma tentativa de criticar o movimento escote o bairra por exemplo o fímber não é do movimento
+
+1026
+02:31:39,820 --> 02:31:49,060
+absolutamente não é não é tão é próximo do que o construízo social propõe né mas ele
+
+1027
+02:31:49,060 --> 02:31:56,820
+não é sim um doniano é tão forte né então eu posso dizer que não eles não sentaram exatamente
+
+1028
+02:31:56,820 --> 02:32:04,820
+o mesmo boteco e se sentasse provavelmente poderia ter dado uma briga e é da confusão e é da confusão
+
+1029
+02:32:04,820 --> 02:32:13,620
+o que é excelente eles deveriam ter tomado uma gelada que seria mais agradável deixa eu
+
+1030
+02:32:13,620 --> 02:32:19,780
+complementar uma coisa sobre essa questão do determinismo que é o seguinte é é muito
+
+1031
+02:32:19,780 --> 02:32:28,900
+comum que algumas pessoas leiam o simondom parando na primeira etapa é interessante né a gente
+
+1032
+02:32:28,900 --> 02:32:33,300
+mostrou ali por isso mesmo sem ter tempo de aprofundar a gente fez questão de mostrar que são
+
+1033
+02:32:33,300 --> 02:32:41,100
+três etapas que começam no objeto técnico mas devolve ao conjunto é muito comum que a leitura
+
+1034
+02:32:41,100 --> 02:32:47,100
+seja na primeira etapa e por isso uma grande sensação de um simondom determinista porque
+
+1035
+02:32:47,100 --> 02:32:54,460
+é essa leitura não alcança o final da história que é quando o simondom devolve tudo para o
+
+1036
+02:32:54,460 --> 02:33:02,220
+o plano mais geral então é preciso estar alerta não é que não haja razões para pôr em questão
+
+1037
+02:33:02,220 --> 02:33:09,100
+a um suposto determinismo simondom existem razões mas elas são muito mais interessantes e profundas
+
+1038
+02:33:09,100 --> 02:33:15,900
+e o que costuma aparecer que é só uma ideia de que não mas o processo se dá no pelo próprio
+
+1039
+02:33:15,900 --> 02:33:22,780
+objeto técnico então acabou não tem mais nenhum nenhum função social nenhuma influência social
+
+1040
+02:33:22,780 --> 02:33:29,540
+que não é assim que o simondom está escrevendo as próprias acusações do fim de relação
+
+1041
+02:33:29,540 --> 02:33:37,620
+simondom elas necessitam ser reavaliadas eu acho uma questão de pesquisa que eu acho que eles
+
+1042
+02:33:37,620 --> 02:33:45,060
+estão falando quase da mesma coisa né o fim de ele ele critica o movimento Scott por esquecer
+
+1043
+02:33:45,060 --> 02:33:50,740
+do elemento técnico parece que tudo é social ou seja parece que tudo é aquele a possibilidade
+
+1044
+02:33:50,740 --> 02:33:57,900
+de interpretar lá o foguete na Austrália lá né tudo é social né e o o Fiber diz não tem o
+
+1045
+02:33:57,900 --> 02:34:03,900
+elemento técnico precisa funcionar só que você não é são duas coisas acontece ao mesmo tempo
+
+1046
+02:34:03,900 --> 02:34:12,460
+agora o simondom ele separa as duas coisas e só que ele não nega que o objeto técnico
+
+1047
+02:34:12,460 --> 02:34:20,180
+tem interferência sociais até mesmo no caminhão no caso do caminhão ou da aviação que parece que a
+
+1048
+02:34:20,180 --> 02:34:27,180
+primasia é só pelo funcionamento tem um elemento social que implicando ali o elemento social
+
+1049
+02:34:27,180 --> 02:34:34,500
+que permite caminhões serem produzidos nesse formato hoje em dia até os caminhões já tem mais
+
+1050
+02:34:34,500 --> 02:34:40,340
+interferência social do que os caminhões antigos né por exemplo o que que era um feneme um feneme
+
+1051
+02:34:40,340 --> 02:34:47,180
+na década de 50 é um caminhão que não ele é simplesmente o esquema de funcionamento adiante
+
+1052
+02:34:47,180 --> 02:34:54,900
+de você não tinha luxo presente né hoje os caminhões quase são são são automóveis grandes
+
+1053
+02:34:54,900 --> 02:35:03,380
+as carretas aí que tem computador de bordo e se tiver se bobear até cafeteira dentro é porque
+
+1054
+02:35:03,380 --> 02:35:10,420
+porque tem a interferência social mas o feneme por exemplo é a interferência social é o fato de
+
+1055
+02:35:10,420 --> 02:35:15,500
+permitir aquele tipo de caminhão apresentar o fim de outro se mundou não negaria esse tipo de conta
+
+1056
+02:35:16,260 --> 02:35:25,900
+certo e o feneme também representou um sonho de uma indústria automobilística nacional né Alex
+
+1057
+02:35:25,900 --> 02:35:35,420
+que foi sepultado né e que enfim vamos passar para a próxima questão e a próxima questão vem
+
+1058
+02:35:35,420 --> 02:35:41,660
+até relacionada com esse comentário breve da indústria nacional que é o seguinte Alex
+
+1059
+02:35:41,940 --> 02:35:48,460
+uma questão da Luciana obrigado Luciana Luciana diz o seguinte o professor poderia aprofundar um
+
+1060
+02:35:48,460 --> 02:35:57,260
+pouco na questão mencionada da dialética em álvaro verapinto e em simondão tem alguma relação
+
+1061
+02:35:57,260 --> 02:36:05,740
+entre ambos assim a única relação que dá para dizer é o uso da da concepção dialética né bem
+
+1062
+02:36:05,780 --> 02:36:11,820
+e não dá para desdobrar muito aqui sobre o alvaro verapinto que é um filósofo brasileiro né
+
+1063
+02:36:11,820 --> 02:36:22,620
+é da fase ali dos anos 50 que pensou ali uma é uma digamos uma noção de nação uma nação tá muito
+
+1064
+02:36:22,620 --> 02:36:32,420
+próximo daquilo aquele pensamento desenvou o vimentista do brasil né é então a partir de leituras
+
+1065
+02:36:32,420 --> 02:36:38,540
+espécie é um um trabalho o óbvio verapinto está sendo resgatado eu acho que ele necessita ser
+
+1066
+02:36:38,540 --> 02:36:47,620
+resgatado né ele foi muito pouco lido as leituras que já foram feitas elas são elas são às vezes
+
+1067
+02:36:47,620 --> 02:36:52,780
+é consistente mas elas são parciais ela não interpreta ainda a profundidade da obra do
+
+1068
+02:36:52,780 --> 02:36:59,340
+alvaro verapinto né e é um filósofo brasileiro que morreu no ostracismo então por exemplo Paulo
+
+1069
+02:36:59,340 --> 02:37:06,380
+Freira vira a obra do Paulo Freira o pedagogia do oprimido ela é citada né ela é citada é citada
+
+1070
+02:37:06,380 --> 02:37:13,340
+no é ela cita a obra do do alvaro verapinto o que está em jogo lá no alvaro verapinto é pensar
+
+1071
+02:37:13,340 --> 02:37:22,980
+que o desenvolvimento tecnológico tem que incluir uma noção de dialética de que a dialética
+
+1072
+02:37:23,100 --> 02:37:28,260
+aumenta as potencialidades das soluções tecnológicas e daí por isso a interferência
+
+1073
+02:37:28,260 --> 02:37:36,500
+humana né então o ser humano estaria diante do questionamento dos objetos para que outras
+
+1074
+02:37:36,500 --> 02:37:43,420
+soluções técnicas possam possam vir e com isso o tal do determinismo não surgiria então é o
+
+1075
+02:37:43,420 --> 02:37:49,620
+determinismo aponta que você tem que respeitar um tipo de desenvolvimento técnico né a dialética
+
+1076
+02:37:49,620 --> 02:37:56,700
+se dá ou essa outra potencialidade de que você é diante de um problema técnico você talvez
+
+1077
+02:37:56,700 --> 02:38:06,380
+possa encontrar soluções diferentes soluções por exemplo a relação entre entre entrega entrega
+
+1078
+02:38:06,380 --> 02:38:15,620
+de comida e a relação entre entre quem fabrica comida entrega de comida será que não teria um
+
+1079
+02:38:15,620 --> 02:38:22,540
+jeito de fazer essa mediação que não seja pelo um aplicativo é um construído que nós hoje
+
+1080
+02:38:22,540 --> 02:38:28,820
+utilizamos como maior frequência que não tem uma outra maneira de pensar isso daí surge as
+
+1081
+02:38:28,820 --> 02:38:36,180
+relações de trabalho né então a dialética seria uma metodologia de análise da técnica né para
+
+1082
+02:38:36,180 --> 02:38:43,780
+ouvir a pena o que que tá o que tá em jogo no simondom né o simondom ele acredita que uma
+
+1083
+02:38:43,780 --> 02:38:52,940
+análise dialética ela não explica completamente o desenvolvimento da tecnologia ou seja o simondom
+
+1084
+02:38:52,940 --> 02:39:00,540
+não tá negando que exista a dialética ele leu as obras do marques e ele acha que tem alguns
+
+1085
+02:39:00,540 --> 02:39:08,100
+problemas ali que não capturam a essência do desenvolvimento técnico que há ruptura que há
+
+1086
+02:39:08,100 --> 02:39:14,580
+um ano que a negação de fases anteriores isso aparece né então ele tem lá se você for estudar
+
+1087
+02:39:14,580 --> 02:39:21,780
+o que ele chama de lei de relaxação relaxação né que um desenvolvimento técnico ele é explorado
+
+1088
+02:39:21,780 --> 02:39:26,020
+até um determinado momento mas é um determinado momento que aquilo é abandonado e surge em
+
+1089
+02:39:26,020 --> 02:39:33,780
+novas soluções técnicas essa essa ruptura é dialética lembra muito aquela questão do do
+
+1090
+02:39:34,420 --> 02:39:40,860
+tomas com a revolução a revolução entre dois paradigmas ela pode ser entendida como dialética
+
+1091
+02:39:40,860 --> 02:39:47,780
+mas o desenvolvimento de um paradigma ele não é dialético e o simondom tá chamando a atenção
+
+1092
+02:39:47,780 --> 02:39:54,820
+nesse sentido que as fases por exemplo a passagem de elemento indivíduo conjunto ela não é dialética
+
+1093
+02:39:54,820 --> 02:40:01,580
+ela é complementar ela é quase que acumulativa né então isso aqui mais detalhe que isso se
+
+1094
+02:40:01,580 --> 02:40:09,660
+muda para análise da história né então a passagem ali da do século 17 para o século 18 o
+
+1095
+02:40:09,660 --> 02:40:16,420
+surgimento então ali da fase do desenvolvimento técnico lá da fase do iluminismo para a fase
+
+1096
+02:40:16,420 --> 02:40:25,300
+da fábrica ela não é uma uma uma uma técnicamente ela não é dialética ela é dialética no modo do
+
+1097
+02:40:25,300 --> 02:40:32,420
+tempo em perceber a técnica é enquanto que na fase das ferramentas o homem o artesão era dono
+
+1098
+02:40:32,420 --> 02:40:40,420
+ele era o detentor da técnica né então na visão do homem ele ele foi negado na segunda fase
+
+1099
+02:40:40,420 --> 02:40:47,660
+mas tecnicamente então tem que separar para o simondom o trabalho do desenvolvimento o
+
+1100
+02:40:47,660 --> 02:40:52,300
+técnico então a crítica simondom tá fazendo a marques é que marques ele mistura as duas
+
+1101
+02:40:52,300 --> 02:40:59,060
+fases que tecnic trabalha a mesma coisa né porque se olhar tecnicamente então o trabalho das
+
+1102
+02:40:59,060 --> 02:41:05,860
+ferramentas do artesão não são abandonados quando surgem as fábricas as ferramas a máquina
+
+1103
+02:41:05,860 --> 02:41:12,260
+propriamente dita ela é um complemento né então precisa fazer essa separação então a análise dos
+
+1104
+02:41:12,260 --> 02:41:20,220
+evolução técnica ela não se dá a contento por uma ferramenta uma ferramenta é dialética o simondom
+
+1105
+02:41:20,220 --> 02:41:25,980
+apresenta lá um outro conceito que é anelético né que é a possibilidade de ter evolução técnica
+
+1106
+02:41:25,980 --> 02:41:34,020
+sem negação não sei se eu respondi mas perfeito obrigado obrigado a vocês vamos avançando porque
+
+1107
+02:41:34,020 --> 02:41:41,460
+o tempo o tempo não para o candido fez duas observações aqui eu vou registrar apenas ele
+
+1108
+02:41:41,460 --> 02:41:49,340
+diz professores acho que você já amplamente responder essa questão dele que era para pedindo
+
+1109
+02:41:49,340 --> 02:41:57,940
+vocês desculpando pelo pedido infeliz mas ele dizendo é para discorrer de uma forma
+
+1110
+02:41:57,940 --> 02:42:03,340
+sucinta sobre a importância do pensamento do simondom que suas contribuições originais
+
+1111
+02:42:03,340 --> 02:42:12,420
+creio que amplamente vocês exploraram e aí ele diz novamente interessante as contribuições
+
+1112
+02:42:12,420 --> 02:42:19,580
+e considerações sinais acho que o autor é bem atual ao final de contas então acho que foi
+
+1113
+02:42:19,580 --> 02:42:28,540
+bacana a mensagem dos colegas o andrei eu aproveito fazer a questão do andrei ele diz assim bom dia
+
+1114
+02:42:28,540 --> 02:42:34,340
+professores é na evolução técnica sobre a influência da questão econômica poderíamos
+
+1115
+02:42:34,340 --> 02:42:43,220
+considerar que o uso de materiais menos duradouros nas atuais etapas de objetos que possuem uma
+
+1116
+02:42:43,220 --> 02:42:50,900
+história evolutiva pode ir contra uma perfeição técnica de alguma forma gostaria que vocês
+
+1117
+02:42:50,900 --> 02:42:59,500
+comentassem sobre sobre isso posso fazer mais uma questão aproveitando já a do Caetano eu acho que
+
+1118
+02:42:59,500 --> 02:43:12,500
+não é porque essa questão é muito importante para para pesquisa do Alex então acho que essa
+
+1119
+02:43:12,500 --> 02:43:20,860
+questão vai render bem eu nem sei qual é a outra mas acho que merece uma parada aqui é que eu respondo
+
+1120
+02:43:20,860 --> 02:43:28,980
+claro bem eu essa questão é importante para mim porque eu acabei de entrar no programa de
+
+1121
+02:43:28,980 --> 02:43:35,540
+pós-gradação e teclogia e sociedade na UTFPR no PPGTE e eu entrei na linha de pesquisa de
+
+1122
+02:43:35,540 --> 02:43:43,340
+tecnologia e desenvolvimento onde um estuda a questão da sustentabilidade né o meu projeto de
+
+1123
+02:43:43,340 --> 02:43:50,220
+pesquisa tem tem a ver com a questão da da recicla reciclagem né enquanto objeto filosófico a
+
+1124
+02:43:50,220 --> 02:43:58,140
+base do fundamento da análise disso é simondoneano né que a reciclagem precisa ser
+
+1125
+02:43:58,140 --> 02:44:07,900
+pensada é pode ser pensada simondoneiramente e todo tipo de de interferência externa é
+
+1126
+02:44:07,900 --> 02:44:17,460
+é que leva a destruição que leva a a descartabilidade o meu objeto o meu conceito chave a
+
+1127
+02:44:17,460 --> 02:44:23,980
+descartabilidade enquanto o conceito filosófico né que quando você introduz um elemento que gera
+
+1128
+02:44:23,980 --> 02:44:31,020
+a interpretação do objeto ser descartável é você está sendo ante simondoneano então isso vai
+
+1129
+02:44:31,020 --> 02:44:36,500
+levar na questão da obsolescência programada onde eu estou querendo chegar né que a obsolescência
+
+1130
+02:44:36,500 --> 02:44:44,580
+programada é um tipo de interferência antes não simondoneano né porque porque para o simondon
+
+1131
+02:44:44,580 --> 02:44:54,020
+o objeto técnico ele ele é não é ele não ele parece que naturalmente tende a se preservar a
+
+1132
+02:44:54,020 --> 02:44:59,580
+demanda por soluções técnicas é para ele se preservar ele se unificar para se tornar concreto
+
+1133
+02:44:59,580 --> 02:45:06,780
+então a lei evolutiva se tem uma lei que a gente pode pensar aqui é ela leva esta unificação
+
+1134
+02:45:06,780 --> 02:45:13,180
+né se se manter estável por isso que se mandou lá no final da introdução fala que o objeto
+
+1135
+02:45:13,180 --> 02:45:20,020
+técnico ele não é concorrente com a vida ele é a favor da vida ele ele é um símbolo da vida
+
+1136
+02:45:20,020 --> 02:45:25,820
+porque porque nenhum objeto técnico leva a destruição então todo todo objeto técnico que
+
+1137
+02:45:25,820 --> 02:45:33,820
+produz destruição como as bombas as armas para o simondon são interferências humanas é só um
+
+1138
+02:45:33,820 --> 02:45:41,220
+não não que que não estão considerando a própria gênesis a própria noção do que é o objeto
+
+1139
+02:45:41,220 --> 02:45:46,900
+técnico né então se você colocar materiais para que eles possam os objetos técnicos possam ser
+
+1140
+02:45:46,900 --> 02:45:55,820
+destruídos é isso é uma interferência humana é muito mais do que técnica rapidamente falando
+
+1141
+02:45:55,820 --> 02:46:03,220
+então sobre isso maravilha Alex maravilha e excelente essa conexão com o teu o teu tema de
+
+1142
+02:46:03,220 --> 02:46:10,340
+pesquisa atual muito extremamente relevante muito legal então agora sim a questão do Caetano
+
+1143
+02:46:10,340 --> 02:46:20,260
+diz assim é o Caetano faz duas perguntas a primeira é a seguinte a relação das pessoas com o
+
+1144
+02:46:20,260 --> 02:46:28,660
+mundo segundo simondon mediada por objetos técnicos seria similar ao ao coletivo de humanos e não
+
+1145
+02:46:28,660 --> 02:46:37,260
+humanos de latur e a segunda questão do Caetano era o caráter humano dos objetos técnicos trazido
+
+1146
+02:46:37,260 --> 02:46:42,500
+para o simondon não importaria em uma banalização da condição humana
+
+1147
+02:46:43,580 --> 02:46:52,460
+e muito interessante as duas questões a primeira delas é bem é bem legal pensar assim que a
+
+1148
+02:46:52,460 --> 02:47:01,100
+conversa do ator com o simondon ela foi uma conversa direta né o ator tem textos que tem
+
+1149
+02:47:01,100 --> 02:47:05,380
+que ser menciona no o próprio título faz conversa como sobre o modo de existência dos
+
+1150
+02:47:05,380 --> 02:47:12,500
+objetos técnicos e o que eles compartilham o ator e o simondon compartilham uma ontologia
+
+1151
+02:47:12,500 --> 02:47:21,340
+relacional e esse é um ponto muito significativo porque primeiro é a minoria dos autores que
+
+1152
+02:47:21,340 --> 02:47:27,380
+faz a ontologia do objeto técnico a maioria dos autores vai para a aqueciologia da técnica vai
+
+1153
+02:47:27,380 --> 02:47:35,060
+para as consequências éticas sociais etc então você tem dois autores aí da ontologia do objeto
+
+1154
+02:47:35,060 --> 02:47:42,740
+técnico e os dois na mesma perspectiva ontológica ou seja de que a densidade ontológica está nas
+
+1155
+02:47:42,740 --> 02:47:50,300
+relações e não nas essências individuais é na é a relação que constituiu o interesse ontológico
+
+1156
+02:47:50,300 --> 02:47:59,980
+e porém a ontologia relacional do ator ela estrapola uma uma fronteira digamos assim que
+
+1157
+02:47:59,980 --> 02:48:08,460
+é a que o simondon preserva o que faz a relação com a segunda pergunta porque o ator ele dilui a
+
+1158
+02:48:08,460 --> 02:48:14,620
+diferença entre os dois polos por exemplo se a gente pegar só dois pós o objetivo técnico e
+
+1159
+02:48:15,100 --> 02:48:23,020
+ele é desfaz a diferença entre eles quase é quase como todo faz você olhar da perspectiva de um
+
+1160
+02:48:23,020 --> 02:48:31,780
+da perspectiva de outro e o simondon ele demarca essa diferença de maneira bastante significativa
+
+1161
+02:48:31,780 --> 02:48:40,780
+ainda que sejam as relações que ganhem a otestar que ontológico mas é a diferença entre o elemento
+
+1162
+02:48:40,780 --> 02:48:48,220
+e o objeto técnico ela é imprescindível para entender a obra do simondon então não há uma
+
+1163
+02:48:48,220 --> 02:48:56,140
+banalização da condição humana ao contrário pelo seguinte porque um dos polos do desequilíbrio lá
+
+1164
+02:48:56,140 --> 02:49:04,180
+da da alienação é a atribuição de interioridade humana ao objeto técnico gente atenção não
+
+1165
+02:49:04,180 --> 02:49:09,020
+estou dizendo que no latura há uma banalização da condição humana porque o latura são outros
+
+1166
+02:49:09,020 --> 02:49:14,540
+interessos e aqui eu não vou entrar nos processos do latura é eu só gostaria de na primeira questão
+
+1167
+02:49:14,540 --> 02:49:20,300
+fazer essa distinção né entre o latura e o simondon que é muito importante é que o latura ele
+
+1168
+02:49:20,300 --> 02:49:26,780
+ele a ontologia relacional ela vai para um outro nível a estrapola porque ela dilui as relações
+
+1169
+02:49:26,780 --> 02:49:34,300
+mas tem um outro caminho aí para guardar para para preservar dessa banalização agora no simondon
+
+1170
+02:49:34,300 --> 02:49:43,420
+há uma banalização justamente o simondon pretende que o objeto técnico seja é visto pela cultura
+
+1171
+02:49:43,420 --> 02:49:51,660
+e seja incorporado no universo de significações da cultura na sua justa medida não abaixo como um
+
+1172
+02:49:51,660 --> 02:50:00,220
+um mero conjunto que entrega uma função e não além do que ele é porque quando nós não entendemos
+
+1173
+02:50:00,220 --> 02:50:06,380
+o objeto técnico é que nós atribuímos ao objeto técnico elementos humanos como interioridade
+
+1174
+02:50:06,380 --> 02:50:14,780
+a máquina vai se insurgir contra nós a inteligência artificial vai tomar o nosso como se fosse é um
+
+1175
+02:50:14,780 --> 02:50:22,860
+exemplo né é colocar um aquele chat aquele chat no ar né na internet para interagir com humanos
+
+1176
+02:50:23,260 --> 02:50:30,780
+é para testar se ele passaria como um humano não em pouco tempo a inteligência entre aspas bem
+
+1177
+02:50:30,780 --> 02:50:38,540
+grandes a inteligência artificial estava é manifestando opiniões racistas machistas
+
+1178
+02:50:38,540 --> 02:50:44,860
+homofóbicas xenofóbicas e tudo que há de ruim qual foi a reação de parte da população ou seja
+
+1179
+02:50:45,820 --> 02:50:55,340
+olha só como a inteligência artificial é perigosa ela está manifestando é machismo xenofobia
+
+1180
+02:50:55,340 --> 02:51:03,340
+não ela não tem interioridade ela está reproduzindo aquilo que o campo que foi oferecido para ela
+
+1181
+02:51:03,340 --> 02:51:09,260
+para a coleta de dados ofereceu e quem é o campo que foi oferecido para nós os humanos somos nós que
+
+1182
+02:51:09,260 --> 02:51:15,100
+somos machistas homofóbicos xenofóbicos e etc e colocamos um chat para interagir com a gente
+
+1183
+02:51:15,100 --> 02:51:21,980
+foi foi aquele aprendeu então no pensamento do simondom essa distinção entre o que é humano
+
+1184
+02:51:21,980 --> 02:51:28,300
+e o que é e o que é máquina ela é imprescindível para combater a relação para não cair num desequilíbrio
+
+1185
+02:51:28,300 --> 02:51:34,140
+o mito do robô seria justamente isso você atribuir a máquina características humanos
+
+1186
+02:51:34,140 --> 02:51:41,020
+de maneira desequilibrada é agora sou interessa é sua questão interessante queitando porque
+
+1187
+02:51:41,020 --> 02:51:49,900
+eu faz pensar no latur também essa essas relações eu já vi questões postas a o latur nesse sentido
+
+1188
+02:51:49,900 --> 02:51:57,660
+então acho que também dá uma boa conversa e o antigo saiu agora é eu escrevi um artigo na
+
+1189
+02:51:57,900 --> 02:52:04,780
+na revista transversal aqui nós estamos na disciplina aí por coincidência a revista transversal
+
+1190
+02:52:04,780 --> 02:52:13,660
+da Mauro Condele o Mauro Condele editor né o da da FMG então na revista transversal no último número
+
+1191
+02:52:13,660 --> 02:52:20,700
+acho que foi um dossiê sobre o latur eu escrevi um eu publiquei um artigo sobre o latur eu acho que
+
+1192
+02:52:20,700 --> 02:52:26,060
+é uma boa questão para para continuar essa conversa entre se mandou em latura
+
+1193
+02:52:27,260 --> 02:52:34,140
+excelente obrigado então fica a recomendação do do artigo do texto da pessoa verônica que vai
+
+1194
+02:52:34,140 --> 02:52:39,740
+fazer essas conexões muito pertinentes então em caminhão aqui para o final nós temos duas
+
+1195
+02:52:39,740 --> 02:52:45,260
+questões que talvez eu possa colocá-las e aí vocês fazem um encerramento pode ser assim
+
+1196
+02:52:45,900 --> 02:52:52,140
+então a Marcella diz o seguinte professores durante a aula foi mencionado que para simondom
+
+1197
+02:52:52,140 --> 02:52:59,020
+a educação poderia ser entendida como uma operação transdutiva vocês poderiam falar um
+
+1198
+02:52:59,020 --> 02:53:06,700
+pouquinho mais sobre isso eu indicar algum material que abordasse essa visão simondoniana
+
+1199
+02:53:06,700 --> 02:53:14,140
+obrigada diz a Marcella e nós também agradecemos e por fim é vocês querem fazer o comentário
+
+1200
+02:53:14,140 --> 02:53:20,220
+e aí o faz outro eu vou vou rapidinho é só gostaria de agradecer a Marcella e dizer o
+
+1201
+02:53:20,220 --> 02:53:25,820
+seguinte antes do quem vai responder o Alex mas eu gostaria de comentar o seguinte que antes do
+
+1202
+02:53:25,820 --> 02:53:33,100
+simondom terminar o doutorado dele em filosofia ele já tinha feito uma proposta de reforma
+
+1203
+02:53:33,100 --> 02:53:40,300
+do ensino francês então é muito interessante resgatar o simondom educador teórico da educação
+
+1204
+02:53:41,260 --> 02:53:46,940
+mas a resposta propriamente eu deixo para o Alex então sobre educação se tem um material eu poderia
+
+1205
+02:53:46,940 --> 02:53:53,340
+recomendar alguns ativos presente nesse livro que é de um grupo de simondonianos lá na argentina
+
+1206
+02:53:54,300 --> 02:54:01,340
+amar as las amaras máquinas cultura e técnica em jubé simondom aqui tem um artigo sobre
+
+1207
+02:54:01,340 --> 02:54:08,460
+educação que você pode usar para pensar a questão da educação educação nesse sentido
+
+1208
+02:54:08,460 --> 02:54:15,020
+mesmo da do processo de individuação então é ensinar algo e colocar alguma coisa na mente
+
+1209
+02:54:15,020 --> 02:54:22,940
+da das pessoas é você individualizar não indivídua é uma diferença individualizar
+
+1210
+02:54:22,940 --> 02:54:29,580
+indivídua então produzir uma ideia na mente da pessoa é você individualizar algo então você
+
+1211
+02:54:29,580 --> 02:54:37,340
+tem o todo o processo envolvido então é você a mente não é aquela coisa assim da ideia
+
+1212
+02:54:37,340 --> 02:54:46,860
+surgir na mente do nada é todo um processo o professor ele assim como engenheiro está atuando
+
+1213
+02:54:46,860 --> 02:54:54,940
+para esse processo então dá para você usar todos os vocabularios as bases aí para aprofundar
+
+1214
+02:54:54,940 --> 02:55:03,740
+essa essa ideia né então que você chega na aprendizagem em termos de processo não em termos
+
+1215
+02:55:03,740 --> 02:55:10,540
+de depositar algo ou de a coisa surgir do nada então não é um criacionismo de idéias assim como
+
+1216
+02:55:10,540 --> 02:55:15,180
+então simondom está combatendo aí combatendo a ideia do criacionismo tecnológico que a coisa
+
+1217
+02:55:15,180 --> 02:55:22,780
+surge do nada é muito mais evolutivo a educação também é isso que educar não é você criar
+
+1218
+02:55:22,780 --> 02:55:30,700
+a ideia na cabeça dos alunos ou as pessoas se autocriar não é um processo evolutivo para
+
+1219
+02:55:30,700 --> 02:55:40,540
+produzir ideia ok obrigado Alex obrigado verônica e a última questão fecharmos amanhã é uma
+
+1220
+02:55:40,540 --> 02:55:45,380
+questão da franciânia obrigado franciânia e ela diz o seguinte muito obrigado pela aula
+
+1221
+02:55:45,380 --> 02:55:51,100
+professores fiquei com uma inquietação que talvez pudesse ser sanada pela leitura do terceiro
+
+1222
+02:55:51,100 --> 02:55:57,940
+momento da tomada de consciência que infelizmente não podemos abordar na aula mas que aproveita
+
+1223
+02:55:57,940 --> 02:56:04,700
+a oportunidade para perguntar não tinha muito tempo para formular a pergunta mas a inquietação é
+
+1224
+02:56:04,700 --> 02:56:13,420
+concernente a relação entre psico social e a gênesis da técnica quando olhamos para a história
+
+1225
+02:56:13,420 --> 02:56:24,620
+do Brasil por exemplo nos nos atendo às leituras decoloniais foi a escravidão parte do processo
+
+1226
+02:56:24,620 --> 02:56:31,580
+de apagamento da humanidade das pessoas escravidas escravizadas foi realizado pela interferência
+
+1227
+02:56:31,580 --> 02:56:40,260
+e colonização das tecnologias e técnicas trazidas pelos escravos para construção literal do
+
+1228
+02:56:40,940 --> 02:56:48,900
+fato pouco conhecido em nossa entre aspas linguagem evolutiva social colonial dado o racismo
+
+1229
+02:56:48,900 --> 02:56:55,820
+estrutural no país me pergunto se quando não olhamos para os fatores psicos sociais que estão
+
+1230
+02:56:55,820 --> 02:57:07,820
+na gênesis da técnica não podemos acabar deixando ainda mais invisibilizados esse homem desconhecido
+
+1231
+02:57:07,820 --> 02:57:15,180
+que habita a técnica tentando trazer essa discussão para o nosso contexto brasileiro no qual o
+
+1232
+02:57:15,180 --> 02:57:25,020
+pensamento de simondom não se deu seria possível situarmos esta noção de alienação obrigado
+
+1233
+02:57:26,020 --> 02:57:35,820
+excelente que estão muito muito interessante é uma uma uma pequena assim pequena ajuste
+
+1234
+02:57:35,820 --> 02:57:43,420
+teórico aqui a ideia de que os fatores psicos sociais estão na gênesis da técnica não eles
+
+1235
+02:57:43,420 --> 02:57:50,820
+não estão por simondom né eles não estão na gênesis da técnica embora eles não estejam alheios
+
+1236
+02:57:50,820 --> 02:57:58,580
+e a técnica não esteja alheia a eles mas é preciso ser o simondom separa os critérios técnicos
+
+1237
+02:57:58,580 --> 02:58:04,580
+os critérios sociais a gênesis técnica é técnica agora há uma interação com questões psicos
+
+1238
+02:58:04,580 --> 02:58:11,380
+sociais então esse é um pequeno ajuste teórico agora sobre a sua questão é tomada no no sentido
+
+1239
+02:58:12,380 --> 02:58:23,620
+é me parece que não franciane o uma aprofundamento da filosofia do simondom não gera um apagamento
+
+1240
+02:58:23,620 --> 02:58:34,660
+da história ao contrário porque para que eu seja capaz de compreender o a contribuição do povo
+
+1241
+02:58:34,660 --> 02:58:42,660
+para o avizado para a construção do brasil eu preciso do mesmo movimento para entender a
+
+1242
+02:58:42,660 --> 02:58:48,820
+linhagem técnica que movimenta esse é o movimento que a gente chama do movimento de abrir a caixa
+
+1243
+02:58:48,820 --> 02:58:57,380
+preta porque quando nós nos quando nós cedemos ao humanismo fácil ou seja nós olhamos tudo a
+
+1244
+02:58:57,700 --> 02:59:04,420
+perspectiva do humano sem abrir do humano na separação né porque aqui não tem nada não
+
+1245
+02:59:04,420 --> 02:59:10,420
+humano no simondom porque o técnico ele é diferente do social mas a questão é o que o
+
+1246
+02:59:10,420 --> 02:59:16,740
+técnico é humano porque senão ele seria o que o técnico não fosse humano ele seria o que extraterrestre
+
+1247
+02:59:16,740 --> 02:59:21,380
+né os pirâmides do Egito que os extraterrestres estiveram que fazer para nós que a gente não era
+
+1248
+02:59:22,340 --> 02:59:27,620
+né é então o técnico é humano então quando a gente separa critério técnico e critério social
+
+1249
+02:59:27,620 --> 02:59:31,940
+nós não estamos não estamos dizendo que o técnico não seja humano ao contrário nós estamos
+
+1250
+02:59:31,940 --> 02:59:36,420
+dizendo que o técnico é tão humano quanto ao artístico religioso ou qualquer outra parte
+
+1251
+02:59:37,620 --> 02:59:44,100
+para que a gente seja capaz de entender que o a nossa arquitetura por exemplo ela não é uma
+
+1252
+02:59:44,100 --> 02:59:50,420
+arquitetura portuguesa porque embora os portugueses quisessem reproduzir quem fez
+
+1253
+02:59:50,420 --> 02:59:56,180
+efetivamente quem tinha o saber para fazer foi o povo escravizado e portanto deixou a sua marca
+
+1254
+02:59:56,180 --> 03:00:03,540
+na arquitetura é não como mão de obra né como se como costuma se dizer como você diz assim não
+
+1255
+03:00:03,540 --> 03:00:09,060
+é isso foi há um apagamento na nossa história brasileira é e está nessa ideia de que o povo
+
+1256
+03:00:09,060 --> 03:00:16,260
+escravizado foi mão de obra ponto simplesmente e não o detentor daquele saber técnico é para que
+
+1257
+03:00:16,260 --> 03:00:22,340
+haja essa tomada de consciência do processo social é preciso tomar a tomada de consciência do
+
+1258
+03:00:22,340 --> 03:00:29,460
+processo técnico também porque se a gente simplesmente considerar que a não técnica é e aí vem
+
+1259
+03:00:29,460 --> 03:00:37,860
+em qualquer sentido genérico que o manismo faz se o coloca é não é possível fazer essa abertura
+
+1260
+03:00:37,860 --> 03:00:44,980
+e enxergar as diferenças e poder dizer olha veja que essa diferença aqui na arquitetura brasileira
+
+1261
+03:00:44,980 --> 03:00:51,700
+ela se deve a a construção feita por pelo povo escravizado porque a arquitetura portuguesa
+
+1262
+03:00:51,700 --> 03:00:59,140
+diferente tudo isso passa por um processo da gênesis técnica de dizer olha são gênesis
+
+1263
+03:00:59,140 --> 03:01:07,380
+diferentes olha como é o modo como a rua foi pavimentada né que nós temos a rua do jaime
+
+1264
+03:01:07,380 --> 03:01:13,300
+reis ali que é justamente nesse contexto a igreja do rosário que foi construída pelo povo
+
+1265
+03:01:13,300 --> 03:01:21,140
+escravizado e que era a igreja dos pretos né de são benedict quando a gente olha pra isso não tem como
+
+1266
+03:01:21,140 --> 03:01:29,060
+mostrar a a origem de trabalho né e de saber de conhecimento técnico do povo escravizado sem
+
+1267
+03:01:29,060 --> 03:01:35,940
+fazer a abertura da caixa preta no sentido técnico então o humanismo fácil ele não nos ajuda a
+
+1268
+03:01:35,940 --> 03:01:42,020
+trazer essa visibilidade porque ele não abre ele deixa o conceito de técnica como uma coisa
+
+1269
+03:01:42,100 --> 03:01:48,180
+abstrata né pra que a gente consiga enxergar esse tipo de coisa é preciso abrir a caixa preta então
+
+1270
+03:01:48,180 --> 03:01:57,780
+é o simondom o tipo de pensamento técnico do simondom ele facilitaria ele colaboraria pra
+
+1271
+03:01:57,780 --> 03:02:03,540
+essa outra desalenação ele não é concorrente ao contrário então só uma palavrinha final
+
+1272
+03:02:03,540 --> 03:02:10,820
+e aí o conceito o conceito de objeto técnico quanto mediador é uma ontologia relacional ou
+
+1273
+03:02:10,820 --> 03:02:18,340
+uma relação entre homem e mundo significa que você não define objeto técnico sem essas
+
+1274
+03:02:18,340 --> 03:02:24,980
+relações o ser do objeto técnico contém o elemento do homem e o elemento do mundo né então
+
+1275
+03:02:24,980 --> 03:02:33,460
+quem interfere no objeto técnico que o homem ele também se torna símbolo do homem então o por
+
+1276
+03:02:33,460 --> 03:02:39,140
+que que ele é humano objeto técnico é um símbolo de algo que é humano quem interferiu introduziu
+
+1277
+03:02:39,140 --> 03:02:46,260
+algo de humano ou representou algo de humano ali é que está aprisionado então a pergunta é
+
+1278
+03:02:46,260 --> 03:02:54,020
+veja como que a filosofia do simondom até ajudaria a tornar visível esse trabalho essa interferência
+
+1279
+03:02:54,020 --> 03:02:59,940
+do povo escravizado no brasil se nós fizéssemos a abertura da caixa preta porque o objeto técnico
+
+1280
+03:02:59,940 --> 03:03:07,380
+se torna símbolo da criatividade humana é então ele é um ele é técnico é um ser técnico próprio
+
+1281
+03:03:07,380 --> 03:03:13,780
+ele contém algo de humano ele contém ele se para um símbolo de algo de quem interferiu então
+
+1282
+03:03:13,780 --> 03:03:19,300
+você abrir a caixa preta estudar como é que aquilo foi solucionado e saber que aquilo ali exigiu um
+
+1283
+03:03:19,300 --> 03:03:26,740
+tipo de decisão do devido e que aquilo ali é a materialização da da criatividade humana a gente tem
+
+1284
+03:03:26,740 --> 03:03:32,740
+que perguntar mas quem que é esse povo quem é que tem que produziu essa criatividade olha é mais um
+
+1285
+03:03:32,740 --> 03:03:40,340
+tipo de tornar visível a interferência desse povo que foi tão explorado e tão invisibilizado
+
+1286
+03:03:40,340 --> 03:03:47,940
+apagado na história brasileira eu acho que simondom ele pode mais ajudar do que não ajudar e
+
+1287
+03:03:47,940 --> 03:03:53,940
+franciane se você tem interesse ou estuda esse tipo de questão é eu gostaria muito de continuar
+
+1288
+03:03:53,940 --> 03:04:00,020
+essa conversa se possível vamos vamos agilizar aí os contatos acho que o meu contato deve estar
+
+1289
+03:04:00,260 --> 03:04:06,180
+acessível aí para vocês né no mundo mas eu gostaria de continuar essa conversa que muito me interessa
+
+1290
+03:04:08,020 --> 03:04:18,060
+perfeito então é a Marcella agradece a aula para beniza e agradecemos a todos e todas que
+
+1291
+03:04:18,060 --> 03:04:23,860
+estiveram conosco e obrigado para o senhor Alex para a verônica toda nossa equipe de monitores
+
+1292
+03:04:23,860 --> 03:04:34,180
+pericidos então terminamos a décima aula né a disciplina avança e é desejo a todos e todas uma
+
+1293
+03:04:34,180 --> 03:04:43,300
+boa continuação e até a próxima obrigado a todos obrigado a Ronei obrigado a todos e todas
+
+1294
+03:04:43,300 --> 03:04:50,020
+que nos acompanharam até aqui obrigado a equipe Alex obrigado a equipe novamente obrigado Ronei
+
+1295
+03:04:50,020 --> 03:04:55,140
+obrigado pelas questões a interação aqui sempre é importante eu acho que a gente tenta
+
+1296
+03:04:55,140 --> 03:05:00,500
+falar alguma coisa e que com a intervenção de vocês ajuda bastante e espero que tenha sido
+
+1297
+03:05:00,500 --> 03:05:07,700
+proveitoso para vocês para nós foi muito divertido aqui é Samanta por favor obrigado professores
+
+1298
+03:05:07,700 --> 03:05:12,980
+Alex e verônica pela aula maravilhosa obrigado a professor Ronei pela mediação por toda nossa
+
+1299
+03:05:12,980 --> 03:05:19,460
+equipe da PRPG aos monitores aos estudantes né que estão sempre presentes aqui com a gente perguntando
+
+1300
+03:05:19,460 --> 03:05:27,620
+e eu tenho um aviso para vocês é hoje termina o prazo da prova às 23 e 59 então não esqueça
+
+1301
+03:05:27,620 --> 03:05:33,540
+quem ainda não realizou a prova hoje é o último dia e é isso gente tchau para vocês e até semana
+
+1302
+03:05:33,540 --> 03:05:34,820
+ou até
+
+1303
+03:06:33,540 --> 03:06:35,540
+E aí
+
+1304
+03:06:35,540 --> 03:06:37,540
+E aí
+
+1305
+03:06:37,540 --> 03:06:39,540
+E aí
+
+1306
+03:06:39,540 --> 03:06:41,540
+E aí
+
+1307
+03:06:41,540 --> 03:06:43,540
+E aí
+
+1308
+03:06:43,540 --> 03:06:45,540
+E aí
+
+1309
+03:06:45,540 --> 03:06:47,540
+E aí
+
+1310
+03:06:47,540 --> 03:06:49,540
+E aí
+
+1311
+03:06:49,540 --> 03:06:51,540
+E aí
+
+1312
+03:06:51,540 --> 03:06:53,540
+E aí
+
+1313
+03:06:53,540 --> 03:06:55,540
+E aí
+
+1314
+03:06:57,540 --> 03:06:59,540
+E aí
+
+1315
+03:06:59,540 --> 03:07:01,540
+E aí
+
