@@ -58,4 +58,27 @@ Simondon não nega que as relações economicas podem levar a relações desiqui
 
 ### Etapa 1: Capturar a gênese dos objetos técnicos
 
-lalala
+Processo de concretização e sobredeterminação funcional (prova que o objeto técnico não é um puro utensílio).
+
+Compreensão do objeto técnico se da por definir o objeto técnico em si mesmo. Definir ele a partir dele, sem as intenções humanas. Não é uma analise da utilidade do objeto.
+
+Níveis evolutivos do objeto técnico: elemento, indivíduo, conjunto.
+
+(Podiam ir  mais direto ao ponto, né)
+
+#### Como classificar?
+
+Pela linha evolutiva? Compreender a genese: Entender a sua evolução técnica, no tempo.
+
+Duas concepções do ser:
+
+- Substancialismo (Atomismo)
+- Hilemorfismo (Aristotelismo)
+  - Elas buscam o princío da individuação que é anterior a individuação.
+    - Ser acabado: Busca-se o principio a partir do já posto
+
+"Há uma operação de individuação, a partir da qual o individuo vem a existir e da qual ele reflete em seus carateres o desenrolar, o regime e as modalidades"
+
+O ser é entendido enquanto devir.
+
+Sobredeterminação: Uma caracteristica ganha outra função.
