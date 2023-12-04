@@ -29,7 +29,7 @@ Grande diversidade de caracterizações, um testemunho da complexidade do fenôm
 
 ### A tecnologia prolonga a técnica
 
-A técnica é uma dimensão básica da vida humana que sem querer nós fomos em prática quase continuamente. A técnica antecede a tecnologia e é algo que sem a qual não seriamos humanos, pois envolve coisas como falar (que não aprendemos sem o ensino).
+A técnica é uma dimensão básica da vida humana que sem querer nós pomos em prática quase continuamente. A técnica antecede a tecnologia e é algo que sem a qual não seriamos humanos, pois envolve coisas como falar (que não aprendemos sem o ensino).
 
 A tecnologia não é a mesma coisa que a técnica. Pois a tecnologia tem a intervenção da ciência/inteligência teórica. Dizemos inteligência teórica, pois a tecnologia antecede a ciência moderna, e a ciência moderna é uma forma de inteligência teórica.
 
@@ -47,7 +47,7 @@ A tecnologia oferece diversos aspectos filosóficos:
 
 ## Abordagem analítica
 
-Esclarecimento conceitual da tecnologia e das duas manifestações. O que é a tecnologia? Em que consiste o conhecimento tecnológico? Quais são as leis da tecnologia? O que é um objeto tecnológico?
+Esclarecimento conceitual da tecnologia e das suas manifestações. O que é a tecnologia? Em que consiste o conhecimento tecnológico? Quais são as leis da tecnologia? O que é um objeto tecnológico?
 
 ## Méritos de Mario Bunge
 
@@ -57,9 +57,9 @@ Esclarecimento conceitual da tecnologia e das duas manifestações. O que é a t
 
 Para Bunge: a ciência é o mais universal e o mais proveitoso de todos os estilos de pensamento. Ele distinguia a ciência básica, a ciência aplicada e a tecnologia.
 
-Era crítico da pseudociência e da pseudotecnia.
+Era crítico da pseudociência e da pseudotecnica.
 
-Ele tentou mostrar que questões ontológicas, epistemológicas e axiológicas podem ser reformuladas utilizando o vocabulario, um modo de expressão e os conhecimentos científicos mais avançados, de modo a dar-lhes soluções que serão tão provisórias quanto são soluções científicas, mais que seriam preferidasàs especulações filosóficas tradicionais.
+Ele tentou mostrar que questões ontológicas, epistemológicas e axiológicas podem ser reformuladas utilizando o vocabulario, um modo de expressão, e os conhecimentos científicos mais avançados, de modo a dar-lhes soluções que serão tão provisórias quanto são soluções científicas, mais que seriam preferidas às especulações filosóficas tradicionais.
 
 Define artefato como toda coisa, todo estado, todo processo controlado ou feito deliberadamente com o auxílio de conhecimento aprendido e que é utilizado por outros seres humanos.
 

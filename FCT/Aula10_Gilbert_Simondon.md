@@ -14,7 +14,7 @@ Tese principal: Sobre a individuação.
 
 "Este estudo é animado pela intenção de suscitar uma tomada de consciência do sentido dos objetos técnicos"
 
-Do que se precisa se tomar consciência? Que a cultura se opõem a técnica. (Homem x Máquina, Cultura x Técnica). A técnica não faz parte da cultura, no contexto da alienação (é uma oposição falta, alienante).
+Do que se precisa se tomar consciência? Que a cultura se opõem a técnica. (Homem x Máquina, Cultura x Técnica). A técnica não faz parte da cultura, no contexto da alienação (é uma oposição falsa, alienante).
 
 Como essa alienação se forma? Qual o sentido dela? Qual o projeto para tomar a consicência e tirar a cultura dessa alienação?
 
@@ -64,7 +64,7 @@ Compreensão do objeto técnico se da por definir o objeto técnico em si mesmo.
 
 Níveis evolutivos do objeto técnico: elemento, indivíduo, conjunto.
 
-(Podiam ir  mais direto ao ponto, né)
+(Podiam ir mais direto ao ponto, né)
 
 #### Como classificar?
 

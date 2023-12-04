@@ -11,7 +11,7 @@ Ele pensava bastante sobre a biotecnologia, medicina e os impactos éticos. Outr
 
 Nos temos problemas de determinar se o agir humano é bom ou ruim, e a tecnologia é uma forma de agir. Portanto é preciso aplicar as ideias de bem e mal, para se entender esse poder. Palavras chaves: magnitude e ambivalência.
 
-O niilismo encontra um lugar na tecnologia, pois outros projetos fracassaram (religião, capitalism, etc). Deus está morto, logo o homem não pode desaguar suas necessidades dele, isso reflete no homem transformando a sua vontade de poder em vontade técnica, aonde a técnica é uma manifestação de um poder que o homem encontra em si mesmo.
+O niilismo encontra um lugar na tecnologia, pois outros projetos fracassaram (religião, capitalismo, etc). Deus está morto, logo o homem não pode desaguar suas necessidades dele, isso reflete no homem transformando a sua vontade de poder em vontade técnica, aonde a técnica é uma manifestação de um poder que o homem encontra em si mesmo.
 
 A tecnologia não tem meta nenhuma, é uma aplicação dela em si mesma.
 

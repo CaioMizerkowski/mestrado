@@ -65,7 +65,7 @@ Design é uma caracteristica da tecnologia que a distingue da ciência. Um desin
 
 O critério estético pode ou não ser importante, existe muita variação. Os critérios variam, não sendo somente só técnicos, mas também sociais, econômicos, etc.
 
-O m aior problema de fazer o design é fazer o trade-off entre os critérios. Por exemplo, um carro que é muito seguro, mas é muito caro, ou um carro que é muito barato, mas é muito inseguro.
+O maior problema de fazer o design é fazer o trade-off entre os critérios. Por exemplo, um carro que é muito seguro, mas é muito caro, ou um carro que é muito barato, mas é muito inseguro.
 
 ## Design e valores
 
